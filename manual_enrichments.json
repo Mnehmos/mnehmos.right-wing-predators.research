@@ -2378,5 +2378,95 @@
     "position": ["journalist", "news correspondent"],
     "crime": ["sexual harassment", "sexual assault"],
     "tags": ["fox news", "journalist", "sexual harasser"]
+  },
+  {
+    "id": 931,
+    "name": "Alexander Roy Roesly",
+    "year": 2017,
+    "description": "Alexander Roy Roesly, 19, was a youth pastor at Praise Chapel Church of God in Union City, Indiana. In July 2017, he was charged with one count of child solicitation (level 5 felony) after sending sexually inappropriate Snapchat messages to a 13-year-old and 15-year-old girl, asking if they wanted to become 'friends with benefits'. He was held on $8,000 bond.",
+    "position": ["youth pastor"],
+    "crime": ["child solicitation", "sexual harassment of minors"],
+    "tags": ["youth pastor", "predator"]
+  },
+  {
+    "id": 948,
+    "name": "Curtis Jene Smith",
+    "year": 2005,
+    "description": "Curtis Jene Smith, a music director and Bible teacher at Zion Hill Missionary Baptist Church in Waco, Texas, pleaded guilty to child abuse in 2005 and was sentenced to 20 years in prison. He was twice previously convicted of molesting children. He was named in the Southern Baptist Convention's investigation list of abusers.",
+    "position": ["music director", "religious educator"],
+    "crime": ["child molestation", "child abuse"],
+    "tags": ["religious leader", "repeat offender", "sbc"]
+  },
+  {
+    "id": 950,
+    "name": "Conner Jesse Penny",
+    "year": 2022,
+    "description": "Conner 'Jesse' Penny, 32, was arrested April 5, 2022, on multiple child sexual assault charges at Inspiration Church in Mesquite, Texas, where he was youth pastor for five years. He faced two counts of continuous sexual abuse of a child under 14, one count of aggravated sexual assault, and one count of indecency with a child. Victims ranged from ages 5-6 to 14, with abuse occurring between 2013-2021. He was previously employed as a teacher's aide.",
+    "position": ["youth pastor"],
+    "crime": ["child sexual abuse", "continuous sexual abuse of a child", "aggravated sexual assault"],
+    "tags": ["youth pastor", "predator", "repeat offender"]
+  },
+  {
+    "id": 958,
+    "name": "Bradley Wayne Dixon",
+    "year": 2001,
+    "description": "Bradley Wayne Dixon, also known as Brad Bartlett, worked as a dormitory director at San Marcos Baptist Academy (a Baptist boarding school). In January 2000, he was arrested after five pupils accused him of showing them pornographic materials and molesting them. He was convicted in 2001 of two counts of aggravated sexual assault of a child, four counts of indecency with a child, one count of sexual performance by a child, and two counts of assault. He is serving 95 years in prison.",
+    "position": ["dorm director"],
+    "crime": ["child molestation", "aggravated sexual assault", "indecency with a child"],
+    "tags": ["religious school", "predator", "long sentence"]
+  },
+  {
+    "id": 959,
+    "name": "Santiago 'Jimmy' Morales Jr.",
+    "year": 2004,
+    "description": "Santiago 'Jimmy' Morales Jr. was a student activities and dormitory residential assistant at San Marcos Baptist Academy. He pleaded guilty to an improper relationship between an educator and child involving a 17-year-old student. The alleged assault occurred at Morales' off-campus apartment in January 2003. He was terminated on January 27, 2003, and arrested January 30, 2003. This is a second-degree felony punishable by 2-20 years in prison.",
+    "position": ["dorm assistant", "activities coordinator"],
+    "crime": ["improper relationship with student", "sexual abuse"],
+    "tags": ["religious school", "predator"]
+  },
+  {
+    "id": 965,
+    "name": "Christopher Mark Haenel",
+    "year": 2022,
+    "description": "Christopher Mark Haenel, a 41-year-old retired Adams County, Colorado sheriff's deputy living in Sheridan, Wyoming, was sentenced to 41 months in federal prison plus five years supervised release for accessing and distributing child pornography. The social media platform Kik reported him sharing child pornography. He pleaded guilty in August 2022 and was sentenced November 7, 2022.",
+    "position": ["law enforcement", "sheriff's deputy"],
+    "crime": ["child pornography", "distribution of child pornography"],
+    "tags": ["law enforcement predator", "sex offender"]
+  },
+  {
+    "id": 981,
+    "name": "Aaron Mitchell",
+    "year": 2025,
+    "description": "Aaron Thomas Mitchell, 30, a former U.S. Customs and Border Protection officer, was sentenced March 2025 to 27 years in prison for kidnapping and sexual assault of a minor. On April 25, 2022, he abducted a 15-year-old girl in Douglas, Arizona, introduced himself as law enforcement, flashed his badge, forced her into his car, restrained her with handcuffs, and repeatedly sexually assaulted her. His phone searches included 'how to stop someone from screaming' and 'how long it takes to smother someone.'",
+    "position": ["law enforcement", "CBP officer"],
+    "crime": ["kidnapping", "sexual assault", "federal civil rights violation"],
+    "tags": ["law enforcement predator", "kidnapper"]
+  },
+  {
+    "id": 1006,
+    "name": "Phillip Briggs",
+    "year": 2023,
+    "description": "Phil Briggs, mayor of Spencerville, Ohio, was arrested in January 2023 on charges of pandering obscenity involving a minor. He resigned as mayor in February 2023. He was accused of recording underage girls (his girlfriend's children) while they were undressing. He was indicted on 5 counts of illegal use of a minor in nudity-oriented material and held on $200,085 bond.",
+    "position": ["mayor"],
+    "crime": ["recording minors undressing", "pandering obscenity", "child exploitation"],
+    "tags": ["elected official", "voyeurism", "child exploitation"]
+  },
+  {
+    "id": 1008,
+    "name": "Daniel Gilbert Franklin",
+    "year": 2023,
+    "description": "Daniel Gilbert Franklin, 56, a part-time volunteer track coach at North Bay Haven High School in Panama City, Florida, was arrested for secretly recording a 14-year-old teenage girl while she showered and changed in his home. The victim discovered the hidden camera and reported it to her parents. Franklin is no longer a volunteer coach. The incident did not occur on school property.",
+    "position": ["track coach", "volunteer"],
+    "crime": ["voyeurism", "recording minors"],
+    "tags": ["coach", "voyeur"]
+  },
+  {
+    "id": 1015,
+    "name": "Matthew Reiber",
+    "year": 2023,
+    "description": "Matthew Reiber, 38, was the Senior Pastor at New Life Christian Church in Chickasha, Oklahoma. In February 2023, he was charged with three counts of lewd or indecent acts to a child under 12. According to the probable cause affidavit, a 7-year-old girl said Reiber touched her genitals and made her touch his genitals while she was playing with his 6-year-old daughter. He resigned from his position immediately following the allegations.",
+    "position": ["pastor"],
+    "crime": ["lewd acts with a child", "child sexual abuse"],
+    "tags": ["religious leader", "predator"]
   }
 ]
