@@ -2087,450 +2087,903 @@
   },
   {
     "id": 49,
-    "position": ["party member"],
-    "crime": ["sexual abuse", "child exploitation", "prostitution"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation",
+      "prostitution"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
   },
   {
     "id": 50,
     "name": "Randall Casseday",
     "year": 2006,
     "description": "Washington Times HR Director Randall Casseday was arrested on September 29, 2006, for attempting to entice a minor on the Internet. He instigated an online chat with what he believed was a 13-year-old girl (actually an undercover DCPD detective). After sexually explicit conversations and photo exchanges, he went to meet the 'girl' and was arrested.",
-    "position": ["party member"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
   },
   {
     "id": 51,
     "name": "Lou Beres",
     "year": 2005,
     "description": "Oregon Christian Coalition chairman Lou Beres admitted in 2006 to sexually touching multiple girls when they were minors. He confessed to police that he molested a 13-year-old girl and touched a 16-17-year-old friend of his daughter in 1976-77. Three women came forward in 2005. No charges were filed due to statute of limitations, but he was sued in civil court.",
-    "position": ["party official", "activist"],
-    "crime": ["sexual abuse", "child molestation"],
-    "tags": ["party official", "activist", "republican", "religious leader"]
+    "position": [
+      "party official",
+      "activist"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "party official",
+      "activist",
+      "republican",
+      "religious leader"
+    ]
   },
   {
     "id": 52,
     "name": "Larry Dale Floyd",
     "year": 2005,
     "description": "Denton County, Texas, Republican Constable Larry Dale Floyd was arrested in July 2005 for soliciting sex with an 8-year-old girl. He drove to Fremont County, Colorado, to meet a woman he thought would offer him her daughter. He faced charges of soliciting child prostitution, enticement of a child, and attempted sexual assault. He was sentenced in 2016.",
-    "position": ["law enforcement"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["law enforcement", "republican"]
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "law enforcement",
+      "republican"
+    ]
   },
   {
     "id": 53,
     "name": "Bobby Stumbo",
     "year": 2005,
     "description": "Robert 'Bobby' Stumbo, Republican Party chairman of Floyd County, Kentucky, was arrested in 2005 and charged with sexual abuse involving a 5-year-old boy. The case was reported in the Lexington Herald-Leader on October 4, 2005.",
-    "position": ["party official"],
-    "crime": ["sexual abuse", "child molestation"],
-    "tags": ["party official", "republican"]
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 55,
     "name": "Armando Tebano",
     "year": 2007,
     "description": "Schenectady County Republican Chairman and county elections commissioner Armando Tebano pleaded guilty in February 2007 to harassment in connection with allegations he molested a 14-year-old girl at his home. He was sentenced to 250 hours community service and fined $295. The plea was a reduction from original charges of sexual abuse and forcible touching.",
-    "position": ["party official", "local official"],
-    "crime": ["sexual abuse"],
-    "tags": ["party official", "local official", "republican"]
+    "position": [
+      "party official",
+      "local official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "party official",
+      "local official",
+      "republican"
+    ]
   },
   {
     "id": 9,
     "name": "Nicholas Morency",
     "year": 2001,
     "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty in 2001 to possessing child pornography on his computer. In 1999, he used his home computer to set up a website offering $1.5 million to anyone who would kill an abortion provider. He was from Villas, New Jersey.",
-    "position": ["activist"],
-    "crime": ["child pornography"],
-    "tags": ["activist", "republican"]
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "activist",
+      "republican"
+    ]
   },
   {
     "id": 20,
     "name": "Randal David Ankeney",
     "year": 2001,
     "description": "Republican activist and volunteer coordinator for Governor Bill Owens' reelection campaign Randal David Ankeney was convicted in 2001 of attempting to sexually assault a 13-year-old girl he met online. He was sentenced to 2 years in prison. In 2006, he faced additional charges involving a 14-year-old girl and was sentenced to 8 more years.",
-    "position": ["party official", "activist"],
-    "crime": ["sexual assault", "sexual abuse", "child exploitation"],
-    "tags": ["party official", "activist", "republican"]
+    "position": [
+      "party official",
+      "activist"
+    ],
+    "crime": [
+      "sexual assault",
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "tags": [
+      "party official",
+      "activist",
+      "republican"
+    ]
   },
   {
     "id": 61,
     "name": "Dennis Rader",
     "year": 2005,
     "description": "Dennis Rader, the BTK serial killer, was arrested on February 25, 2005. He was a Park City compliance supervisor, Boy Scout leader, and was elected president of Christ Lutheran Church council in January 2005. He murdered 10 people between 1974 and 1991. He served on the county zoning board and animal control advisory board.",
-    "position": ["local official"],
-    "crime": ["violence"],
-    "tags": ["local official", "republican"]
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "violence"
+    ],
+    "tags": [
+      "local official",
+      "republican"
+    ]
   },
   {
     "id": 62,
     "name": "Carey Lee Cramer",
     "year": 2006,
     "description": "GOP advertising consultant Carey Lee Cramer created anti-Gore ads and used his 9-year-old stepdaughter in a 2000 Republican commercial. He was arrested in 2005 and convicted in 2006 of aggravated sexual assault of a child, two counts of indecency with a child by contact, and indecency with a child by exposure. The case was in McAllen/Mercedes, Texas.",
-    "position": ["party member"],
-    "crime": ["sexual assault", "sexual abuse", "child molestation"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual assault",
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
   },
   {
     "id": 65,
     "name": "Jim Knoblach",
     "year": 2018,
     "description": "Minnesota state Representative Jim Knoblach, eight-term Republican and chairman of the House Ways and Means Committee, ended his re-election campaign in September 2018 after his daughter publicly accused him of inappropriately touching her from age 9 to 21. Police investigated in 2017 but declined to file charges citing insufficient evidence.",
-    "position": ["state legislator"],
-    "crime": ["sexual abuse"],
-    "tags": ["state legislator", "republican"]
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "state legislator",
+      "republican"
+    ]
   },
   {
     "id": 67,
     "name": "Russell Harding",
     "year": 2005,
     "description": "Russell Harding, president of the New York City Housing Development Corp (appointed by Mayor Giuliani), pleaded guilty in March 2005 to embezzlement and possession of child pornography. He was sentenced to the maximum of 63 months in federal prison in July 2005. He was initially arrested in 2003.",
-    "position": ["local official"],
-    "crime": ["child pornography"],
-    "tags": ["local official", "republican"]
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "local official",
+      "republican"
+    ]
   },
   {
     "id": 69,
     "name": "John David Roy Atchison",
     "year": 2007,
     "description": "Assistant U.S. Attorney John David Roy Atchison was arrested on September 16, 2007, at Detroit airport in an FBI sting operation. He had chatted online for two weeks with an undercover detective posing as a mother offering her 5-year-old daughter. He was charged with enticement of a minor and traveling to have sex with someone under 12. He committed suicide by hanging in his Michigan prison cell three weeks later.",
-    "position": ["prosecutor"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["prosecutor", "republican"]
+    "position": [
+      "prosecutor"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "prosecutor",
+      "republican"
+    ]
   },
   {
     "id": 70,
     "name": "E. Ozwald Balfour",
     "year": 2005,
     "description": "E. Ozwald Balfour, chairman of the Utah Republican Black Assembly and host of 'Talk of the Town' radio show on KTKK, was arrested in February 2005 and charged with four felony counts of forcible sex abuse. About a dozen women came forward with complaints about abuse during job interviews at his Media and Entertainment Studio. His radio show was pulled off the air.",
-    "position": ["party official"],
-    "crime": ["sexual abuse", "sexual assault"],
-    "tags": ["party official", "republican"]
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse",
+      "sexual assault"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 74,
     "name": "John Bryan",
     "year": 2007,
     "description": "St. Petersburg City Council Chairman John Bryan resigned and committed suicide on September 7, 2007, as police investigated allegations he sexually abused his two adopted daughters, ages 12 and 15. He inhaled carbon monoxide in his garage hours after resigning. He was first elected to council in 2001 and re-elected in 2005.",
-    "position": ["local official"],
-    "crime": ["sexual abuse"],
-    "tags": ["local official", "republican"]
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "local official",
+      "republican"
+    ]
   },
   {
     "id": 75,
     "name": "Garrett Ventry",
     "year": 2018,
     "description": "Senate Judiciary Committee communications aide Garrett Ventry resigned in September 2018 while coordinating GOP messaging on Brett Kavanaugh's Supreme Court nomination. He faced past sexual harassment allegations from when he worked for NC House Majority Leader John Bell. He was employed by CRC Public Relations on leave to the committee.",
-    "position": ["congressional staffer"],
-    "crime": ["sexual harassment"],
-    "tags": ["congressional staffer", "republican"]
+    "position": [
+      "congressional staffer"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "tags": [
+      "congressional staffer",
+      "republican"
+    ]
   },
   {
     "id": 76,
     "name": "Larry Corrigan",
     "year": 2007,
     "description": "Larry Corrigan, financial director of King County Prosecuting Attorney's Office and bookkeeper for Prosecutor Norm Maleng's campaign, pleaded guilty in March 2007 to attempted child molestation and communicating with a minor for immoral purposes. He tried to arrange sex with an undercover officer posing as a 13-year-old girl. He was sentenced to 23 months in prison and accused of embezzling $70,000 from campaign funds.",
-    "position": ["party member"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
   },
   {
     "id": 77,
     "name": "Scott Eller Cortelyou",
     "year": 2007,
     "description": "Radio host Scott Eller Cortelyou was arrested in January 2007 for using the Internet to lure a child. He engaged in sexually explicit chats with an undercover officer posing as a 12-year-old girl. He pleaded guilty in April 2007 to Internet luring and attempted Internet sexual exploitation of a child. He was sentenced to 18 months intensive probation and required to register as a sex offender. He hosted 'Business for Breakfast' on KRCN 1060-AM.",
-    "position": ["party member"],
-    "crime": ["child exploitation"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
   },
   {
     "id": 79,
     "name": "Brian Doyle",
     "year": 2006,
     "description": "Department of Homeland Security Deputy Press Secretary Brian Doyle was arrested on April 4, 2006, for seducing what he thought was a 14-year-old girl (actually an undercover sheriff's deputy). He revealed his DHS employment and phone numbers during online sexual conversations. He was charged with 23 felony counts and sentenced on November 17, 2006, to 5 years in prison with 10 years probation. Released January 15, 2011.",
-    "position": ["party member"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
   },
   {
     "id": 80,
     "name": "Matthew Joseph Elliott",
     "year": 2006,
     "description": "Republican campaign official and former Romney Iowa presidential campaign staffer Matthew Joseph Elliott was convicted in 2006 of sexual exploitation of a child. He was arrested in April 2006 and pleaded guilty three months later. He briefly worked for Governor Mitt Romney's campaign before leaving to run for Iowa state legislature.",
-    "position": ["party official", "candidate"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["party official", "candidate", "republican"]
+    "position": [
+      "party official",
+      "candidate"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "party official",
+      "candidate",
+      "republican"
+    ]
   },
   {
     "id": 81,
     "name": "Donald Fleischman",
     "year": 2007,
     "description": "Brown County Wisconsin Republican Party Chairman Donald Fleischman was charged in September 2007 with child enticement, contributing to delinquency of a child, and exposing his genitals. Police found a 16-year-old boy hiding in his closet in November 2006. Charges were dropped then refiled in February 2008. He stepped down as county GOP chair and the party disbanded after it couldn't find new leadership.",
-    "position": ["party official"],
-    "crime": ["child exploitation", "sexual abuse"],
-    "tags": ["party official", "republican"]
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 82,
     "name": "Michael Flory",
     "year": 2019,
     "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
-    "position": ["activist"],
-    "crime": ["rape", "sexual assault"],
-    "tags": ["activist", "republican"]
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape",
+      "sexual assault"
+    ],
+    "tags": [
+      "activist",
+      "republican"
+    ]
   },
   {
     "id": 83,
     "name": "Richard Gardner",
     "year": 2002,
     "description": "Nevada State Representative Richard Gardner (R) admitted to molesting his two daughters, including when they were toddlers. The abuse occurred over many years. He was convicted in 2002.",
-    "position": ["state legislator"],
-    "crime": ["child molestation", "sexual abuse"],
-    "tags": ["state legislator", "republican"]
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "child molestation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "state legislator",
+      "republican"
+    ]
   },
   {
     "id": 1003,
     "name": "Daryl Johnson",
     "year": 2023,
     "description": "Daryl Eugene Johnson, a January 6 Capitol rioter from St. Ansgar, Iowa, was sentenced to six months in prison for secretly recording women at a tanning salon. He used a cell phone positioned on an 8-foot dividing wall to record women changing clothes. He pleaded guilty to four counts of invasion of privacy and was required to register as a sex offender.",
-    "position": ["insurrectionist", "sex offender"],
-    "crime": ["invasion of privacy", "voyeurism", "insurrection"],
-    "tags": ["insurrectionist", "sex offender", "republican"]
+    "position": [
+      "insurrectionist",
+      "sex offender"
+    ],
+    "crime": [
+      "invasion of privacy",
+      "voyeurism",
+      "insurrection"
+    ],
+    "tags": [
+      "insurrectionist",
+      "sex offender",
+      "republican"
+    ]
   },
   {
     "id": 1037,
     "name": "Joshua Wine",
     "year": 2023,
     "description": "Sgt. First Class Joshua Wine, an Iowa Army National Guard recruiter, was arrested for sexually abusing a 10-year-old girl at least three times. He was stationed at Ballad (Huxley), Des Moines North and Woodward-Granger high schools. He pleaded guilty to child endangerment and received a suspended sentence and two years probation.",
-    "position": ["military recruiter", "sergeant"],
-    "crime": ["child sexual abuse", "child endangerment"],
-    "tags": ["military", "recruiter", "predator"]
+    "position": [
+      "military recruiter",
+      "sergeant"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child endangerment"
+    ],
+    "tags": [
+      "military",
+      "recruiter",
+      "predator"
+    ]
   },
   {
     "id": 1057,
     "name": "Ali Alexander",
     "year": 2021,
     "description": "Ali Alexander (born Ali Abdul-Razaq Akbar), a far-right activist and conspiracy theorist, organized the 'Stop the Steal' campaign and the 'Wild Protest' rally that preceded the January 6 Capitol attack. He planned the rally with Caroline Wren, funded by Publix heiress Julie Jenkins Fancelli. He testified to a grand jury and the House Jan. 6 committee but has not been charged.",
-    "position": ["activist", "organizer"],
-    "crime": ["insurrection"],
-    "tags": ["far-right", "conspiracy theorist", "insurrectionist"]
+    "position": [
+      "activist",
+      "organizer"
+    ],
+    "crime": [
+      "insurrection"
+    ],
+    "tags": [
+      "far-right",
+      "conspiracy theorist",
+      "insurrectionist"
+    ]
   },
   {
     "id": 1062,
     "name": "Daniel Perry",
     "year": 2024,
     "description": "Daniel Perry, an Army sergeant, was convicted of murdering Garrett Foster, an Air Force veteran, during a racial justice protest in Austin in July 2020. He made persistent racist comments and threats against Black Lives Matter. He was sentenced to 25 years but pardoned by Gov. Greg Abbott in May 2024 after 18 months in prison.",
-    "position": ["military", "sergeant"],
-    "crime": ["murder", "hate crime", "racial violence"],
-    "tags": ["military", "racist", "murderer", "pardoned"]
+    "position": [
+      "military",
+      "sergeant"
+    ],
+    "crime": [
+      "murder",
+      "hate crime",
+      "racial violence"
+    ],
+    "tags": [
+      "military",
+      "racist",
+      "murderer",
+      "pardoned"
+    ]
   },
   {
     "id": 1274,
     "name": "Church of Jesus Christ of Latter-day Saints",
     "year": 2022,
     "description": "The LDS Church established a secretive helpline for bishops to report child sex abuse claims internally instead of to law enforcement. The church has been accused of systematic coverups, managing abuse claims internally, using non-disclosure agreements, and destroying records. Hundreds of lawsuits have been filed alleging the church harbored abusers.",
-    "position": ["religious organization"],
-    "crime": ["child sexual abuse", "obstruction", "coverup"],
-    "tags": ["religious organization", "institutional abuse", "coverup"]
+    "position": [
+      "religious organization"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "obstruction",
+      "coverup"
+    ],
+    "tags": [
+      "religious organization",
+      "institutional abuse",
+      "coverup"
+    ]
   },
   {
     "id": 1375,
     "name": "Andrew Taake",
     "year": 2024,
     "description": "Andrew Taake, a Houston resident, was sentenced to six years for assaulting police with bear spray and a whip-like weapon during the January 6 Capitol attack. He was pardoned by Trump on January 20, 2025. He had a pending 2016 charge for online solicitation of a minor involving sexually explicit messages to an undercover officer posing as a 15-year-old. He was arrested after his release.",
-    "position": ["insurrectionist"],
-    "crime": ["assault on police", "insurrection", "child exploitation", "online solicitation"],
-    "tags": ["insurrectionist", "pedophile", "trump pardon"]
+    "position": [
+      "insurrectionist"
+    ],
+    "crime": [
+      "assault on police",
+      "insurrection",
+      "child exploitation",
+      "online solicitation"
+    ],
+    "tags": [
+      "insurrectionist",
+      "pedophile",
+      "trump pardon"
+    ]
   },
   {
     "id": 204,
     "name": "Jeremy Durham",
     "year": 2016,
-    "description": "Tennessee State Representative Jeremy Durham (R-65th District) sexually harassed at least 22 women. Investigation revealed he had sex with a 20-year-old college student in his office after plying her with beer. He was expelled from the Tennessee House on September 13, 2016, on a 70-2 vote—the first sitting member expelled since 1980.",
-    "position": ["state legislator"],
-    "crime": ["sexual harassment", "sexual assault"],
-    "tags": ["state legislator", "republican", "expelled"]
+    "description": "Tennessee State Representative Jeremy Durham (R-65th District) sexually harassed at least 22 women. Investigation revealed he had sex with a 20-year-old college student in his office after plying her with beer. He was expelled from the Tennessee House on September 13, 2016, on a 70-2 vote\u2014the first sitting member expelled since 1980.",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "tags": [
+      "state legislator",
+      "republican",
+      "expelled"
+    ]
   },
   {
     "id": 298,
     "name": "Rob Brooks",
     "year": 2018,
     "description": "Wisconsin State Representative Rob Brooks (R-Saukville) made racist remarks to Hispanic colleague Rep. Jessie Rodriguez, saying he was buying drinks 'except Jessie because she's Hispanic.' He also made sexual comments to female colleagues at a Republican event in Wisconsin Dells while intoxicated. He resigned his position as assistant majority leader but refused calls to resign from the legislature.",
-    "position": ["state legislator"],
-    "crime": ["racial harassment", "sexual harassment"],
-    "tags": ["state legislator", "republican", "racist"]
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "racial harassment",
+      "sexual harassment"
+    ],
+    "tags": [
+      "state legislator",
+      "republican",
+      "racist"
+    ]
   },
   {
     "id": 320,
     "name": "Michael Moates",
     "year": 2018,
     "description": "Michael Moates, a conservative writer with 200,000+ followers and White House press room access, was accused by multiple women of sending sexually inappropriate messages to teenagers, including underage girls. Victims aged 16-17 reported he flirted, made sexual comments, and focused on their relationship status. Conservative media outlets suppressed the allegations.",
-    "position": ["conservative writer", "media personality"],
-    "crime": ["sexual harassment of minors", "child grooming"],
-    "tags": ["conservative media", "predator", "qanon"]
+    "position": [
+      "conservative writer",
+      "media personality"
+    ],
+    "crime": [
+      "sexual harassment of minors",
+      "child grooming"
+    ],
+    "tags": [
+      "conservative media",
+      "predator",
+      "qanon"
+    ]
   },
   {
     "id": 328,
     "name": "James Rosen",
     "year": 2017,
     "description": "James Rosen, Fox News chief Washington D.C. correspondent for 18 years, left Fox News at the end of 2017 after multiple sexual harassment accusations from female colleagues. In at least three instances, he made overt physical and sexual overtures to colleagues. He later joined Sinclair Broadcast Group and then Newsmax.",
-    "position": ["journalist", "news correspondent"],
-    "crime": ["sexual harassment", "sexual assault"],
-    "tags": ["fox news", "journalist", "sexual harasser"]
+    "position": [
+      "journalist",
+      "news correspondent"
+    ],
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "tags": [
+      "fox news",
+      "journalist",
+      "sexual harasser"
+    ]
   },
   {
     "id": 931,
     "name": "Alexander Roy Roesly",
     "year": 2017,
     "description": "Alexander Roy Roesly, 19, was a youth pastor at Praise Chapel Church of God in Union City, Indiana. In July 2017, he was charged with one count of child solicitation (level 5 felony) after sending sexually inappropriate Snapchat messages to a 13-year-old and 15-year-old girl, asking if they wanted to become 'friends with benefits'. He was held on $8,000 bond.",
-    "position": ["youth pastor"],
-    "crime": ["child solicitation", "sexual harassment of minors"],
-    "tags": ["youth pastor", "predator"]
+    "position": [
+      "youth pastor"
+    ],
+    "crime": [
+      "child solicitation",
+      "sexual harassment of minors"
+    ],
+    "tags": [
+      "youth pastor",
+      "predator"
+    ]
   },
   {
     "id": 948,
     "name": "Curtis Jene Smith",
     "year": 2005,
     "description": "Curtis Jene Smith, a music director and Bible teacher at Zion Hill Missionary Baptist Church in Waco, Texas, pleaded guilty to child abuse in 2005 and was sentenced to 20 years in prison. He was twice previously convicted of molesting children. He was named in the Southern Baptist Convention's investigation list of abusers.",
-    "position": ["music director", "religious educator"],
-    "crime": ["child molestation", "child abuse"],
-    "tags": ["religious leader", "repeat offender", "sbc"]
+    "position": [
+      "music director",
+      "religious educator"
+    ],
+    "crime": [
+      "child molestation",
+      "child abuse"
+    ],
+    "tags": [
+      "religious leader",
+      "repeat offender",
+      "sbc"
+    ]
   },
   {
     "id": 950,
     "name": "Conner Jesse Penny",
     "year": 2022,
     "description": "Conner 'Jesse' Penny, 32, was arrested April 5, 2022, on multiple child sexual assault charges at Inspiration Church in Mesquite, Texas, where he was youth pastor for five years. He faced two counts of continuous sexual abuse of a child under 14, one count of aggravated sexual assault, and one count of indecency with a child. Victims ranged from ages 5-6 to 14, with abuse occurring between 2013-2021. He was previously employed as a teacher's aide.",
-    "position": ["youth pastor"],
-    "crime": ["child sexual abuse", "continuous sexual abuse of a child", "aggravated sexual assault"],
-    "tags": ["youth pastor", "predator", "repeat offender"]
+    "position": [
+      "youth pastor"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "continuous sexual abuse of a child",
+      "aggravated sexual assault"
+    ],
+    "tags": [
+      "youth pastor",
+      "predator",
+      "repeat offender"
+    ]
   },
   {
     "id": 958,
     "name": "Bradley Wayne Dixon",
     "year": 2001,
     "description": "Bradley Wayne Dixon, also known as Brad Bartlett, worked as a dormitory director at San Marcos Baptist Academy (a Baptist boarding school). In January 2000, he was arrested after five pupils accused him of showing them pornographic materials and molesting them. He was convicted in 2001 of two counts of aggravated sexual assault of a child, four counts of indecency with a child, one count of sexual performance by a child, and two counts of assault. He is serving 95 years in prison.",
-    "position": ["dorm director"],
-    "crime": ["child molestation", "aggravated sexual assault", "indecency with a child"],
-    "tags": ["religious school", "predator", "long sentence"]
+    "position": [
+      "dorm director"
+    ],
+    "crime": [
+      "child molestation",
+      "aggravated sexual assault",
+      "indecency with a child"
+    ],
+    "tags": [
+      "religious school",
+      "predator",
+      "long sentence"
+    ]
   },
   {
     "id": 959,
     "name": "Santiago 'Jimmy' Morales Jr.",
     "year": 2004,
     "description": "Santiago 'Jimmy' Morales Jr. was a student activities and dormitory residential assistant at San Marcos Baptist Academy. He pleaded guilty to an improper relationship between an educator and child involving a 17-year-old student. The alleged assault occurred at Morales' off-campus apartment in January 2003. He was terminated on January 27, 2003, and arrested January 30, 2003. This is a second-degree felony punishable by 2-20 years in prison.",
-    "position": ["dorm assistant", "activities coordinator"],
-    "crime": ["improper relationship with student", "sexual abuse"],
-    "tags": ["religious school", "predator"]
+    "position": [
+      "dorm assistant",
+      "activities coordinator"
+    ],
+    "crime": [
+      "improper relationship with student",
+      "sexual abuse"
+    ],
+    "tags": [
+      "religious school",
+      "predator"
+    ]
   },
   {
     "id": 965,
     "name": "Christopher Mark Haenel",
     "year": 2022,
     "description": "Christopher Mark Haenel, a 41-year-old retired Adams County, Colorado sheriff's deputy living in Sheridan, Wyoming, was sentenced to 41 months in federal prison plus five years supervised release for accessing and distributing child pornography. The social media platform Kik reported him sharing child pornography. He pleaded guilty in August 2022 and was sentenced November 7, 2022.",
-    "position": ["law enforcement", "sheriff's deputy"],
-    "crime": ["child pornography", "distribution of child pornography"],
-    "tags": ["law enforcement predator", "sex offender"]
+    "position": [
+      "law enforcement",
+      "sheriff's deputy"
+    ],
+    "crime": [
+      "child pornography",
+      "distribution of child pornography"
+    ],
+    "tags": [
+      "law enforcement predator",
+      "sex offender"
+    ]
   },
   {
     "id": 981,
     "name": "Aaron Mitchell",
     "year": 2025,
     "description": "Aaron Thomas Mitchell, 30, a former U.S. Customs and Border Protection officer, was sentenced March 2025 to 27 years in prison for kidnapping and sexual assault of a minor. On April 25, 2022, he abducted a 15-year-old girl in Douglas, Arizona, introduced himself as law enforcement, flashed his badge, forced her into his car, restrained her with handcuffs, and repeatedly sexually assaulted her. His phone searches included 'how to stop someone from screaming' and 'how long it takes to smother someone.'",
-    "position": ["law enforcement", "CBP officer"],
-    "crime": ["kidnapping", "sexual assault", "federal civil rights violation"],
-    "tags": ["law enforcement predator", "kidnapper"]
+    "position": [
+      "law enforcement",
+      "CBP officer"
+    ],
+    "crime": [
+      "kidnapping",
+      "sexual assault",
+      "federal civil rights violation"
+    ],
+    "tags": [
+      "law enforcement predator",
+      "kidnapper"
+    ]
   },
   {
     "id": 1006,
     "name": "Phillip Briggs",
     "year": 2023,
     "description": "Phil Briggs, mayor of Spencerville, Ohio, was arrested in January 2023 on charges of pandering obscenity involving a minor. He resigned as mayor in February 2023. He was accused of recording underage girls (his girlfriend's children) while they were undressing. He was indicted on 5 counts of illegal use of a minor in nudity-oriented material and held on $200,085 bond.",
-    "position": ["mayor"],
-    "crime": ["recording minors undressing", "pandering obscenity", "child exploitation"],
-    "tags": ["elected official", "voyeurism", "child exploitation"]
+    "position": [
+      "mayor"
+    ],
+    "crime": [
+      "recording minors undressing",
+      "pandering obscenity",
+      "child exploitation"
+    ],
+    "tags": [
+      "elected official",
+      "voyeurism",
+      "child exploitation"
+    ]
   },
   {
     "id": 1008,
     "name": "Daniel Gilbert Franklin",
     "year": 2023,
     "description": "Daniel Gilbert Franklin, 56, a part-time volunteer track coach at North Bay Haven High School in Panama City, Florida, was arrested for secretly recording a 14-year-old teenage girl while she showered and changed in his home. The victim discovered the hidden camera and reported it to her parents. Franklin is no longer a volunteer coach. The incident did not occur on school property.",
-    "position": ["track coach", "volunteer"],
-    "crime": ["voyeurism", "recording minors"],
-    "tags": ["coach", "voyeur"]
+    "position": [
+      "track coach",
+      "volunteer"
+    ],
+    "crime": [
+      "voyeurism",
+      "recording minors"
+    ],
+    "tags": [
+      "coach",
+      "voyeur"
+    ]
   },
   {
     "id": 1015,
     "name": "Matthew Reiber",
     "year": 2023,
     "description": "Matthew Reiber, 38, was the Senior Pastor at New Life Christian Church in Chickasha, Oklahoma. In February 2023, he was charged with three counts of lewd or indecent acts to a child under 12. According to the probable cause affidavit, a 7-year-old girl said Reiber touched her genitals and made her touch his genitals while she was playing with his 6-year-old daughter. He resigned from his position immediately following the allegations.",
-    "position": ["pastor"],
-    "crime": ["lewd acts with a child", "child sexual abuse"],
-    "tags": ["religious leader", "predator"]
+    "position": [
+      "pastor"
+    ],
+    "crime": [
+      "lewd acts with a child",
+      "child sexual abuse"
+    ],
+    "tags": [
+      "religious leader",
+      "predator"
+    ]
   },
   {
     "id": 1154,
     "name": "Ruby Franke",
     "year": 2024,
     "description": "Ruby Franke, influential mommy vlogger with over 2 million YouTube subscribers on '8 Passengers', was arrested on August 30, 2023, for child abuse. On August 30, 2023, her 12-year-old son escaped through a window and reported abuse to neighbors. Franke and business partner Jodi Hildebrandt were charged with six counts of felony aggravated child abuse. Franke pleaded guilty to four counts and was sentenced February 20, 2024, to 4-30 years in prison for torturing and physically abusing the children.",
-    "position": ["youtube personality", "content creator"],
-    "crime": ["child abuse", "physical abuse", "child endangerment"],
-    "tags": ["youtuber", "mommy vlogger", "predator"]
+    "position": [
+      "youtube personality",
+      "content creator"
+    ],
+    "crime": [
+      "child abuse",
+      "physical abuse",
+      "child endangerment"
+    ],
+    "tags": [
+      "youtuber",
+      "mommy vlogger",
+      "predator"
+    ]
   },
   {
     "id": 1156,
     "name": "Kevin Tomafsky",
     "year": 2023,
     "description": "Kevin Tomafsky, a former aide to New Jersey Gov. Chris Christie who worked in the governor's scheduling office, was convicted and sentenced to ten years in prison for raping a six-year-old child. He paid the victim's father to engage in sexual conduct with the child. Tomafsky was charged with engaging in sexual conduct with a child, conspiracy to endanger welfare of a child, permitting a child to engage in pornography, and possession of child pornography. He is subject to lifelong registration under Megan's Law.",
-    "position": ["political operative", "governor aide"],
-    "crime": ["child rape", "child sexual abuse", "child pornography"],
-    "tags": ["political predator", "governor aide", "convicted"]
+    "position": [
+      "political operative",
+      "governor aide"
+    ],
+    "crime": [
+      "child rape",
+      "child sexual abuse",
+      "child pornography"
+    ],
+    "tags": [
+      "political predator",
+      "governor aide",
+      "convicted"
+    ]
   },
   {
     "id": 1163,
     "name": "Jeff Jones",
     "year": 2023,
     "description": "Jeff Jones, Monroe County Sheriff in West Virginia, was arrested by West Virginia State Police in September 2023 for interfering with an investigation and obstruction. He was accused of covering up a deputy's inappropriate relationship with a 17-year-old high school student. He was charged with failure to report as a mandated reporter, obstruction, and deceiving the Monroe County Civil Service Commission. He was released on $1,000 bond. Previously, Jones was arrested in 2021 for DUI after a single-vehicle wreck.",
-    "position": ["law enforcement", "sheriff"],
-    "crime": ["obstruction", "failure to report abuse", "cover-up"],
-    "tags": ["sheriff", "coverup"]
+    "position": [
+      "law enforcement",
+      "sheriff"
+    ],
+    "crime": [
+      "obstruction",
+      "failure to report abuse",
+      "cover-up"
+    ],
+    "tags": [
+      "sheriff",
+      "coverup"
+    ]
   },
   {
     "id": 1168,
     "name": "John Finley",
     "year": 2023,
     "description": "John Finley, a longtime Fox News executive and head of Fox Nation, was fired in 2023 after more than two decades with the network following allegations of sexual harassment and stalking. A woman accused Finley of 'stalking her relentlessly' and pursuing 'a relentless pattern of sexual harassment.' Fox News hired an independent law firm to investigate and reached an undisclosed settlement. Multiple sources reported he pursued romantic relationships with subordinates throughout his tenure, including with a Fox staffer he married then divorced.",
-    "position": ["fox news executive", "media executive"],
-    "crime": ["sexual harassment", "stalking"],
-    "tags": ["fox news", "executive", "sexual harasser"]
+    "position": [
+      "fox news executive",
+      "media executive"
+    ],
+    "crime": [
+      "sexual harassment",
+      "stalking"
+    ],
+    "tags": [
+      "fox news",
+      "executive",
+      "sexual harasser"
+    ]
   },
   {
     "id": 1173,
     "name": "Andrew Lynn Overheul",
     "year": 2024,
     "description": "Andrew Lynn Overheul, 43, a former Clay County/Orange Park Florida softball coach, was sentenced to 20 years in federal prison followed by lifetime supervised release for production and attempted production of sexually explicit images and videos of children. He secretly recorded a 12-year-old player changing and showering in his home. Forensics found multiple photos of minor female players and evidence of remote camera equipment. He pleaded guilty June 7, 2023, and was detained since arrest on April 20, 2023.",
-    "position": ["sports coach", "softball coach"],
-    "crime": ["production of child sexual abuse material", "voyeurism", "child exploitation"],
-    "tags": ["coach", "predator", "child pornography"]
+    "position": [
+      "sports coach",
+      "softball coach"
+    ],
+    "crime": [
+      "production of child sexual abuse material",
+      "voyeurism",
+      "child exploitation"
+    ],
+    "tags": [
+      "coach",
+      "predator",
+      "child pornography"
+    ]
   },
   {
     "id": 1179,
     "name": "Phillip Koons",
     "year": 2023,
     "description": "Phillip Koons, a Hall of Fame football coach at Ringling High School in Oklahoma with a 47-4 record in his final four years, was charged with outraging public decency following an OSBI investigation. Students accused him of creating a cult-like bullying environment, forcing students to do warm-ups naked, burning their genitals, using racist and homophobic slurs, and inflicting psychological abuse that led some students to suicidal thoughts. The district attorney ultimately withdrew the charges citing insufficient evidence.",
-    "position": ["football coach"],
-    "crime": ["abuse", "harassment", "assault"],
-    "tags": ["coach", "bully"]
+    "position": [
+      "football coach"
+    ],
+    "crime": [
+      "abuse",
+      "harassment",
+      "assault"
+    ],
+    "tags": [
+      "coach",
+      "bully"
+    ]
   },
   {
     "id": 1188,
     "name": "Tammy Tyner Moran",
     "year": 2023,
     "description": "Tammy Tyner Moran, a former Cape Fear Christian Academy finance officer in North Carolina, pleaded guilty to sexual crimes involving two exchange students in her custody. She was accused of engaging in sexual acts with a 17-year-old exchange student in 2021 and another student in 2020 who both stayed in her home. On October 24, 2023, she pleaded guilty to two misdemeanor counts of sexual battery and was sentenced to 60 days in jail, 24 months probation, and must register as a sex offender.",
-    "position": ["school administrator", "finance officer"],
-    "crime": ["sexual battery", "sexual abuse of a student"],
-    "tags": ["school employee", "predator"]
+    "position": [
+      "school administrator",
+      "finance officer"
+    ],
+    "crime": [
+      "sexual battery",
+      "sexual abuse of a student"
+    ],
+    "tags": [
+      "school employee",
+      "predator"
+    ]
   },
   {
     "id": 1203,
@@ -2538,25 +2991,1131 @@
     "year": 2022,
     "description": "Paul Schofield and his wife recorded themselves raping her 4-year-old child. Both pleaded guilty to the horrific charges of child sexual abuse and production of child sexual abuse material. This is one of the most egregious cases of child abuse involving creation of CSAM.",
     "position": [],
-    "crime": ["child rape", "production of child sexual abuse material", "child sexual abuse"],
-    "tags": ["predator", "child pornography", "couple abuse"]
+    "crime": [
+      "child rape",
+      "production of child sexual abuse material",
+      "child sexual abuse"
+    ],
+    "tags": [
+      "predator",
+      "child pornography",
+      "couple abuse"
+    ]
   },
   {
     "id": 1215,
     "name": "Patrick Walsh",
     "year": 2023,
     "description": "Patrick Walsh, a gym mogul and CEO of an investment group who invested $6.2 million into Trump's Truth Social, is facing two federal sexual harassment lawsuits from female employees. Personal trainer Taryn Baldwin accused him of unwanted groping, texting her daily for explicit photos, kissing her without consent, and trying to pull down her pants during training sessions. Former employee Megan Lange accused him of retaliation after ending a relationship due to her concerns about his behavior with other female employees.",
-    "position": ["gym mogul", "investment executive", "business owner"],
-    "crime": ["sexual harassment", "sexual assault"],
-    "tags": ["business executive", "sexual harasser", "trump investor"]
+    "position": [
+      "gym mogul",
+      "investment executive",
+      "business owner"
+    ],
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "tags": [
+      "business executive",
+      "sexual harasser",
+      "trump investor"
+    ]
   },
   {
     "id": 1226,
     "name": "Brock Fredin",
     "year": 2023,
     "description": "Brock Fredin, a 40-year-old Wisconsin resident and MAGA Twitter troll, operates the @JudicialProtest account amplified by Trump. He has a prolific history of criminal litigation and harassment of women, including two jail convictions for violating restraining orders (8 months in jail 2018-2019) and a 50-year restraining order. A U.S. District Judge declared him a 'malicious and vexatious litigant' in 2020. His social media posts about Trump's trial led to Trump receiving a gag order.",
-    "position": ["activist", "social media personality"],
-    "crime": ["stalking", "harassment", "violating restraining orders"],
-    "tags": ["maga activist", "stalker", "vexatious litigant"]
+    "position": [
+      "activist",
+      "social media personality"
+    ],
+    "crime": [
+      "stalking",
+      "harassment",
+      "violating restraining orders"
+    ],
+    "tags": [
+      "maga activist",
+      "stalker",
+      "vexatious litigant"
+    ]
+  },
+  {
+    "id": 1240,
+    "name": "Dillon Herrington, the Alabama sedition",
+    "year": 2023,
+    "description": "Dillon Herrington, the Alabama seditionist known as MAGA Lumberjack, has been charged with rape.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1248,
+    "name": "Gary Joseph Hawkins, a Utah firefighter, has been",
+    "year": 2023,
+    "description": "Gary Joseph Hawkins, a Utah firefighter, has been charged with child sexual exploitation. : X",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child exploitation"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1253,
+    "name": "Paul Humphrey, Indianapol",
+    "year": 2023,
+    "description": "Paul Humphrey, Indianapolis police officer who follows rightwing FB account, was charged with child seduction, sexual misconduct with a minor.",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1260,
+    "name": "Sedition",
+    "year": 2023,
+    "description": "Seditionist Kyle Colton, CA, has been indicted for receiving Child Sexual Abuse Material",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child pornography",
+      "sexual abuse"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1271,
+    "name": "Kyle Hayden Lewter, Alabama",
+    "year": 2023,
+    "description": "Kyle Hayden Lewter, Alabama Young Republicans leader, arrested for sexual torture and murder",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1275,
+    "name": "Paul Rytting, Director",
+    "year": 2023,
+    "description": "Paul Rytting, Director of Risk Management Division of LDS Church, for covering up and preventing prosecution of sexual abusers of children",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1298,
+    "name": "Victor Franklin, Wysox Township Superv",
+    "year": 2023,
+    "description": "Victor Franklin, Wysox Township Supervisor, (Pennsylvania) charged with possession of Child Sexual Abuse Material",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child pornography",
+      "sexual abuse"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1300,
+    "name": "Retired Air Force General Mike McClendon (TX) has been",
+    "year": 2023,
+    "description": "Retired Air Force General Mike McClendon (TX) has been charged with the continuous rape of a child under 14.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1308,
+    "name": "Barry Fike, Chr",
+    "year": 2023,
+    "description": "Barry Fike, former pastor, former teacher at Christian school, former Pepperdine professor pled guilty to online sex crimes with a child. : X",
+    "position": [
+      "educator",
+      "religious leader"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1331,
+    "name": "George Bardmesser, GOP",
+    "year": 2023,
+    "description": "George Bardmesser, GOP candidate for Sunny Isles Beach commissioner (FL) arrested for striking one teen and putting another in a chokehold",
+    "position": [
+      "candidate",
+      "local official",
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1357,
+    "name": "David Paul Daniel, NC Insurrection",
+    "year": 2023,
+    "description": "David Paul Daniel, NC Insurrectionist, faces charges of child pornography possession and sexual exploitation of a minor",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child exploitation",
+      "child pornography"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1364,
+    "name": "Taylor Lew",
+    "year": 2023,
+    "description": "Taylor Lewis, a police officer in Springfield, Louisiana, was arrested, charged with indecent behavior with a juvenile.",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1365,
+    "name": "Charles Kyote Dunn, City Manager of Waurika, OK, has",
+    "year": 2023,
+    "description": "Charles Kyote Dunn, City Manager of Waurika, OK, has been charged with child sexual abuse",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1371,
+    "name": "Daniel Ball, Florida insurrection",
+    "year": 2023,
+    "description": "Daniel Ball, Florida insurrectionist pardoned by Trump, has a criminal record that includes Domestic Violence Battery by Strangulation,\"",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1372,
+    "name": "Kasey Hopkins, Kansas insurrection",
+    "year": 2023,
+    "description": "Kasey Hopkins, Kansas insurrectionist pardoned by Trump, raped a woman, battering her and urinated in her mouth",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1376,
+    "name": "Harr",
+    "year": 2023,
+    "description": "Harrison \u201cTed\u201d Clark of Florida was elected to the Clay Soil and Water Conservation District. He has been arrested for online solicitation of a minor in a predator sting.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1388,
+    "name": "Frederick Piccolo, a former spokesperson for Ron",
+    "year": 2023,
+    "description": "Frederick Piccolo, a former spokesperson for Ron DeSantis who later became Comms Director for New College of Florida has been charged with exposing himself. His attorney blamed it on his recent diagnosis of Parkinson\u2019s",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1408,
+    "name": "Kevin Chr",
+    "year": 2023,
+    "description": "Kevin Christensen, Utah judge, resigned after arrest for several sex crimes against children",
+    "position": [
+      "judge"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1409,
+    "name": "Ned B. Hansen",
+    "year": 2023,
+    "description": "Ned B. Hansen was fire chief of Tremonton, UT, until he was sued by relatives who allege he sexually abused and exploited them.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1410,
+    "name": "Richard Renno, Benton County, M",
+    "year": 2023,
+    "description": "Richard Renno, Benton County, Missouri, Treasurer, has been charged with child enticement (more commonly called soliciting a minor) using a data app.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "prostitution"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1424,
+    "name": "Jon Stanard, UT state rep, hired a sex worker. I don\u2019t",
+    "year": 2023,
+    "description": "Jon Stanard, UT state rep, hired a sex worker. I don\u2019t usually note these non-coerced adult interactions, but he used taxpayer funds to pay for the hotel.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1429,
+    "name": "Lawrence Taylor, NFL",
+    "year": 2023,
+    "description": "Lawrence Taylor, NFL player, accused of statutory rape, pled guilty to two misdemeanours and listed as sexual offender",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1433,
+    "name": "Michael Doran, Lorain County (Ohio) Recorder has been",
+    "year": 2023,
+    "description": "Michael Doran, Lorain County (Ohio) Recorder has been charged with 3rd degree sexual imposition after a special prosecutor was appointed and found probable cause to file charges.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1434,
+    "name": "Stephen Kopp, director",
+    "year": 2023,
+    "description": "Stephen Kopp, director of extremist Bob Jones University summer camp, has been charged with criminal sexual conduct with a minor. The arrest warrant states he engaged in multiple \u201csex acts\u201d with a 15-year-old child.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1441,
+    "name": "Ryan Walters, Oklahoma\u2019s Superintendent of Public",
+    "year": 2023,
+    "description": "Ryan Walters, Oklahoma\u2019s Superintendent of Public Instruction wanted to buy 55,000 Trump bibles for public schools. Christian Nationalist, nonconsensual exposure of pics of nude women on his screen during board meeting.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1442,
+    "name": "Linda McMahon, Trump\u2019s Education Secretary, has been",
+    "year": 2023,
+    "description": "Linda McMahon, Trump\u2019s Education Secretary, has been sued for role in organizational coverup of sexual abuse of ringboys (minors) at WWE.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1444,
+    "name": "J. Stuart Adams, Utah Senate President, changed the",
+    "year": 2023,
+    "description": "J. Stuart Adams, Utah Senate President, changed the consent law when his relative faced statutory rape charges. The girl was 13. The boy was 18.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1457,
+    "name": "Jon Reep, anti-woke, pro-MAGA comedian, has been",
+    "year": 2023,
+    "description": "Jon Reep, anti-woke, pro-MAGA comedian, has been arrested for child sexual exploitation.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child exploitation"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1464,
+    "name": "Michael Jafferakos, a Brooklyn NY basketball coach, has",
+    "year": 2023,
+    "description": "Michael Jafferakos, a Brooklyn NY basketball coach, has been arrested for paying minors to make sex videos.",
+    "position": [
+      "coach"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 1486,
+    "name": "John Emanuel Banuelos pardoned by Trump has been",
+    "year": 2023,
+    "description": "John Emanuel Banuelos pardoned by Trump has been arrested for kidnapping and sexually assaulting a woman in Salt Lake City.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "assault",
+      "kidnapping"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Jeffrey Kyle Randall",
+    "year": 2023,
+    "description": "Republican Mayor Jeffrey Kyle Randall was sentenced nine months in jail and six years on probation on charges that he",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Chr",
+    "year": 2023,
+    "description": "Christian Television Network entertainer Ronald William Brown convicted for child porn, the rest is just too disturbing",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Jason Miller, Trump Trump",
+    "year": 2023,
+    "description": "Jason Miller, Trump campaign staffer and Trump advocate on CNN - poisoned ex with abortion pill It's not the sex, it's not the desire for abortion, it's the doing it against her will",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "WY Sec of State Ed Murray - sexual",
+    "year": 2023,
+    "description": "Former Republican WY Sec of State Ed Murray - sexual",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "CO Randy Baumgardner",
+    "year": 2023,
+    "description": "Republican CO state senator Randy Baumgardner - sexual",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "PA GOP Congressional Derek Walker",
+    "year": 2023,
+    "description": "PA GOP Congressional candidate Derek Walker - broker into ex\u2019s house to tape heir having sex",
+    "position": [
+      "candidate",
+      "congress",
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Styles Bridges - R-MA - Th",
+    "year": 2023,
+    "description": "Styles Bridges - R-MA - This man was filth. He extorted Dem Sen Hunt of WY that he would reveal his son\u2019s homosexuality unless Hunt resigned so the R\u2019s could get his seat. Hunt refused, but then killed himself. This headline is from a citizen\u2019s jury, not a real one",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "SC Rep Chr",
+    "year": 2023,
+    "description": "SC Rep Chris Corley - domestic violence",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Conservative Bapt",
+    "year": 2023,
+    "description": "Conservative Baptist minister Matt Baker murdered his wife",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "FOX News Latino VP, Franc",
+    "year": 2023,
+    "description": "FOX News Latino VP, Francisco Cortes - sexual harassment",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Eric Bolling, formerly FOX News - sexual harassment",
+    "year": 2023,
+    "description": "Eric Bolling, formerly FOX News - sexual harassment",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Kimberly Guilfoyle - FOX NEws - sexual harassment",
+    "year": 2023,
+    "description": "Kimberly Guilfoyle - FOX NEws - sexual harassment",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Political hack and professional hypocrite Ken Starr covered",
+    "year": 2023,
+    "description": "Political hack and professional hypocrite Ken Starr covered up rapes while Chancellor at Baylor",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Bapt",
+    "year": 2023,
+    "description": "Baptist Megachurch Pastor Matt Chandler punished a woman for divorcing her pedophile husband. Did not punish",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "WA GOP state Rep. Matt Manweller",
+    "year": 2023,
+    "description": "WA GOP state Rep. Matt Manweller is accused of sexual misconduct with students and legislative aides.",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Dr Don Boys",
+    "year": 2023,
+    "description": "Dr Don Boys is a rape apologist. According to him, it\u2019s not rape unless she screams and there are TWO witnesses.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Stockton Anthony Silva",
+    "year": 2023,
+    "description": "GOP Stockton mayor Anthony Silva - alcohol to minors, playing strip poker - he\u2019s got a big felony trial in Nov for embezzlement, money laundering",
+    "position": [
+      "local official",
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "WI state Rep Bill Kramer - sexual assault",
+    "year": 2023,
+    "description": "WI state Rep Bill Kramer - sexual assault",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "SD GOP state Rep. Mathew Wollman",
+    "year": 2023,
+    "description": "SD GOP state Rep. Mathew Wollman resigned after sleeping with interns Plural!",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "James Woods, actor and right-wing provocateur,",
+    "year": 2023,
+    "description": "James Woods, actor and right-wing provocateur, was accused by Amber Tamblyn of trying to pick her up when she was underage. Since then many other women have come",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Ted Nugent, alleged musician and right-wing provocateur",
+    "year": 2023,
+    "description": "Ted Nugent, alleged musician and right-wing provocateur who joked about assassinating Obama, beloved friend of moralist Huckabee - sex with underage girls",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "NH GOP Robert F",
+    "year": 2023,
+    "description": "NH GOP Representative Robert Fisher created The Red Pill Reddit site which is known for its tips on how to get away",
+    "position": [
+      "party official",
+      "state legislator"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Walton Co. Comm",
+    "year": 2023,
+    "description": "Former GOP Walton Co. Commissioner Lane Rees - child",
+    "position": [
+      "local official",
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Southern Bapt",
+    "year": 2023,
+    "description": "Southern Baptist Convention leader and Trump religion advisor Frank Page resigns over moral failings",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Comm",
+    "year": 2023,
+    "description": "GOP Commissioner John Butler and his wife sexually",
+    "position": [
+      "local official",
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Broward Co Florida GOP Party Secretary Rupert Tarsey",
+    "year": 2023,
+    "description": "Broward Co Florida GOP Party Secretary Rupert Tarsey attacked a woman, a classmate, with a hammer & they did not force him out of office",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Trav",
+    "year": 2023,
+    "description": "Travis Bauer, former aide to Oklahoma GOP Gov. Mary Fallin was accused of took photos up a woman\u2019s skirt during a meeting.",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "ID state rep Mark Patterson -",
+    "year": 2023,
+    "description": "ID state rep Mark Patterson - pled guilty to attempted rape,lied about it, also said his constituents aren\u2019t interested",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "NH state Rep. Eric Schleien to resign amid allegations he",
+    "year": 2023,
+    "description": "NH state Rep. Eric Schleien to resign amid allegations he sexually assaulted 16 year old student.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "US Rep Ralph Norman thinks sexual assault",
+    "year": 2023,
+    "description": "US Rep Ralph Norman thinks sexual assault is a joke, cracking a joke about it during a debate",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "NC Congressional Steve Von Loor",
+    "year": 2023,
+    "description": "NC Congressional Candidate Steve Von Loor - domestic",
+    "position": [
+      "candidate",
+      "congress"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Patriot Prayer videographer Matthew \"Deme\" Cooper",
+    "year": 2023,
+    "description": "Patriot Prayer videographer Matthew \"Deme\" Cooper was charged with two counts of forcible sodomy on a victim under",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "sodomy"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Proud Boy Graham Jorgensen - domestic violence and",
+    "year": 2023,
+    "description": "Proud Boy Graham Jorgensen - domestic violence and cyber-stalking, targeting a former intimate partner",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Steve Watkins, Republican Congressional",
+    "year": 2023,
+    "description": "Steve Watkins, Republican Congressional representative in Kansas was accused of sexual misconduct unwanted sexual",
+    "position": [
+      "congress",
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Frank Hughes high school had students wear shirts",
+    "year": 2023,
+    "description": "Frank Hughes high school had students wear shirts promoting child-molesting Rep. David Byrd on a state capitol field trip.",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Florida State Ritch Workman",
+    "year": 2023,
+    "description": "Florida State Representative Ritch Workman - sexual misconduct",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Father C. John McCloskey Conservative celebrity priest",
+    "year": 2023,
+    "description": "Father C. John McCloskey Conservative celebrity priest famed for shepherding conversions of Gingrich, Brownback, Kudlow and others was a groper.",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "misconduct"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Arizona Rep. David Stringer benefited from a plea deal that",
+    "year": 2023,
+    "description": "Arizona Rep. David Stringer benefited from a plea deal that hid his arrest for child pornography",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Steven Mu\u00f1oz, Trump State Department hire & former",
+    "year": 2023,
+    "description": "Steven Mu\u00f1oz, Trump State Department hire & former Santorum campaign worker, accused of five sexual assaults",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "tags": [
+      "republican"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Morton Klein, far right head of Zion",
+    "year": 2023,
+    "description": "Morton Klein, far right head of Zionists of America, newly empowered by Trump has been accused of sexual assault",
+    "position": [
+      "individual"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "tags": [
+      "republican"
+    ]
   }
 ]
