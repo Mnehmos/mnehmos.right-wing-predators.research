@@ -246,6 +246,98 @@
             font-size: 1.2rem;
         }
 
+        .pagination {
+            padding: 20px 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            background: #f8f9fa;
+            border-top: 2px solid #e9ecef;
+        }
+
+        .pagination button {
+            padding: 8px 16px;
+            border: 2px solid #667eea;
+            background: white;
+            color: #667eea;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            background: #667eea;
+            color: white;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .pagination .page-info {
+            padding: 8px 16px;
+            font-weight: 600;
+            color: #495057;
+        }
+
+        .pagination select {
+            padding: 8px 12px;
+            border: 2px solid #dee2e6;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.95rem;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .sort-controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .highlight {
+            background: #fff3cd;
+            font-weight: 600;
+            padding: 0 2px;
+        }
+
         footer {
             background: #f8f9fa;
             padding: 20px;
@@ -267,6 +359,22 @@
             .stats {
                 flex-direction: column;
                 align-items: flex-start;
+            }
+
+            .filters {
+                flex-direction: column;
+            }
+
+            .filter-group {
+                width: 100%;
+            }
+
+            .action-buttons {
+                width: 100%;
+            }
+
+            .btn {
+                flex: 1;
             }
         }
     </style>
@@ -307,6 +415,35 @@
                         <option value="">All Tags</option>
                     </select>
                 </div>
+
+                <div class="filter-group">
+                    <label for="yearFilter">Filter by Year:</label>
+                    <select id="yearFilter">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="sortBy">Sort by:</label>
+                    <select id="sortBy">
+                        <option value="id">ID</option>
+                        <option value="name">Name</option>
+                        <option value="year">Year</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="sortOrder">Order:</label>
+                    <select id="sortOrder">
+                        <option value="asc">Ascending</option>
+                        <option value="desc">Descending</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="action-buttons" style="margin-top: 15px;">
+                <button class="btn btn-secondary" id="clearFilters">Clear Filters</button>
+                <button class="btn btn-primary" id="exportCSV">Export to CSV</button>
             </div>
         </div>
 
@@ -323,6 +460,23 @@
             <div class="loading">Loading database...</div>
         </div>
 
+        <div class="pagination" id="paginationContainer" style="display: none;">
+            <button id="firstPage">First</button>
+            <button id="prevPage">Previous</button>
+            <span class="page-info">
+                Page <strong id="currentPage">1</strong> of <strong id="totalPages">1</strong>
+            </span>
+            <button id="nextPage">Next</button>
+            <button id="lastPage">Last</button>
+            <select id="itemsPerPage">
+                <option value="10">10 per page</option>
+                <option value="25" selected>25 per page</option>
+                <option value="50">50 per page</option>
+                <option value="100">100 per page</option>
+                <option value="all">Show all</option>
+            </select>
+        </div>
+
         <footer>
             <p>Data sourced from publicly available information and court records. Last updated: <span id="lastUpdated"></span></p>
         </footer>
@@ -331,6 +485,22 @@
     <script>
         let allData = [];
         let filteredData = [];
+        let currentPage = 1;
+        let itemsPerPage = 25;
+        let currentSearchTerm = '';
+
+        // Debounce function for search
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
 
         // Load data from JSON file
         async function loadData() {
@@ -340,9 +510,11 @@
                 filteredData = allData;
 
                 populateFilters();
+                applySort();
                 updateStats();
-                displayEntries(filteredData);
+                displayCurrentPage();
                 updateLastModified();
+                document.getElementById('paginationContainer').style.display = 'flex';
             } catch (error) {
                 document.getElementById('entriesContainer').innerHTML = `
                     <div class="no-results">
@@ -358,16 +530,19 @@
             const crimes = new Set();
             const positions = new Set();
             const tags = new Set();
+            const years = new Set();
 
             allData.forEach(entry => {
                 entry.crime?.forEach(c => crimes.add(c));
                 entry.position?.forEach(p => positions.add(p));
                 entry.tags?.forEach(t => tags.add(t));
+                if (entry.year) years.add(entry.year);
             });
 
             populateSelect('crimeFilter', Array.from(crimes).sort());
             populateSelect('positionFilter', Array.from(positions).sort());
             populateSelect('tagFilter', Array.from(tags).sort());
+            populateSelect('yearFilter', Array.from(years).sort((a, b) => b - a));
         }
 
         function populateSelect(selectId, options) {
@@ -375,30 +550,56 @@
             options.forEach(option => {
                 const opt = document.createElement('option');
                 opt.value = option;
-                opt.textContent = option.charAt(0).toUpperCase() + option.slice(1);
+                opt.textContent = typeof option === 'string' ?
+                    option.charAt(0).toUpperCase() + option.slice(1) : option;
                 select.appendChild(opt);
             });
         }
 
-        // Display entries
-        function displayEntries(data) {
+        // Highlight search terms in text
+        function highlightText(text, searchTerm) {
+            if (!text || !searchTerm) return escapeHtml(text);
+
+            const escaped = escapeHtml(text);
+            const regex = new RegExp(`(${escapeRegex(searchTerm)})`, 'gi');
+            return escaped.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        function escapeRegex(string) {
+            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        // Display entries for current page
+        function displayCurrentPage() {
             const container = document.getElementById('entriesContainer');
 
-            if (data.length === 0) {
+            if (filteredData.length === 0) {
                 container.innerHTML = `
                     <div class="no-results">
                         <h3>No results found</h3>
                         <p>Try adjusting your search or filters.</p>
                     </div>
                 `;
+                document.getElementById('paginationContainer').style.display = 'none';
                 return;
             }
 
-            container.innerHTML = data.map(entry => `
+            document.getElementById('paginationContainer').style.display = 'flex';
+
+            let dataToDisplay;
+            if (itemsPerPage === 'all') {
+                dataToDisplay = filteredData;
+            } else {
+                const startIndex = (currentPage - 1) * itemsPerPage;
+                const endIndex = startIndex + itemsPerPage;
+                dataToDisplay = filteredData.slice(startIndex, endIndex);
+            }
+
+            container.innerHTML = dataToDisplay.map(entry => `
                 <div class="entry">
                     <div class="entry-header">
-                        <div class="entry-name">${escapeHtml(entry.name)}</div>
-                        <div class="entry-id">#${entry.id}</div>
+                        <div class="entry-name">${highlightText(entry.name, currentSearchTerm)}</div>
+                        <div class="entry-id">#${entry.id}${entry.year ? ` (${entry.year})` : ''}</div>
                     </div>
 
                     ${entry.position && entry.position.length > 0 ? `
@@ -420,7 +621,7 @@
                     ` : ''}
 
                     <div class="entry-description">
-                        ${escapeHtml(entry.description)}
+                        ${highlightText(entry.description, currentSearchTerm)}
                     </div>
 
                     ${entry.sources && entry.sources.length > 0 ? `
@@ -431,14 +632,59 @@
                     ` : ''}
                 </div>
             `).join('');
+
+            updatePaginationControls();
+        }
+
+        // Update pagination controls
+        function updatePaginationControls() {
+            const totalPages = itemsPerPage === 'all' ? 1 : Math.ceil(filteredData.length / itemsPerPage);
+
+            document.getElementById('currentPage').textContent = currentPage;
+            document.getElementById('totalPages').textContent = totalPages;
+
+            document.getElementById('firstPage').disabled = currentPage === 1;
+            document.getElementById('prevPage').disabled = currentPage === 1;
+            document.getElementById('nextPage').disabled = currentPage === totalPages || itemsPerPage === 'all';
+            document.getElementById('lastPage').disabled = currentPage === totalPages || itemsPerPage === 'all';
+        }
+
+        // Sorting function
+        function applySort() {
+            const sortBy = document.getElementById('sortBy').value;
+            const sortOrder = document.getElementById('sortOrder').value;
+
+            filteredData.sort((a, b) => {
+                let aVal, bVal;
+
+                if (sortBy === 'name') {
+                    aVal = (a.name || '').toLowerCase();
+                    bVal = (b.name || '').toLowerCase();
+                } else if (sortBy === 'year') {
+                    aVal = a.year || 0;
+                    bVal = b.year || 0;
+                } else {
+                    aVal = a.id;
+                    bVal = b.id;
+                }
+
+                if (aVal < bVal) return sortOrder === 'asc' ? -1 : 1;
+                if (aVal > bVal) return sortOrder === 'asc' ? 1 : -1;
+                return 0;
+            });
+
+            currentPage = 1;
+            displayCurrentPage();
         }
 
         // Filter and search
         function applyFilters() {
             const searchTerm = document.getElementById('searchBar').value.toLowerCase();
+            currentSearchTerm = searchTerm;
             const crimeFilter = document.getElementById('crimeFilter').value;
             const positionFilter = document.getElementById('positionFilter').value;
             const tagFilter = document.getElementById('tagFilter').value;
+            const yearFilter = document.getElementById('yearFilter').value;
 
             filteredData = allData.filter(entry => {
                 // Search filter
@@ -446,7 +692,8 @@
                     entry.name?.toLowerCase().includes(searchTerm) ||
                     entry.description?.toLowerCase().includes(searchTerm) ||
                     entry.crime?.some(c => c.toLowerCase().includes(searchTerm)) ||
-                    entry.position?.some(p => p.toLowerCase().includes(searchTerm));
+                    entry.position?.some(p => p.toLowerCase().includes(searchTerm)) ||
+                    entry.tags?.some(t => t.toLowerCase().includes(searchTerm));
 
                 // Crime filter
                 const matchesCrime = !crimeFilter || entry.crime?.includes(crimeFilter);
@@ -457,11 +704,57 @@
                 // Tag filter
                 const matchesTag = !tagFilter || entry.tags?.includes(tagFilter);
 
-                return matchesSearch && matchesCrime && matchesPosition && matchesTag;
+                // Year filter
+                const matchesYear = !yearFilter || entry.year?.toString() === yearFilter;
+
+                return matchesSearch && matchesCrime && matchesPosition && matchesTag && matchesYear;
             });
 
-            displayEntries(filteredData);
+            applySort();
             updateStats();
+        }
+
+        // Clear all filters
+        function clearFilters() {
+            document.getElementById('searchBar').value = '';
+            document.getElementById('crimeFilter').value = '';
+            document.getElementById('positionFilter').value = '';
+            document.getElementById('tagFilter').value = '';
+            document.getElementById('yearFilter').value = '';
+            document.getElementById('sortBy').value = 'id';
+            document.getElementById('sortOrder').value = 'asc';
+            currentSearchTerm = '';
+            applyFilters();
+        }
+
+        // Export to CSV
+        function exportToCSV() {
+            const headers = ['ID', 'Name', 'Position', 'Crime', 'Tags', 'Year', 'Description', 'Sources'];
+            const rows = filteredData.map(entry => [
+                entry.id,
+                entry.name || '',
+                (entry.position || []).join('; '),
+                (entry.crime || []).join('; '),
+                (entry.tags || []).join('; '),
+                entry.year || '',
+                (entry.description || '').replace(/"/g, '""'),
+                (entry.sources || []).join('; ')
+            ]);
+
+            const csvContent = [
+                headers.join(','),
+                ...rows.map(row => row.map(cell => `"${cell}"`).join(','))
+            ].join('\n');
+
+            const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            const url = URL.createObjectURL(blob);
+            link.setAttribute('href', url);
+            link.setAttribute('download', `misconduct-database-${new Date().toISOString().split('T')[0]}.csv`);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
         }
 
         // Update statistics
@@ -484,11 +777,51 @@
             return div.innerHTML;
         }
 
-        // Event listeners
-        document.getElementById('searchBar').addEventListener('input', applyFilters);
+        // Pagination event handlers
+        document.getElementById('firstPage').addEventListener('click', () => {
+            currentPage = 1;
+            displayCurrentPage();
+        });
+
+        document.getElementById('prevPage').addEventListener('click', () => {
+            if (currentPage > 1) {
+                currentPage--;
+                displayCurrentPage();
+            }
+        });
+
+        document.getElementById('nextPage').addEventListener('click', () => {
+            const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                displayCurrentPage();
+            }
+        });
+
+        document.getElementById('lastPage').addEventListener('click', () => {
+            currentPage = Math.ceil(filteredData.length / itemsPerPage);
+            displayCurrentPage();
+        });
+
+        document.getElementById('itemsPerPage').addEventListener('change', (e) => {
+            itemsPerPage = e.target.value === 'all' ? 'all' : parseInt(e.target.value);
+            currentPage = 1;
+            displayCurrentPage();
+        });
+
+        // Filter event listeners with debouncing for search
+        const debouncedApplyFilters = debounce(applyFilters, 300);
+        document.getElementById('searchBar').addEventListener('input', debouncedApplyFilters);
         document.getElementById('crimeFilter').addEventListener('change', applyFilters);
         document.getElementById('positionFilter').addEventListener('change', applyFilters);
         document.getElementById('tagFilter').addEventListener('change', applyFilters);
+        document.getElementById('yearFilter').addEventListener('change', applyFilters);
+        document.getElementById('sortBy').addEventListener('change', applySort);
+        document.getElementById('sortOrder').addEventListener('change', applySort);
+
+        // Action button listeners
+        document.getElementById('clearFilters').addEventListener('click', clearFilters);
+        document.getElementById('exportCSV').addEventListener('click', exportToCSV);
 
         // Initialize
         loadData();
