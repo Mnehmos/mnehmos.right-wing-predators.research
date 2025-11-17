@@ -170,22 +170,19 @@
   },
   {
     "id": 9,
-    "name": "anti-abortion activ",
+    "name": "Nicholas Morency",
     "position": [
-      "activist",
-      "party member"
+      "activist"
     ],
     "crime": [
-      "child pornography",
-      "sexual abuse"
+      "child pornography"
     ],
-    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty to possessingChild Sexual Abuse Material on his computer and offering a bounty to anybody who murders an abortion doctor.",
+    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty in 2001 to possessing child pornography on his computer. In 1999, he used his home computer to set up a website offering $1.5 million to anyone who would kill an abortion provider. He was from Villas, New Jersey.",
     "sources": [
       "https://www.washingtonpost.com/archive/politics/2001/03/10/nation-in-brief/83fbbb01-c7fc-437a-81c4-2f686e3f1e58/"
     ],
     "tags": [
       "activist",
-      "party member",
       "republican"
     ],
     "year": 2001
@@ -407,25 +404,26 @@
   },
   {
     "id": 20,
-    "name": "activ",
+    "name": "Randal David Ankeney",
     "position": [
-      "activist",
-      "party member"
+      "party official",
+      "activist"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "sexual assault",
+      "sexual abuse",
+      "child exploitation"
     ],
-    "description": "Republican activist Randal David Ankeney pleaded guilty to attempted sexual assault on a",
+    "description": "Republican activist and volunteer coordinator for Governor Bill Owens' reelection campaign Randal David Ankeney was convicted in 2001 of attempting to sexually assault a 13-year-old girl he met online. He was sentenced to 2 years in prison. In 2006, he faced additional charges involving a 14-year-old girl and was sentenced to 8 more years.",
     "sources": [
       "https://www.coloradoindependent.com/2008/01/28/onetime-rising-gop-star-back-to-prison-for-sex-assaults/"
     ],
     "tags": [
+      "party official",
       "activist",
-      "party member",
       "republican"
     ],
-    "year": 2008
+    "year": 2001
   },
   {
     "id": 21,
@@ -1034,76 +1032,86 @@
   },
   {
     "id": 50,
-    "name": "Randall Casseday, HR",
-    "position": [],
-    "crime": [],
-    "description": "Randall Casseday, HR Director for right-wing Washington Times - caught in an underage sex sting - \"The Washington Times is the only newspaper where the moral issues of family and faith are proudly reported on the front page on a regular basis\"",
+    "name": "Randall Casseday",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Washington Times HR Director Randall Casseday was arrested on September 29, 2006, for attempting to entice a minor on the Internet. He instigated an online chat with what he believed was a 13-year-old girl (actually an undercover DCPD detective). After sexually explicit conversations and photo exchanges, he went to meet the 'girl' and was arrested.",
     "sources": [
       "https://www.huffpost.com/entry/how-an-accused-child-sex_b_30501"
     ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 51,
-    "name": "chairman",
-    "position": [
-      "party member",
-      "party official"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Republican chairman of the Oregon Christian Coalition Lou Beres confessed to molesting a 13-year old girl",
-    "sources": [
-      "https://www.portlandmercury.com/news/2006/08/10/51719/family-values"
-    ],
     "tags": [
       "party member",
-      "party official",
       "republican"
     ],
     "year": 2006
   },
   {
-    "id": 52,
-    "name": "County Larry Dale Floyd",
+    "id": 51,
+    "name": "Lou Beres",
     "position": [
-      "party member"
+      "party official",
+      "activist"
     ],
     "crime": [
-      "prostitution"
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "Republican County Constable Larry Dale Floyd was arrested on suspicion of soliciting sex with an 8-year old girl. Floyd has repeatedly won elections for Denton County, Texas,",
+    "description": "Oregon Christian Coalition chairman Lou Beres admitted in 2006 to sexually touching multiple girls when they were minors. He confessed to police that he molested a 13-year-old girl and touched a 16-17-year-old friend of his daughter in 1976-77. Three women came forward in 2005. No charges were filed due to statute of limitations, but he was sued in civil court.",
+    "sources": [
+      "https://www.portlandmercury.com/news/2006/08/10/51719/family-values"
+    ],
+    "tags": [
+      "party official",
+      "activist",
+      "republican",
+      "religious leader"
+    ],
+    "year": 2005
+  },
+  {
+    "id": 52,
+    "name": "Larry Dale Floyd",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Denton County, Texas, Republican Constable Larry Dale Floyd was arrested in July 2005 for soliciting sex with an 8-year-old girl. He drove to Fremont County, Colorado, to meet a woman he thought would offer him her daughter. He faced charges of soliciting child prostitution, enticement of a child, and attempted sexual assault. He was sentenced in 2016.",
     "sources": [
       "https://www.myplainview.com/news/article/Former-Denton-County-constable-sentenced-in-sex-8506421.php"
     ],
     "tags": [
-      "party member",
+      "law enforcement",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 53,
-    "name": "Party leader Bobby Stumbo",
+    "name": "Bobby Stumbo",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
-      "rape"
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "Republican Party leader Bobby Stumbo was arrested for having sex (raping) with a 5-year old boy.",
+    "description": "Robert 'Bobby' Stumbo, Republican Party chairman of Floyd County, Kentucky, was arrested in 2005 and charged with sexual abuse involving a 5-year-old boy. The case was reported in the Lexington Herald-Leader on October 4, 2005.",
     "sources": [
       "https://web.archive.org/web/20051211093004/http"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 54,
@@ -1126,24 +1134,24 @@
   },
   {
     "id": 55,
-    "name": "County Armando Tebano",
+    "name": "Armando Tebano",
     "position": [
-      "party member",
-      "party official"
+      "party official",
+      "local official"
     ],
     "crime": [
-      "child molestation"
+      "sexual abuse"
     ],
-    "description": "Republican County Chairman Armando Tebano was arrested for sexually molesting a 14-year-old girl.",
+    "description": "Schenectady County Republican Chairman and county elections commissioner Armando Tebano pleaded guilty in February 2007 to harassment in connection with allegations he molested a 14-year-old girl at his home. He was sentenced to 250 hours community service and fined $295. The plea was a reduction from original charges of sexual abuse and forcible touching.",
     "sources": [
       "https://www.bishop-accountability.org/news2008/01_02/2008_02_08_Stanforth_SexAbuse.htm"
     ],
     "tags": [
-      "party member",
       "party official",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 56,
@@ -1251,42 +1259,43 @@
   },
   {
     "id": 61,
-    "name": "zoning superv",
+    "name": "Dennis Rader",
     "position": [
-      "party member",
-      "party official"
+      "local official"
     ],
-    "crime": [],
-    "description": "Republican zoning supervisor, Boy Scout leader and Lutheran church president and BTK killer Dennis L. Rader pleaded guilty to performing a sexual act on an 11-year old girl he murdered.",
+    "crime": [
+      "violence"
+    ],
+    "description": "Dennis Rader, the BTK serial killer, was arrested on February 25, 2005. He was a Park City compliance supervisor, Boy Scout leader, and was elected president of Christ Lutheran Church council in January 2005. He murdered 10 people between 1974 and 1991. He served on the county zoning board and animal control advisory board.",
     "sources": [
       "https://www.nndb.com/people/612/000091339/"
     ],
     "tags": [
-      "party member",
-      "party official",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 62,
-    "name": "ad consultant Carey Lee Cramer who created an anti-",
+    "name": "Carey Lee Cramer",
     "position": [
-      "party official"
+      "party member"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "sexual assault",
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "GOP ad consultant Carey Lee Cramer who created an anti- Gore ad modeled on LBJ's \"Daisy\" ad convicted of sexual assault of 2 8-year-old girls, including daughter who",
+    "description": "GOP advertising consultant Carey Lee Cramer created anti-Gore ads and used his 9-year-old stepdaughter in a 2000 Republican commercial. He was arrested in 2005 and convicted in 2006 of aggravated sexual assault of a child, two counts of indecency with a child by contact, and indecency with a child by exposure. The case was in McAllen/Mercedes, Texas.",
     "sources": [
       "https://tucson.com/news/political-consultant-from-tucson-convicted-of-child-sex-assault-in/article_d8ef6399-4082-595a-8693-ea30dda123fe.html"
     ],
     "tags": [
-      "party official",
+      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 63,
@@ -1334,17 +1343,19 @@
   },
   {
     "id": 65,
-    "name": "state Rep Jim Knoblach of St. Cloud ended h",
+    "name": "Jim Knoblach",
     "position": [
-      "party official"
+      "state legislator"
     ],
-    "crime": [],
-    "description": "GOP state Rep Jim Knoblach of St. Cloud ended his re- election campaign Friday amid detailed accusations from his adult daughter of what she described as his inappropriate behavior toward her since she was 9",
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Minnesota state Representative Jim Knoblach, eight-term Republican and chairman of the House Ways and Means Committee, ended his re-election campaign in September 2018 after his daughter publicly accused him of inappropriately touching her from age 9 to 21. Police investigated in 2017 but declined to file charges citing insufficient evidence.",
     "sources": [
       "https://www.mprnews.org/story/2018/09/21/knoblach-ends-campaign-amid-abuse-allegations"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
     "year": 2018
@@ -1374,22 +1385,22 @@
   },
   {
     "id": 67,
-    "name": "president of the New York City Housing",
+    "name": "Russell Harding",
     "position": [
-      "party member"
+      "local official"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "Republican president of the New York City Housing Development Corp. Russell Harding pleaded guilty to possessing child pornography on his computer",
+    "description": "Russell Harding, president of the New York City Housing Development Corp (appointed by Mayor Giuliani), pleaded guilty in March 2005 to embezzlement and possession of child pornography. He was sentenced to the maximum of 63 months in federal prison in July 2005. He was initially arrested in 2003.",
     "sources": [
       "https://www.nydailynews.com/archives/news/ex-giuliani-aide-busted-child-porn-fraud-scandal-article-1.669207"
     ],
     "tags": [
-      "party member",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 68,
@@ -1414,42 +1425,43 @@
   },
   {
     "id": 69,
-    "name": "prosecutor John David Roy Atch",
+    "name": "John David Roy Atchison",
     "position": [
-      "party member"
+      "prosecutor"
     ],
-    "crime": [],
-    "description": "Republican prosecutor John David Roy Atchison arrested on charges of flying across the country to try and have sex with a five year old girl. Committed suicide.",
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Assistant U.S. Attorney John David Roy Atchison was arrested on September 16, 2007, at Detroit airport in an FBI sting operation. He had chatted online for two weeks with an undercover detective posing as a mother offering her 5-year-old daughter. He was charged with enticement of a minor and traveling to have sex with someone under 12. He committed suicide by hanging in his Michigan prison cell three weeks later.",
     "sources": [
       "https://www.nytimes.com/2007/10/06/us/06suicide.html"
     ],
     "tags": [
-      "party member",
+      "prosecutor",
       "republican"
     ],
     "year": 2007
   },
   {
     "id": 70,
-    "name": "E Ozwald Balfour",
+    "name": "E. Ozwald Balfour",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
       "sexual abuse",
-      "sexual harassment"
+      "sexual assault"
     ],
-    "description": "Republican chairman & radio show host E Ozwald Balfour arrested on four counts of forcible sex abuse/groping",
+    "description": "E. Ozwald Balfour, chairman of the Utah Republican Black Assembly and host of 'Talk of the Town' radio show on KTKK, was arrested in February 2005 and charged with four felony counts of forcible sex abuse. About a dozen women came forward with complaints about abuse during job interviews at his Media and Entertainment Studio. His radio show was pulled off the air.",
     "sources": [
       "https://archive.sltrib.com/article.php?id=50665680&itype=CMSID"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 71,
@@ -1516,54 +1528,51 @@
     "id": 74,
     "name": "John Bryan",
     "position": [
-      "law enforcement",
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
-      "rape"
+      "sexual abuse"
     ],
-    "description": "Republican councilman John Bryan resigned from office and committed suicide several hours later, just a few minutes before police arrived at his home to question him about his alleged rape of his two adoptive daughters, ages 12 and 15",
+    "description": "St. Petersburg City Council Chairman John Bryan resigned and committed suicide on September 7, 2007, as police investigated allegations he sexually abused his two adopted daughters, ages 12 and 15. He inhaled carbon monoxide in his garage hours after resigning. He was first elected to council in 2001 and re-elected in 2005.",
     "sources": [
       "https://www.tbo.com/news/st-petersburg-councilman-resigns-commits-suicide-190377"
     ],
     "tags": [
-      "law enforcement",
       "local official",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 75,
-    "name": "Garrett Ventry-Judiciary Committee communications aide",
+    "name": "Garrett Ventry",
     "position": [
-      "party official"
+      "congressional staffer"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Garrett Ventry-Judiciary Committee communications aide coordinating GOP messaging on Christine Blasey Ford’s allegation forced to resign due to sexual harassment claims.",
+    "description": "Senate Judiciary Committee communications aide Garrett Ventry resigned in September 2018 while coordinating GOP messaging on Brett Kavanaugh's Supreme Court nomination. He faced past sexual harassment allegations from when he worked for NC House Majority Leader John Bell. He was employed by CRC Public Relations on leave to the committee.",
     "sources": [
       "https://www.nbcnews.com/politics/supreme-court/spokesman-gop-kavanaugh-nomination-resigns-has-been-accused-harassment-past-n912156"
     ],
     "tags": [
-      "party official",
+      "congressional staffer",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 76,
-    "name": "staffer and long term director",
+    "name": "Larry Corrigan",
     "position": [
       "party member"
     ],
     "crime": [
-      "rape"
+      "child exploitation",
+      "sexual abuse"
     ],
-    "description": "Republican staffer and long term director of financial operations for Seattle Republicans Larry Corrigan plead guilty for attempted rape of a 13 year old girl",
+    "description": "Larry Corrigan, financial director of King County Prosecuting Attorney's Office and bookkeeper for Prosecutor Norm Maleng's campaign, pleaded guilty in March 2007 to attempted child molestation and communicating with a minor for immoral purposes. He tried to arrange sex with an undercover officer posing as a 13-year-old girl. He was sentenced to 23 months in prison and accused of embezzling $70,000 from campaign funds.",
     "sources": [
       "https://www.seattletimes.com/seattle-news/well-known-gop-activist-held-in-sex-predator-sting/"
     ],
@@ -1571,16 +1580,18 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 77,
-    "name": "talk show host Scott Eller Cortelyou plead guilty",
+    "name": "Scott Eller Cortelyou",
     "position": [
       "party member"
     ],
-    "crime": [],
-    "description": "Republican talk show host Scott Eller Cortelyou plead guilty on charges of using the Internet to try and lure a child into a sexual relationship with him",
+    "crime": [
+      "child exploitation"
+    ],
+    "description": "Radio host Scott Eller Cortelyou was arrested in January 2007 for using the Internet to lure a child. He engaged in sexually explicit chats with an undercover officer posing as a 12-year-old girl. He pleaded guilty in April 2007 to Internet luring and attempted Internet sexual exploitation of a child. He was sentenced to 18 months intensive probation and required to register as a sex offender. He hosted 'Business for Breakfast' on KRCN 1060-AM.",
     "sources": [
       "https://www.9news.com/article/news/local/former-radio-host-must-register-as-a-sex-offender/73-343881126"
     ],
@@ -1588,7 +1599,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 78,
@@ -1609,12 +1620,15 @@
   },
   {
     "id": 79,
-    "name": "spokesman Brian Doyle",
+    "name": "Brian Doyle",
     "position": [
       "party member"
     ],
-    "crime": [],
-    "description": "Republican spokesman Brian Doyle arrested for trying to seduce a 14 year old girl over the Internet. He was later sentenced to 5 years in prison",
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Department of Homeland Security Deputy Press Secretary Brian Doyle was arrested on April 4, 2006, for seducing what he thought was a 14-year-old girl (actually an undercover sheriff's deputy). He revealed his DHS employment and phone numbers during online sexual conversations. He was charged with 23 felony counts and sentenced on November 17, 2006, to 5 years in prison with 10 years probation. Released January 15, 2011.",
     "sources": [
       "https://www.cbsnews.com/news/homeland-cyber-sex-case-causes-concern/"
     ],
@@ -1622,81 +1636,88 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 80,
-    "name": "Romney",
+    "name": "Matthew Joseph Elliott",
     "position": [
-      "party member"
+      "party official",
+      "candidate"
     ],
     "crime": [
-      "child exploitation"
+      "child exploitation",
+      "sexual abuse"
     ],
-    "description": "Republican campaign official and former Romney staffer Matthew Joseph Elliott convicted of sexual exploitation of a child Got great deal, but really went astray, ending up murdering a child",
+    "description": "Republican campaign official and former Romney Iowa presidential campaign staffer Matthew Joseph Elliott was convicted in 2006 of sexual exploitation of a child. He was arrested in April 2006 and pleaded guilty three months later. He briefly worked for Governor Mitt Romney's campaign before leaving to run for Iowa state legislature.",
     "sources": [
       "http://ssristories.net/archive/show0d92.html?item=2504"
     ],
     "tags": [
-      "party member",
+      "party official",
+      "candidate",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 81,
-    "name": "party chair Donald Fle",
+    "name": "Donald Fleischman",
     "position": [
-      "party member",
       "party official"
     ],
-    "crime": [],
-    "description": "Republican party chair Donald Fleischman was charged with two counts of child enticement and one count of exposing himself to a child (Brown County, WI)",
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Brown County Wisconsin Republican Party Chairman Donald Fleischman was charged in September 2007 with child enticement, contributing to delinquency of a child, and exposing his genitals. Police found a 16-year-old boy hiding in his closet in November 2006. Charges were dropped then refiled in February 2008. He stepped down as county GOP chair and the party disbanded after it couldn't find new leadership.",
     "sources": [
       "https://freerepublic.com/focus/news/1911441/posts"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 82,
-    "name": "Michael Flory, former head of the Michigan",
+    "name": "Michael Flory",
     "position": [
-      "party member"
+      "activist"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "sexual assault"
     ],
-    "description": "Republican Michael Flory, former head of the Michigan Young American Foundation, raped a colleague at : X convention",
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
     "sources": [
       "https://www.cleveland.com/metro/2007/07/michigan_young_republican_plea.htmlMichael",
       "http://www.cleveland19.com/2019/03/25/former-teenage-republicans-chairman-convicted-sex-case-indicted-new-rape-charges/"
     ],
     "tags": [
-      "party member",
+      "activist",
       "republican"
     ],
     "year": 2019
   },
   {
     "id": 83,
-    "name": "Richard Gardner, Nevada State",
+    "name": "Richard Gardner",
     "position": [
       "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "child molestation",
+      "sexual abuse"
     ],
-    "description": "Richard Gardner, a Nevada State Representative (R), admitted to molesting his two daughters and 34% of voters still voted for him. That Keyes Constant!",
+    "description": "Nevada State Representative Richard Gardner (R) admitted to molesting his two daughters, including when they were toddlers. The abuse occurred over many years. He was convicted in 2002.",
     "sources": [
       "https://lasvegassun.com/news/2002/oct/14/assembly-candidate-gardner-ruled-ineligible-due-to/"
     ],
     "tags": [
-      "state legislator"
+      "state legislator",
+      "republican"
     ],
     "year": 2002
   },
@@ -21425,15 +21446,23 @@
   },
   {
     "id": 82,
-    "name": "",
-    "position": [],
-    "crime": [],
-    "description": "",
+    "name": "Michael Flory",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape",
+      "sexual assault"
+    ],
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
     "sources": [
       "https://www.star-telegram.com/news/local/crime/article277827533.html"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2019
   },
   {
     "id": 1154,
