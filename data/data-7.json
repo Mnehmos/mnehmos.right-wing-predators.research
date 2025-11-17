@@ -1,702 +1,539 @@
 [
   {
-    "id": 1382,
-    "name": "Erik Sickinger, mayor",
+    "id": 594,
+    "name": "Chad Perkins, a M",
     "position": [
-      "local official"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "Erik Sickinger, mayor pro tem of Irmo, SC, has been arrested for grooming and raping a 15-year-old boy.",
-    "sources": [
-      "https://www.wltx.com/article/news/local/street-squad/irmo/mayor-pro-tem-erik-sickinger-resigns-irmo-town-council/101-d5515276-6ac5-47f9-af79-3ef608b6119e"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1383,
-    "name": "Casey Medina, Rochester",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "child pornography"
-    ],
-    "description": "Casey Medina, Rochester NY police trainee, pleaded guilty to possession of CSAM and cyberstalking : X",
-    "sources": [
-      "https://www.fbi.gov/contact-us/field-offices/buffalo/news/former-avon-new-york-police-trainee-pleads-guilty-to-possession-of-child-pornography-and-cyberstalking"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1384,
-    "name": "Dan Halloran, former Republican NYC councilmember from",
-    "position": [
-      "local official",
-      "party member"
-    ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "Dan Halloran, former Republican NYC councilmember from Queens, was arrested at Miami airport for posession of Child Sexual Abuse Material",
-    "sources": [
-      "https://www.nbcmiami.com/news/local/ex-nyc-councilman-arrested-on-child-porn-charges-at-miami-international-airport/3581269/"
-    ],
-    "tags": [
-      "local official",
       "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1385,
-    "name": "Gerald “Jerry” Cummings, recently elected Oregon GOP",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "domestic violence",
-      "rape",
-      "sexual abuse",
-      "violence"
-    ],
-    "description": "Gerald “Jerry” Cummings, recently elected Oregon GOP Chair, is accused of domestic violence and marital rape. He began a sexual relationship with his wife when she was 16, married her when she was 19, violently abused her and kept her sexually compliant with threats to rape children whom he mentioned by name. He resigned when this story came out.",
-    "sources": [
-      "https://www.oregonjournalismproject.org/cummings",
-      "https://www.oregonjournalismproject.org/cummings-resigns"
-    ],
-    "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1386,
-    "name": "Matthew Henry Laparra, NC Trinity Worship Center",
-    "position": [],
-    "crime": [
-      "rape"
-    ],
-    "description": "Matthew Henry Laparra, NC Trinity Worship Center worship director, has been charged with 3 counts of statuatory rape and two of taking indecent liberties with a child.",
-    "sources": [
-      "https://myfox8.com/news/north-carolina/piedmont-triad/former-triad-worship-director-charged-with-child-sex-crimes"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1387,
-    "name": "Tyler F",
-    "position": [],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Tyler Fischer, a right-wing comedian, has been banned from FOX News for harassing a woman who works there. He says he only asked her if she wanted to go out for coffee and that FOX has “gone full woke.” FOX!",
-    "sources": [
-      "https://www.thedailybeast.com/fox-news-bans-gutfeld-guest-tyler-fischer-for-harassing-female-staff/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1388,
-    "name": "Frederick Piccolo, a former spokesperson for Ron",
-    "position": [],
-    "crime": [],
-    "description": "Frederick Piccolo, a former spokesperson for Ron DeSantis who later became Comms Director for New College of Florida has been charged with exposing himself. His attorney blamed it on his recent diagnosis of Parkinson’s",
-    "sources": [
-      "https://www.abcactionnews.com/news/region-sarasota-manatee/former-comms-director-at-new-college-of-florida-arrested-for-exposing-himself"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1389,
-    "name": "John Kevin Taylor, Mayor",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "John Kevin Taylor, Mayor of Mount Washington, KY, has been arrested for possession of child sexual abuse material. His wife was indicted for failure to report, destruction of evidence",
-    "sources": [
-      "https://www.ibtimes.sg/former-kentucky-mayor-wife-charged-after-employee-finds-child-pornography-his-phone-79528"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1390,
-    "name": "Gary Thomas Keesee, Jr., a former Ohio megachurch",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Gary Thomas Keesee, Jr., a former Ohio megachurch leader, has been charged with sexually abusing three children over the course of nine years, victims range from ages 6 to 15, though abuse began when 5 or 6 years old. : X",
-    "sources": [
-      "https://www.10tv.com/article/news/local/heres-what-we-know-about-charges-against-gary-keesee-jr-faith-life-church/530-f653100f-d5b7-4b5a-a512-f2b89f6d9720",
-      "https://www.knoxpages.com/2025/05/19/authorities-tack-on-5-additional-sex-crime-allegations-against-former-faith-life-church-official/"
-    ],
-    "tags": [
-      "party official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1391,
-    "name": "James Vincent Henry",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "James Vincent Henry was pastor of Crossroads Assembly of God Church in Delight, Arkansas. He was sentenced to 110 years in prison for possession of child sexual abuse material. He faced 100 charges, pleaded guilty to 11, and was sentenced to ten years for each, to be served consecutively.",
-    "sources": [
-      "https://www.thv11.com/article/news/crime/arkansas-pastor-sentenced-child-sexual-abuse-material-possession/91-f14b711d-9e01-4cc1-a1d3-8aff5fdec2d4"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1392,
-    "name": "Gail Priest, co-founder of 99+1 Foundation, an OK foster",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Gail Priest, co-founder of 99+1 Foundation, an OK foster care advocacy organization, was charged with failure to report. In essence, knowing her husband Michael Priest (1366) was sexually abusing children. He was arrested 7/24. She arrested 3/25",
-    "sources": [
-      "https://ktul.com/news/local/foster-care-advocate-arrested-on-charges-of-child-abuse-and-neglect-osbi-investigates-oklahoma-ada-foundation-99-1-website-human-services-rosario-chico-gail-priest"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1393,
-    "name": "Jay Quam, GOP Gov. Tim",
-    "position": [
-      "judge",
-      "party official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Jay Quam, retired judge appointed by GOP Gov. Tim Pawlenty, was reprimanded by the Board of Judicial Standards for sexual harassment and relationship with cler.",
-    "sources": [
-      "https://www.startribune.com/former-hennepin-county-judge-reprimanded-for-pattern-of-sexual-harassment-relationship-with-clerk/601339238?utm_source=newsletter&utm_medium=email&utm_campaign=newsalert"
-    ],
-    "tags": [
-      "judge",
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1394,
-    "name": "Nicholas Hacker, ND State",
-    "position": [
       "state legislator"
     ],
-    "crime": [],
-    "description": "Nicholas Hacker, ND State Senator and on state university board, received communications from convicted pedophile colleague Ray Holmberg with detailed descriptions of sexual encounters with underage sex worker in Taiwan. Failed to report Holmberg’s activities though he has not been prosecuted.",
-    "sources": [
-      "https://www.valleynewslive.com/2025/04/27/north-dakota-university-system-responds-recent-reports-regarding-former-sen-ray-holmberg/"
-    ],
-    "tags": [
-      "state legislator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1395,
-    "name": "Nathan Rees, UND professor, received emails from",
-    "position": [
-      "educator"
-    ],
-    "crime": [],
-    "description": "Nathan Rees, UND professor, received emails from pedophile Ray Holmber describing his grooming of a student and made no report even though he is a teacher.",
-    "sources": [
-      "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2431/files/2025/04/holmberg-reports-redacted.pdf"
-    ],
-    "tags": [
-      "educator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1396,
-    "name": "Jovante Teague, newly elected GOP Party vice’chair in",
-    "position": [
-      "party official"
-    ],
     "crime": [
       "sexual abuse"
     ],
-    "description": "Jovante Teague, newly elected GOP Party vice’chair in Florida, pleaded guilty to smuggling contraband as a prison guard in a plea deal that let him off the hook for the more serious allegations of pursuing a sexual relationship with a prisoner, an abuse of power.",
+    "description": "Chad Perkins, a Missouri Republican state representative, abused his power as a cop to solicit sexual favors from a drunk teenager when she was in his custody.",
     "sources": [
-      "https://www.miamiherald.com/news/politics-government/state-politics/article305518121.html"
+      "https://www.stltoday.com/news/local/crime-and-courts/report-alleges-missouri-lawmaker-had-sex-with-teen-when-he-was-a-cop/article_ef1ad1be-704d-5654-a044-c9e6eed7d7ac.html"
     ],
     "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1397,
-    "name": "Stephen Kamnik, a PA State Police Corporal, has been",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "Stephen Kamnik, a PA State Police Corporal, has been arrested for creation of child sexual abuse material.using AI, secretly recording women’s locker room of colleagues.",
-    "sources": [
-      "https://meidasnews.com/news/pennsylvania-state-police-corporal-charged-with-ai-generated-child-porn-is-registered-republican"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1398,
-    "name": "Rodney Creech, Ohio",
-    "position": [
-      "party official",
-      "state legislator"
-    ],
-    "crime": [],
-    "description": "Rodney Creech, Ohio state representative (GOP) was stripped of committee assignments after an investigation found he inappropriately touched a minor family member and crawled into that minor’s bed with an erection. No criminal complaint filed.",
-    "sources": [
-      "https://www.cleveland.com/news/2025/05/republican-representative-sanctioned-by-ohio-house-following-sexual-misconduct-investigation.html"
-    ],
-    "tags": [
-      "party official",
+      "party member",
       "republican",
       "state legislator"
     ],
     "year": null
   },
   {
-    "id": 1399,
-    "name": "Jeremy Franc",
+    "id": 595,
+    "name": "Insurrection",
     "position": [],
-    "crime": [
-      "child pornography",
-      "rape",
-      "sexual abuse"
-    ],
-    "description": "Jeremy Francis Plonski, a MN state trooper, was arrested for production of child sexual abuse material of himself raping an infant.",
-    "sources": [
-      "https://www.justice.gov/usao-mn/pr/minnesota-state-trooper-charged-production-child-pornography",
-      "https://www.mprnews.org/story/2025/05/16/trooper-jeremy-f-plonski-faces-new-counts-in-child-sex-abuse-image-case"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1400,
-    "name": "David G. McConkie, El Paso County, CO, Deputy D",
-    "position": [
-      "religious leader"
-    ],
     "crime": [
       "assault",
-      "sexual assault"
+      "sexual assault",
+      "violence"
     ],
-    "description": "David G. McConkie, El Paso County, CO, Deputy District Atty and Mormon Bishop, was charged with sexual assault of a child. He avoided jail with a plea deal in spite of his confession. : X",
+    "description": "Insurrectionist Ryan Samsel Has a history Of violenceand sexual assault",
     "sources": [
-      "https://gazette.com/news/local/former-colorado-springs-deputy-district-attorney-church-leader-accepts-plea-agreement-in-child-sex-assault/article_456eed4d-d06e-488e-8322-f4fa924ebb34.html"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1401,
-    "name": "John Denzel, Catholic school Safe Environment",
-    "position": [],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "John Denzel, Catholic school Safe Environment Coordinator in charge of background checks, etc. arrested for possession of child sexual abuse material.",
-    "sources": [
-      "https://www.ncregister.com/cna/cna-20240808-dublin-ohio-arrest?amp"
+      "https://www.thedailybeast.com/ryan-samsel-rioter-who-gave-capitol-cop-a-concussion-has-horrific-history-of-beating-women?ref=home"
     ],
     "tags": [],
     "year": null
   },
   {
-    "id": 1402,
-    "name": "Judd Stone, the TX Solicitor General who argued that",
-    "position": [
-      "governor",
-      "judge"
-    ],
-    "crime": [
-      "rape",
-      "sexual harassment"
-    ],
-    "description": "Judd Stone, the TX Solicitor General who argued that knowing abortion happened caused anyone harm has had to resign after a civil sex harassment suit revealed he tols his colleagues about his violent rape fantasies that involved them. He also shared with judges and governor’s staff.",
-    "sources": [
-      "https://www.404media.co/texas-solicitor-general-judd-stone-resigned/"
-    ],
-    "tags": [
-      "governor",
-      "judge"
-    ],
-    "year": null
-  },
-  {
-    "id": 1403,
-    "name": "Robert J. May, SC",
-    "position": [
-      "state legislator"
-    ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "Robert J. (RJ) May, SC state representative and a founder of SC Freedom Caucus, charged with 10 counts of distributing child sexual abuse material. No bail",
-    "sources": [
-      "https://apnews.com/article/sex-crimes-south-carolina-lawmaker-rj-may-81901be6f700f24a99ba3346086f8b61"
-    ],
-    "tags": [
-      "state legislator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1404,
-    "name": "David Finkel, School Board VP and former Republican",
+    "id": 596,
+    "name": "Athens, TX James Montgomery,",
     "position": [
       "candidate",
-      "local official",
+      "local official"
+    ],
+    "crime": [],
+    "description": "Athens, TX Mayor James Montgomery, who credited his 2017 victory to being the most conservative candidate, was arrested during a sting operation for online solicitation of a minor",
+    "sources": [
+      "https://tylerpaper.com/news/local/athens-mayor-resigns-after-soliciting-minors-arrest/article_3dc8301a-c4df-11eb-9b0a-13054127faca.html",
+      "https://1073kissfmtexas.com/former-mayor-of-athens-tx-guilty-of-federal-child-obscenity-violations/"
+    ],
+    "tags": [
+      "candidate",
+      "local official"
+    ],
+    "year": 2017
+  },
+  {
+    "id": 597,
+    "name": "Consensual adult sex",
+    "position": [
+      "congress",
+      "party official"
+    ],
+    "crime": [],
+    "description": "Consensual adult sex is not included, but this intern said it was consensual though she “felt pressured into it.” Brian Bosma, long-time GOP Speaker of Indiana House was accused of affair in 1992. The accusation came in 2018",
+    "sources": [
+      "https://nuvo.newsnirvana.com/news/republicans-express-support-for-speaker-brian-bosma-after-recent-allegations/article_9e91cbda-ce34-11e8-8b4d-eff97e5076bc.html"
+    ],
+    "tags": [
+      "congress",
+      "party official",
+      "republican"
+    ],
+    "year": 1992
+  },
+  {
+    "id": 598,
+    "name": "Rep Rocky Miller of Illino",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Rep Rocky Miller of Illinois was ordered to attend sexual harassment training after making up false allegations of an affair about a state House employee.",
+    "sources": [
+      "https://www.newstribune.com/news/missouri/story/2019/apr/05/report-says-missouri-rep-rocky-miller-created-false-affair-rumor/773008/"
+    ],
+    "tags": [
+      "congress"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 599,
+    "name": "WV state Rep. Danny Hamrick’s consensual affair",
+    "position": [],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "WV state Rep. Danny Hamrick’s consensual affair is included because it was with a legislative intern, a clear violation of sexual harassment policies and good ethics. It makes consensual iffy",
+    "sources": [
+      "https://wvmetronews.com/2019/05/01/hamricks-relationship-with-female-staff-intern-triggered-resignation/"
+    ],
+    "tags": [],
+    "year": 2019
+  },
+  {
+    "id": 600,
+    "name": "Insurrection",
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Insurrectionist Sean McHugh, who on ⅙ accused Capitol Police of protecting pedophiles, was convicted of raping a 14-year-old girl. 240 days in jail? SMH",
+    "sources": [
+      "https://news.yahoo.com/accused-capitol-rioter-yelled-police-"
+    ],
+    "tags": [
+      "law enforcement"
+    ],
+    "year": null
+  },
+  {
+    "id": 601,
+    "name": "lobby",
+    "position": [
+      "lobbyist",
       "party member"
     ],
     "crime": [
-      "child pornography"
+      "sexual harassment"
     ],
-    "description": "David Finkel, School Board VP and former Republican primary mayoral candidate, has resigned from all local board positions after federal warrant in CSAM investigation. He was subsequently arrested and charged with possession of CSAM",
+    "description": "Republican lobbyist Rick Dennis has been cleared of the accusation of using GBH, but the allegation exposed his constant sexual harassment was ignored and tolerated.",
     "sources": [
-      "https://fox59.com/news/indycrime/sources-fbi-agents-served-warrant-at-home-of-strand-theatre-owner-as-part-of-child-porn-investigation/",
-      "https://local12.com/news/nation-world/david-finkel-indiana-man-in-his-60s-allegedly-posed-as-woman-engaged-in-explicit-chats-with-minors-crime-criminal-activity-cincinnati-hidden-folder-feds-prosecutors-manipulation-abuser-material-child-pornography-central-school-board-vice-president-resign"
+      "https://www.texastribune.org/2021/05/26/texas-lobbyist-rick-dennis-legislature-sexual-harassment/"
     ],
     "tags": [
-      "candidate",
-      "local official",
+      "lobbyist",
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 602,
+    "name": "Illino",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Illinois state Republican Rep Andrew Chesney said sex ed was like pornography. “A Mini-HBO porno.”",
+    "sources": [
+      "https://www.newsweek.com/gop-lawmaker-likens-sex-education-porn-blames-lack-independent-legislative-maps-1596145"
+    ],
+    "tags": [
       "party member",
       "republican"
     ],
     "year": null
   },
   {
-    "id": 1405,
-    "name": "Joshua Dice, a teacher at Calvary Chr",
+    "id": 603,
+    "name": "Matthew Palmer, a former COO of MD Dept of Commerce",
     "position": [
-      "educator"
+      "party member"
     ],
-    "crime": [],
-    "description": "Joshua Dice, a teacher at Calvary Christian Academy & Calvary Baptist Church employee, was arrested for online solicitation and traveling to meet a minor. : X",
-    "sources": [
-      "https://www.actionnewsjax.com/news/local/clay-county-teacher-accused-trying-meet-child-sex-school-church-cut-ties-immediately/Z62K4FLAVRCAFB4R75DTJBU7LY/",
-      "https://jaxtoday.org/2025/06/13/middleburg-schoolteacher-accused-of-sexual-conduct-with-child/"
-    ],
-    "tags": [
-      "educator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1406,
-    "name": "Michael Tait, the DC evangelical singer, rallied for Trump in",
-    "position": [],
     "crime": [
-      "assault",
-      "sexual assault"
+      "sexual abuse"
     ],
-    "description": "Michael Tait, the DC evangelical singer, rallied for Trump in Miami, his song “God Is Not Dead” is a MAGA anthem. He is accused of sexual assault by three men. Tait admitted to nonconsensual sexual conduct and said accusations are largely true.",
+    "description": "Matthew Palmer, a former COO of MD Dept of Commerce and a former aide to Republican Gov. Hogan pleaded guilty of sharing and having pictures and video of children being sexually abused.",
     "sources": [
-      "https://julieroys.com/former-newsboys-frontman-michael-tait-accused-sexual-assault-grooming-substance-abuse-dating-back-to-2004/"
+      "https://www.baltimoresun.com/politics/bs-md-pol-mathew-palmer-sentenced-20210511-rgmvvu66nrfitpybisxpleasai-story.html"
     ],
     "tags": [
-      "maga",
+      "party member",
       "republican"
     ],
-    "year": 2004
+    "year": null
   },
   {
-    "id": 1407,
-    "name": "Daniel Merrick, a",
+    "id": 604,
+    "name": "judicial candidate",
     "position": [
-      "religious leader"
+      "candidate"
     ],
     "crime": [
-      "child pornography",
+      "rape",
       "sexual abuse"
     ],
-    "description": "Daniel Merrick, a pastor of a messianic church and a Chrisitian musician was charged with over 800 counts of possessing child sexual abuse material",
+    "description": "Former judicial candidate in Florida, Andrew John Jones pleaded guilty to child abuse & tampering with evidence after he raped a minor and got no jail time.",
     "sources": [
-      "https://www.bradfordera.com/2023/02/25/merrick-jailed-on-over-880-felony-counts-of-child-pornography/"
+      "https://www.orlandosentinel.com/news/breaking-news/os-ne-attorney-andrew-jones-rape-plea-20210603-wva2n4obezcmbp75ujyj3yn27u-story.html"
     ],
     "tags": [
-      "religious leader"
-    ],
-    "year": 2023
-  },
-  {
-    "id": 1408,
-    "name": "Kevin Chr",
-    "position": [
-      "judge"
-    ],
-    "crime": [],
-    "description": "Kevin Christensen, Utah judge, resigned after arrest for several sex crimes against children",
-    "sources": [
-      "https://www.hjnews.com/preston/news/local/box-elder-county-judge-kevin-christensen-being-held-without-bail-following-arrest-over-alleged-child/article_ab923f22-fdd5-11ef-8fa2-534894786062.html"
-    ],
-    "tags": [
-      "judge"
+      "candidate"
     ],
     "year": null
   },
   {
-    "id": 1409,
-    "name": "Ned B. Hansen",
+    "id": 605,
+    "name": "Jesus Blancas, a member of the Boogaloo movement",
     "position": [],
     "crime": [
-      "sexual abuse"
+      "child pornography"
     ],
-    "description": "Ned B. Hansen was fire chief of Tremonton, UT, until he was sued by relatives who allege he sexually abused and exploited them.",
+    "description": "Jesus Blancas, a member of the Boogaloo movement Grizzly Scouts in northern CA that plotted to kill cops so Trump would invoke Insurrection Act has also been indicted for trying to get a 15-year-old girl to produce child pornography.",
     "sources": [
-      "https://www.benewsjournal.com/articles/former-fire-chief-sued-by-relatives-in-civil-court-over-child-molestation/"
+      "https://www.justice.gov/usao-ndca/pr/member-boogaloo-movement-group-charged-enticement-minor-engage-sexual-activity"
+    ],
+    "tags": [
+      "maga"
+    ],
+    "year": null
+  },
+  {
+    "id": 606,
+    "name": "Jorge Riley, GOP activ",
+    "position": [
+      "activist",
+      "party official"
+    ],
+    "crime": [
+      "domestic violence",
+      "sexual abuse",
+      "violence"
+    ],
+    "description": "Jorge Riley, GOP activist and insurrectionist - domestic violence and felony child abuse including choking his 11- year-old son into unconsciousness.",
+    "sources": [
+      "https://www.davisvanguard.org/2021/04/sacramento-man-arrested-for-u-s-capitol-insurrection-has-court-about-child-endangerment-charges-bail-250000/"
+    ],
+    "tags": [
+      "activist",
+      "party official",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 607,
+    "name": "Insurrection",
+    "position": [],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Insurrectionist Ben Martin has a history of violence. Two restraining orders from his sister, accused of domestic violence by former girlfriend, anti-mask ranting",
+    "sources": [
+      "https://abc30.com/masks-mask-protest-fresno/10036249/"
     ],
     "tags": [],
     "year": null
   },
   {
-    "id": 1410,
-    "name": "Richard Renno, Benton County, M",
+    "id": 608,
+    "name": "OR Deputy Republican Leader Matt Wingard",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [],
+    "description": "OR Deputy Republican Leader Matt Wingard resigned his position after a woman who worked for him came forward alleging he forced her into an affair.",
+    "sources": [
+      "https://www.oregonlive.com/politics/2012/06/matt_wingard_leaves_oregon_hou.html"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": 2012
+  },
+  {
+    "id": 609,
+    "name": "Doug Litwhiler",
+    "position": [
+      "candidate",
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican Sheriff candidate Doug Litwhiler stepping down from the race due to being accused of preying on young girls in a Facebook post. It included screenshots he sent to underage girls and was not anonymous.",
+    "sources": [
+      "https://www.mcall.com/news/pennsylvania/mc-nws-pa-schuylkill-sheriff-20210522-rz426r6jkbanbfqgghifurbbyi-story.html"
+    ],
+    "tags": [
+      "candidate",
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 610,
+    "name": "Edward Bullock, Republican,",
+    "position": [
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Former Sheriff Edward Bullock, Republican, of Warren County, NJ is alleged to have sexually abused young boys in his custody. Four of his victims are now suing the county alleging that people knew this was happening and protected the Sheriff.",
+    "sources": [
+      "https://newjersey.news12.com/lawsuit-alleges-warren-county-was-aware-of-allegations-of-sexual-abuse-by-former-sheriff-and-failed-to-act"
+    ],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 611,
+    "name": "Audio recordings show Southern Bapt",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Audio recordings show Southern Baptist Convention tried to coverup and obstruct investigations into sexual abuse by pastors.",
+    "sources": [
+      "https://www.al.com/news/2021/06/southern-baptist-convention-secret-recordings-reveal-dispute-over-handling-of-sex-abuse.html"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 612,
+    "name": "Chr",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Chris Simcox, former leader of vigilante group The Minutemen, was convicted of child sexual abuse involving two children, ages 5 and 6.",
+    "sources": [
+      "https://www.azcentral.com/story/news/local/phoenix/2016/07/11/chris-simcox-sentenced-child-sex-abuse/86948200/"
+    ],
+    "tags": [
+      "party official"
+    ],
+    "year": 2016
+  },
+  {
+    "id": 613,
+    "name": "Philip Godlewski, Q-Anon leader and supporter of the",
+    "position": [
+      "party official"
+    ],
+    "crime": [],
+    "description": "Philip Godlewski, Q-Anon leader and supporter of the insurrection, guilty of corrupting a minor.",
+    "sources": [
+      "https://www.thedailybeast.com/qanon-conspiracy-theorist-admitted-to-corrupting-minor?ref=home",
+      "https://www.thedailybeast.com/qanon-leader-phil-godlewski-has-sordid-past-of-his-ownincluding-a-conviction-for-corrupting-a-minor?ref=home"
+    ],
+    "tags": [
+      "party official"
+    ],
+    "year": null
+  },
+  {
+    "id": 614,
+    "name": "Eric Reinbold, who",
+    "position": [],
+    "crime": [],
+    "description": "Eric Reinbold, who was convicted of preparing bombs to foment a second American Revolution, was recently released from prison because his wife (whom he had previously tried to kill by ramming her car) had COVID. So he murdered her. : X",
+    "sources": [
+      "https://lawandcrime.com/crime/man-gets-40-years-in-prison-for-stabbing-wife-whose-body-was-found-by-their-son/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 615,
+    "name": "Boyd Householder who ran a conservative Chr",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "child molestation",
+      "sodomy"
+    ],
+    "description": "Boyd Householder who ran a conservative Christian boarding school called Circle of Hope was charged with 79 felony counts and one misdemeanor, including charges for child molestation, sodomy, sexual contact with a student and neglect of a child",
+    "sources": [
+      "https://www.nydailynews.com/news/crime/ny-circle-hope-christian-school-teen-girls-abuse-owners-arrested-20210310-rpriuiwvdfasfkhma5dx456cfm-story.html",
+      "https://www.thedailybeast.com/circle-of-hope-baptist-girls-school-hit-with-sex-trafficking-lawsuit?ref=home"
+    ],
+    "tags": [
+      "congress"
+    ],
+    "year": null
+  },
+  {
+    "id": 616,
+    "name": "Stephanie Householder who ran Circle of Hope, a",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Stephanie Householder who ran Circle of Hope, a conservative christian boarding school, has been charged with 22 felonies of abuse or neglect of a child, and endangering the welfare of a child.",
+    "sources": [
+      "https://www.nydailynews.com/news/crime/ny-circle-hope-christian-school-teen-girls-abuse-owners-arrested-20210310-rpriuiwvdfasfkhma5dx456cfm-story.html"
+    ],
+    "tags": [
+      "congress"
+    ],
+    "year": null
+  },
+  {
+    "id": 617,
+    "name": "Walworth, NY Town Board member Karel Ambroz II",
+    "position": [],
+    "crime": [],
+    "description": "Walworth, NY Town Board member Karel Ambroz II was arrested for Attempted Crimiinal Sex Act, namely arranging to meet a 14-year-old girl for sex via social media and meeting law enforcement instead.",
+    "sources": [
+      "https://www.rochesterfirst.com/news/local-news/walworth-town-board-member-arrested-accused-of-using-social-media-to-lure-teen/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 618,
+    "name": "Bill Hutchinson, Dallas, TX, developer and reality TV star",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "assault",
+      "rape",
+      "sexual assault"
+    ],
+    "description": "Bill Hutchinson, Dallas, TX, developer and reality TV star and Republican donor was charged with rape & sexual assault of two teenage girls.",
+    "sources": [
+      "https://www.latimes.com/california/story/2021-07-09/marrying-millions-hotel-and-development-mogul-bill-hutchinson-charged-with-rape-in-orange-county"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 619,
+    "name": "David Nims, Children’s Calvary Bapt",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "David Nims, Children’s Director at Calvary Baptist Church in Pensacola, FL, and registered Republican has been arrested for child porn, secretly taping people in church bathroom.",
+    "sources": [
+      "https://weartv.com/news/local/following-pensacola-child-directors-3rd-arrest-sheriff-says-more-victims-possibleArrested",
+      "https://tribtown.com/2021/07/20/us-youth-director-hidden-camera/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 620,
+    "name": "Matthew Brewer, Youth Fairfield",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "sexual trafficking"
+    ],
+    "description": "Matthew Brewer, Youth Pastor at the conservative Fairfield Baptist Church in TN was arrested for soliciting sex with a minor in a trafficking sting",
+    "sources": [
+      "https://www.wsav.com/crime-safety/tennessee-youth-pastor-among-18-arrested-in-sex-sting/"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 621,
+    "name": "William R. Luckey, professor emeritus at Virginia’s",
     "position": [],
     "crime": [
       "prostitution"
     ],
-    "description": "Richard Renno, Benton County, Missouri, Treasurer, has been charged with child enticement (more commonly called soliciting a minor) using a data app.",
+    "description": "William R. Luckey, professor emeritus at Virginia’s Christendom College, a right-wing Catholic college founded in a backlash to social liberalism, was arrested for Solicitation of prostitution from a minor less than age 16” and two charges of “Indecent liberties, parent, grandparent, etc. of a child less than 15”.His FB is full of anti-Obama racism",
     "sources": [
-      "https://www.komu.com/news/midmissourinews/benton-county-treasurer-charged-with-enticement-of-a-child/article_2f735142-ab71-49a4-a6c0-bab1d9ad3b24.html"
+      "https://royalexaminer.com/christendom-college-professor-emeritus-arrested-on-child-sex-abuse-charges/"
     ],
     "tags": [],
     "year": null
   },
   {
-    "id": 1411,
-    "name": "Elgene Gary, former Grand",
-    "position": [
-      "law enforcement",
-      "local official"
-    ],
-    "crime": [
-      "assault"
-    ],
-    "description": "Elgene Gary, former Grand Isle, LA, City Council member and police officer has been convicted of sexual battery of a child.",
-    "sources": [
-      "https://www.wdsu.com/article/grand-isle-councilman-ex-cop-convicted-sexual-battery/64930645"
-    ],
-    "tags": [
-      "law enforcement",
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1412,
-    "name": "David Whitmire, Liberty County Comm",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "David Whitmire, Liberty County Commissioner (TX), has been accused of sexual assault and offering to pay for sex with money and in exchange for the right to child custody",
-    "sources": [
-      "https://abc13.com/post/liberty-county-commissioner-david-whitmire-accused-sexual-assault-alleged-child-support-scheme/16242110/"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1413,
-    "name": "William Kenneth Kendall, a Utah d",
-    "position": [
-      "judge"
-    ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "William Kenneth Kendall, a Utah district judge, has been accused of sexual assault, forcibly touching a woman without consent after giving her THC.",
-    "sources": [
-      "https://www.fox13now.com/news/local-news/salt-lake-city-judge-charged-with-forcible-sexual-abuse"
-    ],
-    "tags": [
-      "judge"
-    ],
-    "year": null
-  },
-  {
-    "id": 1414,
-    "name": "Timothy McGhee, GOP",
+    "id": 622,
+    "name": "Herschel Walker, Republican potential GA Senate",
     "position": [
       "candidate",
-      "congress",
-      "party official"
+      "party member"
     ],
     "crime": [],
-    "description": "Timothy McGhee, former GOP candidate for VA House District 30, has been charged with taking indecent liberties with a high school student he met while substitute teaching.",
+    "description": "Herschel Walker, Republican potential GA Senate candidate, threatened his ex-wife’s life. She had to take out a restraining order. Her divorce cited “physically abusive and extremely threatening behavior.”",
     "sources": [
-      "https://www.arlnow.com/2025/01/10/breaking-substitute-teacher-fmr-candidate-arrested-for-sexual-relationship-with-student/"
+      "https://apnews.com/article/lifestyle-sports-nfl-college-football-coronavirus-pandemic-5e2875eec11e93f9a3bf1fc859137ff8",
+      "https://www.thedailybeast.com/herschel-walker-ex-lover-cheryl-parsa-says-he-attacked-her-in-a-rage"
     ],
     "tags": [
       "candidate",
-      "congress",
-      "party official",
+      "party member",
       "republican"
     ],
     "year": null
   },
   {
-    "id": 1415,
-    "name": "Kurt Schenk, a former Coatesville PA City Council member",
-    "position": [
-      "local official",
-      "religious leader"
-    ],
-    "crime": [
-      "assault"
-    ],
-    "description": "Kurt Schenk, a former Coatesville PA City Council member and the pastor of New Beginning Church of the Cross has been charged with sexually assaulting a woman who is intellectually disabled, instead of taking her home, taking her to his home where he assaulted her.",
-    "sources": [
-      "https://www.inquirer.com/crime/kurt-schenk-sexual-assault-parkesburg-20241212.html"
-    ],
-    "tags": [
-      "local official",
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1416,
-    "name": "Mike Maroney, W VA",
-    "position": [
-      "judge",
-      "state legislator"
-    ],
-    "crime": [],
-    "description": "Mike Maroney, a former W VA state senator, was arrested for indecent exposure, masturbating at a grocery store while playing lotto machines. Shortly after he was arrested for DUI. His plea deal was rejected by the judge. A week later, he was arrested for bond violation",
-    "sources": [
-      "https://www.theintelligencer.net/znewsletter-sunday/2025/03/magistrate-rejects-plea-agreement-in-case-of-former-state-sen-dr-mike-maroney-2/"
-    ],
-    "tags": [
-      "judge",
-      "state legislator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1417,
-    "name": "Scott Finkbeiner, Hot Springs County",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [],
-    "description": "Scott Finkbeiner, Hot Springs County Sheriff in Ark., has pleaded guilty to misleading the FBI into a multiple offense case that included working with a drug dealer, witness tampering, and sexual coercion of women associates of the drug dealer.",
-    "sources": [
-      "https://arktimes.com/arkansas-blog/2025/02/14/hot-spring-county-sheriff-pleads-guilty-to-felony-will-resign-from-office"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1418,
-    "name": "Carlton Huffman, GOP Strateg",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Carlton Huffman, GOP Strategist who accused Matt Schlapp, is accused of forcible fondling and digital penetration. He claims all was consensual.",
-    "sources": [
-      "https://www.cnn.com/2023/03/10/politics/carlton-huffman-gop-strategist-sexual-assault-allegation/index.html"
-    ],
-    "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": 2023
-  },
-  {
-    "id": 1419,
-    "name": "Antonio Brown, former",
+    "id": 623,
+    "name": "Max Miller, Trump favorite in OH 16 primary, domestic",
     "position": [],
     "crime": [
-      "rape"
+      "domestic violence",
+      "violence"
     ],
-    "description": "Antonio Brown, former NFL player who endorsed Trump, was accused of exposing himself to a woman at a pool in Dubai. Two other women have accused him of sexual misconduct, including rape. He is now wanted for attempted murder in Miami.",
+    "description": "Max Miller, Trump favorite in OH 16 primary, domestic violence incidents including pushing a girl down the stairs and slapping his latest girlfriend Stephanie Grisham, Trump’s press secretary",
     "sources": [
-      "https://www.si.com/nfl/2019/09/16/antonio-brown-new-england-patriots-lawsuits-accusations-sexual-midconduct-assault",
-      "https://www.miamiherald.com/news/local/crime/article308744710.html"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": 2019
-  },
-  {
-    "id": 1420,
-    "name": "Le’Veon Bell, former NFL player who endorsed Trump",
-    "position": [],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Le’Veon Bell, former NFL player who endorsed Trump was ordered to pay $25 million to a woman (a relative) whom he : X and his brother sexually abused since she was 6 or 7 years old.",
-    "sources": [
-      "https://www.cbssports.com/nfl/news/jury-orders-ex-nfl-player-leveon-bell-to-pay-25-million-in-damages-in-sexual-abuse-case/"
+      "https://t.co/a3qN66BtdO?amp=1"
     ],
     "tags": [
       "maga"
@@ -704,589 +541,59 @@
     "year": null
   },
   {
-    "id": 1421,
-    "name": "Johnny Hunt, former president of the Southern Bapt",
+    "id": 624,
+    "name": "Massachusetts GOP Vice-Chair Tom Mountain resigns. The",
     "position": [
-      "judge",
-      "religious leader"
+      "party official"
     ],
-    "crime": [
-      "assault",
-      "sexual assault"
-    ],
-    "description": "Johnny Hunt, former president of the Southern Baptist Convention was accused of sexual assault. The Guidepost investigation found allegations credible. So did the judge who dismissed his defamation lawsuit. He was pastor of megachurch in Georgia.",
+    "crime": [],
+    "description": "Massachusetts GOP Vice-Chair Tom Mountain resigns. The big scandal is his gross texting with a catfish that presented as a consenting adult woman, but he also posted inappropriate comments on pictures of teens. The article links to the expose.",
     "sources": [
-      "https://www.christianitytoday.com/2025/03/southern-baptist-convention-lawsuit-abuse-report-johnny-hunt/"
+      "https://www.wbur.org/news/2021/07/20/tom-mountain-resignation-massachusetts-gop-turmoil"
     ],
     "tags": [
-      "judge",
-      "religious leader"
+      "party official",
+      "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
-    "id": 1422,
-    "name": "Brad Namdar",
+    "id": 625,
+    "name": "Strateg",
     "position": [
-      "candidate",
-      "congress",
       "party official"
     ],
     "crime": [
       "sexual trafficking"
     ],
-    "description": "Brad Namdar was a GOP Congressional primary candidate in TX-32. He was also an outspoken advocate against human trafficking. He lost his endorsements & was asked to leave anti-trafficking organization after an escort told media he hired her twice & didn’t pay for the second. He is also alleged to have inappropriately touched a student who was under age.",
+    "description": "GOP Strategist Anton Lazarro Arrested for Underage Sex Trafficking",
     "sources": [
-      "https://www.dallasnews.com/news/investigations/2022/02/12/dallas-gop-congressional-candidate-brad-namdar-accused-of-soliciting-sex-from-escort/"
+      "https://www.thedailybeast.com/gop-strategist-anton-lazzaro-arrested-for-underage-sex-trafficking",
+      "https://www.cbsnews.com/minnesota/news/closing-arguments-end-in-trial-of-anton-lazzaro-accused-of-sex-trafficking-minors/"
     ],
     "tags": [
-      "candidate",
-      "congress",
-      "party official",
-      "republican"
-    ],
-    "year": 2022
-  },
-  {
-    "id": 1423,
-    "name": "Will Gardner, ND Sec.",
-    "position": [
-      "candidate"
-    ],
-    "crime": [],
-    "description": "Will Gardner, ND Sec. of State candidate dropped out of the race after his past conviction for disorderly conduct caused by being caught peeping on girl’s dorm with pants undone. He was 29.",
-    "sources": [
-      "https://www.mprnews.org/story/2018/05/20/north-dakota-politician-accused-in-peeping-incident-ends-run-for-office"
-    ],
-    "tags": [
-      "candidate"
-    ],
-    "year": 2018
-  },
-  {
-    "id": 1424,
-    "name": "Jon Stanard, UT state rep, hired a sex worker. I don’t",
-    "position": [],
-    "crime": [],
-    "description": "Jon Stanard, UT state rep, hired a sex worker. I don’t usually note these non-coerced adult interactions, but he used taxpayer funds to pay for the hotel.",
-    "sources": [
-      "https://www.dailymail.co.uk/news/article-5371067/Records-public-paid-hotel-tied-prostitute-report.html"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1425,
-    "name": "Russ Casey, a",
-    "position": [
-      "candidate",
-      "party official"
-    ],
-    "crime": [
-      "assault",
-      "sexual harassment"
-    ],
-    "description": "Russ Casey, a TX Justice of the Peace, accused of indecent exposure, sexual harassment, and assault. Also caught with fraudulent signatures on candidate filing, forced to withdraw from GOP primary.",
-    "sources": [
-      "https://www.nbcdfw.com/news/local/clerks-semen-stained-dress-proof-of-judges-sexual-harassment-lawsuit/1986100/"
-    ],
-    "tags": [
-      "candidate",
       "party official",
       "republican"
     ],
     "year": null
   },
   {
-    "id": 1426,
-    "name": "Mike Yenni, former Jefferson County Par",
-    "position": [],
-    "crime": [
-      "prostitution"
-    ],
-    "description": "Mike Yenni, former Jefferson County Parish president, resigned after being caught sexting a minor, soliciting a minor. He was hired as Deputy Registrar in 2024.",
-    "sources": [
-      "https://www.wwltv.com/article/news/investigations/fbi-looks-into-jp-president-mike-yennis-allegedly-explicit-texts-to-young-man/289-327862974",
-      "https://www.wwltv.com/article/news/investigations/david-hammer/jefferson-parish-its-official-disgraced-former-jefferson-parish-president-mike-yenni-returns-to-government-monday/289-3d85173d-4d78-4a32-9a6f-00862cba64d7"
-    ],
-    "tags": [],
-    "year": 2024
-  },
-  {
-    "id": 1427,
-    "name": "Matt McCullough, GOP",
+    "id": 626,
+    "name": "D",
     "position": [
-      "candidate",
-      "law enforcement",
-      "party official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Matt McCullough, GOP candidate for senate senate in PA, was arrested for public intoxication after police were called when he groped the breasts of a strip club employee.",
-    "sources": [
-      "https://www.phillyburbs.com/story/news/politics/elections/2022/09/23/bucks-county-democrats-pa-10th-district-matt-mccullough-steve-santarsiero-police-report/69514863007/"
-    ],
-    "tags": [
-      "candidate",
-      "law enforcement",
-      "party official",
-      "republican"
-    ],
-    "year": 2022
-  },
-  {
-    "id": 1428,
-    "name": "Carl DeMaio, San Diego",
-    "position": [
-      "candidate",
-      "congress",
-      "local official"
-    ],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Carl DeMaio, San Diego city council member, mayoral candidate, and congressional candidate, accused of sexual harassment, masturbating in front of people (unwanted)",
-    "sources": [
-      "https://slate.com/news-and-politics/2014/11/carl-demaio-sexual-harassment-second-former-staffer-makes-allegations.html"
-    ],
-    "tags": [
-      "candidate",
-      "congress",
-      "local official"
-    ],
-    "year": 2014
-  },
-  {
-    "id": 1429,
-    "name": "Lawrence Taylor, NFL",
-    "position": [],
-    "crime": [
-      "rape"
-    ],
-    "description": "Lawrence Taylor, NFL player, accused of statutory rape, pled guilty to two misdemeanours and listed as sexual offender",
-    "sources": [
-      "https://www.espn.com/new-york/nfl/news/story?id=6018722"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1430,
-    "name": "Justin Rhodes, M",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Justin Rhodes, Mississippi pastor arrested for molesting a child, had previous “moral failing” while leading the Baptist Missionary Association",
-    "sources": [
-      "https://preacherboys.substack.com/p/pastor-arrested-for-molesting-child"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1431,
-    "name": "Curt",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "assault",
-      "prostitution"
-    ],
-    "description": "Curtis Cochran, Swain County NC Sheriff currently suspended after his arrest for felonious restraint, assault on a : X female, sexual battery and solicitation to commit prostitution.",
-    "sources": [
-      "https://www.citizen-times.com/story/news/crime/2025/06/27/swain-county-sheriff-charged-with-sexual-battery-solicitation/84389858007/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1432,
-    "name": "Grant Hill, who",
-    "position": [
-      "congress",
-      "party official"
-    ],
-    "crime": [],
-    "description": "Grant Hill, who was recently released from prison for two sex offenses, one against a 13-year-old, is running in the GOP primary for Iowa State House 88.",
-    "sources": [
-      "https://www.thepeopleshill.com/",
-      "https://www.dailymail.co.uk/news/article-14693063/Grant-Hill-rising-GOP-star-running-Congress-spent-three-years-jail-child-sex-offences.html"
-    ],
-    "tags": [
-      "congress",
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1433,
-    "name": "Michael Doran, Lorain County (Ohio) Recorder has been",
-    "position": [],
-    "crime": [],
-    "description": "Michael Doran, Lorain County (Ohio) Recorder has been charged with 3rd degree sexual imposition after a special prosecutor was appointed and found probable cause to file charges.",
-    "sources": [
-      "https://www.morningjournal.com/2025/07/10/lorain-county-recorder-mike-doran-charged-with-sexual-imposition/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1434,
-    "name": "Stephen Kopp, director",
-    "position": [],
-    "crime": [],
-    "description": "Stephen Kopp, director of extremist Bob Jones University summer camp, has been charged with criminal sexual conduct with a minor. The arrest warrant states he engaged in multiple “sex acts” with a 15-year-old child.",
-    "sources": [
-      "https://www.foxcarolina.com/2025/07/16/warrant-details-child-sex-abuse-allegations-against-former-bob-jones-employee/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1435,
-    "name": "Brandon Westmoreland, Republican",
-    "position": [
-      "candidate",
-      "local official",
-      "party member"
-    ],
-    "crime": [
-      "rape",
-      "sexual abuse"
-    ],
-    "description": "Brandon Westmoreland, former Republican candidate for mayor of Davenport, IA, has been arrested for sexual abuse of a woman who was too drunk to consent. He was identified by DNA from rape kit. He is currently on probation for suspended sentence for B&E.",
-    "sources": [
-      "https://www.kwqc.com/2025/07/15/former-mayoral-candidate-arrested-sex-abuse-charge/"
-    ],
-    "tags": [
-      "candidate",
-      "local official",
       "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 1436,
-    "name": "Curlon Edwards, a Baltimore police officer, has been",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "Curlon Edwards, a Baltimore police officer, has been charged with raping a 16-year-old girl. Held without bail.",
-    "sources": [
-      "https://www.cbsnews.com/baltimore/news/baltimore-police-officer-raping-16-year-old-girlfriend-charging-documents/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1437,
-    "name": "Chr",
-    "position": [
-      "educator"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Christopher Seibert, former vice-principal at Catholic school in Stayton, OR, was indicted on counts of first-degree sex abuse and one count of second-degree unlawful sexual penetration of a minor.",
-    "sources": [
-      "https://www.kgw.com/article/news/crime/christopher-seibert-former-vice-principal-stayton-catholic-school-arrested-indicted-sex-abuse/283-788a0bf5-4028-497a-9dea-4a817f361b5a"
-    ],
-    "tags": [
-      "educator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1438,
-    "name": "Chr",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Christopher Allen Guinup, a Fairmont, WV, police officer admitted to sexually abusing nine-year-old girl",
-    "sources": [
-      "https://www.ksla.com/2025/06/19/police-officer-admits-sexually-abusing-9-year-old-girl-sheriff-says/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1439,
-    "name": "Scott Truelove, on the East Noble County School Board in",
-    "position": [],
-    "crime": [],
-    "description": "Scott Truelove, on the East Noble County School Board in Indiana, was arrested for public indecency (exposing himself.) He resigned and lost his job at the library.",
-    "sources": [
-      "https://www.facebook.com/mr.scott.truelove/posts/pfbid02tpjffE1sAE2Pp3wQcBeBCwoMH3QKWdCvZaG2HYdbXvG1Hijb__cft__",
-      "https://www.21alivenews.com/2025/07/23/man-steps-down-east-noble-school-board-following-arrest-swinney-park/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1440,
-    "name": "James A. Taylor, Fort Pierce (FL) City Comm",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "prostitution"
-    ],
-    "description": "James A. Taylor, Fort Pierce (FL) City Commissioner has been arrested and charged with 24 felony counts including soliciting a 12 year-old, sending nude photos to the child, and more.",
-    "sources": [
-      "https://www.wptv.com/news/region-st-lucie-county/fort-"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1441,
-    "name": "Ryan Walters, Oklahoma’s Superintendent of Public",
-    "position": [],
-    "crime": [],
-    "description": "Ryan Walters, Oklahoma’s Superintendent of Public Instruction wanted to buy 55,000 Trump bibles for public schools. Christian Nationalist, nonconsensual exposure of pics of nude women on his screen during board meeting.",
-    "sources": [
-      "https://nondoc.com/2025/07/25/board-members-tv-in-ryan-walters-office-displayed-nude-women-during-executive-session/"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": null
-  },
-  {
-    "id": 1442,
-    "name": "Linda McMahon, Trump’s Education Secretary, has been",
-    "position": [],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Linda McMahon, Trump’s Education Secretary, has been sued for role in organizational coverup of sexual abuse of ringboys (minors) at WWE.",
-    "sources": [
-      "https://dicellolevitt.com/maryland-supreme-court-decision-allows-wwe-ring-boys-sexual-abuse-case-to-move-forward/"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": null
-  },
-  {
-    "id": 1443,
-    "name": "Cory Mills, a",
-    "position": [
-      "congress",
-      "law enforcement"
-    ],
-    "crime": [
-      "assault",
-      "domestic violence",
-      "sexual harassment",
-      "violence"
-    ],
-    "description": "Cory Mills, a Florida Congressman, was investigated for domestic violence after his DC girlfriend told police he assaulted her. She refused to press charges and the case was dropped. Now his former FL girlfriend, Miss United States has filed for a restraining order, providing police with reams of evidence of his harassment and threats.",
-    "sources": [
-      "https://www.dropsitenews.com/p/miss-united-states-lindsey-langston-files-restraining-order-rep-cory-mills"
-    ],
-    "tags": [
-      "congress",
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1444,
-    "name": "J. Stuart Adams, Utah Senate President, changed the",
-    "position": [],
-    "crime": [
-      "rape"
-    ],
-    "description": "J. Stuart Adams, Utah Senate President, changed the consent law when his relative faced statutory rape charges. The girl was 13. The boy was 18.",
-    "sources": [
-      "https://www.sltrib.com/news/politics/2025/08/02/utah-senate-pres-stuart-adams/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1445,
-    "name": "Caitlin R. Crum, a teacher at Calvary Chr",
-    "position": [
-      "educator"
-    ],
-    "crime": [
-      "child exploitation"
-    ],
-    "description": "Caitlin R. Crum, a teacher at Calvary Christian Academy was charged in 2022 with sexual battery, producing child sexual exploitation material",
-    "sources": [
-      "https://www.news4jax.com/news/local/2022/02/24/english-teacher-charged-with-sexual-misconduct-involving-a-student/"
-    ],
-    "tags": [
-      "educator"
-    ],
-    "year": 2022
-  },
-  {
-    "id": 1446,
-    "name": "Michael Medlin, formerly",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "assault"
-    ],
-    "description": "Michael Medlin, formerly a sheriff’s deputy and school resource officer in NC, pleaded guilty to charges of providing alcohol to a minor, assault and accessing a government computer in a scheme grooming one of his wife’s students.",
-    "sources": [
-      "https://www.wral.com/news/local/former-deputy-wife-guilty-grooming-johnston-co-student-august-2025/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1447,
-    "name": "Ami Medlin, a",
-    "position": [
-      "educator"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Ami Medlin, a high school teacher in NC, pleaded guilty to indecent liberties with a minor in a grooming/sexual abuse scheme with her husband : X",
-    "sources": [
-      "https://www.newsobserver.com/news/local/crime/article311690165.html"
-    ],
-    "tags": [
-      "educator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1448,
-    "name": "Hector Carranza, a police officer in Gresham, OR, 4 counts",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "rape",
-      "sexual abuse",
-      "sodomy"
-    ],
-    "description": "Hector Carranza, a police officer in Gresham, OR, 4 counts of 3rd-degree rape, 12 counts of 3rd-degree sodomy, 24 counts of 2nd-degree sex abuse, 5 counts of using a child in display of sexually explicit conduct, 5 counts of encouraging child sexual abuse, 5 counts of luring a minor, and 1 count of attempting to use a child in display of sexually explicit conduct.",
-    "sources": [
-      "https://www.koin.com/local/multnomah-county/gresham-police-officer-facing-dozens-child-sex-abuse-charges-07312025/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1449,
-    "name": "Gregg Hayden, Sheriff’s",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [],
-    "description": "Gregg Hayden, former school board member, Sheriff’s lieutenant, school safety supervisor in Anderson County, SC, is charged with third-degree criminal sexual conduct with a minor and second-degree attempted criminal sexual conduct with a minor. : X",
-    "sources": [
-      "https://www.wyff4.com/article/gregg-hayden-arrest-school-board-anderson/65624428"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1450,
-    "name": "Stewart Ruch, one of the leaders who left the Ep",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Stewart Ruch, one of the leaders who left the Episcopal church in opposition to its “liberalism” to form the Anglican Church in North America, has been charged in a church trial for covering up a sexual abuses",
-    "sources": [
-      "https://julieroys.com/acna-bishops-leaders-weigh-in-on-turbulent-stewart-ruch-trial/"
-    ],
-    "tags": [
-      "party official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1451,
-    "name": "Dayton Aldrich, a Santa Barbara city employee, gun club",
-    "position": [
-      "local official"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Dayton Aldrich, a Santa Barbara city employee, gun club president, who once sought a seat on Goleta City Council has been arrested on drug, gun, and child sexual abuse materia charges. Check out his shirt.",
-    "sources": [
-      "https://www.independent.com/2025/08/20/santa-barbara-city-employee-arrested-on-drug-gun-and-child-pornography-charges/"
-    ],
-    "tags": [
-      "local official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1452,
-    "name": "James Yokeley, Surrey County Elections Chair in NC, put",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "James Yokeley, Surrey County Elections Chair in NC, put MDMA and cocaine in his granddaughters’ ice cream. They did not consume the drugs. He is charged with contaminating their food and child endangerment child abuse",
-    "sources": [
-      "https://www.wral.com/news/local/surry-board-elections-drug-ice-cream-wilmington-august-2025/"
-    ],
-    "tags": [
-      "party official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1453,
-    "name": "Ron Weinberg, state",
-    "position": [
-      "congress",
       "party official",
       "state legislator"
     ],
-    "crime": [],
-    "description": "Ron Weinberg, state representative in Colorado and former chair of Larimer County GOP, has been accused of making unwanted sexual advances by two women. No criminal complaint has been filed, Weinberg denies allegations, but has stepped back from leadership in House.",
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "District 24 GOP Treasurer Shane Anderson of ND is leading a campaign to recall a Republican representative for voting to expel Rep. Luke Simons 601 for sexual harassment. His own district party has already censured him.",
     "sources": [
-      "https://www.kunc.org/news/2025-07-08/two-women-accuse-republican-state-lawmaker-of-unwanted-sexual-advances-he-denies-the-allegations"
+      "https://www.thedickinsonpress.com/news/government-and-politics/7118693-Conservative-group-aims-to-recall-Valley-City-rep-after-vote-to-expel-accused-sexual-harasser"
     ],
     "tags": [
-      "congress",
+      "party member",
       "party official",
       "republican",
       "state legislator"
@@ -1294,104 +601,81 @@
     "year": null
   },
   {
-    "id": 1454,
-    "name": "Scott Soucek, child protection activ",
+    "id": 627,
+    "name": "G",
     "position": [
-      "activist"
+      "party member",
+      "party official"
     ],
     "crime": [
-      "child pornography"
+      "sexual trafficking"
     ],
-    "description": "Scott Soucek, child protection activist who campaigned for Trump’s fight against child predators has been indicted on 10 counts of possession of CSAM. Was also arrested in 2009 with CSAM, but not charged. Wife was Wisconsin Trump delegate.",
+    "description": "Gisela Castro Medina, Chair of the College Republicans at St. Thomas, has been arrested on sex trafficking charges along with Anton Lazaro (668)",
     "sources": [
-      "https://www.yahoo.com/news/articles/maga-champion-said-trump-fight-200336610.html"
+      "https://www.startribune.com/st-thomas-u-s-gop-chair-arrested-in-florida-on-sex-trafficking-allegation/600087883/"
     ],
     "tags": [
-      "activist",
-      "maga"
-    ],
-    "year": 2009
-  },
-  {
-    "id": 1455,
-    "name": "Joseph Brent Walker, Mormon B",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [],
-    "description": "Joseph Brent Walker, Mormon Bishop, conservative “family values” columnist, LDS Public Affairs, charged with distributing material harmful to minor, enticing a minor Utah Case No: 251701696",
-    "sources": [
-      "https://www.deseret.com/utah/2025/08/22/joseph-walker-charges-enticement/"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1456,
-    "name": "Ty Burns, OK",
-    "position": [],
-    "crime": [
-      "assault",
-      "sexual abuse",
-      "violence"
-    ],
-    "description": "Ty Burns, OK state rep, resigned after pleading guilty to 3 charges of domestic abuse and assault. Received a suspended sentence and mandated therapy as he claims PTSD from military service triggered violence. : X",
-    "sources": [
-      "https://nondoc.com/2025/08/30/rep-ty-burns-resigning-48-hours-after-guilty-pleas/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1457,
-    "name": "Jon Reep, anti-woke, pro-MAGA comedian, has been",
-    "position": [],
-    "crime": [
-      "child exploitation"
-    ],
-    "description": "Jon Reep, anti-woke, pro-MAGA comedian, has been arrested for child sexual exploitation.",
-    "sources": [
-      "https://www.qcnews.com/news/u-s/north-carolina/catawba-county/comedian-jon-reep-arrested-in-hickory-on-child-sex-crimes/"
-    ],
-    "tags": [
+      "party member",
+      "party official",
       "republican"
     ],
     "year": null
   },
   {
-    "id": 1458,
-    "name": "Adam King, Johnson",
+    "id": 628,
+    "name": "John Hiatt, Republican Penobscot County Treasurer and",
     "position": [
-      "law enforcement"
+      "party member"
     ],
     "crime": [
-      "sexual abuse",
-      "sexual harassment"
+      "child pornography"
     ],
-    "description": "Adam King, Johnson County TX Sheriff, on leave after charges of abuse of office, sexual harassment, corrupt influence",
+    "description": "John Hiatt, Republican Penobscot County Treasurer and Bangor School Committee member has been arrested for child pornography and stalking, harassing, and felony invasion of privacy of a woman.",
     "sources": [
-      "https://www.wfaa.com/article/news/crime/johnson-county-attorney-takes-misconduct-case-against-sheriff-adam-king/287-94ba3898-17ac-4c4c-b651-4d731d9fa6f7"
+      "https://bangordailynews.com/2021/08/04/news/bangor/state-republican-party-calls-on-john-hiatt-to-resign-after-arrest-on-possession-of-child-porn-charge/"
     ],
     "tags": [
-      "law enforcement"
+      "party member",
+      "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
-    "id": 1459,
-    "name": "Terry Steinwand, former",
+    "id": 629,
+    "name": "Minnesota Republicans allege MN GOP State Chair Jennifer",
     "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Minnesota Republicans allege MN GOP State Chair Jennifer Carnahan allowed abuse to continue by extensive use of NDAs. Admirably prohibit use of NDAs in the future.",
+    "sources": [
+      "https://minnesotareformer.com/2021/08/13/mngop-chair-jennifer-carnahan-used-non-disclosure-agreements-to-stifle-criticism-sources-say/"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 630,
+    "name": "candidate",
+    "position": [
+      "candidate",
       "governor",
       "party member"
     ],
     "crime": [],
-    "description": "Terry Steinwand, former Director of North Dakota Game and Fish, who was appointed by multiple Republican governors has been arrested for gross sexual imposition of a minor under the age of 15.",
+    "description": "Republican candidate for governor in recall election, Larry Elder has brandished a gun at his ex-fiancee",
     "sources": [
-      "https://www.kvrr.com/2025/09/08/6141926/"
+      "https://sjvsun.com/news/politics/carecall/larry-elders-ex-fiancee-spills-on-relationship-drug-use-gun-brandishing-incident/"
     ],
     "tags": [
+      "candidate",
       "governor",
       "party member",
       "republican"
@@ -1399,134 +683,449 @@
     "year": null
   },
   {
-    "id": 1460,
-    "name": "James Gosnell Jr, the SC Mag",
+    "id": 631,
+    "name": "Two women have come forward to claim Benjamin Rajadurai",
     "position": [
-      "judge"
+      "candidate",
+      "party member"
     ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "James Gosnell Jr, the SC Magistrate Judge infamous for calling Dylann Roof’s family victims and using the n-word, has been arrested for possessing child sexual abuse material. Denied bail.",
-    "sources": [
-      "https://www.postandcourier.com/news/crime/magistrate-judge-gosnell-court-child-porn/article_3d71d787-d904-48a8-a8c0-57351a5be4ef.html"
-    ],
-    "tags": [
-      "judge"
-    ],
-    "year": null
-  },
-  {
-    "id": 1461,
-    "name": "Michael D. Pruitt, is",
-    "position": [],
-    "crime": [],
-    "description": "Michael D. Pruitt, is being investigated for stalking a minor girl whom he also gave alcohol and cannabis gummies. Her mother took out a restraining order to get him to leave her daughter alone.",
-    "sources": [
-      "https://www.wthr.com/article/news/local/teen-girl-protective-order-against-johnson-county-coroner-mike-pruitt/531-b4ecfcd4-f6b0-4fec-9171-acd08455575c",
-      "https://johnsoncounty.in.gov/egov/documents/1730851316_19304.pdf"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1462,
-    "name": "Matthew Stephen Masiewicz, Sovereign Grace Fellowship",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "child exploitation",
-      "sexual abuse"
-    ],
-    "description": "Matthew Stephen Masiewicz, Sovereign Grace Fellowship pastor, has been charged with twelve counts of child sexual exploitation and one count of visual representation of child sexual abuse.",
-    "sources": [
-      "https://www.idahopress.com/news/local/nampa-pastor-arrested-for-alleged-sexual-exploitation-of-a-child/article_0e5cf052-079a-4897-82ca-9248dd27602f.amp.html"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1463,
-    "name": "Jordan J. Williams, teen min",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Jordan J. Williams, teen ministry leader at VineLife Church, arrested for possession of child sex abuse material",
-    "sources": [
-      "https://www.fox13news.com/news/brooksville-church-youth-leader-arrested-multiple-child-pornography-charges"
-    ],
-    "tags": [
-      "party official"
-    ],
-    "year": null
-  },
-  {
-    "id": 1464,
-    "name": "Michael Jafferakos, a Brooklyn NY basketball coach, has",
-    "position": [
-      "coach"
-    ],
-    "crime": [],
-    "description": "Michael Jafferakos, a Brooklyn NY basketball coach, has been arrested for paying minors to make sex videos.",
-    "sources": [
-      "https://www.amny.com/new-york/brooklyn/brooklyn-basketball-coach-arrested-for-allegedly-paying-minors-to-make-sexual-videos/"
-    ],
-    "tags": [
-      "coach"
-    ],
-    "year": null
-  },
-  {
-    "id": 1465,
-    "name": "Nick Fountain, MontCo. township superv",
-    "position": [],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "Nick Fountain, MontCo. township supervisor and day care operator arrested for soliciting child pornography, sexual solicitation of a minor. Update, charged with sexual abuse of a child from when he was 9 until he was 16.",
-    "sources": [
-      "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/montco-township-supervisor-arrested-for-soliciting-child-pornography-sexual-solicitation-of-a-minor/article_19ed0804-31fc-4073-845d-9501dc43d213.html",
-      "https://6abc.com/post/skippack-twp-montgomery-county-supervisor-nick-fountain-charged-child-sex-assault/17950162/"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1466,
-    "name": "Peter Bardunias, VP of Community Engagement at Clifton",
-    "position": [
-      "law enforcement"
-    ],
-    "crime": [
-      "prostitution"
-    ],
-    "description": "Peter Bardunias, VP of Community Engagement at Clifton Park NY Chamber, has been arrested for soliciting a minor via undercover police officer presenting as 15 year-old girl.",
-    "sources": [
-      "https://www.timesunion.com/news/article/clifton-park-vp-arrested-allegedly-attempting-21089156.php"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1467,
-    "name": "Paul Ingrassia, a Trump appointee to the Dept. of",
-    "position": [],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Paul Ingrassia, a Trump appointee to the Dept. of Homeland Security was accused of sexual harassment. Five witnesses affirm he canceled a subordinate’s hotel room telling her she was to stay with him. She filed a complaint then withdrew it fearing retaliation.",
+    "description": "Two women have come forward to claim Benjamin Rajadurai of the College Republicans National Committee asked them to fabricate sexual harassment claims to affect the election for his preferred candidate. False accusations affect all women’s credibility.",
     "sources": [
-      "https://www.politico.com/news/2025/10/09/ingrassia-trump-harassment-dhs-00596545"
+      "https://spectatorworld.com/topic/college-republicans-fake-sexual-assault-allegations-benjamin-rajadurai/"
+    ],
+    "tags": [
+      "candidate",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 632,
+    "name": "Ed Gray, Gulf Breeze FL",
+    "position": [
+      "candidate",
+      "local official",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Ed Gray, former Gulf Breeze FL mayor and losing Republican primary candidate for HD2 in 2013, pleaded no contest to charges of secretly taping young boys undressing, video voyeurism, stalking.",
+    "sources": [
+      "https://www.pnj.com/story/news/crime/2021/08/10/ed-gray-gulf-breeze-mayor-accused-recording-teen-boys-shower-avoid-prison/5539965001/"
+    ],
+    "tags": [
+      "candidate",
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": 2013
+  },
+  {
+    "id": 633,
+    "name": "Chase Tr",
+    "position": [
+      "governor"
+    ],
+    "crime": [],
+    "description": "Chase Tristian Espy, Alabama Governor Ivey’s staff attorney was arrested for child solicitation sentenced to 8 years",
+    "sources": [
+      "https://www.al.com/news/birmingham/2021/08/lawyer-on-alabama-gov-kay-iveys-staff-arrested-on-child-solicitation-charge.html",
+      "https://www.al.com/news/2023/03/birmingham-lawyer-who-worked-for-ivey-gets-8-years-in-child-porn-case.html"
+    ],
+    "tags": [
+      "governor"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 634,
+    "name": "Caroline County, MD, Circuit Jonathan Newell,",
+    "position": [
+      "congress",
+      "judge",
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Caroline County, MD, Circuit Judge Jonathan Newell, a Republican, killed himself this morning when agents showed up at his house to arrest him on child pornography charges.",
+    "sources": [
+      "https://www.baltimoresun.com/news/crime/bs-md-cr-judge-newell-caroline-county-20210910-i45tq5k6hjawfmcrjne3hiv4ry-story.html"
+    ],
+    "tags": [
+      "congress",
+      "judge",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 635,
+    "name": "Alexander Bebr",
+    "position": [
+      "candidate",
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Alexander Bebris, unsuccessful Republican candidate for sheriff of Outagamie County Wisconsin, is indicted for child pornography a SECOND time while out appealing his first conviction.",
+    "sources": [
+      "https://madison.com/wsj/news/local/crime-and-courts/ex-officer-candidate-for-outagamie-county-sheriff-again-faces-child-porn-charge/article_4fab169f-7679-5842-9006-875bb685a7e5.html"
+    ],
+    "tags": [
+      "candidate",
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 636,
+    "name": "Michigan Republican state Rep. Steve Marino has been",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Michigan Republican state Rep. Steve Marino has been stripped of his committee assignments and is under investigation for domestic abuse. He admits to a volatile relationship with his accuser, Democratic representative.Mari Manoogian",
+    "sources": [
+      "https://www.fox2detroit.com/news/claim-made-of-domestic-abuse-by-state-rep-steve-marino-from-fellow-lawmaker.amp"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 637,
+    "name": "PA Senate Sean Parnell’s",
+    "position": [
+      "candidate",
+      "party official"
+    ],
+    "crime": [],
+    "description": "GOP PA Senate Candidate Sean Parnell’s wife sought two protective orders against him. This makes him unelectable according to his primary opponent.",
+    "sources": [
+      "https://www.post-gazette.com/news/politics-state/2021/09/08/Sean-Parnell-wife-pittsburgh-for-senate-Jeff-Bartos-Pennsylvania-US-Senate-race-2022-Republican-primary-candidates-protection-from-abuse-orders/stories/202109080097"
+    ],
+    "tags": [
+      "candidate",
+      "party official",
+      "republican"
+    ],
+    "year": 2022
+  },
+  {
+    "id": 638,
+    "name": "Jeffrey Lynn Thomas, the tough on crime, anti-mask",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Jeffrey Lynn Thomas, the tough on crime, anti-mask Republican DA for Somerset County, Pennsylvania, has been arrested and charged with rape.",
+    "sources": [
+      "https://www.thedailybeast.com/jeffrey-lynn-thomas-somerset-pennsylvanias-tough-on-crime-republican-district-attorney-is-charged-with-rape?source=articles&via=rss",
+      "https://wjactv.com/news/local/trial-begins-for-suspended-somerset-da-accused-of-sexual-assault"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 639,
+    "name": "J.D. Vance, running in GOP primary for US Senate in Ohio,",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "J.D. Vance, running in GOP primary for US Senate in Ohio, backs banning abortion in cases of rape and incest, which he calls inconvenient.",
+    "sources": [
+      "https://www.thedailybeast.com/jd-vance-defends-texas-abortion-ban-calls-rape-inconvenient?ref=homeMore",
+      "https://local12.com/news/local/jd-vance-divorce-comments-unhappy-violent-marriages-event-september-2021-pacifica-christian-high-school-california-ohio-gop-senate-candidate-hillbilly-elegy-grandparents-vice-news-cincinnati-local-12-wkrc-tristate-ohio-kentucky-indiana"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 640,
+    "name": "Florida GOP William Braddock",
+    "position": [
+      "candidate",
+      "judge",
+      "party official"
+    ],
+    "crime": [],
+    "description": "Florida GOP primary candidate William Braddock stalked and threatened Anna Paulina Luna, his female primary opponent (not the men who were running,) though the judge did not grant a restraining order against him.",
+    "sources": [
+      "https://apnews.com/article/florida-government-and-politics-7b13452b08467b1bae1ddf318ad0e748"
+    ],
+    "tags": [
+      "candidate",
+      "judge",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 641,
+    "name": "Trent Brandon Holbert, Republican,",
+    "position": [
+      "party member",
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Former pastor Trent Brandon Holbert, Republican, filed false child neglect claims against the parents of a child he was sexually abusing to pressure them to sign over parental rights to him.",
+    "sources": [
+      "https://www.newsobserver.com/news/state/north-carolina/article254857697.htmlHe",
+      "https://wlos.com/news/local/former-pastor-black-mountain-pleads-guilty-to-felony-attempted-statutory-sex-offense-with-minor-trent-brandon-holbert-the-ridge-church"
+    ],
+    "tags": [
+      "party member",
+      "religious leader",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 642,
+    "name": "Naason Joaquin Garcia, self-described conservative, leader",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child pornography",
+      "rape",
+      "sexual trafficking"
+    ],
+    "description": "Naason Joaquin Garcia, self-described conservative, leader of the megachurch franchise Light of the World, who publicly claimed to love and honor Trump, has been arrested for sex trafficking, child rape, child pornography",
+    "sources": [],
+    "tags": [
+      "maga",
+      "party official"
+    ],
+    "year": null
+  },
+  {
+    "id": 643,
+    "name": "Daniel Gai, aide to Republican City Councillor Gerry",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Daniel Gai, aide to Republican City Councillor Gerry Bredefeld pleased guilty to five felonies of domestic violence",
+    "sources": [
+      "https://www.fresnobee.com/news/local/article254124908.html"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 644,
+    "name": "David Todeschini AKA David Trent, peddler of Q-Anon’s",
+    "position": [],
+    "crime": [],
+    "description": "David Todeschini AKA David Trent, peddler of Q-Anon’s most vicious conspiracies about Democrats is, himself, a convicted child rapist.",
+    "sources": [
+      "https://lawandcrime.com/awkward/qanon-influencer-who-accuses-democrats-of-being-pedophiles-is-identified-as-convicted-child-molester-designated-as-sexually-violent-offender/",
+      "https://www.indy100.com/viral/maga-guy-calls-democrats-paedophiles"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 645,
+    "name": "Fabian Shepard, chair of the Johnson County, Kansas,",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Fabian Shepard, chair of the Johnson County, Kansas, Republican party resigned after it became public that he was accused of forcible sexual battery.",
+    "sources": [
+      "https://www.kansascity.com/news/politics-government/article254832752.html"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 646,
+    "name": "Austin Cox, Republican campaign manager for Utah Gov.",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Austin Cox, Republican campaign manager for Utah Gov. Spencer Cox (no relation) resigned after accusations of sexual misconduct were investigated and substantiated.",
+    "sources": [
+      "https://www.deseret.com/utah/2021/10/7/22715444/investigation-substantiates-claims-of-sexual-misconduct-by-gov-coxs-2020-campaign-manager-governor"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 647,
+    "name": "OH Speaker Larry Householder, R had 6 hearing into the",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "OH Speaker Larry Householder, R had 6 hearing into the Strauss sex-abuse case putting survivors through painful public testimony under the pretense they would pass a bill holding OSU accountable with no intention of passing it.",
+    "sources": [
+      "https://go.tiffinohio.net/2021/10/ohio-gop-lawmakers-say-they-planned-to-fail-on-strauss-sex-abuse-bill-victims-werent-told/"
+    ],
+    "tags": [
+      "congress"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 648,
+    "name": "OH Maj Ldr Bill Seitz, R had 6 hearing into the Strauss sex-",
+    "position": [],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "OH Maj Ldr Bill Seitz, R had 6 hearing into the Strauss sex- abuse case putting survivors through painful public testimony under pretense they would pass a bill holding OSU accountable with no intention of passing it.",
+    "sources": [
+      "https://go.tiffinohio.net/2021/10/ohio-gop-lawmakers-say-they-planned-to-fail-on-strauss-sex-abuse-bill-victims-werent-told/"
+    ],
+    "tags": [],
+    "year": 2021
+  },
+  {
+    "id": 649,
+    "name": "Jonathan Uzcategui, Republican",
+    "position": [
+      "activist",
+      "candidate",
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Jonathan Uzcategui, Republican candidate for Wilmington, NC, City Council is accused of domestic violence by his ex- wife. Not for nothing, BLM activists have accused him of brandishing a gun at them.",
+    "sources": [
+      "https://www.whqr.org/local/2021-10-28/wilmington-city-council-candidate-jonathan-uzcategui-responds-to-domestic-violence-allegations"
+    ],
+    "tags": [
+      "activist",
+      "candidate",
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 650,
+    "name": "Charles Dyer, once an Oath Keepers spokesperson and Tea",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Charles Dyer, once an Oath Keepers spokesperson and Tea Party activist, was convicted of raping his six-year-old daughter.",
+    "sources": [
+      "https://www.splcenter.org/hatewatch/2012/04/20/oklahoma-oath-keeper-convicted-6-year-old-daughters-rape"
+    ],
+    "tags": [
+      "activist"
+    ],
+    "year": 2012
+  },
+  {
+    "id": 651,
+    "name": "WI GOP Congressional Derrick Orden",
+    "position": [
+      "candidate",
+      "congress",
+      "party official"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "WI GOP Congressional candidate Derrick van Orden sexually harassed two women while in the military. He also accepts campaign contributions from Steve Wynn #122",
+    "sources": [
+      "https://www.wispolitics.com/2020/wisdems-derrick-van-orden-sexually-harassed-two-female-officers-during-military-service/"
+    ],
+    "tags": [
+      "candidate",
+      "congress",
+      "party official",
+      "republican"
+    ],
+    "year": 2020
+  },
+  {
+    "id": 652,
+    "name": "William A. Jones, president of the conservative Bapt",
+    "position": [],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "William A. Jones, president of the conservative Baptist Georgetown College in Kentucky, was fired after a sexual assault complaint. : X",
+    "sources": [
+      "https://www.wdrb.com/news/georgetowns-william-jones-out-as-college-president-after-sexual-assault-accusation/article_d97ee48a-3c0e-11ec-99b4-276b060fd296.html"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 653,
+    "name": "Elementary School Guidance counselor Todd Roatsey who",
+    "position": [],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Elementary School Guidance counselor Todd Roatsey who advocated for Trump on Twitter was arrested for child pornography.",
+    "sources": [
+      "https://www.thedailybeast.com/todd-christopher-roatsey-west-virginia-school-counselor-honored-at-white-house-charged-for-child-porn"
     ],
     "tags": [
       "maga"
@@ -1534,179 +1133,597 @@
     "year": null
   },
   {
-    "id": 1468,
-    "name": "Michael S. Ritchason, pastor",
+    "id": 654,
+    "name": "Jack Strain, Republican",
     "position": [
-      "educator",
-      "local official",
-      "religious leader"
+      "law enforcement",
+      "party member"
     ],
-    "crime": [],
-    "description": "Michael S. Ritchason, pastor of Riverside Community Church in Peoria, IL, is also a former teacher and City Councilman. He has been charged with giving harmful (sexual) materials to a child. Not sex ed, but prurient material",
-    "sources": [
-      "https://www.ci.pekin.il.us/government/city_council/michael_ritchason.php",
-      "https://www.25newsnow.com/2025/10/09/peoria-pastor-arrested-accused-crimes-involving-juvenile/"
-    ],
-    "tags": [
-      "educator",
-      "local official",
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1469,
-    "name": "Michael Bo Peacock, former coach at Grapevine Faith",
-    "position": [
-      "coach"
-    ],
-    "crime": [
-      "child pornography",
-      "rape",
-      "sexual abuse"
-    ],
-    "description": "Michael Bo Peacock, former coach at Grapevine Faith Christian School in Texas, was convicted of extorting minors to create child sexual abuse material and sentenced to forty years in prison",
-    "sources": [
-      "https://www.justice.gov/usao-wdla/pr/second-defendant-involved-conspiracy-produce-child-pornography-and-sexual-exploitation",
-      "https://watchkeep.org/2025/10/former-grapevine-faith-christian-school-coach-sentenced-to-40-years-in-prison-for-child-exploitation/"
-    ],
-    "tags": [
-      "coach"
-    ],
-    "year": null
-  },
-  {
-    "id": 1470,
-    "name": "Michael Brown, founder of FIRE School of Min",
-    "position": [],
-    "crime": [],
-    "description": "Michael Brown, founder of FIRE School of Ministry",
-    "sources": [
-      "https://x.com/drmichaellbrown",
-      "https://www.christianpost.com/news/sexual-misconduct-claims-against-michael-brown-valid-report.html"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 1471,
-    "name": "Les Hughey, founder",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "Les Hughey, founder of Highlands Church, Scottsdale, AZ, accused of sexually abusing more than a dozen people as youth pastor in Modesto.",
-    "sources": [
-      "https://www.scottsdale.org/city_news/police-detail-sex-allegations-against-ex-pastor/article_8bdea3ca-7e5e-11e9-9612-7b93f8daf78e.html",
-      "https://www.christianpost.com/news/megachurch-pastor-les-hughey-resigns-after-7-women-accuse-him-of-sexual-abuse.html"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1472,
-    "name": "John C. Sapp, youth",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "sexual abuse"
-    ],
-    "description": "John C. Sapp, youth pastor at Maranatha Fellowship, Dover, DE, 89 counts of child sex abuse.",
-    "sources": [
-      "https://www.snapnetwork.org/youth_leader_indicted_89_counts_child_sex_abuse_snap_aug20"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1473,
-    "name": "Silas Shelton, Ohio advocate of banning LGBT books and",
-    "position": [
-      "religious leader"
-    ],
-    "crime": [
-      "rape",
-      "sexual abuse"
-    ],
-    "description": "Silas Shelton, Ohio advocate of banning LGBT books and a pastor at Blanchester Community Ministries, has been arrested for charges including child rape and sexual battery after a detective said he abused a minor over a period of about six years.",
-    "sources": [
-      "https://www.cincinnati.com/story/news/local/2025/10/17/ohio-pastor-protested-lgbtq-book-charged-for-child-rape/86749996007/"
-    ],
-    "tags": [
-      "religious leader"
-    ],
-    "year": null
-  },
-  {
-    "id": 1474,
-    "name": "Maurizio Miglietta, a NJ doctor, has been",
-    "position": [],
     "crime": [
       "rape"
     ],
-    "description": "Maurizio Miglietta, a NJ doctor, has been charged with rape at gunpoint. He is regional dean and professor of surgery at Touro College of Osteopathic Medicine and served in several high-ranking medical posts and teaching positions.",
+    "description": "Jack Strain, Republican former sheriff of St. Tammany Parish was convicted of eight sex crimes charges, including aggravated rape, aggravated incest, sexual battery, and indecent behavior with a juvenile.",
     "sources": [
-      "https://www.nytimes.com/2025/10/14/nyregion/doctor-ny-nj-rape-charges.html"
+      "https://www.nola.com/news/courts/article_339b914a-4095-11ec-b26d-17006bd04e1b.html",
+      "https://fcced.com/ex-sheriff-gets-jail-bribery-164221705/amp/"
     ],
-    "tags": [],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
     "year": null
   },
   {
-    "id": 1475,
-    "name": "Jon Sheptock",
+    "id": 655,
+    "name": "Jason Boyet, former state trooper and reg",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Jason Boyet, former state trooper and registered Republican sentenced for child pornography",
+    "sources": [
+      "https://www.wdsu.com/article/former-louisiana-state-police-trooper-child-porn-charges-sentence/38173826"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 656,
+    "name": "Father James Jackson, member of the arch-conservative",
     "position": [
       "religious leader"
     ],
     "crime": [
-      "sexual abuse"
+      "child pornography"
     ],
-    "description": "Jon Sheptock is a Christian musician and former pastor. He sang at a Trump rally in 2022. He has been charged with possession and production of child sexual abuse imagery.",
+    "description": "Father James Jackson, member of the arch-conservative Priestly Fraternity of Saint Peter, was arrested for child pornography. FSSP editorialized against Biden (They’re on Gab) i",
     "sources": [
-      "https://consequence.net/2025/10/christian-musician-trump-rally-arrested-child-pornography/"
+      "https://www.registercitizen.com/news/article/Affidavit-Priest-possessed-hundreds-of-child-16591921.phpPleaded",
+      "https://www.bostonglobe.com/2023/06/08/metro/ri-priest-pleads-guilty-charge-receipt-child-pornography/"
     ],
     "tags": [
-      "maga",
       "religious leader"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 657,
+    "name": "Texas GOP Congressional Monica Cruz",
+    "position": [
+      "candidate",
+      "congress",
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Texas GOP Congressional candidate Monica de la Cruz is accused of child abuse",
+    "sources": [
+      "https://www.washingtonpost.com/politics/texas-gop-congressional-candidate-abuse-allegations/2021/11/09/0cbdcdb6-4191-11ec-9ea7-3eb2406a2e24_story.html"
+    ],
+    "tags": [
+      "candidate",
+      "congress",
+      "party official",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 658,
+    "name": "Michigan Republican state Sen. John Bizon",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Michigan Republican state Sen. John Bizon is charged with assault after inappropriately touching a nurse practitioner and her assistant",
+    "sources": [
+      "https://www.lansingstatejournal.com/story/news/2021/11/15/mi-sen-john-bizon-facing-assault-charges-after-incident-nurse/6344182001/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 659,
+    "name": "conservative Orchard Prairie, WA, school-board",
+    "position": [
+      "candidate"
+    ],
+    "crime": [],
+    "description": "Former conservative Orchard Prairie, WA, school-board candidate Dr. Ronald Ilg: Too much to list. hiring people on dark web to beat and torture women, imprisoning woman in bunker until she signed sex slave contract. More.",
+    "sources": [
+      "https://www.thedailybeast.com/the-case-of-dr-ronald-ilg-features-hitmen-bondage-and-bunkers?ref=home"
+    ],
+    "tags": [
+      "candidate"
+    ],
+    "year": null
+  },
+  {
+    "id": 660,
+    "name": "Mega-donor T. Denny Sanford",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "GOP Mega-donor T. Denny Sanford was implicated in a child pornography investigation in South Dakota and referred to the federal government since the investigation crossed state lines. The feds have so far not taken action.",
+    "sources": [
+      "https://www.argusleader.com/story/news/2021/11/17/t-denny-sanford-implicated-individual-criminal-investigation-south-dakota-supreme-court/8650803002/",
+      "https://www.dakotanewsnow.com/2023/04/27/breaking-search-warrants-t-denny-sanford-child-porn-investigation-unsealed/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=ksfy"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": 2023
+  },
+  {
+    "id": 661,
+    "name": "Republican",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Former Republican staffer and current mayor of Cambridge, MD, Andrew Bradshaw has been charged with 50 counts of distributing revenge porn.",
+    "sources": [
+      "https://www.nbcnews.com/news/us-news/maryland-mayor-charged-50-counts-distributing-revenge-porn-rcna5645Andrew",
+      "https://www.wmdt.com/2022/04/attorneys-react-to-plea-deal-in-fmr-mayors-revenge-porn-case/"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
     ],
     "year": 2022
   },
   {
-    "id": 1476,
-    "name": "Dominic Olivares, a",
+    "id": 662,
+    "name": "Anti-tax, conservative city council member Brian Mackenzie",
     "position": [
-      "law enforcement"
+      "local official"
     ],
     "crime": [
-      "child exploitation"
+      "assault",
+      "sexual assault"
     ],
-    "description": "Dominic Olivares, a former Greenville, NC, police officer, arrested on two counts of first degree sexual exploitation of a minor, three counts of second degree sexual exploitation of a minor, and three counts of third degree sexual exploitation of : X a minor.",
+    "description": "Anti-tax, conservative city council member Brian Mackenzie in Craig, CO, has been sentenced to 10 years probation for attempted sexual assault of a child",
     "sources": [
-      "https://www.reflector.com/apgstate/ex-greenville-police-officer-charged-with-juvenile-sex-crimes/article_bd262b71-bde1-5081-87fa-71ea1b22c270.html"
+      "https://apnews.com/article/arrests-colorado-sexual-assault-5801aa6fcaa65bc80aaed58597449973"
     ],
     "tags": [
-      "law enforcement"
+      "local official"
     ],
     "year": null
   },
   {
-    "id": 1477,
-    "name": "Joe Evans Carr, Sullivan County (TN) Comm",
+    "id": 663,
+    "name": "Ed Reinhardt",
     "position": [
-      "local official"
+      "local official",
+      "party member"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Joe Evans Carr, Sullivan County (TN) Commissioner, was arrested and charged with sexual battery after groping a woman in a bar and getting in a fight with her boyfriend.",
+    "description": "Republican Mayor Ed Reinhardt of Lockport, LA resigned after investigation into complaints of sexual harassment (affiliation",
     "sources": [
-      "https://wcyb.com/news/local/man-charged-with-sexual-battery-after-fight-on-woodfin-street"
+      "https://www.houmatoday.com/story/news/local/2020/10/21/q-a-lockport-mayor-faces-challenger-nov-3-election/3703792001/",
+      "https://news.yahoo.com/town-attorneys-report-details-sexual-"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": 2020
+  },
+  {
+    "id": 664,
+    "name": "W",
+    "position": [
+      "law enforcement",
+      "local official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Wisonson legislator Shae Sortwell abused his child, police sought a felony child abuse charge against him. He did not deny the abuse. No charges were filed, perhaps because he was a city councilman at the time He now serves on the Criminal Justice and Public Safety Committee",
+    "sources": [
+      "https://www.rawstory.com/shae-sortwell-2655479138/"
+    ],
+    "tags": [
+      "law enforcement",
+      "local official"
+    ],
+    "year": null
+  },
+  {
+    "id": 665,
+    "name": "actress Heather Locklear (and volunteer for",
+    "position": [
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Republican actress Heather Locklear (and volunteer for Bush campaign) has been arrested for domestic violence as well as batteru of a police officer",
+    "sources": [
+      "https://www.thewrap.com/heather-locklear-arrested-for-domestic-violence-battery-on-a-police-officer/"
+    ],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 666,
+    "name": "Genesee County Republican Party Chair Matthew Smith",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "sexual harassment",
+      "violence"
+    ],
+    "description": "Genesee County Republican Party Chair Matthew Smith pleaded guilty to making a harassing violent phone call.",
+    "sources": [
+      "https://detroit.cbslocal.com/2021/11/22/genesee-county-republican-party-chairman-pleads-guilty-to-harassing-call/"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 667,
+    "name": "Michael Brian Protzman - QAnon leader",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "domestic violence",
+      "violence"
+    ],
+    "description": "Michael Brian Protzman - QAnon leader is accused of “blind rage” domestic violence",
+    "sources": [
+      "https://www.rawstory.com/qanon-leader-was-accused-by-wife-of-blind-rage-in-domestic-violence-arrest-report-2655844013/"
+    ],
+    "tags": [
+      "party official"
+    ],
+    "year": null
+  },
+  {
+    "id": 668,
+    "name": "Felicia Killings, self-proclaimed “Conscious Black",
+    "position": [],
+    "crime": [
+      "rape"
+    ],
+    "description": "Felicia Killings, self-proclaimed “Conscious Black Conservative” of the Conscious Conservative Media Network pleaded “no contest” to raping her students. In memoir, she claims false arrest, but she pleaded no contest.",
+    "sources": [
+      "https://patch.com/california/suisuncity/former-teacher-get-30-days-for-sex-with-student"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 669,
+    "name": "8-Chan/8kun owner and QAnon peddler Jim Watkins hosts",
+    "position": [],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "8-Chan/8kun owner and QAnon peddler Jim Watkins hosts child porn sites on his service. H/t @clearing_fog",
+    "sources": [
+      "https://www.motherjones.com/politics/2020/10/jim-watkins-child-pornography-domains",
+      "https://www.motherjones.com/politics/2022/05/qanon-jim-watkins-pink-pedophilic-links/"
+    ],
+    "tags": [],
+    "year": 2022
+  },
+  {
+    "id": 670,
+    "name": "William Dalton Milam, a Republican Bapt",
+    "position": [
+      "party member",
+      "religious leader"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "William Dalton Milam, a Republican Baptist pastor, crusades against drinking, but probably not child porn. He’s been charged with promoting the sexual performance of a child and possession of child pornography H/t @clearing_fog",
+    "sources": [
+      "https://www.fdle.state.fl.us/News/2020/December/FDLE-arrests-Milton-man-for-child-pornography"
+    ],
+    "tags": [
+      "party member",
+      "religious leader",
+      "republican"
+    ],
+    "year": 2020
+  },
+  {
+    "id": 671,
+    "name": "Aeronautics John Robert",
+    "position": [
+      "party member",
+      "religious leader"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Republican Pastor and Aeronautics professor John Robert Griffin (checked voter records) pleaded no contest and got 20 years for child pornography",
+    "sources": [
+      "https://www.news-journalonline.com/story/news/courts/2021/08/16/former-erau-professor-pastor-sentenced-20-years-child-porn-case-john-robert-griffin-daytona-beach/8151819002/"
+    ],
+    "tags": [
+      "party member",
+      "religious leader",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 672,
+    "name": "donor David Smock (to the predator Eric",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Republican donor David Smock (to the predator Eric Greitens) has been charged with sexually assaulting children in his care at a Christian boarding school",
+    "sources": [
+      "https://www.ky3.com/2021/12/29/greene-countys-prosecutor-addresses-arrest-stockton-mo-doctor-wanted-sex-crimes/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 673,
+    "name": "Speaker of Michigan House Lee",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Former Republican Speaker of Michigan House Lee Chatfield is accused of sexually assaulting a fifteen-year-old girl, continuing for fifteen years. She is also his sister-in-law and she attended his church when it began. : X",
+    "sources": [
+      "https://www.lansingcitypulse.com/stories/chatfield-headline"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 674,
+    "name": "Alex Barron, GOP",
+    "position": [
+      "candidate",
+      "congress",
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse"
+    ],
+    "description": "Alex Barron, failed GOP candidate for Idaho House and Sec of Kootenai County Republicans has been charged with rape and sexual abuse of a minor (12yo)",
+    "sources": [
+      "https://www.krem.com/article/news/local/former-idaho-candidate-charged-with-rape-child-sexual-abuse/293-f39cb8e8-c05b-4adf-b94d-c2247132b1f5"
+    ],
+    "tags": [
+      "candidate",
+      "congress",
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 675,
+    "name": "April Grace, Republican",
+    "position": [
+      "candidate",
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [],
+    "description": "April Grace, Republican candidate for State Superintendent, is accused of allowing a predator to remain in his position as High School Athletic Director. Sheriff’s investigator found 8 admonishments and suspensions of Ronald Arthur for sexual language and conduct with students.",
+    "sources": [
+      "https://www.oklahoman.com/story/news/2021/08/22/state-superintendent-candidate-april-grace-responds-insinuations-shawnee-ron-arthur/8228237002/"
+    ],
+    "tags": [
+      "candidate",
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": 2021
+  },
+  {
+    "id": 676,
+    "name": "Robert Adrian, IL,",
+    "position": [
+      "judge",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Judge Robert Adrian, IL, overturned a rape conviction because he thought four years was too much for rape.",
+    "sources": [
+      "https://www.thedailybeast.com/illinois-judge-robert-adrian-tosses-teen-rape-conviction-for-drew-clinton-says-148-days-in-jail-is-plenty?ref=home"
+    ],
+    "tags": [
+      "judge",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 677,
+    "name": "activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican activist and radio host Marty Glickman was arrested for sexual contact with underage girls and killed himself. Tallahassee Democrat, 10 May 2001 : X",
+    "sources": [],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": 2001
+  },
+  {
+    "id": 678,
+    "name": "Fox News Producer Aaron Bruns",
+    "position": [],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Fox News Producer Aaron Bruns was sentenced to ten years for possession of child pornography",
+    "sources": [
+      "https://www.washingtonexaminer.com/fox-news-producer-gets-10-years-for-child-porn"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 679,
+    "name": "Royce M. Fessenden, The former head of the Chr",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Royce M. Fessenden, The former head of the Christian County Republican Party was sentenced to five years in prison for child molestation.",
+    "sources": [
+      "http://crimesceneinvestigations.blogspot.com/2009/01/former-head-of-christian-county.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2009
+  },
+  {
+    "id": 680,
+    "name": "Plattsburg NY Assemblyman George Chr",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "prostitution"
+    ],
+    "description": "Republican Plattsburg NY Assemblyman George Christian Ortloff was sentenced to twelve and a half years for soliciting a minor for sex",
+    "sources": [
+      "https://www.nny360.com/news/stlawrencecounty/former-assemblyman-chris-ortloff-to-be-released-from-prison-friday/article_92473809-8f31-5503-929f-55d5c4d25eb6.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 681,
+    "name": "Robert R. Groezinger, NY Republican State",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Robert R. Groezinger, aide to NY Republican State Senator Serphin Maltese, was arrested for 25 counts of child pornography. Sentenced to 57 months.",
+    "sources": [
+      "https://www.justice.gov/archive/usao/nys/pressreleases/December09/groezingersentencepr.pdf"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 682,
+    "name": "Eric Feltner, M",
+    "position": [],
+    "crime": [],
+    "description": "Eric Feltner, Missouri Lt. Gov Peter Kinder’s former chief of staff pled guilty to a pornography misdemeanor. He showed porn to a child.",
+    "sources": [
+      "https://news.stlpublicradio.org/delete1/2008-08-07/kinders-former-chief-of-staff-guilty"
+    ],
+    "tags": [],
+    "year": 2008
+  },
+  {
+    "id": 683,
+    "name": "James Zedaker, associate dean of Florida State University’s",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "James Zedaker, associate dean of Florida State University’s School of Physician Assistant Practice and a registered Republican resigned after he was accused of sexual misconduct and creating a hostile work environment.",
+    "sources": [
+      "https://floridapolitics.com/archives/486821-fsu-associate-dean-james-zedaker-resigns-amid-sexual-misconduct-investigation/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 684,
+    "name": "Gary Lee Hansen, City",
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Gary Lee Hansen, former City Councilman of Sac City, IA was arrested and convicted for child sexual abuse.",
+    "sources": [
+      "https://siouxcityjournal.com/news/local/crime-and-courts/former-sac-city-councilman-pleads-not-guilty-to-sexually-abusing-children/article_dbfc1ea6-401d-5c08-aac5-e8b8f68af4e9.html"
     ],
     "tags": [
       "local official"
@@ -1714,73 +1731,149 @@
     "year": null
   },
   {
-    "id": 1478,
-    "name": "Dustin Weir, Somerset",
+    "id": 685,
+    "name": "Edward Burgess, City",
     "position": [
-      "law enforcement"
-    ],
-    "crime": [],
-    "description": "Dustin Weir, Somerset County (PA) Sheriff, has been charged with corruption of minors during a “Shop With a Cop” event at Walmart. Took 15 year-old girl to condom aisle, wanted to take her pic with condoms, added lewd comments.",
-    "sources": [
-      "https://www.attorneygeneral.gov/taking-action/somerset-county-sheriff-charged-with-corruption-of-minors-for-incident-during-shop-with-a-cop-event-at-walmart/"
-    ],
-    "tags": [
-      "law enforcement"
-    ],
-    "year": null
-  },
-  {
-    "id": 1479,
-    "name": "Dan McKeon, NE",
-    "position": [
-      "state legislator"
-    ],
-    "crime": [],
-    "description": "Dan McKeon, NE state senator, has been cited for public indecency after touching a staffer’s butt. He said it was a mistake in tone, not intent, whatever that means.",
-    "sources": [
-      "https://nebraskapublicmedia.org/en/news/news-articles/senator-accused-of-public-indecency-says-he-wont-resign/"
-    ],
-    "tags": [
-      "state legislator"
-    ],
-    "year": null
-  },
-  {
-    "id": 1480,
-    "name": "Bradley Douglas Quillen, a middle school teacher in",
-    "position": [
-      "educator"
+      "local official"
     ],
     "crime": [
-      "child exploitation",
-      "child pornography"
+      "assault",
+      "sexual assault"
     ],
-    "description": "Bradley Douglas Quillen, a middle school teacher in Arkansas, has been charged with 17 counts of possession of CSAM and 4 counts of engaging children in sexually explicit conduct. Additional federal charges include online enticement, sexual exploitation of child, receipt of CSAM",
+    "description": "Edward (Ted) Burgess, City Councilman in Carlisle, OH - sexual assault, felony gross imposition. 8 year-old girl",
     "sources": [
-      "https://www.4029tv.com/article/bradley-quillen-fbi/63108347"
+      "https://www.fox19.com/story/5307800/former-councilman-indicted-for-sex-charges/"
     ],
     "tags": [
-      "educator"
+      "local official"
     ],
     "year": null
   },
   {
-    "id": 1481,
-    "name": "James Wagner",
+    "id": 686,
+    "name": "Gerald Ackerman, Port Huron MI",
     "position": [
-      "law enforcement"
+      "local official"
     ],
-    "crime": [
-      "child pornography",
-      "sexual abuse"
-    ],
-    "description": "James Wagner is the former Sheriff of Dakota County, Nebraska. He has been charged with child abuse and possession of child sexual abuse material. He was texting a minor girl, parent notified police, police pretended to be girl to catch a predator.",
+    "crime": [],
+    "description": "Gerald ‘Ajax’ Ackerman, Port Huron MI Mayor was convicted of sexual contact with minors, three girls, 8, 11, and 12 years old",
     "sources": [
-      "https://www.siouxlandproud.com/news/local-news/former-dakota-county-sheriff-arrested-for-minor-sex-abuse-case/?nxsparam=1"
+      "https://www.thetimesherald.com/picture-gallery/news/2019/11/08/rise-and-fall-gerald-ajax-ackerman/2529262001/"
     ],
     "tags": [
-      "law enforcement"
+      "local official"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 687,
+    "name": "M",
+    "position": [
+      "congress"
+    ],
+    "crime": [],
+    "description": "Missouri Speaker of the House John Diehl resigned after revelation of his sending explicit text messages to a college intern.",
+    "sources": [
+      "https://www.stltoday.com/news/local/missouri-house-speaker-resigns-intern-breaks-silence/article_0f97c87f-dd66-5c1d-bf49-19ef3228ced1.htmlMaking",
+      "https://www.kansascity.com/news/politics-government/article217972975.html"
+    ],
+    "tags": [
+      "congress"
     ],
     "year": null
+  },
+  {
+    "id": 688,
+    "name": "Rep Speaker of NJ Assembly Garabed \"Chuck\"",
+    "position": [],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Former Rep Speaker of NJ Assembly Garabed \"Chuck\" Haytaian was accused of sexual assault. The State paid the accuser $175,000 to drop her claim.",
+    "sources": [
+      "https://www.nj.com/news/2012/09/nj_pays_millions_in_sex_harass.html"
+    ],
+    "tags": [],
+    "year": 2012
+  },
+  {
+    "id": 689,
+    "name": "MN Rep Jim Rostberg",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "GOP MN Rep Jim Rostberg was charged with three counts of criminal sexual conduct for fondling a minor. Charges were dropped in exchange for Rostberg admitting to the elements of the crime, including fondling the juvenile girl, but it was : X handled in juvenile court.",
+    "sources": [],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 690,
+    "name": "Col Allan, former editor of the rac",
+    "position": [],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Col Allan, former editor of the racist right-wing tabloid New York Post has been accused or sexual harassment and creating a hostile work environment at the Murdoch-owned paper by a former editor after she rejected his demand she sleep with him.",
+    "sources": [
+      "https://www.thedailybeast.com/ex-editor-michelle-gotthelf-sues-new-york-post-for-years-of-sex-based-harassment-and-abuse?ref=home"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 691,
+    "name": "Keith Poole, the current editor-in-chief fired Michelle",
+    "position": [],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Keith Poole, the current editor-in-chief fired Michelle Geithoff, the editor who was sexually harassed. She alleges this is in retaliation for complaining about being harassed.",
+    "sources": [
+      "https://lawandcrime.com/lawsuit/federal-lawsuit-accuses-new-york-post-former-and-current-editors-in-chief-of-sexual-harassment-and-retaliation/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 692,
+    "name": "Todd Wayne McFarland,",
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Todd Wayne McFarland, Mayor of Depew in Creek County, OK, was convicted of sexually assaulting a sixteen-year-old girl",
+    "sources": [
+      "https://www.oklahoman.com/article/2916724/depew-ex-mayor-convicted-of-sexual-assault"
+    ],
+    "tags": [
+      "local official"
+    ],
+    "year": null
+  },
+  {
+    "id": 693,
+    "name": "John Pfannenstiel",
+    "position": [
+      "local official"
+    ],
+    "crime": [],
+    "description": "Mayor John Pfannenstiel of Baseshor, KS, was accused of having sex with inmates while working as a prison guard. Found guilty, he received probation.",
+    "sources": [
+      "http://www.basehorinfo.com/news/2001/jul/18/pfannenstiel_receives_probation/"
+    ],
+    "tags": [
+      "local official"
+    ],
+    "year": 2001
   }
 ]

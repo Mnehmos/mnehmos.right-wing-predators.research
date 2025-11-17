@@ -23,6 +23,10 @@ def split_json_data(input_file='data.json', output_dir='data', entries_per_file=
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    # Sort data by ID for consistent ordering
+    print("Sorting entries by ID...")
+    data.sort(key=lambda x: x.get('id', 0))
+
     total_entries = len(data)
     num_files = math.ceil(total_entries / entries_per_file)
 

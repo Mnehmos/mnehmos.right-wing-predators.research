@@ -42,6 +42,26 @@
     "year": 2017
   },
   {
+    "id": 2,
+    "name": "Roy Moore",
+    "position": [
+      "judge",
+      "candidate"
+    ],
+    "crime": [
+      "sexual assault",
+      "assault"
+    ],
+    "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
+    "sources": [],
+    "tags": [
+      "judge",
+      "candidate",
+      "republican"
+    ],
+    "year": 2017
+  },
+  {
     "id": 3,
     "name": "Jim Jordan",
     "position": [
@@ -210,24 +230,25 @@
     "year": 2002
   },
   {
-    "id": 17,
-    "name": "Richard A. Delgaudio",
+    "id": 10,
+    "name": "Edison Misla Aldarondo",
     "position": [
-      "party official",
-      "fundraiser"
+      "state legislator"
     ],
     "crime": [
-      "child pornography",
-      "child sexual exploitation"
+      "rape",
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child pornography charges and paying two teenage girls to pose for sexual photos. He was convicted in 2003 and sentenced to prison.",
-    "sources": [],
+    "description": "Puerto Rico House Speaker Edison Misla Aldarondo was charged in 2002 with rape of a 17-year-old friend of his stepdaughter. He was convicted of attempted rape, sexual abuse of a minor, and four counts of lewd conduct for molesting his stepdaughter beginning when she was 9 years old. He was sentenced to 13 years in prison in 2004.",
+    "sources": [
+      "https://www.10tv.com/article/news/local/george-bell-sentenced-at-least-15-years-rape-charges/530-9fa4950b-46fa-4454-8f92-04458633e43e"
+    ],
     "tags": [
-      "party official",
-      "fundraiser",
+      "state legislator",
       "republican"
     ],
-    "year": 2003
+    "year": 2002
   },
   {
     "id": 11,
@@ -291,6 +312,26 @@
     "year": 1925
   },
   {
+    "id": 13,
+    "name": "Strom Thurmond",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse"
+    ],
+    "description": "U.S. Senator Strom Thurmond had sex with Carrie Butler, a 15-year-old Black housemaid working for his family, when he was 22 years old in 1925. Their daughter, Essie Mae Washington-Williams, was born in October 1925. Thurmond, who became known for pro-segregation politics, kept his daughter's existence secret until after his death in 2003.",
+    "sources": [
+      "https://www.tnonline.com/20240327/former-pastor-sentenced-for-sexually-assaulting-children/"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ],
+    "year": 1925
+  },
+  {
     "id": 14,
     "name": "Mike Hintz",
     "position": [
@@ -335,6 +376,28 @@
     "year": 2004
   },
   {
+    "id": 15,
+    "name": "Peter Dibble",
+    "position": [
+      "local official",
+      "state legislator"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "description": "Connecticut legislator and Stonington first selectman Peter Dibble pleaded no contest in 2004 to having an inappropriate relationship with a 13-year-old girl. He was charged with repeated acts of sexual misconduct with the girl starting when she was 10 years old, including French-kissing her on at least 40 occasions.",
+    "sources": [
+      "https://www.exploreclarion.com/2024/01/31/case-against-former-soccer-coach-sheriffs-deputy-who-allegedly-raped-young-girl-moves-forward-in-court-additional-charges-added/"
+    ],
+    "tags": [
+      "local official",
+      "state legislator",
+      "republican"
+    ],
+    "year": 2004
+  },
+  {
     "id": 16,
     "name": "Donald Lukens",
     "position": [
@@ -353,6 +416,26 @@
       "republican"
     ],
     "year": 1989
+  },
+  {
+    "id": 17,
+    "name": "Richard A. Delgaudio",
+    "position": [
+      "party official",
+      "fundraiser"
+    ],
+    "crime": [
+      "child pornography",
+      "child sexual exploitation"
+    ],
+    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child pornography charges and paying two teenage girls to pose for sexual photos. He was convicted in 2003 and sentenced to prison.",
+    "sources": [],
+    "tags": [
+      "party official",
+      "fundraiser",
+      "republican"
+    ],
+    "year": 2003
   },
   {
     "id": 17,
@@ -992,6 +1075,26 @@
     "description": "Nicholas Elizondo was the director of the 'Young Republican Federation.' He molested his own 6-year-old daughter and was convicted of child sexual abuse. Elizondo was sentenced to six years in prison and is required to register as a sex offender.",
     "sources": [
       "https://kfor.com/news/convicted-sex-offender-gets-sole-custody-of-6-year-old-daughter/"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": 2005
+  },
+  {
+    "id": 46,
+    "name": "Nicholas Elizondo",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "description": "Nicholas Elizondo was the director of the 'Young Republican Federation.' He molested his own 6-year-old daughter and was convicted of child sexual abuse. Elizondo was sentenced to six years in prison and is required to register as a sex offender.",
+    "sources": [
+      "https://www.king5.com/article/news/crime/aberdeen-council-member-child-rape-charge/281-c7567282-4265-4cb8-ae65-53319d33ca11"
     ],
     "tags": [
       "party official",
@@ -1738,6 +1841,26 @@
     "year": 2019
   },
   {
+    "id": 82,
+    "name": "Michael Flory",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape",
+      "sexual assault"
+    ],
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
+    "sources": [
+      "https://www.star-telegram.com/news/local/crime/article277827533.html"
+    ],
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
     "id": 83,
     "name": "Richard Gardner",
     "position": [
@@ -1970,135 +2093,5 @@
       "baptist"
     ],
     "year": 1999
-  },
-  {
-    "id": 94,
-    "name": "Kevin Alfred Strom",
-    "position": [
-      "activist",
-      "extremist leader"
-    ],
-    "crime": [
-      "child pornography"
-    ],
-    "description": "Kevin Alfred Strom is an American white nationalist, neo-Nazi, and white supremacist from Virginia who founded the National Vanguard in 2005, a breakaway group from the neo-Nazi National Alliance. On January 4, 2007, Strom was arrested in Greene County, Virginia on charges of possession of child pornography and witness tampering. According to reports, his wife caught him viewing child pornography on his home computer. At his plea hearing in January 2008, Strom pleaded guilty to one count of possession of child pornography in exchange for other charges being dropped. He was sentenced to 23 months in prison in April 2008. Following his arrest and conviction, the National Vanguard was disbanded. Strom had a documented long-time fascination with young girls and exploited his position within the extremist movement.",
-    "sources": [
-      "https://t.co/GS5vzrMHXG"
-    ],
-    "tags": [
-      "white supremacist",
-      "neo-nazi",
-      "extremist"
-    ],
-    "year": 2007
-  },
-  {
-    "id": 95,
-    "name": "Daniel Dean Thompson",
-    "position": [
-      "business owner"
-    ],
-    "crime": [
-      "child sexual exploitation",
-      "prostitution of minors",
-      "statutory rape"
-    ],
-    "description": "Daniel Dean Thompson, age 31, was arrested in 2008 on charges of unlawful sexual activity with minors and patronizing a minor prostitute. Thompson allegedly operated a film editing business that he claimed sanitized movies to remove objectionable content for family viewing, but the business served as a front for child sexual exploitation. According to police reports, Thompson and co-owner Isaac Lifferth allegedly paid two 14-year-old girls $20 each to perform oral sex. Police found a large quantity of pornographic movies inside the business along with a keg of beer, painkillers, and two cameras hooked up to a television. Thompson told the teen victims his film business was a cover for a pornography studio. He was charged with two counts of unlawful sexual activity with a minor and two counts of patronizing a prostitute. Note: Clean Flicks company later sued Thompson, claiming he falsely connected himself to their company and was never affiliated with it.",
-    "sources": [
-      "https://consumerist.com/2008/01/31/family-friendly-movie-censors-were-running-porn-business/"
-    ],
-    "tags": [
-      "business owner",
-      "child exploitation"
-    ],
-    "year": 2008
-  },
-  {
-    "id": 96,
-    "name": "Lawrence Scott Ward",
-    "position": [
-      "academic",
-      "professor"
-    ],
-    "crime": [
-      "child pornography production",
-      "child sexual abuse",
-      "importing child pornography"
-    ],
-    "description": "Lawrence Scott Ward was a 63-year-old professor at the Wharton School of Business at the University of Pennsylvania, known for expertise on media effects on children. In August 2006, authorities discovered child pornography in his luggage and laptop computer when he arrived at Dulles International Airport near Washington, D.C., on a flight from Brazil. A search of his office at Wharton's Huntsman Hall uncovered over 80 images of Ward and a young boy (no older than 15) in intimate situations, with the boy featured in a series of pornographic DVDs found in Ward's mail. Ward pleaded guilty on May 17, 2007 to producing child pornography for importation into the United States, receiving 15 years in prison and a $17,500 fine. On November 17, 2008, he pleaded guilty to all four Pennsylvania child pornography and sexual misconduct charges and received an additional 25-year sentence.",
-    "sources": [
-      "https://t.co/UBbrEeWISl"
-    ],
-    "tags": [
-      "professor",
-      "academic",
-      "pennsylvania"
-    ],
-    "year": 2006
-  },
-  {
-    "id": 97,
-    "name": "James E. West",
-    "position": [
-      "mayor",
-      "state legislator"
-    ],
-    "crime": [
-      "child sexual abuse"
-    ],
-    "description": "James E. West (Jim West) was a Republican politician from Spokane, Washington who served in the state legislature starting in 1982 and became mayor of Spokane in 2003. In May 2005, a local newspaper investigation published allegations that West had sexually molested young boys more than 20 years earlier, in the late 1970s or early 1980s. West was accused of abusing at least two young men during his time as a sheriff's deputy and while volunteering with the Boy Scouts as a troop leader. Although never formally charged, voters overwhelmingly recalled West from office in a special election on December 6, 2005, with 65% voting to oust him. His term ended on December 16, 2005. The FBI investigated the allegations but closed the case without taking action due to lack of sufficient evidence.",
-    "sources": [
-      "https://t.co/01rIrLsCdj"
-    ],
-    "tags": [
-      "politician",
-      "washington",
-      "republican"
-    ],
-    "year": 2005
-  },
-  {
-    "id": 98,
-    "name": "Steve Wilsey",
-    "position": [
-      "religious counselor",
-      "activist"
-    ],
-    "crime": [
-      "child sexual abuse",
-      "child molestation"
-    ],
-    "description": "Steve Wilsey was a youth counselor and activist affiliated with Focus on the Family, an evangelical Christian organization, and was reportedly a protégé of James Dobson, the founder of Focus on the Family. Wilsey was charged with and convicted of sexual assault after molesting an 8-year-old boy. His case represented a significant scandal for Focus on the Family and exposed the organization's vulnerability regarding child safety within its youth counseling programs.",
-    "sources": [
-      "https://capitolhillblue.com/node/982NewspaperAugust"
-    ],
-    "tags": [
-      "religious organization",
-      "child abuse"
-    ],
-    "year": null
-  },
-  {
-    "id": 99,
-    "name": "Paul Williams",
-    "position": [
-      "religious leader",
-      "church official"
-    ],
-    "crime": [
-      "child sexual abuse",
-      "child molestation"
-    ],
-    "description": "Paul Williams was a minister of prayer and special projects at Bellevue Baptist Church, a major Southern Baptist megachurch. In 2006, an internal church investigation revealed that Williams had sexually abused his son over a period of 12-18 months, beginning in 1990 when his son was an adolescent. Williams admitted to and was convicted of the sexual abuse. According to the investigation, church leaders including the current pastor, Reverend Steve Gaines, learned about the abuse but did not immediately report it to authorities. The abuse only came to light in December 2005 after Williams' son prodded Pastor Gaines to explain why his father was still allowed to serve as a minister. Williams was subsequently fired from his position at the church.",
-    "sources": [
-      "https://t.co/1E5yrAUNp2",
-      "https://baptistnews.com/article/bellevue-report-assistant-pastor-guilty-of-sex-abuse-against-son/"
-    ],
-    "tags": [
-      "religious leader",
-      "baptist",
-      "child abuse"
-    ],
-    "year": 1990
   }
 ]
