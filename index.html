@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right-Wing Misconduct Database</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .controls {
+            padding: 30px;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .search-bar {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 1rem;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            transition: border-color 0.3s;
+        }
+
+        .search-bar:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .filters {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .filter-group label {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #495057;
+        }
+
+        select {
+            padding: 10px 15px;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.3s;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .stats {
+            padding: 20px 30px;
+            background: #e7f3ff;
+            border-bottom: 2px solid #bee5eb;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .stat-item {
+            font-size: 1rem;
+            color: #004085;
+        }
+
+        .stat-item strong {
+            font-size: 1.5rem;
+            color: #002752;
+        }
+
+        .entries {
+            padding: 30px;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        .entry {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 20px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .entry:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .entry-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .entry-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1e3c72;
+        }
+
+        .entry-id {
+            background: #6c757d;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+
+        .entry-positions {
+            margin-bottom: 12px;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-right: 8px;
+            margin-bottom: 8px;
+        }
+
+        .badge-position {
+            background: #17a2b8;
+            color: white;
+        }
+
+        .badge-crime {
+            background: #dc3545;
+            color: white;
+        }
+
+        .badge-tag {
+            background: #ffc107;
+            color: #000;
+        }
+
+        .entry-description {
+            margin: 15px 0;
+            line-height: 1.8;
+            color: #495057;
+            font-size: 1rem;
+        }
+
+        .entry-sources {
+            margin-top: 15px;
+        }
+
+        .entry-sources h4 {
+            font-size: 0.875rem;
+            color: #6c757d;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .entry-sources a {
+            display: block;
+            color: #667eea;
+            text-decoration: none;
+            margin-bottom: 5px;
+            font-size: 0.9rem;
+            word-break: break-all;
+        }
+
+        .entry-sources a:hover {
+            text-decoration: underline;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6c757d;
+        }
+
+        .no-results h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #667eea;
+            font-size: 1.2rem;
+        }
+
+        footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #6c757d;
+            font-size: 0.9rem;
+            border-top: 2px solid #e9ecef;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+
+            .entry-name {
+                font-size: 1.2rem;
+            }
+
+            .stats {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Right-Wing Misconduct Database</h1>
+            <p>A comprehensive database of documented allegations and convictions</p>
+        </header>
+
+        <div class="controls">
+            <input
+                type="text"
+                id="searchBar"
+                class="search-bar"
+                placeholder="Search by name, description, crime, or position..."
+            >
+
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="crimeFilter">Filter by Crime:</label>
+                    <select id="crimeFilter">
+                        <option value="">All Crimes</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="positionFilter">Filter by Position:</label>
+                    <select id="positionFilter">
+                        <option value="">All Positions</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="tagFilter">Filter by Tag:</label>
+                    <select id="tagFilter">
+                        <option value="">All Tags</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                Total Entries: <strong id="totalCount">0</strong>
+            </div>
+            <div class="stat-item">
+                Displayed: <strong id="displayedCount">0</strong>
+            </div>
+        </div>
+
+        <div class="entries" id="entriesContainer">
+            <div class="loading">Loading database...</div>
+        </div>
+
+        <footer>
+            <p>Data sourced from publicly available information and court records. Last updated: <span id="lastUpdated"></span></p>
+        </footer>
+    </div>
+
+    <script>
+        let allData = [];
+        let filteredData = [];
+
+        // Load data from JSON file
+        async function loadData() {
+            try {
+                const response = await fetch('data.json');
+                allData = await response.json();
+                filteredData = allData;
+
+                populateFilters();
+                updateStats();
+                displayEntries(filteredData);
+                updateLastModified();
+            } catch (error) {
+                document.getElementById('entriesContainer').innerHTML = `
+                    <div class="no-results">
+                        <h3>Error loading data</h3>
+                        <p>Please ensure data.json is in the same directory.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Populate filter dropdowns
+        function populateFilters() {
+            const crimes = new Set();
+            const positions = new Set();
+            const tags = new Set();
+
+            allData.forEach(entry => {
+                entry.crime?.forEach(c => crimes.add(c));
+                entry.position?.forEach(p => positions.add(p));
+                entry.tags?.forEach(t => tags.add(t));
+            });
+
+            populateSelect('crimeFilter', Array.from(crimes).sort());
+            populateSelect('positionFilter', Array.from(positions).sort());
+            populateSelect('tagFilter', Array.from(tags).sort());
+        }
+
+        function populateSelect(selectId, options) {
+            const select = document.getElementById(selectId);
+            options.forEach(option => {
+                const opt = document.createElement('option');
+                opt.value = option;
+                opt.textContent = option.charAt(0).toUpperCase() + option.slice(1);
+                select.appendChild(opt);
+            });
+        }
+
+        // Display entries
+        function displayEntries(data) {
+            const container = document.getElementById('entriesContainer');
+
+            if (data.length === 0) {
+                container.innerHTML = `
+                    <div class="no-results">
+                        <h3>No results found</h3>
+                        <p>Try adjusting your search or filters.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = data.map(entry => `
+                <div class="entry">
+                    <div class="entry-header">
+                        <div class="entry-name">${escapeHtml(entry.name)}</div>
+                        <div class="entry-id">#${entry.id}</div>
+                    </div>
+
+                    ${entry.position && entry.position.length > 0 ? `
+                        <div class="entry-positions">
+                            ${entry.position.map(p => `<span class="badge badge-position">${escapeHtml(p)}</span>`).join('')}
+                        </div>
+                    ` : ''}
+
+                    ${entry.crime && entry.crime.length > 0 ? `
+                        <div class="entry-crimes">
+                            ${entry.crime.map(c => `<span class="badge badge-crime">${escapeHtml(c)}</span>`).join('')}
+                        </div>
+                    ` : ''}
+
+                    ${entry.tags && entry.tags.length > 0 ? `
+                        <div class="entry-tags">
+                            ${entry.tags.map(t => `<span class="badge badge-tag">${escapeHtml(t)}</span>`).join('')}
+                        </div>
+                    ` : ''}
+
+                    <div class="entry-description">
+                        ${escapeHtml(entry.description)}
+                    </div>
+
+                    ${entry.sources && entry.sources.length > 0 ? `
+                        <div class="entry-sources">
+                            <h4>Sources:</h4>
+                            ${entry.sources.map(s => `<a href="${escapeHtml(s)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s)}</a>`).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+            `).join('');
+        }
+
+        // Filter and search
+        function applyFilters() {
+            const searchTerm = document.getElementById('searchBar').value.toLowerCase();
+            const crimeFilter = document.getElementById('crimeFilter').value;
+            const positionFilter = document.getElementById('positionFilter').value;
+            const tagFilter = document.getElementById('tagFilter').value;
+
+            filteredData = allData.filter(entry => {
+                // Search filter
+                const matchesSearch = !searchTerm ||
+                    entry.name?.toLowerCase().includes(searchTerm) ||
+                    entry.description?.toLowerCase().includes(searchTerm) ||
+                    entry.crime?.some(c => c.toLowerCase().includes(searchTerm)) ||
+                    entry.position?.some(p => p.toLowerCase().includes(searchTerm));
+
+                // Crime filter
+                const matchesCrime = !crimeFilter || entry.crime?.includes(crimeFilter);
+
+                // Position filter
+                const matchesPosition = !positionFilter || entry.position?.includes(positionFilter);
+
+                // Tag filter
+                const matchesTag = !tagFilter || entry.tags?.includes(tagFilter);
+
+                return matchesSearch && matchesCrime && matchesPosition && matchesTag;
+            });
+
+            displayEntries(filteredData);
+            updateStats();
+        }
+
+        // Update statistics
+        function updateStats() {
+            document.getElementById('totalCount').textContent = allData.length;
+            document.getElementById('displayedCount').textContent = filteredData.length;
+        }
+
+        // Update last modified date
+        function updateLastModified() {
+            const date = new Date();
+            document.getElementById('lastUpdated').textContent = date.toLocaleDateString();
+        }
+
+        // Escape HTML to prevent XSS
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Event listeners
+        document.getElementById('searchBar').addEventListener('input', applyFilters);
+        document.getElementById('crimeFilter').addEventListener('change', applyFilters);
+        document.getElementById('positionFilter').addEventListener('change', applyFilters);
+        document.getElementById('tagFilter').addEventListener('change', applyFilters);
+
+        // Initialize
+        loadData();
+    </script>
+</body>
+</html>
