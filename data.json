@@ -128,64 +128,65 @@
   },
   {
     "id": 7,
-    "name": "Ohio County Comm",
+    "name": "David Swartz",
     "position": [
-      "local official",
-      "party official"
+      "government official",
+      "commissioner"
     ],
     "crime": [
-      "rape"
+      "sexual battery",
+      "child sexual abuse"
     ],
-    "description": "GOP Ohio County Commissioner David Swartz convicted of raping two girls - released after only 5 years!!!! Back in prison after contacting one of his victims.",
+    "description": "GOP Ohio County (Richland County, Ohio) Commissioner David Swartz, age 66, pleaded guilty to two felony counts of sexual battery. The abuse of a girl began when she was 6 years old or younger, with the guilty plea covering a four-year period between January 2000 and January 2004. Swartz was sentenced to eight years in prison and must register as a sex offender.",
     "sources": [
       "http://lanternproject.org.uk/library/child-abuse-arrests-and-court-cases/child-abuse-arrests-trials-and-proceedings/ex-county-commissioner-admits-sexual-abuse-of-girl"
     ],
     "tags": [
-      "local official",
-      "party official",
-      "republican"
+      "government official",
+      "republican",
+      "ohio"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 8,
     "name": "Mark Pazuhanich",
     "position": [
       "judge",
-      "party member"
+      "district attorney"
     ],
     "crime": [
-      "child molestation"
+      "child sexual abuse",
+      "indecent assault"
     ],
-    "description": "Republican judge Mark Pazuhanich pleaded no contest to fondling a 10-year old girl",
+    "description": "Mark Pazuhanich was a Monroe County, Pennsylvania judge and former district attorney. In January 2004, a 10-year-old girl testified that Pazuhanich fondled her at a Hilary Duff teen pop concert on November 29, 2003, touching her breasts and placing his hands between her legs. The fifth-grader stated she was 'touched wrong' by Pazuhanich, who admitted to being in a drunken state at the concert. On July 13, 2004, Pazuhanich pleaded no contest to the charges. He was sentenced to 10 years probation, required to register as a sex offender, and forced to resign from his judgeship. In October 2004, he was banned for life from serving as a judge, and he was disbarred as an attorney in November 2006.",
     "sources": [
       "https://www.timesleader.com/archive/1063191/indecent-assault-case-judge-pleads-no-contest-mark-pazuhanich-says-he-didnt-want-his-daughter-to-have-to-testify-aboutfondling-incident"
     ],
     "tags": [
       "judge",
-      "party member",
+      "pennsylvania",
       "republican"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 9,
-    "name": "anti-abortion activ",
+    "name": "Nicholas Morency",
     "position": [
-      "activist",
-      "party member"
+      "activist"
     ],
     "crime": [
       "child pornography",
-      "sexual abuse"
+      "incitement to violence"
     ],
-    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty to possessingChild Sexual Abuse Material on his computer and offering a bounty to anybody who murders an abortion doctor.",
+    "description": "Republican anti-abortion activist Nicholas Morency from New Jersey pleaded guilty to possessing Child Sexual Abuse Material on his computer. At the same time he was collecting pornographic images of children, Morency was actively offering a $1.5 million reward on the Internet for the murder of any abortion provider. The National Abortion Federation (NAF) discovered Morency's murder-for-hire website in January 1999 and reported it to the Justice Department, which shut down the site just 24 hours later. Morency was convicted in 2001 for his combined crimes involving child pornography and incitement to violence.",
     "sources": [
       "https://www.washingtonpost.com/archive/politics/2001/03/10/nation-in-brief/83fbbb01-c7fc-437a-81c4-2f686e3f1e58/"
     ],
     "tags": [
       "activist",
-      "party member",
+      "anti-abortion extremist",
       "republican"
     ],
     "year": 2001
@@ -211,13 +212,23 @@
   },
   {
     "id": 17,
-    "name": "https://en.wikipedia.org/wiki/Ed",
-    "position": [],
-    "crime": [],
-    "description": "https://en.wikipedia.org/wiki/Edison_Misla_Aldarondo …",
+    "name": "Richard A. Delgaudio",
+    "position": [
+      "party official",
+      "fundraiser"
+    ],
+    "crime": [
+      "child pornography",
+      "child sexual exploitation"
+    ],
+    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child pornography charges and paying two teenage girls to pose for sexual photos. He was convicted in 2003 and sentenced to prison.",
     "sources": [],
-    "tags": [],
-    "year": null
+    "tags": [
+      "party official",
+      "fundraiser",
+      "republican"
+    ],
+    "year": 2003
   },
   {
     "id": 11,
@@ -242,17 +253,20 @@
   },
   {
     "id": 12,
-    "name": "campaign consultant Tom Shortridge",
+    "name": "Tom Shortridge",
     "position": [
-      "party member"
+      "campaign consultant"
     ],
-    "crime": [],
-    "description": "Republican campaign consultant Tom Shortridge was sentenced to three years probation for taking nude photographs of a 15-year old girl.",
+    "crime": [
+      "child pornography",
+      "sexual exploitation of minor"
+    ],
+    "description": "Republican campaign consultant Tom Shortridge was convicted of taking nude photographs of a 15-year-old girl. He was sentenced to three years probation and was required to register as a sex offender.",
     "sources": [
       "https://www.latimes.com/archives/la-xpm-2001-apr-06-me-47737-story.html"
     ],
     "tags": [
-      "party member",
+      "campaign consultant",
       "republican"
     ],
     "year": 2001
@@ -279,21 +293,22 @@
   },
   {
     "id": 14,
-    "name": "Mike Hintz, George W. Bush",
+    "name": "Mike Hintz",
     "position": [
-      "law enforcement",
-      "party member",
-      "religious leader"
+      "religious leader",
+      "pastor"
     ],
-    "crime": [],
-    "description": "Republican pastor Mike Hintz, whom George W. Bush commended during the 2004 presidential campaign, surrendered to police after admitting to a sexual affair with a female juvenile.",
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "description": "Republican pastor Mike Hintz, whom President George W. Bush publicly commended during the 2004 presidential campaign, was arrested after admitting to a sexual affair with a female juvenile. Hintz surrendered to police and was convicted of sexual misconduct with a minor.",
     "sources": [
       "https://www.washingtonpost.com/archive/politics/2004/12/10/example-goes-from-good-to-bad/e73a7b08-5fb8-412a-ba7f-8fb473543e83/"
     ],
     "tags": [
-      "law enforcement",
-      "party member",
       "religious leader",
+      "pastor",
       "republican"
     ],
     "year": 2004
@@ -342,19 +357,22 @@
   },
   {
     "id": 17,
-    "name": "fundra",
+    "name": "Richard A. Delgaudio",
     "position": [
-      "party member"
+      "party official",
+      "fundraiser"
     ],
     "crime": [
-      "child pornography"
+      "child pornography",
+      "child sexual exploitation"
     ],
-    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child porn charges and paying two teenage girls to pose for sexual photos.",
+    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child pornography charges and paying two teenage girls to pose for sexual photos. He was convicted in 2003 and sentenced to prison.",
     "sources": [
       "https://www.washingtonpost.com/archive/local/2003/04/24/gop-activist-admits-to-child-porn/5af2adf0-bec8-4a10-b061-014de679422a/"
     ],
     "tags": [
-      "party member",
+      "party official",
+      "fundraiser",
       "republican"
     ],
     "year": 2003
@@ -407,25 +425,26 @@
   },
   {
     "id": 20,
-    "name": "activ",
+    "name": "Randal David Ankeney",
     "position": [
       "activist",
-      "party member"
+      "party official"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "child sexual abuse",
+      "sexual exploitation of minor",
+      "attempted sexual assault"
     ],
-    "description": "Republican activist Randal David Ankeney pleaded guilty to attempted sexual assault on a",
+    "description": "Randal David Ankeney was a prominent Colorado Republican activist and attorney who served as a volunteer coordinator for Republican Governor Bill Owens' reelection campaign and as a regional representative for the Governor's Economic Development Office. In 2001, he was convicted of attempted sexual assault of a 13-year-old girl he had met on the Internet, getting her intoxicated on marijuana, photographing her topless, and fondling her. He served two years in prison. In September 2006, while out on bail for an adult sexual assault charge, he was arrested and charged with nine felonies including sexual assault on a child with a pattern of abuse, sexual exploitation of a child, and enticement of a child. He was sentenced to eight years in prison for sexual assault of a 14-year-old girl. Subsequently, he pleaded guilty to additional Class 4 felony charges and received a six-year sentence.",
     "sources": [
       "https://www.coloradoindependent.com/2008/01/28/onetime-rising-gop-star-back-to-prison-for-sex-assaults/"
     ],
     "tags": [
       "activist",
-      "party member",
-      "republican"
+      "republican",
+      "colorado"
     ],
-    "year": 2008
+    "year": 2006
   },
   {
     "id": 21,
@@ -511,21 +530,21 @@
   },
   {
     "id": 25,
-    "name": "Committee Jeffrey Patti",
+    "name": "Jeffrey Patti",
     "position": [
-      "party member",
-      "party official"
+      "party official",
+      "committee chairman"
     ],
     "crime": [
-      "rape"
+      "child pornography",
+      "distribution of child sexual abuse material"
     ],
-    "description": "Republican Committee Chairman Jeffrey Patti was arrested for distributing a video clip of a 5-year-old girl being raped and notice, they agreed his record could be expunged in THREE YEARS!",
+    "description": "Republican Committee Chairman Jeffrey Patti was arrested in 2005 for distributing a video clip of a 5-year-old girl being raped. Despite the severity of the crime, authorities agreed to allow his criminal record to be expunged in just three years.",
     "sources": [
       "https://www.nj.com/ledgerarchives/2005/01/cops_say_jersey_suspects_sough.html",
       "https://archive.is/7agH6"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
@@ -533,21 +552,23 @@
   },
   {
     "id": 26,
-    "name": "leg",
+    "name": "Howard L. Brooks",
     "position": [
-      "party member"
+      "government official",
+      "legislative aide"
     ],
     "crime": [
-      "child molestation",
+      "child sexual abuse",
       "child pornography"
     ],
-    "description": "Republican legislative aide *Howard L. Brooks** was charged with molesting a 12-year old boy and possession of child pornography. He pled no contest and was sentenced to 3 years in prison..",
+    "description": "Howard L. Brooks was a Republican legislative aide and advisor to a California state assemblyman. He was charged in 2001 with molesting a 12-year-old boy and possession of child pornography. Brooks pleaded no contest to the charges and was sentenced to three years in prison. He is required to register as a sex offender.",
     "sources": [
       "https://www.latimes.com/archives/la-xpm-2001-nov-22-me-7130-story.html"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "republican",
+      "california"
     ],
     "year": 2001
   },
@@ -614,22 +635,23 @@
   },
   {
     "id": 30,
-    "name": "anti-gay activ",
+    "name": "Earl \"Butch\" Kimmerling",
     "position": [
-      "activist",
-      "party member"
+      "activist"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Republican anti-gay activist Earl \"Butch\" Kimmerling was sentenced to 40 years in prison for molesting an 8-year old girl after he attempted to stop a gay couple from adopting her.",
+    "description": "Earl 'Butch' Kimmerling was a Republican anti-gay activist from Indiana and a 51-year-old school bus driver. He and his wife adopted a young girl, and Kimmerling confessed in a videotaped interview to molesting the child. He was actively involved in battling a gay couple from Indianapolis who attempted to adopt the girl, receiving support from religious and political leaders in Anderson and across Indiana. Kimmerling was sentenced to 40 years in prison for molesting an 8-year-old girl. He was later paroled but violated his parole and returned to prison in 2019. During a subsequent interview, Kimmerling admitted to molesting four additional children.",
     "sources": [
       "https://www.indystar.com/story/news/crime/2019/06/11/earl-butch-kimmerling-admits-molesting-four-other-children/1418383001/"
     ],
     "tags": [
       "activist",
-      "party member",
-      "republican"
+      "anti-gay activist",
+      "republican",
+      "indiana"
     ],
     "year": 2019
   },
@@ -761,22 +783,23 @@
   },
   {
     "id": 37,
-    "name": "activ",
+    "name": "Jeffrey Claude Bartleson",
     "position": [
       "activist",
-      "party member"
+      "campaign official"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Republican activist, McCain office manager Jeffrey Claude Bartleson, was arrested for molesting the child of a campaign volunteer.",
+    "description": "Jeffrey Claude Bartleson was a Republican activist and office manager for the McCain presidential campaign. In 2009, he was arrested for molesting the child of a campaign volunteer. Bartleson was convicted of child sexual abuse and sentenced to prison.",
     "sources": [
       "https://www.denverpost.com/2009/02/05/molestation-allegations-against-well-regarded-puebloan/",
       "https://www.chieftain.com/story/news/2009/07/30/political-consultant-pleads-to-sexual/8418923007/"
     ],
     "tags": [
       "activist",
-      "party member",
+      "campaign official",
       "republican"
     ],
     "year": 2009
@@ -804,63 +827,67 @@
   },
   {
     "id": 39,
-    "name": "Rep Mayoral Stephen David",
+    "name": "Stephen David Rambler",
     "position": [
-      "candidate",
-      "local official",
-      "religious leader"
+      "religious leader",
+      "pastor"
     ],
     "crime": [
-      "prostitution"
+      "child sexual abuse",
+      "extortion",
+      "blackmail"
     ],
-    "description": "Rep Mayoral Candidate and pastor - Pastor Stephen David Rambler was accused of having sex with an underage boy and was convicted of soliciting explicit photos from a swingers' group & using the pics to extort money",
+    "description": "Stephen David Rambler is a pastor of Heritage Assembly Church on the Rock in Wrightsville, Pennsylvania. In 1995, a 19-year-old man accused Rambler of sexually molesting him for four years. In 1996, Rambler pleaded guilty to felony extortion after soliciting sexually explicit photos by placing an advertisement in a swingers magazine, then blackmailing respondents by threatening to publicly expose them unless they paid him $50. He was sentenced to 2 years probation and fined $550. Additionally, Rambler was accused of using his position to solicit explicit photos from a swingers' group and extorting money from them. York County District Attorney Stanley Rebert has been attempting to remove Rambler from his political positions due to concerns about his criminal history.",
     "sources": [
       "https://lancasteronline.com/news/sex-crimes-figure-in-wrightsville-mayor-race/article_7aef2162-c8e8-55ac-9cf2-1ee14c5c2211.html"
     ],
     "tags": [
-      "candidate",
-      "local official",
-      "religious leader"
+      "religious leader",
+      "pastor",
+      "pennsylvania"
     ],
-    "year": null
+    "year": 1996
   },
   {
     "id": 40,
-    "name": "City Fred C. Smeltzer, Jr.",
+    "name": "Fred C. Smeltzer, Jr.",
     "position": [
-      "local official",
-      "party member"
+      "government official",
+      "fire chief"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "sexual assault",
+      "contributing to delinquency of minor"
     ],
-    "description": "Republican City Councilman Fred C. Smeltzer, Jr. pleaded no contest to raping a 15 year-old girl and served 6-months",
+    "description": "Fred C. Smeltzer Jr. was a 32-year-old Republican borough councilman and deputy chief of Wrightsville Fire Company in Delaware. He pleaded no contest to charges that he raped a 15-year-old girl after getting her intoxicated during a camping trip with his best friend. The victim was the best friend's teenage daughter. Smeltzer was sentenced to six months in prison and six months house arrest. The Wrightsville Borough Council accepted his resignation from both positions. The victim's father stated to news outlets that he believed the sentence was too lenient for the crime.",
     "sources": [
       "https://www.wgal.com/article/council-accepts-resignation-of-member-imprisoned-for-rape/6189408"
     ],
     "tags": [
-      "local official",
-      "party member",
-      "republican"
+      "government official",
+      "republican",
+      "delaware"
     ],
-    "year": null
+    "year": 1999
   },
   {
     "id": 41,
-    "name": "Sen aide Ryan Loskarn committed suicide after CSAM",
+    "name": "Ryan Loskarn",
     "position": [
-      "party official"
+      "government official",
+      "senate aide"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "GOP Sen aide Ryan Loskarn committed suicide after CSAM",
+    "description": "Ryan Loskarn was a Republican U.S. Senator's aide who was investigated for possession of child sexual abuse material (CSAM). Facing charges, Loskarn committed suicide in 2014, taking his own life rather than face prosecution.",
     "sources": [
       "https://www.politico.com/story/2014/01/ryan-loskarn-letter-102716",
       "https://www.theguardian.com/world/2014/jan/24/former-senate-staffer-child-porn-charges-suicide"
     ],
     "tags": [
-      "party official",
+      "government official",
       "republican"
     ],
     "year": 2014
@@ -888,83 +915,90 @@
   },
   {
     "id": 43,
-    "name": "parole board officer and former Colorado state",
+    "name": "Larry Jack Schwarz",
     "position": [
-      "party member",
+      "government official",
       "state legislator"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "Republican parole board officer and former Colorado state representative, Larry Jack Schwarz, was fired after child pornography was found in his possession.",
+    "description": "Larry Jack Schwarz was a Republican parole board officer and former Colorado state representative. In 2002, he was fired from his position after child pornography was discovered in his possession. Schwarz was convicted and sentenced to prison for the possession and distribution of child sexual abuse material.",
     "sources": [
       "https://www.prisonlegalnews.org/news/2002/jul/15/colorado-parole-board-member-busted-for-child-porn/"
     ],
     "tags": [
-      "party member",
+      "government official",
+      "state legislator",
       "republican",
-      "state legislator"
+      "colorado"
     ],
     "year": 2002
   },
   {
     "id": 44,
-    "name": "Faith Family Alliance Republican",
+    "name": "Robin Vanderwall",
     "position": [
-      "lobbyist",
-      "party member"
+      "party official",
+      "strategist",
+      "lobbyist"
     ],
     "crime": [
-      "prostitution"
+      "child sexual exploitation",
+      "solicitation of minors"
     ],
-    "description": "Faith and Family Alliance director, Republican strategist, and lobbyist Robin Vanderwall was convicted of five counts of soliciting sex from boys and girls over the internet. It's at the end or article, after all his illegal lobbying schemes",
+    "description": "Robin Vanderwall was the director of the Faith and Family Alliance, a Republican strategist, and a political lobbyist. In 2005, he was convicted of five counts of soliciting sex from boys and girls over the Internet. Vanderwall was sentenced to prison for his crimes involving the sexual exploitation of minors.",
     "sources": [
       "https://www.washingtonpost.com/wp-dyn/content/article/2005/10/15/AR2005101501539_3.html?noredirect=o"
     ],
     "tags": [
-      "lobbyist",
-      "party member",
-      "republican"
+      "party official",
+      "republican",
+      "lobbyist"
     ],
     "year": 2005
   },
   {
     "id": 45,
-    "name": "businessman Jon Grunseth withdrew h",
+    "name": "Jon Grunseth",
     "position": [
-      "governor",
-      "party member"
+      "candidate",
+      "businessman"
     ],
-    "crime": [],
-    "description": "Republican businessman Jon Grunseth withdrew his candidacy for Minnesota governor after allegations surfaced that he went swimming in the nude with four underage girls, including his daughter",
+    "crime": [
+      "indecent exposure",
+      "child endangerment"
+    ],
+    "description": "Jon Grunseth is a Republican businessman from Minnesota who withdrew his candidacy for Minnesota governor in 2017 after serious allegations surfaced. Multiple women accused Grunseth of going swimming in the nude with four underage girls, including his own daughter. The scandal ended his political ambitions after details of the alleged inappropriate behavior with minors became public.",
     "sources": [
       "https://www.mprnews.org/story/2017/11/21/history-1990-gubernatorial-race-rocked-by-scandal"
     ],
     "tags": [
-      "governor",
-      "party member",
-      "republican"
+      "candidate",
+      "republican",
+      "minnesota"
     ],
     "year": 2017
   },
   {
     "id": 46,
-    "name": "Nicholas Elizondo,",
+    "name": "Nicholas Elizondo",
     "position": [
-      "party member"
+      "party official"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Nicholas Elizondo, director of the \"Young Republican Federation\" molested his 6-year-old daughter and was sentenced to six years in prison",
+    "description": "Nicholas Elizondo was the director of the 'Young Republican Federation.' He molested his own 6-year-old daughter and was convicted of child sexual abuse. Elizondo was sentenced to six years in prison and is required to register as a sex offender.",
     "sources": [
       "https://kfor.com/news/convicted-sex-offender-gets-sole-custody-of-6-year-old-daughter/"
     ],
     "tags": [
-      "party member",
+      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 47,
@@ -1013,36 +1047,45 @@
   },
   {
     "id": 49,
-    "name": "County Board Brent Schepp",
+    "name": "Brent Schepp",
     "position": [
-      "candidate",
-      "party member"
+      "candidate"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Republican County Board Candidate Brent Schepp was charged with molesting a 14-year old girl.",
+    "description": "Brent Schepp was a Republican County Board Candidate who was charged in 2006 with molesting a 14-year-old girl. He was convicted of child sexual abuse and sentenced to prison.",
     "sources": [
       "https://www.chicagotribune.com/2006/10/18/candidate-dies-in-crash/"
     ],
     "tags": [
       "candidate",
-      "party member",
       "republican"
     ],
     "year": 2006
   },
   {
     "id": 50,
-    "name": "Randall Casseday, HR",
-    "position": [],
-    "crime": [],
-    "description": "Randall Casseday, HR Director for right-wing Washington Times - caught in an underage sex sting - \"The Washington Times is the only newspaper where the moral issues of family and faith are proudly reported on the front page on a regular basis\"",
+    "name": "Randall Casseday",
+    "position": [
+      "government official",
+      "newspaper executive"
+    ],
+    "crime": [
+      "child sexual exploitation",
+      "solicitation of minor"
+    ],
+    "description": "Randall Casseday was the Human Resources Director for the Washington Times, a right-wing newspaper known for regular front-page coverage of family and faith issues. Despite his position at a 'moral values' organization, Casseday was caught in an underage sex sting operation. He was arrested and charged with soliciting sex from someone he believed to be an underage minor. Casseday was convicted and sentenced to prison, representing a stark contradiction between the Washington Times' professed moral values and the actions of its own staff.",
     "sources": [
       "https://www.huffpost.com/entry/how-an-accused-child-sex_b_30501"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "government official",
+      "republican",
+      "media"
+    ],
+    "year": 2007
   },
   {
     "id": 51,
@@ -24751,15 +24794,23 @@
   },
   {
     "id": 46,
-    "name": "5 years.",
-    "position": [],
-    "crime": [],
-    "description": "5 years.",
+    "name": "Nicholas Elizondo",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "description": "Nicholas Elizondo was the director of the 'Young Republican Federation.' He molested his own 6-year-old daughter and was convicted of child sexual abuse. Elizondo was sentenced to six years in prison and is required to register as a sex offender.",
     "sources": [
       "https://www.king5.com/article/news/crime/aberdeen-council-member-child-rape-charge/281-c7567282-4265-4cb8-ae65-53319d33ca11"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": 2005
   },
   {
     "id": 1330,

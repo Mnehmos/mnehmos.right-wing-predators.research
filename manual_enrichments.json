@@ -4,8 +4,15 @@
     "name": "Roy Moore",
     "year": 2017,
     "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
-    "position": ["judge", "candidate"],
-    "tags": ["judge", "candidate", "republican"]
+    "position": [
+      "judge",
+      "candidate"
+    ],
+    "tags": [
+      "judge",
+      "candidate",
+      "republican"
+    ]
   },
   {
     "id": 4,
@@ -19,433 +26,1252 @@
     "description": "Cobb County GOP Chairman Joseph Russell Dendy pleaded guilty in 2017 to 13 charges including child molestation, enticing a child for indecent purposes, and aggravated sexual battery. He received a life sentence with 30 years to serve. The crimes occurred from 2004 to 2011. He was arrested in May 2016."
   },
   {
-    "id": 19,
-    "name": "Ralph Shortey",
-    "description": "Oklahoma state senator and Donald Trump's 2016 Oklahoma campaign chair Ralph Shortey was arrested in March 2017 after being found in a motel room with a 17-year-old boy. He pleaded guilty in 2017 to child sex trafficking and was sentenced to 15 years in federal prison in 2018.",
-    "position": ["state legislator", "party official"],
-    "crime": ["child exploitation", "sexual trafficking"],
-    "tags": ["state legislator", "party official", "republican", "maga"]
+    "id": 6,
+    "name": "Howard Scott Heldreth",
+    "year": 1992,
+    "description": "Anti-abortion and anti-gay activist Howard Scott Heldreth was charged in 1992 with rape and kidnapping of a 16-year-old girl. He pleaded guilty to sexual battery and was sentenced to probation and required to register as a sex offender in Florida.",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse"
+    ],
+    "tags": [
+      "activist",
+      "republican"
+    ]
   },
   {
-    "id": 22,
-    "name": "Mark Foley",
-    "year": 2006,
-    "description": "U.S. Representative Mark Foley (R-FL) resigned from Congress on September 29, 2006, after it was revealed he had sent sexually explicit instant messages and emails to teenage boys who had served as congressional pages. The scandal broke less than six weeks before the 2006 midterm elections.",
-    "position": ["congress"],
-    "crime": ["sexual harassment", "child exploitation"],
-    "tags": ["congress", "republican"]
+    "id": 7,
+    "name": "David Swartz",
+    "year": 2004,
+    "description": "GOP Ohio County (Richland County, Ohio) Commissioner David Swartz, age 66, pleaded guilty to two felony counts of sexual battery. The abuse of a girl began when she was 6 years old or younger, with the guilty plea covering a four-year period between January 2000 and January 2004. Swartz was sentenced to eight years in prison and must register as a sex offender.",
+    "position": [
+      "government official",
+      "commissioner"
+    ],
+    "crime": [
+      "sexual battery",
+      "child sexual abuse"
+    ],
+    "tags": [
+      "government official",
+      "republican",
+      "ohio"
+    ]
   },
   {
-    "id": 48,
-    "name": "Tim Nolan",
-    "description": "Former Kentucky judge and Trump Campbell County campaign chair Tim Nolan pleaded guilty in 2018 to 21 counts including human trafficking and child sex trafficking involving 19 victims (7 minors). He was sentenced to 20 years in federal prison. He used his position and threatened victims with arrest unless they performed sex acts.",
-    "position": ["judge", "party official"],
-    "crime": ["sexual trafficking", "child exploitation", "sexual abuse"],
-    "tags": ["judge", "party official", "republican", "maga"]
+    "id": 8,
+    "name": "Mark Pazuhanich",
+    "year": 2004,
+    "description": "Mark Pazuhanich was a Monroe County, Pennsylvania judge and former district attorney. In January 2004, a 10-year-old girl testified that Pazuhanich fondled her at a Hilary Duff teen pop concert on November 29, 2003, touching her breasts and placing his hands between her legs. The fifth-grader stated she was 'touched wrong' by Pazuhanich, who admitted to being in a drunken state at the concert. On July 13, 2004, Pazuhanich pleaded no contest to the charges. He was sentenced to 10 years probation, required to register as a sex offender, and forced to resign from his judgeship. In October 2004, he was banned for life from serving as a judge, and he was disbarred as an attorney in November 2006.",
+    "position": [
+      "judge",
+      "district attorney"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "indecent assault"
+    ],
+    "tags": [
+      "judge",
+      "pennsylvania",
+      "republican"
+    ]
   },
   {
-    "id": 124,
-    "name": "Blake Farenthold",
-    "year": 2018,
-    "description": "U.S. Representative Blake Farenthold (R-TX) resigned from Congress in April 2018 after it was revealed he used $84,000 in taxpayer money to settle a sexual harassment lawsuit filed by his former communications director. The lawsuit alleged gender discrimination, sexual harassment, and creating a hostile work environment.",
-    "crime": ["sexual harassment"],
-    "position": ["congress"],
-    "tags": ["congress", "republican"]
-  },
-  {
-    "id": 16,
-    "name": "Donald Lukens",
-    "year": 1989,
-    "description": "U.S. Representative Donald 'Buz' Lukens (R-OH) was convicted in 1989 of contributing to the delinquency of a minor after paying a 16-year-old girl $40 for sex. He was convicted again in 1996 on bribery and conspiracy charges related to his time in Congress and sentenced to 30 months in prison.",
-    "position": ["congress"],
-    "crime": ["sexual abuse", "child exploitation"],
-    "tags": ["congress", "republican"]
-  },
-  {
-    "id": 21,
-    "name": "Dan Crane",
-    "year": 1983,
-    "description": "U.S. Representative Dan Crane (R-IL) was censured by the House of Representatives on July 20, 1983, by a vote of 421-3 for having sex with a 17-year-old congressional page. He lost his re-election bid in 1984.",
-    "position": ["congress"],
-    "crime": ["sexual abuse"],
-    "tags": ["congress", "republican"]
+    "id": 9,
+    "name": "Nicholas Morency",
+    "year": 2001,
+    "description": "Republican anti-abortion activist Nicholas Morency from New Jersey pleaded guilty to possessing Child Sexual Abuse Material on his computer. At the same time he was collecting pornographic images of children, Morency was actively offering a $1.5 million reward on the Internet for the murder of any abortion provider. The National Abortion Federation (NAF) discovered Morency's murder-for-hire website in January 1999 and reported it to the Justice Department, which shut down the site just 24 hours later. Morency was convicted in 2001 for his combined crimes involving child pornography and incitement to violence.",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "child pornography",
+      "incitement to violence"
+    ],
+    "tags": [
+      "activist",
+      "anti-abortion extremist",
+      "republican"
+    ]
   },
   {
     "id": 10,
     "name": "Edison Misla Aldarondo",
     "year": 2002,
     "description": "Puerto Rico House Speaker Edison Misla Aldarondo was charged in 2002 with rape of a 17-year-old friend of his stepdaughter. He was convicted of attempted rape, sexual abuse of a minor, and four counts of lewd conduct for molesting his stepdaughter beginning when she was 9 years old. He was sentenced to 13 years in prison in 2004.",
-    "position": ["state legislator"],
-    "crime": ["rape", "sexual abuse", "child molestation"],
-    "tags": ["state legislator", "republican"]
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "state legislator",
+      "republican"
+    ]
   },
   {
-    "id": 18,
-    "name": "Mark A. Grethen",
+    "id": 12,
+    "name": "Tom Shortridge",
     "year": 2001,
-    "description": "Republican businessman and activist Mark A. Grethen was convicted in 2001 of six counts of sex crimes involving children (two counts each of forcible sodomy, aggravated sexual battery, and indecent liberties with a child). He was sentenced to 26 years in prison. Shortly after conviction, he was briefly named 'Republican of the Year' in 2002 by the National Republican Congressional Committee. He was killed in prison in 2021.",
-    "position": ["activist", "party member"],
-    "crime": ["rape", "sexual abuse", "child molestation"],
-    "tags": ["activist", "party member", "republican"]
-  },
-  {
-    "id": 23,
-    "name": "Beverly Russell",
-    "year": 1995,
-    "description": "Christian Coalition leader and South Carolina Republican Party official Beverly Russell admitted in 1988 to sexually molesting his stepdaughter Susan Smith beginning when she was 15 years old. The abuse continued for years. During Smith's 1995 murder trial, Russell testified about the abuse and urged the jury to spare her life, saying he bore responsibility for her actions.",
-    "position": ["party official", "activist"],
-    "crime": ["sexual abuse", "child molestation"],
-    "tags": ["party official", "activist", "republican", "religious leader"]
-  },
-  {
-    "id": 24,
-    "name": "Robert Bauman",
-    "year": 1980,
-    "description": "U.S. Representative Robert Bauman (R-MD) was charged on October 3, 1980, with soliciting sex from a 16-year-old male prostitute. Despite being a staunch conservative who often criticized American morality, charges were dropped after he completed court-supervised rehabilitation. He lost his re-election bid in November 1980.",
-    "position": ["congress"],
-    "crime": ["sexual abuse", "child exploitation"],
-    "tags": ["congress", "republican"]
-  },
-  {
-    "id": 28,
-    "name": "Stephen White",
-    "year": 2003,
-    "description": "Reverend Stephen White, who preached against homosexuality and sexual promiscuity at Yale and other campuses, was convicted in 2003 of criminal solicitation to commit involuntary deviate sexual intercourse. He was arrested in June 2003 after offering $20 to a 14-year-old boy in West Chester, Pennsylvania, for permission to perform oral sex. He faced a minimum 3-year prison term.",
-    "position": ["religious leader"],
-    "crime": ["sexual abuse", "child exploitation"],
-    "tags": ["religious leader", "republican"]
-  },
-  {
-    "id": 29,
-    "name": "Jon Matthews",
-    "year": 2004,
-    "description": "Conservative talk show host Jon Matthews pleaded guilty in June 2004 to indecency with a child for exposing his genitals to an 11-year-old girl at his Sugar Land, Texas, home in October 2003. He initially received deferred adjudication but his probation was revoked in 2007 after violations, and he was sentenced to 3 years in prison.",
-    "position": ["party member"],
-    "crime": ["sexual abuse", "child exploitation"],
-    "tags": ["party member", "republican"]
-  },
-  {
-    "id": 6,
-    "name": "Howard Scott Heldreth",
-    "year": 1992,
-    "description": "Anti-abortion and anti-gay activist Howard Scott Heldreth was charged in 1992 with rape and kidnapping of a 16-year-old girl. He pleaded guilty to sexual battery and was sentenced to probation and required to register as a sex offender in Florida.",
-    "position": ["activist"],
-    "crime": ["rape", "sexual abuse"],
-    "tags": ["activist", "republican"]
+    "description": "Republican campaign consultant Tom Shortridge was convicted of taking nude photographs of a 15-year-old girl. He was sentenced to three years probation and was required to register as a sex offender.",
+    "position": [
+      "campaign consultant"
+    ],
+    "crime": [
+      "child pornography",
+      "sexual exploitation of minor"
+    ],
+    "tags": [
+      "campaign consultant",
+      "republican"
+    ]
   },
   {
     "id": 13,
     "name": "Strom Thurmond",
     "year": 1925,
     "description": "U.S. Senator Strom Thurmond had sex with Carrie Butler, a 15-year-old Black housemaid working for his family, when he was 22 years old in 1925. Their daughter, Essie Mae Washington-Williams, was born in October 1925. Thurmond, who became known for pro-segregation politics, kept his daughter's existence secret until after his death in 2003.",
-    "position": ["congress"],
-    "crime": ["rape", "sexual abuse"],
-    "tags": ["congress", "republican"]
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mike Hintz",
+    "year": 2004,
+    "description": "Republican pastor Mike Hintz, whom President George W. Bush publicly commended during the 2004 presidential campaign, was arrested after admitting to a sexual affair with a female juvenile. Hintz surrendered to police and was convicted of sexual misconduct with a minor.",
+    "position": [
+      "religious leader",
+      "pastor"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "religious leader",
+      "pastor",
+      "republican"
+    ]
   },
   {
     "id": 15,
     "name": "Peter Dibble",
     "year": 2004,
     "description": "Connecticut legislator and Stonington first selectman Peter Dibble pleaded no contest in 2004 to having an inappropriate relationship with a 13-year-old girl. He was charged with repeated acts of sexual misconduct with the girl starting when she was 10 years old, including French-kissing her on at least 40 occasions.",
-    "position": ["local official", "state legislator"],
-    "crime": ["sexual abuse", "child molestation"],
-    "tags": ["local official", "state legislator", "republican"]
+    "position": [
+      "local official",
+      "state legislator"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "local official",
+      "state legislator",
+      "republican"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Donald Lukens",
+    "year": 1989,
+    "description": "U.S. Representative Donald 'Buz' Lukens (R-OH) was convicted in 1989 of contributing to the delinquency of a minor after paying a 16-year-old girl $40 for sex. He was convicted again in 1996 on bribery and conspiracy charges related to his time in Congress and sentenced to 30 months in prison.",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Richard A. Delgaudio",
+    "year": 2003,
+    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child pornography charges and paying two teenage girls to pose for sexual photos. He was convicted in 2003 and sentenced to prison.",
+    "position": [
+      "party official",
+      "fundraiser"
+    ],
+    "crime": [
+      "child pornography",
+      "child sexual exploitation"
+    ],
+    "tags": [
+      "party official",
+      "fundraiser",
+      "republican"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Mark A. Grethen",
+    "year": 2001,
+    "description": "Republican businessman and activist Mark A. Grethen was convicted in 2001 of six counts of sex crimes involving children (two counts each of forcible sodomy, aggravated sexual battery, and indecent liberties with a child). He was sentenced to 26 years in prison. Shortly after conviction, he was briefly named 'Republican of the Year' in 2002 by the National Republican Congressional Committee. He was killed in prison in 2021.",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Ralph Shortey",
+    "description": "Oklahoma state senator and Donald Trump's 2016 Oklahoma campaign chair Ralph Shortey was arrested in March 2017 after being found in a motel room with a 17-year-old boy. He pleaded guilty in 2017 to child sex trafficking and was sentenced to 15 years in federal prison in 2018.",
+    "position": [
+      "state legislator",
+      "party official"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual trafficking"
+    ],
+    "tags": [
+      "state legislator",
+      "party official",
+      "republican",
+      "maga"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Randal David Ankeney",
+    "year": 2006,
+    "description": "Randal David Ankeney was a prominent Colorado Republican activist and attorney who served as a volunteer coordinator for Republican Governor Bill Owens' reelection campaign and as a regional representative for the Governor's Economic Development Office. In 2001, he was convicted of attempted sexual assault of a 13-year-old girl he had met on the Internet, getting her intoxicated on marijuana, photographing her topless, and fondling her. He served two years in prison. In September 2006, while out on bail for an adult sexual assault charge, he was arrested and charged with nine felonies including sexual assault on a child with a pattern of abuse, sexual exploitation of a child, and enticement of a child. He was sentenced to eight years in prison for sexual assault of a 14-year-old girl. Subsequently, he pleaded guilty to additional Class 4 felony charges and received a six-year sentence.",
+    "position": [
+      "activist",
+      "party official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "sexual exploitation of minor",
+      "attempted sexual assault"
+    ],
+    "tags": [
+      "activist",
+      "republican",
+      "colorado"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Dan Crane",
+    "year": 1983,
+    "description": "U.S. Representative Dan Crane (R-IL) was censured by the House of Representatives on July 20, 1983, by a vote of 421-3 for having sex with a 17-year-old congressional page. He lost his re-election bid in 1984.",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Mark Foley",
+    "year": 2006,
+    "description": "U.S. Representative Mark Foley (R-FL) resigned from Congress on September 29, 2006, after it was revealed he had sent sexually explicit instant messages and emails to teenage boys who had served as congressional pages. The scandal broke less than six weeks before the 2006 midterm elections.",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual harassment",
+      "child exploitation"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Beverly Russell",
+    "year": 1995,
+    "description": "Christian Coalition leader and South Carolina Republican Party official Beverly Russell admitted in 1988 to sexually molesting his stepdaughter Susan Smith beginning when she was 15 years old. The abuse continued for years. During Smith's 1995 murder trial, Russell testified about the abuse and urged the jury to spare her life, saying he bore responsibility for her actions.",
+    "position": [
+      "party official",
+      "activist"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "party official",
+      "activist",
+      "republican",
+      "religious leader"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Robert Bauman",
+    "year": 1980,
+    "description": "U.S. Representative Robert Bauman (R-MD) was charged on October 3, 1980, with soliciting sex from a 16-year-old male prostitute. Despite being a staunch conservative who often criticized American morality, charges were dropped after he completed court-supervised rehabilitation. He lost his re-election bid in November 1980.",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Jeffrey Patti",
+    "year": 2005,
+    "description": "Republican Committee Chairman Jeffrey Patti was arrested in 2005 for distributing a video clip of a 5-year-old girl being raped. Despite the severity of the crime, authorities agreed to allow his criminal record to be expunged in just three years.",
+    "position": [
+      "party official",
+      "committee chairman"
+    ],
+    "crime": [
+      "child pornography",
+      "distribution of child sexual abuse material"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Howard L. Brooks",
+    "year": 2001,
+    "description": "Howard L. Brooks was a Republican legislative aide and advisor to a California state assemblyman. He was charged in 2001 with molesting a 12-year-old boy and possession of child pornography. Brooks pleaded no contest to the charges and was sentenced to three years in prison. He is required to register as a sex offender.",
+    "position": [
+      "government official",
+      "legislative aide"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child pornography"
+    ],
+    "tags": [
+      "government official",
+      "republican",
+      "california"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Stephen White",
+    "year": 2003,
+    "description": "Reverend Stephen White, who preached against homosexuality and sexual promiscuity at Yale and other campuses, was convicted in 2003 of criminal solicitation to commit involuntary deviate sexual intercourse. He was arrested in June 2003 after offering $20 to a 14-year-old boy in West Chester, Pennsylvania, for permission to perform oral sex. He faced a minimum 3-year prison term.",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "tags": [
+      "religious leader",
+      "republican"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Jon Matthews",
+    "year": 2004,
+    "description": "Conservative talk show host Jon Matthews pleaded guilty in June 2004 to indecency with a child for exposing his genitals to an 11-year-old girl at his Sugar Land, Texas, home in October 2003. He initially received deferred adjudication but his probation was revoked in 2007 after violations, and he was sentenced to 3 years in prison.",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Earl \"Butch\" Kimmerling",
+    "year": 2019,
+    "description": "Earl 'Butch' Kimmerling was a Republican anti-gay activist from Indiana and a 51-year-old school bus driver. He and his wife adopted a young girl, and Kimmerling confessed in a videotaped interview to molesting the child. He was actively involved in battling a gay couple from Indianapolis who attempted to adopt the girl, receiving support from religious and political leaders in Anderson and across Indiana. Kimmerling was sentenced to 40 years in prison for molesting an 8-year-old girl. He was later paroled but violated his parole and returned to prison in 2019. During a subsequent interview, Kimmerling admitted to molesting four additional children.",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "activist",
+      "anti-gay activist",
+      "republican",
+      "indiana"
+    ]
   },
   {
     "id": 33,
     "name": "Andrew Buhr",
     "year": 2002,
     "description": "Republican politician and Missouri House candidate Andrew Buhr was charged in 2002 with two counts of first-degree sodomy with a 13-year-old boy. He was appointed by President Bush to the Commission on Presidential Scholars in November 2002 but lost the position within a month when the charges were filed. A mistrial was declared in January 2004 after he claimed he thought the boy was older.",
-    "position": ["candidate", "party official"],
-    "crime": ["sexual abuse", "sodomy"],
-    "tags": ["candidate", "party official", "republican"]
+    "position": [
+      "candidate",
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse",
+      "sodomy"
+    ],
+    "tags": [
+      "candidate",
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 34,
     "name": "Keith Westmoreland",
     "year": 2002,
     "description": "Tennessee state representative and former Sullivan County executive Keith Westmoreland was arrested in 2002 on seven felony counts of lewd and lascivious exhibition to girls under age 16. He exposed his genitals to children at a hotel pool in Sandestin, Florida. He later committed suicide.",
-    "position": ["state legislator", "local official"],
-    "crime": ["sexual abuse", "child exploitation"],
-    "tags": ["state legislator", "local official", "republican"]
+    "position": [
+      "state legislator",
+      "local official"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "tags": [
+      "state legislator",
+      "local official",
+      "republican"
+    ]
   },
   {
     "id": 35,
     "name": "John Allen Burt",
     "year": 2003,
     "description": "Anti-abortion activist and Christian fundamentalist John Allen Burt was arrested in 2003 for molesting a 15-year-old girl living at his shelter 'Our Father's House.' He was convicted on April 1, 2004, of five counts of lewd and lascivious molestation and conduct. He was sentenced to 18 years in prison and died while serving his sentence in 2013.",
-    "position": ["activist", "religious leader"],
-    "crime": ["sexual abuse", "child molestation"],
-    "tags": ["activist", "religious leader", "republican"]
+    "position": [
+      "activist",
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "activist",
+      "religious leader",
+      "republican"
+    ]
   },
   {
     "id": 36,
     "name": "Keola Childs",
     "year": 2000,
     "description": "Hawaii County Councilman Keola Childs pleaded guilty in 2000 to first-degree sexual assault for molesting a male child. The charge carried a possible sentence of 20 years in prison.",
-    "position": ["local official"],
-    "crime": ["sexual assault", "child molestation"],
-    "tags": ["local official", "republican"]
+    "position": [
+      "local official"
+    ],
+    "crime": [
+      "sexual assault",
+      "child molestation"
+    ],
+    "tags": [
+      "local official",
+      "republican"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Jeffrey Claude Bartleson",
+    "year": 2009,
+    "description": "Jeffrey Claude Bartleson was a Republican activist and office manager for the McCain presidential campaign. In 2009, he was arrested for molesting the child of a campaign volunteer. Bartleson was convicted of child sexual abuse and sentenced to prison.",
+    "position": [
+      "activist",
+      "campaign official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "activist",
+      "campaign official",
+      "republican"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Stephen David Rambler",
+    "year": 1996,
+    "description": "Stephen David Rambler is a pastor of Heritage Assembly Church on the Rock in Wrightsville, Pennsylvania. In 1995, a 19-year-old man accused Rambler of sexually molesting him for four years. In 1996, Rambler pleaded guilty to felony extortion after soliciting sexually explicit photos by placing an advertisement in a swingers magazine, then blackmailing respondents by threatening to publicly expose them unless they paid him $50. He was sentenced to 2 years probation and fined $550. Additionally, Rambler was accused of using his position to solicit explicit photos from a swingers' group and extorting money from them. York County District Attorney Stanley Rebert has been attempting to remove Rambler from his political positions due to concerns about his criminal history.",
+    "position": [
+      "religious leader",
+      "pastor"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "extortion",
+      "blackmail"
+    ],
+    "tags": [
+      "religious leader",
+      "pastor",
+      "pennsylvania"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Fred C. Smeltzer, Jr.",
+    "year": 1999,
+    "description": "Fred C. Smeltzer Jr. was a 32-year-old Republican borough councilman and deputy chief of Wrightsville Fire Company in Delaware. He pleaded no contest to charges that he raped a 15-year-old girl after getting her intoxicated during a camping trip with his best friend. The victim was the best friend's teenage daughter. Smeltzer was sentenced to six months in prison and six months house arrest. The Wrightsville Borough Council accepted his resignation from both positions. The victim's father stated to news outlets that he believed the sentence was too lenient for the crime.",
+    "position": [
+      "government official",
+      "fire chief"
+    ],
+    "crime": [
+      "rape",
+      "sexual assault",
+      "contributing to delinquency of minor"
+    ],
+    "tags": [
+      "government official",
+      "republican",
+      "delaware"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ryan Loskarn",
+    "year": 2014,
+    "description": "Ryan Loskarn was a Republican U.S. Senator's aide who was investigated for possession of child sexual abuse material (CSAM). Facing charges, Loskarn committed suicide in 2014, taking his own life rather than face prosecution.",
+    "position": [
+      "government official",
+      "senate aide"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "government official",
+      "republican"
+    ]
   },
   {
     "id": 42,
     "name": "Parker J. Bena",
     "year": 2001,
     "description": "Republican activist Parker J. Bena was a presidential elector for George W. Bush in 2000. In 2001, he pleaded guilty to possession of child pornography, including images of children as young as 3 years old, on his home computer. He was sentenced to 30 months in federal prison and fined $18,000.",
-    "position": ["activist", "party official"],
-    "crime": ["child pornography"],
-    "tags": ["activist", "party official", "republican"]
+    "position": [
+      "activist",
+      "party official"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "activist",
+      "party official",
+      "republican"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Larry Jack Schwarz",
+    "year": 2002,
+    "description": "Larry Jack Schwarz was a Republican parole board officer and former Colorado state representative. In 2002, he was fired from his position after child pornography was discovered in his possession. Schwarz was convicted and sentenced to prison for the possession and distribution of child sexual abuse material.",
+    "position": [
+      "government official",
+      "state legislator"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "government official",
+      "state legislator",
+      "republican",
+      "colorado"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Robin Vanderwall",
+    "year": 2005,
+    "description": "Robin Vanderwall was the director of the Faith and Family Alliance, a Republican strategist, and a political lobbyist. In 2005, he was convicted of five counts of soliciting sex from boys and girls over the Internet. Vanderwall was sentenced to prison for his crimes involving the sexual exploitation of minors.",
+    "position": [
+      "party official",
+      "strategist",
+      "lobbyist"
+    ],
+    "crime": [
+      "child sexual exploitation",
+      "solicitation of minors"
+    ],
+    "tags": [
+      "party official",
+      "republican",
+      "lobbyist"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Jon Grunseth",
+    "year": 2017,
+    "description": "Jon Grunseth is a Republican businessman from Minnesota who withdrew his candidacy for Minnesota governor in 2017 after serious allegations surfaced. Multiple women accused Grunseth of going swimming in the nude with four underage girls, including his own daughter. The scandal ended his political ambitions after details of the alleged inappropriate behavior with minors became public.",
+    "position": [
+      "candidate",
+      "businessman"
+    ],
+    "crime": [
+      "indecent exposure",
+      "child endangerment"
+    ],
+    "tags": [
+      "candidate",
+      "republican",
+      "minnesota"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Nicholas Elizondo",
+    "year": 2005,
+    "description": "Nicholas Elizondo was the director of the 'Young Republican Federation.' He molested his own 6-year-old daughter and was convicted of child sexual abuse. Elizondo was sentenced to six years in prison and is required to register as a sex offender.",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 47,
     "name": "Richard A. Dasen Sr.",
     "year": 2005,
     "description": "Montana businessman and Republican benefactor Richard A. Dasen Sr. was convicted in May 2005 of promotion of prostitution, sexual abuse of children, and multiple felony prostitution counts. He paid women and girls for sex, took sexual photographs of girls under 18, and had sex with a 15-year-old girl. He was sentenced to 20 years with 18 suspended in September 2005.",
-    "position": ["party member"],
-    "crime": ["sexual abuse", "child exploitation", "prostitution"],
-    "tags": ["party member", "republican"]
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child exploitation",
+      "prostitution"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Tim Nolan",
+    "description": "Former Kentucky judge and Trump Campbell County campaign chair Tim Nolan pleaded guilty in 2018 to 21 counts including human trafficking and child sex trafficking involving 19 victims (7 minors). He was sentenced to 20 years in federal prison. He used his position and threatened victims with arrest unless they performed sex acts.",
+    "position": [
+      "judge",
+      "party official"
+    ],
+    "crime": [
+      "sexual trafficking",
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "tags": [
+      "judge",
+      "party official",
+      "republican",
+      "maga"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Brent Schepp",
+    "year": 2006,
+    "description": "Brent Schepp was a Republican County Board Candidate who was charged in 2006 with molesting a 14-year-old girl. He was convicted of child sexual abuse and sentenced to prison.",
+    "position": [
+      "candidate"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "candidate",
+      "republican"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Randall Casseday",
+    "year": 2007,
+    "description": "Randall Casseday was the Human Resources Director for the Washington Times, a right-wing newspaper known for regular front-page coverage of family and faith issues. Despite his position at a 'moral values' organization, Casseday was caught in an underage sex sting operation. He was arrested and charged with soliciting sex from someone he believed to be an underage minor. Casseday was convicted and sentenced to prison, representing a stark contradiction between the Washington Times' professed moral values and the actions of its own staff.",
+    "position": [
+      "government official",
+      "newspaper executive"
+    ],
+    "crime": [
+      "child sexual exploitation",
+      "solicitation of minor"
+    ],
+    "tags": [
+      "government official",
+      "republican",
+      "media"
+    ]
   },
   {
     "id": 76,
     "name": "Larry Corrigan",
     "year": 2006,
     "description": "GOP activist and director of financial operations at the King County Prosecutor's office for over 25 years, Larry Corrigan was arrested in 2006 in an Internet sting for attempting to arrange sex with a 13-year-old girl. He pleaded guilty in 2007 to one count of second-degree attempted child molestation and one count of communicating with a minor for immoral purposes. He was sentenced to 23 months in prison, received three to four years of probation, must register as a sex offender, and must complete sexual deviancy evaluation and treatment. Corrigan also was accused of embezzling over $70,000 from campaign funds between May 2004 and early 2005.",
-    "position": ["party member", "government official"],
-    "crime": ["attempted child molestation", "child exploitation", "embezzlement"],
-    "tags": ["party member", "government official", "republican"]
+    "position": [
+      "party member",
+      "government official"
+    ],
+    "crime": [
+      "attempted child molestation",
+      "child exploitation",
+      "embezzlement"
+    ],
+    "tags": [
+      "party member",
+      "government official",
+      "republican"
+    ]
   },
   {
     "id": 77,
     "name": "Scott Eller Cortelyou",
     "year": 2006,
     "description": "Republican radio host Scott Eller Cortelyou was the host of 'Business for Breakfast' on KRCN 1060-AM in Colorado. He was arrested for having sexually graphic online conversations with someone he thought was a 12-year-old girl in August 2006. Cortelyou pleaded guilty in 2007 to Internet luring and attempted Internet sexual exploitation of a child (both class 5 felonies). He was sentenced to 18 months of intensive supervised probation and must register as a sex offender.",
-    "position": ["media personality"],
-    "crime": ["Internet luring", "child exploitation"],
-    "tags": ["media personality", "republican"]
+    "position": [
+      "media personality"
+    ],
+    "crime": [
+      "Internet luring",
+      "child exploitation"
+    ],
+    "tags": [
+      "media personality",
+      "republican"
+    ]
   },
   {
     "id": 79,
     "name": "Brian J. Doyle",
     "year": 2006,
     "description": "Brian J. Doyle, 55, was the deputy press secretary for the U.S. Department of Homeland Security. He was arrested on April 4, 2006, at his home in Silver Spring, Maryland, after being caught in an undercover sting attempting to initiate sexually explicit conversation with a 14-year-old girl (actually a sheriff's deputy working undercover). He was indicted on 23 felony counts including seven counts of using a computer to seduce a child and sixteen counts of transmitting harmful materials to a child. He pleaded no contest to the charges.",
-    "position": ["government official"],
-    "crime": ["child exploitation", "sexual solicitation"],
-    "tags": ["government official", "federal employee"]
+    "position": [
+      "government official"
+    ],
+    "crime": [
+      "child exploitation",
+      "sexual solicitation"
+    ],
+    "tags": [
+      "government official",
+      "federal employee"
+    ]
   },
   {
     "id": 80,
     "name": "Matthew Joseph Elliott",
     "year": 2006,
     "description": "Matthew Joseph Elliott was a consultant for Mitt Romney's Commonwealth political action committee in early 2006, joining the PAC in early 2006 but leaving after only a few weeks. Elliott is a registered sex offender who was convicted in Iowa in October 2006 of exploiting a minor. He was also arrested in connection with the death of a 7-month-old baby girl in Iowa, with autopsy ruling the death a homicide. Elliott was questioned in the baby's death but was not charged at the time of reporting.",
-    "position": ["party official"],
-    "crime": ["child sexual exploitation", "child abuse"],
-    "tags": ["party official", "republican"]
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child sexual exploitation",
+      "child abuse"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 81,
     "name": "Donald Fleischman",
     "year": 2007,
     "description": "Donald Fleischman was chairman and treasurer of the Brown County (Wisconsin) Republican Party. He was charged in 2007-2008 with child enticement, contributing to the delinquency of a child, and exposing his genitals. The charges related to an incident with a 16-year-old boy from a juvenile facility. Police found the boy hiding in Fleischman's closet in underwear and a T-shirt, and the boy claimed Fleischman gave him beer and marijuana. Fleischman resigned from his post as county GOP chair. State Republicans subsequently disbanded the Green Bay area's Republican Party, citing inability to muster enough officers to pick a new leader.",
-    "position": ["party official"],
-    "crime": ["child enticement", "indecent exposure", "contributing to delinquency of minor"],
-    "tags": ["party official", "republican"]
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child enticement",
+      "indecent exposure",
+      "contributing to delinquency of minor"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ]
   },
   {
     "id": 84,
     "name": "George Roche III",
     "year": 1999,
     "description": "George Roche III was president of conservative Hillsdale College in Michigan from 1971 to 1999. In October 1999, Roche resigned after allegations surfaced of a 19-year sexual affair with his daughter-in-law, Lissa Jackson Roche. The scandal erupted when Lissa publicly disclosed the alleged affair. Hours after making the disclosure, Lissa was found dead from a self-inflicted gunshot wound in the college arboretum. Her death was ruled a suicide, though no suicide note was found. Roche's version claims he never confirmed the affair occurred.",
-    "position": ["college president"],
-    "crime": ["sexual misconduct", "alleged affair with family member"],
-    "tags": ["college president", "conservative"]
+    "position": [
+      "college president"
+    ],
+    "crime": [
+      "sexual misconduct",
+      "alleged affair with family member"
+    ],
+    "tags": [
+      "college president",
+      "conservative"
+    ]
   },
   {
     "id": 85,
     "name": "Bishop Daniel Paprocki",
     "year": 2018,
     "description": "Bishop Daniel Paprocki of the Diocese of Springfield, Illinois has been accused of protecting pedophile priests and enabling abuse within the Catholic Church. Under Paprocki's leadership, the Springfield Diocese was the last in Illinois to disclose a list of clergy with substantiated child sexual abuse allegations (posted in November 2018). Even when disclosed, the list lacked transparency regarding parish assignments. Illinois Attorney General Kwame Raoul has investigated whether the church properly handled sexual abuse cases. Paprocki has also engaged in partisan political action, ordering priests to deny Democratic politicians communion.",
-    "position": ["religious leader", "church official"],
-    "crime": ["child abuse enablement", "obstruction of justice"],
-    "tags": ["religious leader", "church official"]
+    "position": [
+      "religious leader",
+      "church official"
+    ],
+    "crime": [
+      "child abuse enablement",
+      "obstruction of justice"
+    ],
+    "tags": [
+      "religious leader",
+      "church official"
+    ]
   },
   {
     "id": 86,
     "name": "Dr. W. David Hager",
     "year": 2002,
     "description": "Dr. W. David Hager is a prominent obstetrician-gynecologist from Kentucky and anti-abortion advocate appointed by the Bush administration to the Reproductive Health Drugs Advisory Committee of the FDA in 2002. According to his ex-wife Linda Carruth Davis, Hager repeatedly sodomized her while she slept between 1995 and their divorce in 2002. Linda Davis was narcoleptic, and Hager would forcibly assault her during her sleep. She divorced him citing sexual and emotional abuse. In 2003, Hager remarried physician Kathleen Martin, but she filed for divorce from him in 2007, also citing sexual misconduct.",
-    "position": ["government official", "medical professional"],
-    "crime": ["sexual assault", "marital rape", "sodomy"],
-    "tags": ["government official", "medical professional", "bush administration"]
+    "position": [
+      "government official",
+      "medical professional"
+    ],
+    "crime": [
+      "sexual assault",
+      "marital rape",
+      "sodomy"
+    ],
+    "tags": [
+      "government official",
+      "medical professional",
+      "bush administration"
+    ]
   },
   {
     "id": 87,
     "name": "Don Haidl",
     "year": 2002,
     "description": "Don Haidl was an assistant sheriff in Orange County, California. His son, Gregory Haidl (age 19 at the time), was one of three men charged in the July 2002 sexual assault of a 16-year-old girl. The victim was drugged and assaulted while unconscious on a pool table; she was penetrated with a lighted cigarette and pool cue, and the assault was videotaped. The first trial ended in a mistrial in June 2004 due to jury deadlock. In the retrial, Gregory Haidl and two co-defendants were convicted in March 2005. Gregory received a six-year prison sentence in 2006. Don Haidl used his position as sheriff to smear the victim and defend his son's actions, claiming the victim 'deserved it' because she was a 'slut.'",
-    "position": ["law enforcement"],
-    "crime": ["aiding and abetting sexual assault", "obstruction of justice", "abuse of power"],
-    "tags": ["law enforcement", "california"]
+    "position": [
+      "law enforcement"
+    ],
+    "crime": [
+      "aiding and abetting sexual assault",
+      "obstruction of justice",
+      "abuse of power"
+    ],
+    "tags": [
+      "law enforcement",
+      "california"
+    ]
   },
   {
     "id": 88,
     "name": "Neal Horsley",
     "year": 1973,
     "description": "Neal Horsley (1944-2015) was a militant anti-abortion activist and Christian Reconstructionist. In 2005, Horsley admitted during an interview that he engaged in bestiality as an adolescent, stating 'When you grow up on a farm in Georgia, your first girlfriend is a mule.' He also boasted about having sex with men and abusing drugs. Horsley served a 30-month federal prison sentence in 1973 for possession of three gallons of hashish oil. He created and maintained the 'Nuremberg Files' website, which listed the names, addresses, and other details of abortion providers, health care workers, politicians, and judges who supported abortion rights. He also included a list of providers who had been wounded or killed, effectively creating a target list for violence.",
-    "position": ["activist"],
-    "crime": ["bestiality", "drug trafficking", "harassment", "incitement to violence"],
-    "tags": ["activist", "anti-abortion extremist", "extremist"]
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "bestiality",
+      "drug trafficking",
+      "harassment",
+      "incitement to violence"
+    ],
+    "tags": [
+      "activist",
+      "anti-abortion extremist",
+      "extremist"
+    ]
   },
   {
     "id": 89,
     "name": "Cardinal Bernard Francis Law",
     "year": 2002,
     "description": "Cardinal Bernard Francis Law was the Archbishop of Boston from March 1984 until his resignation on December 13, 2002. He is one of the most prominent figures in the Catholic clergy sex abuse crisis. Documents revealed Law's extensive role in covering up incidents of sexual misconduct by priests under his authority. Law repeatedly transferred abusive clergy among parishes despite repeated allegations of child molestation, without alerting parents or police. Notable cases include priest John Geoghan who raped or molested over 130 children in six parishes. In January 2002, The Boston Globe published investigation results revealing Law's systematic cover-up. The archdiocese eventually paid $10 million to Geoghan's victims in 2002 and an additional $85 million to 552 victims and parents in 2003.",
-    "position": ["church official"],
-    "crime": ["child abuse enablement", "obstruction of justice", "conspiracy to cover up sexual abuse"],
-    "tags": ["church official", "religious leader"]
+    "position": [
+      "church official"
+    ],
+    "crime": [
+      "child abuse enablement",
+      "obstruction of justice",
+      "conspiracy to cover up sexual abuse"
+    ],
+    "tags": [
+      "church official",
+      "religious leader"
+    ]
   },
   {
     "id": 90,
     "name": "Joseph M. McDade",
     "year": 2007,
     "description": "Joseph M. McDade was an 18-term Republican U.S. Representative from Pennsylvania's 10th congressional district, serving from 1963 to 1998. He was acquitted in 1996 on federal bribery charges. In January 2007, after his retirement from Congress, McDade was accused by at least three women of indecent exposure at a beach resort in Sanibel, Florida. According to the allegations, McDade masturbated in front of female guests on the beach and by the pool. One witness stated she saw McDade masturbating 10-15 feet away from her, another claimed he followed his wife while masturbating, and a third reported he watched her leave her beach chair and followed her while masturbating. McDade was charged with first degree misdemeanor indecent exposure.",
-    "position": ["congress"],
-    "crime": ["indecent exposure", "public lewdness"],
-    "tags": ["congress", "republican", "florida"]
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "indecent exposure",
+      "public lewdness"
+    ],
+    "tags": [
+      "congress",
+      "republican",
+      "florida"
+    ]
   },
   {
     "id": 91,
     "name": "Robert A. McKee",
     "year": 2008,
     "description": "Robert A. McKee was a member of the Maryland House of Delegates representing District 2A in Washington County since 1994. On January 31, 2008, Washington County Sheriff deputies searched McKee's home and seized several computers, videotapes, and other materials after receiving a tip about child pornography in the residence. A resident of the home had discovered and reported the child pornography to authorities, providing printed images to sheriff deputies. McKee resigned from office in February 2008. He pleaded guilty to possession of child pornography on September 5, 2008, and was sentenced to 37 months in federal prison followed by lifetime supervised probation. According to his plea agreement, McKee had obtained child pornography via the Internet and mail order as early as 2004.",
-    "position": ["state legislator"],
-    "crime": ["child pornography"],
-    "tags": ["state legislator", "maryland", "republican"]
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "state legislator",
+      "maryland",
+      "republican"
+    ]
   },
   {
     "id": 92,
     "name": "William Henry O'Reilly",
     "year": 2004,
     "description": "William Henry O'Reilly is a prominent conservative television host and political commentator for Fox News. In October 2004, television producer Andrea Mackris filed a sexual harassment lawsuit against O'Reilly, alleging he made sexually provocative phone calls and discussed personal sexual matters despite her discomfort. On the same day, O'Reilly filed a counter-suit accusing Mackris and her attorney of extortion. On October 28, 2004, the case was settled out of court for $9 million. The settlement included highly unusual provisions requiring all parties to disclaim any evidence as 'counterfeit or forgeries' should it become public. Mackris was required to 'lie—even in legal proceedings or under oath' if evidence surfaced. O'Reilly was later fired by Fox News in 2017 after multiple sexual harassment allegations were reported by The New York Times, leading to a major advertiser boycott.",
-    "position": ["media personality", "commentator"],
-    "crime": ["sexual harassment", "quid pro quo harassment"],
-    "tags": ["media personality", "fox news", "conservative"]
+    "position": [
+      "media personality",
+      "commentator"
+    ],
+    "crime": [
+      "sexual harassment",
+      "quid pro quo harassment"
+    ],
+    "tags": [
+      "media personality",
+      "fox news",
+      "conservative"
+    ]
   },
   {
     "id": 93,
     "name": "Marshal A. Seymour",
     "year": 1999,
     "description": "Marshal Seymour is a religious leader and former youth minister who faces charges of sexual abuse of minors. He was first arrested in July 1999 in Mobile, Alabama while working as a youth minister at Parkway Assembly of God, charged with second-degree sodomy and second-degree sexual abuse of a 16-year-old boy. The sodomy charge was dropped, and Seymour pleaded guilty to misdemeanor assault. His one-year jail sentence was suspended and he received one year probation. Nearly a decade later, in November 2007, Seymour was arrested again on charges of molesting three teenage boys (ages 15-17) he met through First Baptist Church at the Mall in Lakeland, Florida. He allegedly met victims through church and paid them money in exchange for sexual favors or silence. He faced charges of unlawful sexual activity with minors and using children in sexual performance. After jury selection began, he pleaded guilty and no contest to five felony charges, potentially facing up to 65 years in prison.",
-    "position": ["religious leader", "youth minister"],
-    "crime": ["sexual abuse", "child molestation", "solicitation of minors"],
-    "tags": ["religious leader", "baptist"]
+    "position": [
+      "religious leader",
+      "youth minister"
+    ],
+    "crime": [
+      "sexual abuse",
+      "child molestation",
+      "solicitation of minors"
+    ],
+    "tags": [
+      "religious leader",
+      "baptist"
+    ]
   },
   {
     "id": 94,
     "name": "Kevin Alfred Strom",
     "year": 2007,
     "description": "Kevin Alfred Strom is an American white nationalist, neo-Nazi, and white supremacist from Virginia who founded the National Vanguard in 2005, a breakaway group from the neo-Nazi National Alliance. On January 4, 2007, Strom was arrested in Greene County, Virginia on charges of possession of child pornography and witness tampering. According to reports, his wife caught him viewing child pornography on his home computer. At his plea hearing in January 2008, Strom pleaded guilty to one count of possession of child pornography in exchange for other charges being dropped. He was sentenced to 23 months in prison in April 2008. Following his arrest and conviction, the National Vanguard was disbanded. Strom had a documented long-time fascination with young girls and exploited his position within the extremist movement.",
-    "position": ["activist", "extremist leader"],
-    "crime": ["child pornography"],
-    "tags": ["white supremacist", "neo-nazi", "extremist"]
+    "position": [
+      "activist",
+      "extremist leader"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "tags": [
+      "white supremacist",
+      "neo-nazi",
+      "extremist"
+    ]
   },
   {
     "id": 95,
     "name": "Daniel Dean Thompson",
     "year": 2008,
     "description": "Daniel Dean Thompson, age 31, was arrested in 2008 on charges of unlawful sexual activity with minors and patronizing a minor prostitute. Thompson allegedly operated a film editing business that he claimed sanitized movies to remove objectionable content for family viewing, but the business served as a front for child sexual exploitation. According to police reports, Thompson and co-owner Isaac Lifferth allegedly paid two 14-year-old girls $20 each to perform oral sex. Police found a large quantity of pornographic movies inside the business along with a keg of beer, painkillers, and two cameras hooked up to a television. Thompson told the teen victims his film business was a cover for a pornography studio. He was charged with two counts of unlawful sexual activity with a minor and two counts of patronizing a prostitute. Note: Clean Flicks company later sued Thompson, claiming he falsely connected himself to their company and was never affiliated with it.",
-    "position": ["business owner"],
-    "crime": ["child sexual exploitation", "prostitution of minors", "statutory rape"],
-    "tags": ["business owner", "child exploitation"]
+    "position": [
+      "business owner"
+    ],
+    "crime": [
+      "child sexual exploitation",
+      "prostitution of minors",
+      "statutory rape"
+    ],
+    "tags": [
+      "business owner",
+      "child exploitation"
+    ]
   },
   {
     "id": 96,
     "name": "Lawrence Scott Ward",
     "year": 2006,
     "description": "Lawrence Scott Ward was a 63-year-old professor at the Wharton School of Business at the University of Pennsylvania, known for expertise on media effects on children. In August 2006, authorities discovered child pornography in his luggage and laptop computer when he arrived at Dulles International Airport near Washington, D.C., on a flight from Brazil. A search of his office at Wharton's Huntsman Hall uncovered over 80 images of Ward and a young boy (no older than 15) in intimate situations, with the boy featured in a series of pornographic DVDs found in Ward's mail. Ward pleaded guilty on May 17, 2007 to producing child pornography for importation into the United States, receiving 15 years in prison and a $17,500 fine. On November 17, 2008, he pleaded guilty to all four Pennsylvania child pornography and sexual misconduct charges and received an additional 25-year sentence.",
-    "position": ["academic", "professor"],
-    "crime": ["child pornography production", "child sexual abuse", "importing child pornography"],
-    "tags": ["professor", "academic", "pennsylvania"]
+    "position": [
+      "academic",
+      "professor"
+    ],
+    "crime": [
+      "child pornography production",
+      "child sexual abuse",
+      "importing child pornography"
+    ],
+    "tags": [
+      "professor",
+      "academic",
+      "pennsylvania"
+    ]
   },
   {
     "id": 97,
     "name": "James E. West",
     "year": 2005,
     "description": "James E. West (Jim West) was a Republican politician from Spokane, Washington who served in the state legislature starting in 1982 and became mayor of Spokane in 2003. In May 2005, a local newspaper investigation published allegations that West had sexually molested young boys more than 20 years earlier, in the late 1970s or early 1980s. West was accused of abusing at least two young men during his time as a sheriff's deputy and while volunteering with the Boy Scouts as a troop leader. Although never formally charged, voters overwhelmingly recalled West from office in a special election on December 6, 2005, with 65% voting to oust him. His term ended on December 16, 2005. The FBI investigated the allegations but closed the case without taking action due to lack of sufficient evidence.",
-    "position": ["mayor", "state legislator"],
-    "crime": ["child sexual abuse"],
-    "tags": ["politician", "washington", "republican"]
+    "position": [
+      "mayor",
+      "state legislator"
+    ],
+    "crime": [
+      "child sexual abuse"
+    ],
+    "tags": [
+      "politician",
+      "washington",
+      "republican"
+    ]
   },
   {
     "id": 98,
     "name": "Steve Wilsey",
     "year": null,
     "description": "Steve Wilsey was a youth counselor and activist affiliated with Focus on the Family, an evangelical Christian organization, and was reportedly a protégé of James Dobson, the founder of Focus on the Family. Wilsey was charged with and convicted of sexual assault after molesting an 8-year-old boy. His case represented a significant scandal for Focus on the Family and exposed the organization's vulnerability regarding child safety within its youth counseling programs.",
-    "position": ["religious counselor", "activist"],
-    "crime": ["child sexual abuse", "child molestation"],
-    "tags": ["religious organization", "child abuse"]
+    "position": [
+      "religious counselor",
+      "activist"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "religious organization",
+      "child abuse"
+    ]
   },
   {
     "id": 99,
     "name": "Paul Williams",
     "year": 1990,
     "description": "Paul Williams was a minister of prayer and special projects at Bellevue Baptist Church, a major Southern Baptist megachurch. In 2006, an internal church investigation revealed that Williams had sexually abused his son over a period of 12-18 months, beginning in 1990 when his son was an adolescent. Williams admitted to and was convicted of the sexual abuse. According to the investigation, church leaders including the current pastor, Reverend Steve Gaines, learned about the abuse but did not immediately report it to authorities. The abuse only came to light in December 2005 after Williams' son prodded Pastor Gaines to explain why his father was still allowed to serve as a minister. Williams was subsequently fired from his position at the church.",
-    "position": ["religious leader", "church official"],
-    "crime": ["child sexual abuse", "child molestation"],
-    "tags": ["religious leader", "baptist", "child abuse"]
+    "position": [
+      "religious leader",
+      "church official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "tags": [
+      "religious leader",
+      "baptist",
+      "child abuse"
+    ]
   },
   {
     "id": 100,
     "name": "Glenn Murphy Jr.",
     "year": 2007,
     "description": "Glenn Murphy Jr. was a prominent Republican politician who served as president of the Young Republican National Federation. In August 2007, he resigned from his position after being accused of sexually assaulting another man. The assault allegedly occurred on July 29, 2007, when Murphy, age 33, performed oral sex on a 22-year-old man without consent while the victim slept. The assault happened following a Young Republicans gathering and after a night of drinking at the victim's sister's house. Murphy pleaded not guilty to the charges but was convicted of class B felony sexual assault. He was sentenced to six years in prison and is now a registered sex offender. Additionally, another man had accused Murphy of sexual assault in 1998, though no charges were filed at that time.",
-    "position": ["party official"],
-    "crime": ["sexual assault"],
-    "tags": ["party official", "republican", "registered sex offender"]
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual assault"
+    ],
+    "tags": [
+      "party official",
+      "republican",
+      "registered sex offender"
+    ]
   },
   {
     "id": 101,
     "name": "Robert Holland",
     "year": 2006,
     "description": "Robert Holland, 76, was a longtime Republican Township Supervisor in Bedminster Township, Pennsylvania and head of groundskeeper services at Pine Run Community Assisted Living Facility, where he supervised five employees. Holland was charged with multiple felony and misdemeanor counts of sexual assault after admitting to sexually assaulting a 92-year-old nursing home resident who was unable to give meaningful consent. Holland moved the victim from her alarmed wheelchair to a nearby sofa where he fondled and engaged in other sexual acts. Nursing assistant Martha Palena witnessed the assault and reported it. Holland's assaults spanned approximately six months from November 2005 until his discovery. He was arraigned on charges including aggravated indecent assault (2nd degree felony), institutional sexual assault (3rd degree felony), and three counts of misdemeanor indecent assault.",
-    "position": ["government official", "supervisor"],
-    "crime": ["sexual assault", "institutional sexual abuse", "abuse of elderly person"],
-    "tags": ["government official", "republican", "pennsylvania"]
+    "position": [
+      "government official",
+      "supervisor"
+    ],
+    "crime": [
+      "sexual assault",
+      "institutional sexual abuse",
+      "abuse of elderly person"
+    ],
+    "tags": [
+      "government official",
+      "republican",
+      "pennsylvania"
+    ]
   },
   {
     "id": 102,
     "name": "Leonard Ray Owens",
     "year": 2006,
     "description": "Leonard Ray Owens is a pastor and antigay activist from Fort Worth, Texas. He was indicted on charges of sexual assault (a second-degree felony) after being accused of raping a church member who came to him for counseling following a miscarriage. According to police reports, Owens told the woman that she was possessed by a sex spirit and lesbian demon that needed to be cast out. He then allegedly asked her to lie on the floor where he conducted what he described as an exorcism, yelling at her as if performing a demonic casting, saying 'Loose her in the name of Jesus,' before he raped her. The alleged assaults occurred twice at his Fort Worth home. Owens was arrested in November 2006 and held on $25,000 bail, facing charges that could result in 2-20 years in prison.",
-    "position": ["religious leader", "pastor"],
-    "crime": ["sexual assault", "rape"],
-    "tags": ["religious leader", "pastor", "texas", "antigay activist"]
+    "position": [
+      "religious leader",
+      "pastor"
+    ],
+    "crime": [
+      "sexual assault",
+      "rape"
+    ],
+    "tags": [
+      "religious leader",
+      "pastor",
+      "texas",
+      "antigay activist"
+    ]
   },
   {
     "id": 103,
     "name": "Galen Fox",
     "year": 2004,
     "description": "Galen Fox was a Hawaiian Republican State Representative and House Minority Leader. On December 17-18, 2004, the 61-year-old Fox took a late night flight from Honolulu to Los Angeles. During the flight, Fox committed a sex crime against the sleeping 27-year-old woman sitting beside him by groping her. He was convicted of misdemeanor sex abuse. Fox resigned from the Hawaii legislature on December 1, 2005. He was sentenced to three months of house arrest, three years probation, and a $2,500 fine. Fox was also ordered to register as a sex offender and to undergo a psychiatric examination or sex offender treatment program.",
-    "position": ["state legislator"],
-    "crime": ["sexual assault", "indecent assault"],
-    "tags": ["state legislator", "republican", "hawaii", "registered sex offender"]
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "sexual assault",
+      "indecent assault"
+    ],
+    "tags": [
+      "state legislator",
+      "republican",
+      "hawaii",
+      "registered sex offender"
+    ]
   },
   {
     "id": 104,
     "name": "Albert Andre Zimmerman",
     "year": 2008,
     "description": "Albert Andre Zimmerman, 41, was the former spokesman for the Florida Department of Children and Families (DCF), the state agency responsible for child protection and welfare. In February 2008, Zimmerman was indicted on charges of producing child pornography. According to investigators, Zimmerman solicited two teenagers, ages 16 and 17, to perform lewd acts that he photographed and videotaped for the purpose of creating pornography. Specifically, Zimmerman paid the boys to photograph themselves while masturbating with the intention of publishing and reselling the images as pornography. A former TV newsman, Zimmerman was fired by DCF following his arrest. In January 2009, he pleaded guilty to one count of producing child pornography. Other charges were dropped as part of a plea agreement. Zimmerman was sentenced to 24 years and four months in federal prison.",
-    "position": ["government official", "spokesperson"],
-    "crime": ["child pornography production", "child sexual exploitation"],
-    "tags": ["government official", "florida", "child pornography"]
+    "position": [
+      "government official",
+      "spokesperson"
+    ],
+    "crime": [
+      "child pornography production",
+      "child sexual exploitation"
+    ],
+    "tags": [
+      "government official",
+      "florida",
+      "child pornography"
+    ]
   },
   {
     "id": 105,
     "name": "Allen D. Kauffman",
     "year": 2008,
     "description": "Allen D. Kauffman, 63, was the mayor of Collins, Missouri (a small town of about 200 people) and pastor of the Temple Lot Church in Collins. In late 2007, Kauffman was arrested on four counts of felony enticement of a child following an Internet sting operation. According to prosecutors, Kauffman believed he was communicating with a 13-year-old girl in a Yahoo chat room during November and December 2007. In reality, he was communicating with Jim Murray, a retired detective from Diamond, Missouri who conducts online child sex predator stings. Murray's sting operations have led to over 20 arrests with more than half resulting in prison time for adults convicted of soliciting sex from minors. Kauffman resigned from his positions as mayor of Collins and pastor of Temple Lot Church following the charges.",
-    "position": ["government official", "religious leader"],
-    "crime": ["enticement of a child", "solicitation of a minor"],
-    "tags": ["government official", "religious leader", "missouri"]
+    "position": [
+      "government official",
+      "religious leader"
+    ],
+    "crime": [
+      "enticement of a child",
+      "solicitation of a minor"
+    ],
+    "tags": [
+      "government official",
+      "religious leader",
+      "missouri"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Blake Farenthold",
+    "year": 2018,
+    "description": "U.S. Representative Blake Farenthold (R-TX) resigned from Congress in April 2018 after it was revealed he used $84,000 in taxpayer money to settle a sexual harassment lawsuit filed by his former communications director. The lawsuit alleged gender discrimination, sexual harassment, and creating a hostile work environment.",
+    "crime": [
+      "sexual harassment"
+    ],
+    "position": [
+      "congress"
+    ],
+    "tags": [
+      "congress",
+      "republican"
+    ]
   }
 ]

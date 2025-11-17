@@ -830,15 +830,23 @@
   },
   {
     "id": 46,
-    "name": "5 years.",
-    "position": [],
-    "crime": [],
-    "description": "5 years.",
+    "name": "Nicholas Elizondo",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child sexual abuse",
+      "child molestation"
+    ],
+    "description": "Nicholas Elizondo was the director of the 'Young Republican Federation.' He molested his own 6-year-old daughter and was convicted of child sexual abuse. Elizondo was sentenced to six years in prison and is required to register as a sex offender.",
     "sources": [
       "https://www.king5.com/article/news/crime/aberdeen-council-member-child-rape-charge/281-c7567282-4265-4cb8-ae65-53319d33ca11"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": 2005
   },
   {
     "id": 1330,
