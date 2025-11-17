@@ -78,5 +78,50 @@
     "position": ["state legislator"],
     "crime": ["rape", "sexual abuse", "child molestation"],
     "tags": ["state legislator", "republican"]
+  },
+  {
+    "id": 18,
+    "name": "Mark A. Grethen",
+    "year": 2001,
+    "description": "Republican businessman and activist Mark A. Grethen was convicted in 2001 of six counts of sex crimes involving children (two counts each of forcible sodomy, aggravated sexual battery, and indecent liberties with a child). He was sentenced to 26 years in prison. Shortly after conviction, he was briefly named 'Republican of the Year' in 2002 by the National Republican Congressional Committee. He was killed in prison in 2021.",
+    "position": ["activist", "party member"],
+    "crime": ["rape", "sexual abuse", "child molestation"],
+    "tags": ["activist", "party member", "republican"]
+  },
+  {
+    "id": 23,
+    "name": "Beverly Russell",
+    "year": 1995,
+    "description": "Christian Coalition leader and South Carolina Republican Party official Beverly Russell admitted in 1988 to sexually molesting his stepdaughter Susan Smith beginning when she was 15 years old. The abuse continued for years. During Smith's 1995 murder trial, Russell testified about the abuse and urged the jury to spare her life, saying he bore responsibility for her actions.",
+    "position": ["party official", "activist"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["party official", "activist", "republican", "religious leader"]
+  },
+  {
+    "id": 24,
+    "name": "Robert Bauman",
+    "year": 1980,
+    "description": "U.S. Representative Robert Bauman (R-MD) was charged on October 3, 1980, with soliciting sex from a 16-year-old male prostitute. Despite being a staunch conservative who often criticized American morality, charges were dropped after he completed court-supervised rehabilitation. He lost his re-election bid in November 1980.",
+    "position": ["congress"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 28,
+    "name": "Stephen White",
+    "year": 2003,
+    "description": "Reverend Stephen White, who preached against homosexuality and sexual promiscuity at Yale and other campuses, was convicted in 2003 of criminal solicitation to commit involuntary deviate sexual intercourse. He was arrested in June 2003 after offering $20 to a 14-year-old boy in West Chester, Pennsylvania, for permission to perform oral sex. He faced a minimum 3-year prison term.",
+    "position": ["religious leader"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["religious leader", "republican"]
+  },
+  {
+    "id": 29,
+    "name": "Jon Matthews",
+    "year": 2004,
+    "description": "Conservative talk show host Jon Matthews pleaded guilty in June 2004 to indecency with a child for exposing his genitals to an 11-year-old girl at his Sugar Land, Texas, home in October 2003. He initially received deferred adjudication but his probation was revoked in 2007 after violations, and he was sentenced to 3 years in prison.",
+    "position": ["party member"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["party member", "republican"]
   }
 ]
