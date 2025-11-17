@@ -78,5 +78,131 @@
     "position": ["state legislator"],
     "crime": ["rape", "sexual abuse", "child molestation"],
     "tags": ["state legislator", "republican"]
+  },
+  {
+    "id": 18,
+    "name": "Mark A. Grethen",
+    "year": 2001,
+    "description": "Republican businessman and activist Mark A. Grethen was convicted in 2001 of six counts of sex crimes involving children (two counts each of forcible sodomy, aggravated sexual battery, and indecent liberties with a child). He was sentenced to 26 years in prison. Shortly after conviction, he was briefly named 'Republican of the Year' in 2002 by the National Republican Congressional Committee. He was killed in prison in 2021.",
+    "position": ["activist", "party member"],
+    "crime": ["rape", "sexual abuse", "child molestation"],
+    "tags": ["activist", "party member", "republican"]
+  },
+  {
+    "id": 23,
+    "name": "Beverly Russell",
+    "year": 1995,
+    "description": "Christian Coalition leader and South Carolina Republican Party official Beverly Russell admitted in 1988 to sexually molesting his stepdaughter Susan Smith beginning when she was 15 years old. The abuse continued for years. During Smith's 1995 murder trial, Russell testified about the abuse and urged the jury to spare her life, saying he bore responsibility for her actions.",
+    "position": ["party official", "activist"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["party official", "activist", "republican", "religious leader"]
+  },
+  {
+    "id": 24,
+    "name": "Robert Bauman",
+    "year": 1980,
+    "description": "U.S. Representative Robert Bauman (R-MD) was charged on October 3, 1980, with soliciting sex from a 16-year-old male prostitute. Despite being a staunch conservative who often criticized American morality, charges were dropped after he completed court-supervised rehabilitation. He lost his re-election bid in November 1980.",
+    "position": ["congress"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 28,
+    "name": "Stephen White",
+    "year": 2003,
+    "description": "Reverend Stephen White, who preached against homosexuality and sexual promiscuity at Yale and other campuses, was convicted in 2003 of criminal solicitation to commit involuntary deviate sexual intercourse. He was arrested in June 2003 after offering $20 to a 14-year-old boy in West Chester, Pennsylvania, for permission to perform oral sex. He faced a minimum 3-year prison term.",
+    "position": ["religious leader"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["religious leader", "republican"]
+  },
+  {
+    "id": 29,
+    "name": "Jon Matthews",
+    "year": 2004,
+    "description": "Conservative talk show host Jon Matthews pleaded guilty in June 2004 to indecency with a child for exposing his genitals to an 11-year-old girl at his Sugar Land, Texas, home in October 2003. He initially received deferred adjudication but his probation was revoked in 2007 after violations, and he was sentenced to 3 years in prison.",
+    "position": ["party member"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["party member", "republican"]
+  },
+  {
+    "id": 6,
+    "name": "Howard Scott Heldreth",
+    "year": 1992,
+    "description": "Anti-abortion and anti-gay activist Howard Scott Heldreth was charged in 1992 with rape and kidnapping of a 16-year-old girl. He pleaded guilty to sexual battery and was sentenced to probation and required to register as a sex offender in Florida.",
+    "position": ["activist"],
+    "crime": ["rape", "sexual abuse"],
+    "tags": ["activist", "republican"]
+  },
+  {
+    "id": 13,
+    "name": "Strom Thurmond",
+    "year": 1925,
+    "description": "U.S. Senator Strom Thurmond had sex with Carrie Butler, a 15-year-old Black housemaid working for his family, when he was 22 years old in 1925. Their daughter, Essie Mae Washington-Williams, was born in October 1925. Thurmond, who became known for pro-segregation politics, kept his daughter's existence secret until after his death in 2003.",
+    "position": ["congress"],
+    "crime": ["rape", "sexual abuse"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 15,
+    "name": "Peter Dibble",
+    "year": 2004,
+    "description": "Connecticut legislator and Stonington first selectman Peter Dibble pleaded no contest in 2004 to having an inappropriate relationship with a 13-year-old girl. He was charged with repeated acts of sexual misconduct with the girl starting when she was 10 years old, including French-kissing her on at least 40 occasions.",
+    "position": ["local official", "state legislator"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["local official", "state legislator", "republican"]
+  },
+  {
+    "id": 33,
+    "name": "Andrew Buhr",
+    "year": 2002,
+    "description": "Republican politician and Missouri House candidate Andrew Buhr was charged in 2002 with two counts of first-degree sodomy with a 13-year-old boy. He was appointed by President Bush to the Commission on Presidential Scholars in November 2002 but lost the position within a month when the charges were filed. A mistrial was declared in January 2004 after he claimed he thought the boy was older.",
+    "position": ["candidate", "party official"],
+    "crime": ["sexual abuse", "sodomy"],
+    "tags": ["candidate", "party official", "republican"]
+  },
+  {
+    "id": 34,
+    "name": "Keith Westmoreland",
+    "year": 2002,
+    "description": "Tennessee state representative and former Sullivan County executive Keith Westmoreland was arrested in 2002 on seven felony counts of lewd and lascivious exhibition to girls under age 16. He exposed his genitals to children at a hotel pool in Sandestin, Florida. He later committed suicide.",
+    "position": ["state legislator", "local official"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["state legislator", "local official", "republican"]
+  },
+  {
+    "id": 35,
+    "name": "John Allen Burt",
+    "year": 2003,
+    "description": "Anti-abortion activist and Christian fundamentalist John Allen Burt was arrested in 2003 for molesting a 15-year-old girl living at his shelter 'Our Father's House.' He was convicted on April 1, 2004, of five counts of lewd and lascivious molestation and conduct. He was sentenced to 18 years in prison and died while serving his sentence in 2013.",
+    "position": ["activist", "religious leader"],
+    "crime": ["sexual abuse", "child molestation"],
+    "tags": ["activist", "religious leader", "republican"]
+  },
+  {
+    "id": 36,
+    "name": "Keola Childs",
+    "year": 2000,
+    "description": "Hawaii County Councilman Keola Childs pleaded guilty in 2000 to first-degree sexual assault for molesting a male child. The charge carried a possible sentence of 20 years in prison.",
+    "position": ["local official"],
+    "crime": ["sexual assault", "child molestation"],
+    "tags": ["local official", "republican"]
+  },
+  {
+    "id": 42,
+    "name": "Parker J. Bena",
+    "year": 2001,
+    "description": "Republican activist Parker J. Bena was a presidential elector for George W. Bush in 2000. In 2001, he pleaded guilty to possession of child pornography, including images of children as young as 3 years old, on his home computer. He was sentenced to 30 months in federal prison and fined $18,000.",
+    "position": ["activist", "party official"],
+    "crime": ["child pornography"],
+    "tags": ["activist", "party official", "republican"]
+  },
+  {
+    "id": 47,
+    "name": "Richard A. Dasen Sr.",
+    "year": 2005,
+    "description": "Montana businessman and Republican benefactor Richard A. Dasen Sr. was convicted in May 2005 of promotion of prostitution, sexual abuse of children, and multiple felony prostitution counts. He paid women and girls for sex, took sexual photographs of girls under 18, and had sex with a 15-year-old girl. He was sentenced to 20 years with 18 suspended in September 2005.",
+    "position": ["party member"],
+    "crime": ["sexual abuse", "child exploitation", "prostitution"],
+    "tags": ["party member", "republican"]
   }
 ]
