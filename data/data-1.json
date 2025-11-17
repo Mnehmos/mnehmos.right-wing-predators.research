@@ -1971,71 +1971,90 @@
   },
   {
     "id": 96,
-    "name": "Wharton prof & conservative consultant on media effects on",
-    "position": [],
-    "crime": [],
-    "description": "Wharton prof & conservative consultant on media effects on children Lawrence Scott Ward - video of himself having sex",
+    "name": "Lawrence Scott Ward",
+    "position": [
+      "academic",
+      "professor"
+    ],
+    "crime": [
+      "child pornography production",
+      "child sexual abuse",
+      "importing child pornography"
+    ],
+    "description": "Lawrence Scott Ward was a 63-year-old professor at the Wharton School of Business at the University of Pennsylvania, known for expertise on media effects on children. In August 2006, authorities discovered child pornography in his luggage and laptop computer when he arrived at Dulles International Airport near Washington, D.C., on a flight from Brazil. A search of his office at Wharton's Huntsman Hall uncovered over 80 images of Ward and a young boy (no older than 15) in intimate situations, with the boy featured in a series of pornographic DVDs found in Ward's mail. Ward pleaded guilty on May 17, 2007 to producing child pornography for importation into the United States, receiving 15 years in prison and a $17,500 fine. On November 17, 2008, he pleaded guilty to all four Pennsylvania child pornography and sexual misconduct charges and received an additional 25-year sentence.",
     "sources": [
       "https://t.co/UBbrEeWISl"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "professor",
+      "academic",
+      "pennsylvania"
+    ],
+    "year": 2006
   },
   {
     "id": 97,
-    "name": "Spokane Republican Jim West",
+    "name": "James E. West",
     "position": [
-      "local official",
-      "party member"
+      "mayor",
+      "state legislator"
     ],
     "crime": [
-      "child molestation"
+      "child sexual abuse"
     ],
-    "description": "Spokane Republican homophobic mayor Jim West recalled after evidence surfaced that he molested little boys",
+    "description": "James E. West (Jim West) was a Republican politician from Spokane, Washington who served in the state legislature starting in 1982 and became mayor of Spokane in 2003. In May 2005, a local newspaper investigation published allegations that West had sexually molested young boys more than 20 years earlier, in the late 1970s or early 1980s. West was accused of abusing at least two young men during his time as a sheriff's deputy and while volunteering with the Boy Scouts as a troop leader. Although never formally charged, voters overwhelmingly recalled West from office in a special election on December 6, 2005, with 65% voting to oust him. His term ended on December 16, 2005. The FBI investigated the allegations but closed the case without taking action due to lack of sufficient evidence.",
     "sources": [
       "https://t.co/01rIrLsCdj"
     ],
     "tags": [
-      "local official",
-      "party member",
+      "politician",
+      "washington",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 98,
-    "name": "Focus on the Family's Steve Wilsey -",
-    "position": [],
+    "name": "Steve Wilsey",
+    "position": [
+      "religious counselor",
+      "activist"
+    ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Focus on the Family's Steve Wilsey - molesting an 8 year old boy",
+    "description": "Steve Wilsey was a youth counselor and activist affiliated with Focus on the Family, an evangelical Christian organization, and was reportedly a protégé of James Dobson, the founder of Focus on the Family. Wilsey was charged with and convicted of sexual assault after molesting an 8-year-old boy. His case represented a significant scandal for Focus on the Family and exposed the organization's vulnerability regarding child safety within its youth counseling programs.",
     "sources": [
       "https://capitolhillblue.com/node/982NewspaperAugust"
     ],
-    "tags": [],
+    "tags": [
+      "religious organization",
+      "child abuse"
+    ],
     "year": null
   },
   {
     "id": 99,
-    "name": "Southern Bapt",
+    "name": "Paul Williams",
     "position": [
-      "party member",
-      "religious leader"
+      "religious leader",
+      "church official"
     ],
     "crime": [
+      "child sexual abuse",
       "child molestation"
     ],
-    "description": "Republican Southern Baptist megachurch pastor Paul Williams faces charges of molesting his son",
+    "description": "Paul Williams was a minister of prayer and special projects at Bellevue Baptist Church, a major Southern Baptist megachurch. In 2006, an internal church investigation revealed that Williams had sexually abused his son over a period of 12-18 months, beginning in 1990 when his son was an adolescent. Williams admitted to and was convicted of the sexual abuse. According to the investigation, church leaders including the current pastor, Reverend Steve Gaines, learned about the abuse but did not immediately report it to authorities. The abuse only came to light in December 2005 after Williams' son prodded Pastor Gaines to explain why his father was still allowed to serve as a minister. Williams was subsequently fired from his position at the church.",
     "sources": [
       "https://t.co/1E5yrAUNp2",
       "https://baptistnews.com/article/bellevue-report-assistant-pastor-guilty-of-sex-abuse-against-son/"
     ],
     "tags": [
-      "party member",
       "religious leader",
-      "republican"
+      "baptist",
+      "child abuse"
     ],
-    "year": null
+    "year": 1990
   }
 ]

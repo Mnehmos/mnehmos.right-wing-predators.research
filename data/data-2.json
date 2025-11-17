@@ -1,24 +1,23 @@
 [
   {
     "id": 100,
-    "name": "Chairman",
+    "name": "Glenn Murphy Jr.",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
-      "assault"
+      "sexual assault"
     ],
-    "description": "Chairman of the Young Republican National Federation, Glenn Murphy Jr., from Indiana was busted for assaulting another man. Not the first time it's happened.",
+    "description": "Glenn Murphy Jr. was a prominent Republican politician who served as president of the Young Republican National Federation. In August 2007, he resigned from his position after being accused of sexually assaulting another man. The assault allegedly occurred on July 29, 2007, when Murphy, age 33, performed oral sex on a 22-year-old man without consent while the victim slept. The assault happened following a Young Republicans gathering and after a night of drinking at the victim's sister's house. Murphy pleaded not guilty to the charges but was convicted of class B felony sexual assault. He was sentenced to six years in prison and is now a registered sex offender. Additionally, another man had accused Murphy of sexual assault in 1998, though no charges were filed at that time.",
     "sources": [
       "https://t.co/orCe48HdFe"
     ],
     "tags": [
-      "party member",
       "party official",
-      "republican"
+      "republican",
+      "registered sex offender"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 101,
