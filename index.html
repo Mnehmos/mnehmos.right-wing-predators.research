@@ -814,12 +814,14 @@
         document.getElementById('firstPage').addEventListener('click', () => {
             currentPage = 1;
             displayCurrentPage();
+            document.querySelector('.container').scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
 
         document.getElementById('prevPage').addEventListener('click', () => {
             if (currentPage > 1) {
                 currentPage--;
                 displayCurrentPage();
+                document.querySelector('.container').scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
         });
 
@@ -828,12 +830,14 @@
             if (currentPage < totalPages) {
                 currentPage++;
                 displayCurrentPage();
+                document.querySelector('.container').scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
         });
 
         document.getElementById('lastPage').addEventListener('click', () => {
             currentPage = Math.ceil(filteredData.length / itemsPerPage);
             displayCurrentPage();
+            document.querySelector('.container').scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
 
         document.getElementById('itemsPerPage').addEventListener('change', (e) => {
