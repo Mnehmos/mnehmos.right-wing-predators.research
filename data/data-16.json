@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1482,
+    "name": "George Bell founded the Anchor Bapt",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "George Bell founded the Anchor Baptist Church in Columbus, OH, and served as pastor for 35 years. He pleaded guilty to 2 counts of rape of a child under the age of",
+    "sources": [],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 10,
+    "name": "Four other counts",
+    "position": [],
+    "crime": [],
+    "description": "Four other counts were dismissed. He has been sentenced to a minimum of 15 years.",
+    "sources": [
+      "https://www.10tv.com/article/news/local/george-bell-sentenced-at-least-15-years-rape-charges/530-9fa4950b-46fa-4454-8f92-04458633e43e"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 1483,
+    "name": "Joshua David Kemper, an outspoken anti-gay, anti-trans",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Joshua David Kemper, an outspoken anti-gay, anti-trans youth pastor from Coarsegold, CA, arrested for child sex abuse : X",
+    "sources": [
+      "https://www.lgbtqnation.com/2025/11/youth-pastor-arrested-for-child-once-claimed-lgbtq-people-make-women-feel-unsafe/"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 1484,
+    "name": "Joseph Burkhart, a Republican at-large Bellevue OH City",
+    "position": [
+      "local official",
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "assault",
+      "sexual harassment"
+    ],
+    "description": "Joseph Burkhart, a Republican at-large Bellevue OH City Council member, was charged with 22 charges: assault, strangulation, menacing by stalking, burglary, telecommunications harassment, tampering with evidence, and possession of a controlled substance. He is chair of the Public Safety Committee",
+    "sources": [
+      "https://www.13abc.com/2025/09/22/bellevue-councilman-arrested-slew-charges/"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 1485,
+    "name": "George Mason, a lobby",
+    "position": [
+      "lobbyist"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "George Mason, a lobbyist for Trump’s 2024 campaign, has been charged with possession and distribution of child sex abuse material",
+    "sources": [
+      "https://www.charlotteobserver.com/news/local/crime/article312856764.html"
+    ],
+    "tags": [
+      "lobbyist",
+      "maga"
+    ],
+    "year": 2024
+  },
+  {
+    "id": 1486,
+    "name": "John Emanuel Banuelos pardoned by Trump has been",
+    "position": [],
+    "crime": [
+      "assault",
+      "kidnapping"
+    ],
+    "description": "John Emanuel Banuelos pardoned by Trump has been arrested for kidnapping and sexually assaulting a woman in Salt Lake City.",
+    "sources": [
+      "https://www.fox13now.com/news/crime/man-accused-of-firing-a-gun-during-capitol-riot-is-arrested-on-kidnapping-and-sexual-assault-charges"
+    ],
+    "tags": [
+      "maga"
+    ],
+    "year": null
+  },
+  {
+    "id": 1487,
+    "name": "Matthew McGinley, a Colorado worship pastor and former",
+    "position": [
+      "educator",
+      "religious leader"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Matthew McGinley, a Colorado worship pastor and former Christian school teacher has been charged with sexual assault of minor student",
+    "sources": [
+      "https://www.cbsnews.com/colorado/news/matthew-mcginley-sexual-assault-fort-collins-pastor-teacher/",
+      "https://www.christianpost.com/news/former-texas-megachurch-youth-leader-arrested.html",
+      "https://www.miamiherald.com/news/nation-world/national/article307711305.html",
+      "https://www.nbcnews.com/news/us-news/thomas-pinkerton-youth-pastor-arrested-sex-abuse-baltimore-maryland-rcna224311"
+    ],
+    "tags": [
+      "educator",
+      "religious leader"
+    ],
+    "year": null
+  }
+]

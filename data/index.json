@@ -1,0 +1,23 @@
+{
+  "total_entries": 1507,
+  "entries_per_file": 100,
+  "num_files": 16,
+  "files": [
+    "data/data-1.json",
+    "data/data-2.json",
+    "data/data-3.json",
+    "data/data-4.json",
+    "data/data-5.json",
+    "data/data-6.json",
+    "data/data-7.json",
+    "data/data-8.json",
+    "data/data-9.json",
+    "data/data-10.json",
+    "data/data-11.json",
+    "data/data-12.json",
+    "data/data-13.json",
+    "data/data-14.json",
+    "data/data-15.json",
+    "data/data-16.json"
+  ]
+}

@@ -15,7 +15,8 @@ A comprehensive, searchable database of documented allegations and convictions o
 ## Database Statistics
 
 - **Total Entries**: 1,507 documented cases
-- **Data Size**: 855KB JSON database
+- **Data Size**: 855KB total (split into 16 files of ~50KB each)
+- **Data Structure**: Split into 100-entry chunks for optimal loading performance
 - **Fields**: ID, Name, Position(s), Crime(s), Tags, Year, Description, Sources
 
 ## How to Use
@@ -57,9 +58,29 @@ Then open your browser to: `http://127.0.0.1:8000/`
 
 Modern browsers block JavaScript from loading local files (like `data.json`) when you open HTML files directly using the `file://` protocol. This is a security feature called CORS (Cross-Origin Resource Sharing). A local web server serves the files over HTTP, which allows the application to work properly.
 
+## Data Organization
+
+The database is split into multiple files for better performance:
+
+- **data/index.json**: Index file listing all data files and metadata
+- **data/data-1.json** through **data/data-16.json**: Individual data chunks (100 entries each, except the last)
+- **data.json**: Original monolithic file (kept as backup)
+
+The application automatically loads the split files with progress indication. If split files are unavailable, it falls back to `data.json`.
+
+### Regenerating Split Files
+
+To regenerate the split data files from `data.json`:
+
+```bash
+python3 split_data.py
+```
+
+This will recreate the `data/` directory with updated split files.
+
 ## Data Structure
 
-Each entry in `data.json` contains:
+Each entry in the JSON files contains:
 
 ```json
 {

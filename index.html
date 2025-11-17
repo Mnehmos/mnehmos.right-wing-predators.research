@@ -502,11 +502,42 @@
             };
         }
 
-        // Load data from JSON file
+        // Load data from JSON files
         async function loadData() {
             try {
-                const response = await fetch('data.json');
-                allData = await response.json();
+                // First, try to load split data files
+                const indexResponse = await fetch('data/index.json');
+
+                if (indexResponse.ok) {
+                    // Load split files
+                    const indexData = await indexResponse.json();
+                    const loadingEl = document.getElementById('entriesContainer');
+
+                    loadingEl.innerHTML = `
+                        <div class="loading">
+                            Loading database...<br>
+                            <small>Loading file <span id="loadProgress">0</span> of ${indexData.num_files}</small>
+                        </div>
+                    `;
+
+                    // Load all data files in parallel
+                    const dataPromises = indexData.files.map((file, index) =>
+                        fetch(file)
+                            .then(response => response.json())
+                            .then(data => {
+                                document.getElementById('loadProgress').textContent = index + 1;
+                                return data;
+                            })
+                    );
+
+                    const dataChunks = await Promise.all(dataPromises);
+                    allData = dataChunks.flat();
+                } else {
+                    // Fallback to single data.json file
+                    const response = await fetch('data.json');
+                    allData = await response.json();
+                }
+
                 filteredData = allData;
 
                 populateFilters();
@@ -516,10 +547,12 @@
                 updateLastModified();
                 document.getElementById('paginationContainer').style.display = 'flex';
             } catch (error) {
+                console.error('Error loading data:', error);
                 document.getElementById('entriesContainer').innerHTML = `
                     <div class="no-results">
                         <h3>Error loading data</h3>
-                        <p>Please ensure data.json is in the same directory.</p>
+                        <p>Please ensure the data files are accessible.<br>
+                        Try running a local web server (see README.md)</p>
                     </div>
                 `;
             }

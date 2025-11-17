@@ -1,0 +1,1928 @@
+[
+  {
+    "id": 1,
+    "name": "Donald Trump",
+    "position": [],
+    "crime": [
+      "assault",
+      "rape",
+      "sexual assault"
+    ],
+    "description": "Donald Trump is accused of sexual assault by more than two dozen women. He is accused of raping a 13-year-old girl, talked about having sex with his daughter, bragged of walking in on underage girls at pageants, claimed he can grab women by the pussy. He is convicted of sexually assaulting E. Jean Carroll",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations",
+      "https://www.gzeromedia.com/in-60-seconds/world/trump-sexual-abuse-verdict-wont-hurt-him-with-gop",
+      "https://www.theguardian.com/us-news/2023/jan/14/donald-trump-e-jean-carroll-lawsuit-nut-job"
+    ],
+    "tags": [
+      "maga"
+    ],
+    "year": null
+  },
+  {
+    "id": 2,
+    "name": "Judge Roy Moore",
+    "position": [
+      "judge"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Judge Roy Moore is accused of sexual assault and dating underage women.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roy_Moore_sexual_misconduct_allegation"
+    ],
+    "tags": [
+      "judge"
+    ],
+    "year": null
+  },
+  {
+    "id": 3,
+    "name": "Jim Jordan",
+    "position": [
+      "coach",
+      "congress",
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Jim Jordan is in Republican House leadership though he is accused of ignoring sexual assault of more than a hundred young men while a coach, dismissing it as locker room talk. Students have said they told him and he is said to have called the parents of one complainant asking them to get their son to back off.",
+    "sources": [
+      "https://www.vox.com/2018/7/6/17536388/jim-jordan-ohio-state-sexual-abuse-accuser",
+      "https://www.nytimes.com/2023/04/16/us/politics/jim-jordan-trump.html"
+    ],
+    "tags": [
+      "coach",
+      "congress",
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 4,
+    "name": "Speaker of the House Denn",
+    "position": [
+      "congress"
+    ],
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Speaker of the House Dennis Hastert sexually abused his high school students. He is outside the statute of limitations but was convicted of paying off/bribing some of his victims",
+    "sources": [
+      "https://www.nytimes.com/2016/04/28/us/dennis-hastert-sentencing.html"
+    ],
+    "tags": [
+      "congress"
+    ],
+    "year": null
+  },
+  {
+    "id": 5,
+    "name": "Cobb County GOP Chairman Joseph Russell Dendy - child",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Cobb County GOP Chairman Joseph Russell Dendy - child molesting - pleaded guilty, life sentence, parole possible in 30",
+    "sources": [
+      "https://www.ajc.com/news/crime--law/cobb-gop-chairman-dendy-indicted-molestation-charges/Ajxs2SiORqMCCdVZpGqj1M/",
+      "https://www.ajc.com/news/local-govt--politics/former-cobb-gop-leader-pleads-guilty-child-molestation-gets-life-sentence/JnEAITpb5Oy9iZ9RtsVvnI/"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 6,
+    "name": "So-called \"pro-life\"/ antigay activ",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "So-called \"pro-life\"/ antigay activist Howard Scott Heldreth was convicted of raping a child",
+    "sources": [
+      "https://web.archive.org/web/20230601212352/https"
+    ],
+    "tags": [
+      "activist"
+    ],
+    "year": null
+  },
+  {
+    "id": 7,
+    "name": "GOP Ohio County Comm",
+    "position": [
+      "local official",
+      "party official"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "GOP Ohio County Commissioner David Swartz convicted of raping two girls - released after only 5 years!!!! Back in prison after contacting one of his victims.",
+    "sources": [
+      "http://lanternproject.org.uk/library/child-abuse-arrests-and-court-cases/child-abuse-arrests-trials-and-proceedings/ex-county-commissioner-admits-sexual-abuse-of-girl"
+    ],
+    "tags": [
+      "local official",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 8,
+    "name": "Republican judge Mark Pazuhanich",
+    "position": [
+      "judge",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican judge Mark Pazuhanich pleaded no contest to fondling a 10-year old girl",
+    "sources": [
+      "https://www.timesleader.com/archive/1063191/indecent-assault-case-judge-pleads-no-contest-mark-pazuhanich-says-he-didnt-want-his-daughter-to-have-to-testify-aboutfondling-incident"
+    ],
+    "tags": [
+      "judge",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 9,
+    "name": "Republican anti-abortion activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [
+      "child pornography",
+      "sexual abuse"
+    ],
+    "description": "Republican anti-abortion activist Nicholas Morency pleaded guilty to possessingChild Sexual Abuse Material on his computer and offering a bounty to anybody who murders an abortion doctor.",
+    "sources": [
+      "https://www.washingtonpost.com/archive/politics/2001/03/10/nation-in-brief/83fbbb01-c7fc-437a-81c4-2f686e3f1e58/"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 10,
+    "name": "Republican Speaker of the House in PR Ed",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Speaker of the House in PR Edison Misla Aldarondo was sentenced to 10 years in prison for raping his daughter between the ages of 9 and",
+    "sources": [],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 17,
+    "name": "https://en.wikipedia.org/wiki/Ed",
+    "position": [],
+    "crime": [],
+    "description": "https://en.wikipedia.org/wiki/Edison_Misla_Aldarondo …",
+    "sources": [],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 11,
+    "name": "Republican Mayor Philip Giordano",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican Mayor Philip Giordano is serving a 37-year sentence in federal prison for sexually abusing 8- and 10- year old girls.",
+    "sources": [
+      "https://www.nytimes.com/2003/03/26/nyregion/ex-mayor-convicted-in-sex-abuse-case.html"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 12,
+    "name": "Republican campaign consultant Tom Shortridge",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican campaign consultant Tom Shortridge was sentenced to three years probation for taking nude photographs of a 15-year old girl.",
+    "sources": [
+      "https://www.latimes.com/archives/la-xpm-2001-apr-06-me-47737-story.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 13,
+    "name": "Republican rac",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican racist pedophile and United States Senator Strom Thurmond had sex with (RAPED) a 15-year old black girl which produced a child.",
+    "sources": [
+      "https://web.archive.org/web/20190728115136/https"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 14,
+    "name": "Republican pastor Mike Hintz, whom George W. Bush",
+    "position": [
+      "law enforcement",
+      "party member",
+      "religious leader"
+    ],
+    "crime": [],
+    "description": "Republican pastor Mike Hintz, whom George W. Bush commended during the 2004 presidential campaign, surrendered to police after admitting to a sexual affair with a female juvenile.",
+    "sources": [
+      "https://www.washingtonpost.com/archive/politics/2004/12/10/example-goes-from-good-to-bad/e73a7b08-5fb8-412a-ba7f-8fb473543e83/"
+    ],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "religious leader",
+      "republican"
+    ],
+    "year": 2004
+  },
+  {
+    "id": 15,
+    "name": "Republican leg",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican legislator Peter Dibble pleaded no contest to having an inappropriate relationship with a 13-year-old girl.",
+    "sources": [
+      "https://www.nytimes.com/2004/04/18/nyregion/embroiled-first-selectman-takes-leave.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 16,
+    "name": "Republican Congressman Donald \"Buz\" Lukens",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican Congressman Donald \"Buz\" Lukens was found guilty of having sex with a female minor and sentenced to one month in jail.",
+    "sources": [
+      "https://www.npr.org/sections/politicaljunkie/2009/05/on_this_day_in_1989_buz_lukens.html"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 17,
+    "name": "Republican fundra",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Republican fundraiser Richard A. Delgaudio was found guilty of child porn charges and paying two teenage girls to pose for sexual photos.",
+    "sources": [
+      "https://www.washingtonpost.com/archive/local/2003/04/24/gop-activist-admits-to-child-porn/5af2adf0-bec8-4a10-b061-014de679422a/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 18,
+    "name": "Republican of the Year Mark A. Grethen",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican of the Year Mark A. Grethen convicted on six counts of sex crimes involving children.",
+    "sources": [
+      "https://www.pilotonline.com/news/crime/vp-nw-mark-grethen-lawrenceville-correctional-20210806-dmjuk7zwgnfxvigjnjmy3257vy-story.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 19,
+    "name": "Republican state senator Ralph Shortey from Oklahoma",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "child pornography",
+      "sodomy"
+    ],
+    "description": "Republican state senator Ralph Shortey from Oklahoma admitted to being involved in sodomy with a 17 year old male prostitute and transporting child pornography.",
+    "sources": [
+      "https://www.washingtonpost.com/news/post-nation/wp/2017/11/20/former-oklahoma-state-senator-admits-to-child-sex-trafficking-while-in-office/"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 20,
+    "name": "Republican activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "Republican activist Randal David Ankeney pleaded guilty to attempted sexual assault on a",
+    "sources": [
+      "https://www.coloradoindependent.com/2008/01/28/onetime-rising-gop-star-back-to-prison-for-sex-assaults/"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 21,
+    "name": "GOP Congressman Dan Crane had sex with a page. To be",
+    "position": [
+      "congress",
+      "party official"
+    ],
+    "crime": [],
+    "description": "GOP Congressman Dan Crane had sex with a page. To be fair, Dem Congressman was Gerry Studds was also caught for the same thing..",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1983_congressional_page_sex_scandal"
+    ],
+    "tags": [
+      "congress",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 22,
+    "name": "Republican Congressman Mark Foley abruptly",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican Congressman Mark Foley abruptly resigned from Congress after \"sexually explicit\" emails surfaced showing him flirting with a 16-year old boy.",
+    "sources": [
+      "http://www.washingtonpost.com/wp-dyn/content/article/2006/09/29/AR2006092901574.html"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 23,
+    "name": "Republican activ",
+    "position": [
+      "activist",
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican activist and Christian Coalition leader Beverly Russell admitted to raping his stepdaughter repeatedly after she was 15. Headline here is gross. Rape/not affair",
+    "sources": [
+      "https://greensboro.com/smith-stepfather-had-affair-that-began-when-she-was-15/article_549fa43d-e631-599b-8cad-177a71ad709e.html"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 24,
+    "name": "Republican congressman and anti-gay activ",
+    "position": [
+      "activist",
+      "congress",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican congressman and anti-gay activist *Robert Bauman** was charged with having sex (raping) with a 16- year-old boy he picked up at a gay bar.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Bauman"
+    ],
+    "tags": [
+      "activist",
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 25,
+    "name": "Republican Committee Chairman Jeffrey Patti",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Committee Chairman Jeffrey Patti was arrested for distributing a video clip of a 5-year-old girl being raped and notice, they agreed his record could be expunged in THREE YEARS!",
+    "sources": [
+      "https://www.nj.com/ledgerarchives/2005/01/cops_say_jersey_suspects_sough.html",
+      "https://archive.is/7agH6"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 26,
+    "name": "Republican leg",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child molestation",
+      "child pornography"
+    ],
+    "description": "Republican legislative aide *Howard L. Brooks** was charged with molesting a 12-year old boy and possession of child pornography. He pled no contest and was sentenced to 3 years in prison..",
+    "sources": [
+      "https://www.latimes.com/archives/la-xpm-2001-nov-22-me-7130-story.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 27,
+    "name": "Republican Senate candidate John Hathaway",
+    "position": [
+      "candidate",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Senate candidate John Hathaway was accused of raping his 12-year old babysitter and withdrew his candidacy after the allegations were reported in the media. : X",
+    "sources": [
+      "https://www.nytimes.com/1996/06/06/us/politics-the-senate-maine-candidate-again-faces-1990-child-sex-accusation.html"
+    ],
+    "tags": [
+      "candidate",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 28,
+    "name": "Republican preacher *Stephen White**, who demanded a",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican preacher *Stephen White**, who demanded a return to traditional values, was sentenced to jail after offering $20 to a 14-year-old boy for permission to perform oral sex on him.",
+    "sources": [
+      "https://www.thedp.com/article/2004/01/brother_stephen_convicted_of_soliciting_sex"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 29,
+    "name": "Republican talk show host Jon Matthews",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican talk show host Jon Matthews pleaded guilty to exposing his genitals to an 11 year old girl.",
+    "sources": [
+      "https://www.chron.com/news/houston-texas/article/Ex-radio-host-pleads-guilty-to-child-indecency-1627887.php"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 30,
+    "name": "Republican anti-gay activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican anti-gay activist Earl \"Butch\" Kimmerling was sentenced to 40 years in prison for molesting an 8-year old girl after he attempted to stop a gay couple from adopting her.",
+    "sources": [
+      "https://www.indystar.com/story/news/crime/2019/06/11/earl-butch-kimmerling-admits-molesting-four-other-children/1418383001/"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 31,
+    "name": "Republican Party leader Paul Ingram",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Party leader Paul Ingram pleaded guilty to six counts of raping his daughters and served 14 years in federal prison.",
+    "sources": [
+      "https://ordinaryevil.wordpress.com/2009/08/11/healthy-skepticism-or-convenient-denial-the-case-of-paul-ingram/"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 32,
+    "name": "Republican election board official Kevin Coan",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican election board official Kevin Coan was sentenced to two years probation for soliciting sex over the internet from",
+    "sources": [
+      "https://news.stlpublicradio.org/other/2004-07-19/former-st-louis-election-official-pleads-guilty-in-sex-case"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 33,
+    "name": "Republican politician *Andrew Buhr**",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sodomy"
+    ],
+    "description": "Republican politician *Andrew Buhr** was charged with two counts of first degree sodomy with a 13-year old boy. Admitted it, but claimed he thought 13 yr was 18. Mistrial.",
+    "sources": [
+      "https://news.google.com/newspapers?nid=1908&dat=20040108&id=SNwfAAAAIBAJ&sjid=ZNkEAAAAIBAJ&pg=2505"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 34,
+    "name": "Republican politician Keith Westmoreland",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican politician Keith Westmoreland was arrested on seven felony counts of lewd and lascivious exhibition to girls under the age of 16. He committed suicide",
+    "sources": [
+      "https://www.chattanoogan.com/2002/6/21/23202/Tennessee-Legislator-Commits-Suicide.aspx"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 35,
+    "name": "Republican anti-abortion activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican anti-abortion activist John Allen Burt was charged with sexual misconduct involving a 15-year old girl.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Burt_"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 36,
+    "name": "Republican County Councilman *Keola Childs**",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican County Councilman *Keola Childs** pleaded guilty to molesting a male child.",
+    "sources": [
+      "https://archives.starbulletin.com/2000/07/20/news/briefs.html"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 37,
+    "name": "Republican activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican activist, McCain office manager Jeffrey Claude Bartleson, was arrested for molesting the child of a campaign volunteer.",
+    "sources": [
+      "https://www.denverpost.com/2009/02/05/molestation-allegations-against-well-regarded-puebloan/",
+      "https://www.chieftain.com/story/news/2009/07/30/political-consultant-pleads-to-sexual/8418923007/"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 38,
+    "name": "NYC councilman, Republican-Queens, Denn",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "NYC councilman, Republican-Queens, Dennis Gallagher - rape",
+    "sources": [
+      "https://www.nytimes.com/2008/03/18/nyregion/18gallagher.html"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 39,
+    "name": "Rep Mayoral Candidate and pastor - Pastor Stephen David",
+    "position": [
+      "candidate",
+      "local official",
+      "religious leader"
+    ],
+    "crime": [],
+    "description": "Rep Mayoral Candidate and pastor - Pastor Stephen David Rambler was accused of having sex with an underage boy and was convicted of soliciting explicit photos from a swingers' group & using the pics to extort money",
+    "sources": [
+      "https://lancasteronline.com/news/sex-crimes-figure-in-wrightsville-mayor-race/article_7aef2162-c8e8-55ac-9cf2-1ee14c5c2211.html"
+    ],
+    "tags": [
+      "candidate",
+      "local official",
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 40,
+    "name": "Republican City Councilman Fred C. Smeltzer, Jr.",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican City Councilman Fred C. Smeltzer, Jr. pleaded no contest to raping a 15 year-old girl and served 6-months",
+    "sources": [
+      "https://www.wgal.com/article/council-accepts-resignation-of-member-imprisoned-for-rape/6189408"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 41,
+    "name": "GOP Sen aide Ryan Loskarn committed suicide after CSAM",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "GOP Sen aide Ryan Loskarn committed suicide after CSAM",
+    "sources": [
+      "https://www.politico.com/story/2014/01/ryan-loskarn-letter-102716",
+      "https://www.theguardian.com/world/2014/jan/24/former-senate-staffer-child-porn-charges-suicide"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 42,
+    "name": "Parker J. Bena",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Parker J. Bena was a prominent Republican activist and an elector for Bush in 2000. A year later, Bena pleaded guilty to possession of child pornography in a plea dea",
+    "sources": [
+      "https://www.columbiatribune.com/story/news/politics/2014/04/02/bill-targets-missouri-lobbyist-with/21723997007/"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": 2000
+  },
+  {
+    "id": 43,
+    "name": "Republican parole board officer and former Colorado state",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Republican parole board officer and former Colorado state representative, Larry Jack Schwarz, was fired after child pornography was found in his possession.",
+    "sources": [
+      "https://www.prisonlegalnews.org/news/2002/jul/15/colorado-parole-board-member-busted-for-child-porn/"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 44,
+    "name": "Faith and Family Alliance director, Republican strateg",
+    "position": [
+      "lobbyist",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Faith and Family Alliance director, Republican strategist, and lobbyist Robin Vanderwall was convicted of five counts of soliciting sex from boys and girls over the internet. It's at the end or article, after all his illegal lobbying schemes",
+    "sources": [
+      "https://www.washingtonpost.com/wp-dyn/content/article/2005/10/15/AR2005101501539_3.html?noredirect=o"
+    ],
+    "tags": [
+      "lobbyist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 45,
+    "name": "Republican businessman Jon Grunseth withdrew h",
+    "position": [
+      "governor",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican businessman Jon Grunseth withdrew his candidacy for Minnesota governor after allegations surfaced that he went swimming in the nude with four underage girls, including his daughter",
+    "sources": [
+      "https://www.mprnews.org/story/2017/11/21/history-1990-gubernatorial-race-rocked-by-scandal"
+    ],
+    "tags": [
+      "governor",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 46,
+    "name": "Nicholas Elizondo, director of the \"Young Republican",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Nicholas Elizondo, director of the \"Young Republican Federation\" molested his 6-year-old daughter and was sentenced to six years in prison",
+    "sources": [
+      "https://kfor.com/news/convicted-sex-offender-gets-sole-custody-of-6-year-old-daughter/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 47,
+    "name": "Republican benefactor of conservative Chr",
+    "position": [
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican benefactor of conservative Christian groups, Richard A. Dasen Sr. rape Dasen has allegedly told police that over the past decade he paid more than $1 million to have sex with a large number of young women",
+    "sources": [
+      "https://missoulian.com/news/kalispell-businessman-richard-dasen-charged-with-prostitution-related-crimes/article_f04ce8a9-fa02-54fa-addd-267d2357a4a9.html"
+    ],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 48,
+    "name": "Republican Judge and campaign official Tim Nolan for",
+    "position": [
+      "judge",
+      "party member"
+    ],
+    "crime": [
+      "sexual trafficking"
+    ],
+    "description": "Republican Judge and campaign official Tim Nolan for President Donald Trump indicted for human trafficking and forcing a minors (9) to engage in sexual activity",
+    "sources": [
+      "https://www.cincinnati.com/story/news/2018/03/26/tim-nolan-judge-tim-nolan-conservative-activist-tim-nolan-human-trafficker/400004002/"
+    ],
+    "tags": [
+      "judge",
+      "maga",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 49,
+    "name": "Republican County Board Candidate Brent Schepp",
+    "position": [
+      "candidate",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican County Board Candidate Brent Schepp was charged with molesting a 14-year old girl.",
+    "sources": [
+      "https://www.chicagotribune.com/2006/10/18/candidate-dies-in-crash/"
+    ],
+    "tags": [
+      "candidate",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 50,
+    "name": "Randall Casseday, HR Director for right-wing",
+    "position": [],
+    "crime": [],
+    "description": "Randall Casseday, HR Director for right-wing Washington Times - caught in an underage sex sting - \"The Washington Times is the only newspaper where the moral issues of family and faith are proudly reported on the front page on a regular basis\"",
+    "sources": [
+      "https://www.huffpost.com/entry/how-an-accused-child-sex_b_30501"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 51,
+    "name": "Republican chairman of the Oregon Chr",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican chairman of the Oregon Christian Coalition Lou Beres confessed to molesting a 13-year old girl",
+    "sources": [
+      "https://www.portlandmercury.com/news/2006/08/10/51719/family-values"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 52,
+    "name": "Republican County Constable Larry Dale Floyd",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican County Constable Larry Dale Floyd was arrested on suspicion of soliciting sex with an 8-year old girl. Floyd has repeatedly won elections for Denton County, Texas,",
+    "sources": [
+      "https://www.myplainview.com/news/article/Former-Denton-County-constable-sentenced-in-sex-8506421.php"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 53,
+    "name": "Republican Party leader Bobby Stumbo",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Party leader Bobby Stumbo was arrested for having sex (raping) with a 5-year old boy.",
+    "sources": [
+      "https://web.archive.org/web/20051211093004/http"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 54,
+    "name": "Republican petition drive manager Tom Randall",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican petition drive manager Tom Randall pleaded guilty to molesting two girls under the age of 14, one of them the daughter of an associate in the petition business.",
+    "sources": [
+      "https://www.ocregister.com/2006/05/27/premium-on-information/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 55,
+    "name": "Republican County Chairman Armando Tebano",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican County Chairman Armando Tebano was arrested for sexually molesting a 14-year-old girl.",
+    "sources": [
+      "https://www.bishop-accountability.org/news2008/01_02/2008_02_08_Stanforth_SexAbuse.htm"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 56,
+    "name": "Republican teacher and former city councilman John Collins",
+    "position": [
+      "educator",
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican teacher and former city councilman John Collins pleaded guilty to sexually molesting 13 and 14 year old girls.",
+    "sources": [
+      "https://www1.gmnews.com/2006/04/27/collins-gets-10-year-term-for-sexual-abuse/"
+    ],
+    "tags": [
+      "educator",
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 57,
+    "name": "Republican campaign worker Mark Seidensticker",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican campaign worker Mark Seidensticker is a convicted child molester.",
+    "sources": [
+      "http://archive.boston.com/news/local/new_hampshire/articles/2005/11/22/ex_aide_to_official_faces_jail_in_solicting_minor"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 58,
+    "name": "Republican Mayor Tom Adams",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Republican Mayor Tom Adams was arrested for distributing child pornography over the internet.",
+    "sources": [
+      "https://www.chicagotribune.com/news/ct-xpm-2009-07-03-0907010521-story.html",
+      "https://www.chicagotribune.com/news/ct-xpm-2009-07-03-0907010521-story.html"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 59,
+    "name": "Republican Mayor John Gosek",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican Mayor John Gosek was arrested on charges of soliciting sex from two 15-year old girls.",
+    "sources": [
+      "https://blog.syracuse.com/indepth/2009/05/john_gosek_the_man_oswego_has.html"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 60,
+    "name": "Republican Committeeman John R. Curtin",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican Committeeman John R. Curtin was charged with molesting a teenage boy and unlawful sexual contact with a minor",
+    "sources": [
+      "https://www.mcall.com/2007/06/19/ex-committeeman-gets-up-to-18-months-in-sex-assault/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 61,
+    "name": "Republican zoning superv",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [],
+    "description": "Republican zoning supervisor, Boy Scout leader and Lutheran church president and BTK killer Dennis L. Rader pleaded guilty to performing a sexual act on an 11-year old girl he murdered.",
+    "sources": [
+      "https://www.nndb.com/people/612/000091339/"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 62,
+    "name": "GOP ad consultant Carey Lee Cramer who created an anti-",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "assault",
+      "sexual assault"
+    ],
+    "description": "GOP ad consultant Carey Lee Cramer who created an anti- Gore ad modeled on LBJ's \"Daisy\" ad convicted of sexual assault of 2 8-year-old girls, including daughter who",
+    "sources": [
+      "https://tucson.com/news/political-consultant-from-tucson-convicted-of-child-sex-assault-in/article_d8ef6399-4082-595a-8693-ea30dda123fe.html"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 63,
+    "name": "Republican Lobby",
+    "position": [
+      "lobbyist",
+      "party member"
+    ],
+    "crime": [
+      "sexual trafficking"
+    ],
+    "description": "Republican Lobbyist Craig Spence - running call-boy sex trafficking ring, killed himself",
+    "sources": [
+      "https://www.nytimes.com/1989/11/12/us/lobbyist-linked-to-sex-case-is-found-dead.html"
+    ],
+    "tags": [
+      "lobbyist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 64,
+    "name": "Republican Judge Ronald C. Kline",
+    "position": [
+      "congress",
+      "judge",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican Judge Ronald C. Kline was placed under house arrest for child molestation and possession of child",
+    "sources": [
+      "https://www.ocregister.com/2007/02/20/ex-judge-kline-gets-prison/"
+    ],
+    "tags": [
+      "congress",
+      "judge",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 65,
+    "name": "GOP state Rep Jim Knoblach of St. Cloud ended h",
+    "position": [
+      "party official"
+    ],
+    "crime": [],
+    "description": "GOP state Rep Jim Knoblach of St. Cloud ended his re- election campaign Friday amid detailed accusations from his adult daughter of what she described as his inappropriate behavior toward her since she was 9",
+    "sources": [
+      "https://www.mprnews.org/story/2018/09/21/knoblach-ends-campaign-amid-abuse-allegations"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 66,
+    "name": "Steve Aiken, campaign manager for a Republican candidate",
+    "position": [
+      "candidate",
+      "congress",
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Steve Aiken, campaign manager for a Republican candidate for Congress in Arizona, former Quakertown, PA, police officer and self-proclaimed reverend, was convicted of having sex with two underage girls",
+    "sources": [
+      "https://www.mcall.com/1996/06/13/aiken-found-guilty-of-molestation-reverend-maintains-his-innocence-after-conviction-by-montco-jury/"
+    ],
+    "tags": [
+      "candidate",
+      "congress",
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 67,
+    "name": "Republican president of the New York City Housing",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Republican president of the New York City Housing Development Corp. Russell Harding pleaded guilty to possessing child pornography on his computer",
+    "sources": [
+      "https://www.nydailynews.com/archives/news/ex-giuliani-aide-busted-child-porn-fraud-scandal-article-1.669207"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 68,
+    "name": "Republican state representative Bob Allen",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [],
+    "description": "Republican state representative Bob Allen charged with soliciting oral sex from a male undercover cop. Normally, I : X would ignore a gay man being arrested for being gay, but he claimed Fear of Black men made him do it",
+    "sources": [
+      "https://boingboing.net/2007/08/07/rep-bob-allen-cites.html"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 69,
+    "name": "Republican prosecutor John David Roy Atch",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican prosecutor John David Roy Atchison arrested on charges of flying across the country to try and have sex with a five year old girl. Committed suicide.",
+    "sources": [
+      "https://www.nytimes.com/2007/10/06/us/06suicide.html"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 70,
+    "name": "Republican chairman & radio show host E Ozwald Balfour",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [
+      "sexual abuse",
+      "sexual harassment"
+    ],
+    "description": "Republican chairman & radio show host E Ozwald Balfour arrested on four counts of forcible sex abuse/groping",
+    "sources": [
+      "https://archive.sltrib.com/article.php?id=50665680&itype=CMSID"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 71,
+    "name": "Clifton Bennett, 18, son of Arizona republican state senator",
+    "position": [
+      "party member",
+      "state legislator"
+    ],
+    "crime": [
+      "assault"
+    ],
+    "description": "Clifton Bennett, 18, son of Arizona republican state senator Ken Bennett plead guilty to assaulting 3 boys, aged 11-15 with broomsticks up their rectal areas.",
+    "sources": [
+      "https://www.motherjones.com/politics/2006/04/senate-presidents-son-sodomizes-18-boys-not-charged-sexual-assault/"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 72,
+    "name": "Republican preacher Hewart Lee Bennett",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican preacher Hewart Lee Bennett arrested for soliciting sex from 16 year old boys while claiming that he did so to gain their trust and then teach them the love of Jesus",
+    "sources": [
+      "https://www.advocate.com/news/2003/10/29/church-youth-leader-arrested-soliciting-sex-minor-10312"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 73,
+    "name": "Republican comm",
+    "position": [
+      "candidate",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican commission candidate Wilton Frederick Bland sentenced to 80 years in prison for various sex crimes including 45 counts of first degree rape of an 11 year old",
+    "sources": [
+      "https://www.times-news.com/bond-at-for-keyser-man-jailed-on-child-porn-charges/article_21933c7f-64cb-5a6a-9fbb-4441fa716396.html"
+    ],
+    "tags": [
+      "candidate",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 74,
+    "name": "Republican councilman John Bryan",
+    "position": [
+      "law enforcement",
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican councilman John Bryan resigned from office and committed suicide several hours later, just a few minutes before police arrived at his home to question him about his alleged rape of his two adoptive daughters, ages 12 and 15",
+    "sources": [
+      "https://www.tbo.com/news/st-petersburg-councilman-resigns-commits-suicide-190377"
+    ],
+    "tags": [
+      "law enforcement",
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 75,
+    "name": "Garrett Ventry-Judiciary Committee communications aide",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Garrett Ventry-Judiciary Committee communications aide coordinating GOP messaging on Christine Blasey Ford’s allegation forced to resign due to sexual harassment claims.",
+    "sources": [
+      "https://www.nbcnews.com/politics/supreme-court/spokesman-gop-kavanaugh-nomination-resigns-has-been-accused-harassment-past-n912156"
+    ],
+    "tags": [
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 76,
+    "name": "Republican staffer and long term director of financial",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican staffer and long term director of financial operations for Seattle Republicans Larry Corrigan plead guilty for attempted rape of a 13 year old girl",
+    "sources": [
+      "https://www.seattletimes.com/seattle-news/well-known-gop-activist-held-in-sex-predator-sting/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 77,
+    "name": "Republican talk show host Scott Eller Cortelyou plead guilty",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican talk show host Scott Eller Cortelyou plead guilty on charges of using the Internet to try and lure a child into a sexual relationship with him",
+    "sources": [
+      "https://www.9news.com/article/news/local/former-radio-host-must-register-as-a-sex-offender/73-343881126"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 78,
+    "name": "Republican constable Joshua Dickens",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican constable Joshua Dickens sentenced to five years in prison for torture related activities against a young",
+    "sources": [
+      "https://www.arktimes.com/arkansas/he-thinks-hes-shocked/Content?oid=863016"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 79,
+    "name": "Republican spokesman Brian Doyle",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican spokesman Brian Doyle arrested for trying to seduce a 14 year old girl over the Internet. He was later sentenced to 5 years in prison",
+    "sources": [
+      "https://www.cbsnews.com/news/homeland-cyber-sex-case-causes-concern/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 80,
+    "name": "Republican campaign official and former Romney staffer",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "child exploitation"
+    ],
+    "description": "Republican campaign official and former Romney staffer Matthew Joseph Elliott convicted of sexual exploitation of a child Got great deal, but really went astray, ending up murdering a child",
+    "sources": [
+      "http://ssristories.net/archive/show0d92.html?item=2504"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 81,
+    "name": "Republican party chair Donald Fle",
+    "position": [
+      "party member",
+      "party official"
+    ],
+    "crime": [],
+    "description": "Republican party chair Donald Fleischman was charged with two counts of child enticement and one count of exposing himself to a child (Brown County, WI)",
+    "sources": [
+      "https://freerepublic.com/focus/news/1911441/posts"
+    ],
+    "tags": [
+      "party member",
+      "party official",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 82,
+    "name": "Republican Michael Flory, former head of the Michigan",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican Michael Flory, former head of the Michigan Young American Foundation, raped a colleague at : X convention",
+    "sources": [
+      "https://www.cleveland.com/metro/2007/07/michigan_young_republican_plea.htmlMichael",
+      "http://www.cleveland19.com/2019/03/25/former-teenage-republicans-chairman-convicted-sex-case-indicted-new-rape-charges/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 83,
+    "name": "Richard Gardner, a Nevada State Representative (R),",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Richard Gardner, a Nevada State Representative (R), admitted to molesting his two daughters and 34% of voters still voted for him. That Keyes Constant!",
+    "sources": [
+      "https://lasvegassun.com/news/2002/oct/14/assembly-candidate-gardner-ruled-ineligible-due-to/"
+    ],
+    "tags": [
+      "state legislator"
+    ],
+    "year": null
+  },
+  {
+    "id": 84,
+    "name": "George Roche III",
+    "position": [],
+    "crime": [],
+    "description": "George Roche III resigned as president of conservative Hillsdale College in Michigan after accusations of a quasi- incestuous relationship with his daughter-in-law, Lissa.",
+    "sources": [
+      "https://www.salon.com/2000/01/19/hillsdale/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 85,
+    "name": "B",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [],
+    "description": "Bishop Paprocki is not a sexual predator, but he protects them. He protects and enabled pedophile priests. He engages in partisanship to order Democratic politicians be denied communion by all priests in his diocese, including Dick Durbin",
+    "sources": [
+      "https://www.bishop-accountability.org/news2015/03_04/2015_03_04_John_Community_Predator_priests.htm"
+    ],
+    "tags": [
+      "religious leader"
+    ],
+    "year": null
+  },
+  {
+    "id": 86,
+    "name": "Republican high level Bush appointee Dr. W. David Hager",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican high level Bush appointee Dr. W. David Hager sodomized his wife while she slept. She divorced him for it.",
+    "sources": [
+      "https://www.thenation.com/article/archive/dr-hagers-family-values/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 87,
+    "name": "Republican sheriff Don Haidl used h",
+    "position": [
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Republican sheriff Don Haidl used his office to smear the victim who was gang raped. The main perpetrator was Haidl’s son, who poisoned the victim. Sheriff Haidl claims that the girl deserved it because she was a \"slut.\"",
+    "sources": [
+      "https://patch.com/california/newportbeach/victim-of-notorious-haidl-gang-rape-breaks-silence"
+    ],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 88,
+    "name": "Republican activ",
+    "position": [
+      "activist",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican activist Neal Horsley admits to having had sex with a mule. Horsley also wants all homosexuals arrested and solicited murders of abortion providers on his Nuremberg files site.",
+    "sources": [
+      "https://www.esquire.com/news-politics/a1696/esq0299-feb-vollcorbett/"
+    ],
+    "tags": [
+      "activist",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 89,
+    "name": "Conservative cardinal Bernard Law of Boston covered up",
+    "position": [],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Conservative cardinal Bernard Law of Boston covered up thousands of instances of sexual molestation by fellow conservative members of the clergy.",
+    "sources": [
+      "https://t.co/QmVRTkK45w"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 90,
+    "name": "Republican congressman Joseph McDade",
+    "position": [
+      "congress",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican congressman Joseph McDade charged with exposing his genitalia to two women on a public beach",
+    "sources": [
+      "https://t.co/DcVOhWWe0P"
+    ],
+    "tags": [
+      "congress",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 91,
+    "name": "Republican delegate Robert McKee resigns after police seize",
+    "position": [
+      "law enforcement",
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican delegate Robert McKee resigns after police seize two computers and videotapes from his home pertaining to",
+    "sources": [
+      "https://t.co/Ku0HKFrKMB"
+    ],
+    "tags": [
+      "law enforcement",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 92,
+    "name": "Republican blowhard TV personality Bill O’Reilly paid several",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Republican blowhard TV personality Bill O’Reilly paid several million dollars to settle a sexual harassment suit with Andrea",
+    "sources": [
+      "https://t.co/aQQufQRZil"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 93,
+    "name": "Republican mega-preacher Marshal Seymour",
+    "position": [
+      "party member"
+    ],
+    "crime": [],
+    "description": "Republican mega-preacher Marshal Seymour arrested on charges of having sex with underage boys. Seymour had been jailed almost a decade earlier for similar charges in a",
+    "sources": [
+      "https://t.co/vdOH25uNFX"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 94,
+    "name": "White supremac",
+    "position": [
+      "party official"
+    ],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "White supremacist National Vanguard leader Kevin Alfred Strom arrested and charged with child pornography",
+    "sources": [
+      "https://t.co/GS5vzrMHXG"
+    ],
+    "tags": [
+      "party official"
+    ],
+    "year": null
+  },
+  {
+    "id": 95,
+    "name": "Daniel Dean Thompson founded a familly values film",
+    "position": [],
+    "crime": [
+      "child pornography"
+    ],
+    "description": "Daniel Dean Thompson founded a familly values film company that removed all the \"bad parts\" from films to make them family-friendly - front for child porn, arrested for having sex with 14-year-old",
+    "sources": [
+      "https://consumerist.com/2008/01/31/family-friendly-movie-censors-were-running-porn-business/"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 96,
+    "name": "Wharton prof & conservative consultant on media effects on",
+    "position": [],
+    "crime": [],
+    "description": "Wharton prof & conservative consultant on media effects on children Lawrence Scott Ward - video of himself having sex",
+    "sources": [
+      "https://t.co/UBbrEeWISl"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 97,
+    "name": "Spokane Republican homophobic mayor Jim West recalled",
+    "position": [
+      "local official",
+      "party member"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Spokane Republican homophobic mayor Jim West recalled after evidence surfaced that he molested little boys",
+    "sources": [
+      "https://t.co/01rIrLsCdj"
+    ],
+    "tags": [
+      "local official",
+      "party member",
+      "republican"
+    ],
+    "year": null
+  },
+  {
+    "id": 98,
+    "name": "Focus on the Family's Steve Wilsey -",
+    "position": [],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Focus on the Family's Steve Wilsey - molesting an 8 year old boy",
+    "sources": [
+      "https://capitolhillblue.com/node/982NewspaperAugust"
+    ],
+    "tags": [],
+    "year": null
+  },
+  {
+    "id": 99,
+    "name": "Republican Southern Bapt",
+    "position": [
+      "party member",
+      "religious leader"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Republican Southern Baptist megachurch pastor Paul Williams faces charges of molesting his son",
+    "sources": [
+      "https://t.co/1E5yrAUNp2",
+      "https://baptistnews.com/article/bellevue-report-assistant-pastor-guilty-of-sex-abuse-against-son/"
+    ],
+    "tags": [
+      "party member",
+      "religious leader",
+      "republican"
+    ],
+    "year": null
+  }
+]
