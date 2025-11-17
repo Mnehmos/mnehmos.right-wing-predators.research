@@ -6,7 +6,7 @@ Apply manual enrichments to the cleaned data
 import json
 
 def apply_enrichments(
-    data_file='data_cleaned.json',
+    data_file='data.json',
     enrichments_file='manual_enrichments.json',
     output_file='data_enriched.json'
 ):

@@ -1,7 +1,7 @@
 [
   {
     "id": 1382,
-    "name": "Erik Sickinger,",
+    "name": "Erik Sickinger, mayor",
     "position": [
       "local official"
     ],
@@ -19,7 +19,7 @@
   },
   {
     "id": 1383,
-    "name": "Casey Medina, Rochester NY police trainee,",
+    "name": "Casey Medina, Rochester",
     "position": [
       "law enforcement"
     ],
@@ -122,7 +122,7 @@
   },
   {
     "id": 1389,
-    "name": "John Kevin Taylor,",
+    "name": "John Kevin Taylor, Mayor",
     "position": [
       "local official"
     ],
@@ -457,7 +457,7 @@
   },
   {
     "id": 1407,
-    "name": "Daniel Merrick,",
+    "name": "Daniel Merrick, a",
     "position": [
       "religious leader"
     ],
@@ -672,7 +672,7 @@
   },
   {
     "id": 1419,
-    "name": "Antonio Brown, former NFL player who endorsed Trump,",
+    "name": "Antonio Brown, former",
     "position": [],
     "crime": [
       "rape"
@@ -777,7 +777,7 @@
   },
   {
     "id": 1425,
-    "name": "Russ Casey, a TX Justice of the Peace,",
+    "name": "Russ Casey, a",
     "position": [
       "candidate",
       "party official"
@@ -820,7 +820,9 @@
       "law enforcement",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Matt McCullough, GOP candidate for senate senate in PA, was arrested for public intoxication after police were called when he groped the breasts of a strip club employee.",
     "sources": [
       "https://www.phillyburbs.com/story/news/politics/elections/2022/09/23/bucks-county-democrats-pa-10th-district-matt-mccullough-steve-santarsiero-police-report/69514863007/"
@@ -857,7 +859,7 @@
   },
   {
     "id": 1429,
-    "name": "Lawrence Taylor, NFL player,",
+    "name": "Lawrence Taylor, NFL",
     "position": [],
     "crime": [
       "rape"
@@ -940,7 +942,7 @@
   },
   {
     "id": 1434,
-    "name": "Stephen Kopp,",
+    "name": "Stephen Kopp, director",
     "position": [],
     "crime": [],
     "description": "Stephen Kopp, director of extremist Bob Jones University summer camp, has been charged with criminal sexual conduct with a minor. The arrest warrant states he engaged in multiple “sex acts” with a 15-year-old child.",
@@ -1091,7 +1093,7 @@
   },
   {
     "id": 1443,
-    "name": "Cory Mills, Florida Congressman,",
+    "name": "Cory Mills, a",
     "position": [
       "congress",
       "law enforcement"
@@ -1146,7 +1148,7 @@
   },
   {
     "id": 1446,
-    "name": "Michael Medlin,",
+    "name": "Michael Medlin, formerly",
     "position": [
       "law enforcement"
     ],
@@ -1164,7 +1166,7 @@
   },
   {
     "id": 1447,
-    "name": "Ami Medlin, a high school teacher in NC,",
+    "name": "Ami Medlin, a",
     "position": [
       "educator"
     ],
@@ -1272,7 +1274,7 @@
   },
   {
     "id": 1453,
-    "name": "Ron Weinberg,",
+    "name": "Ron Weinberg, state",
     "position": [
       "congress",
       "party official",
@@ -1328,7 +1330,7 @@
   },
   {
     "id": 1456,
-    "name": "Ty Burns, OK state rep,",
+    "name": "Ty Burns, OK",
     "position": [],
     "crime": [
       "assault",
@@ -1360,7 +1362,7 @@
   },
   {
     "id": 1458,
-    "name": "Adam King, Johnson County TX Sheriff,",
+    "name": "Adam King, Johnson",
     "position": [
       "law enforcement"
     ],
@@ -1379,7 +1381,7 @@
   },
   {
     "id": 1459,
-    "name": "Terry Steinwand,",
+    "name": "Terry Steinwand, former",
     "position": [
       "governor",
       "party member"
@@ -1417,7 +1419,7 @@
   },
   {
     "id": 1461,
-    "name": "Michael D. Pruitt,",
+    "name": "Michael D. Pruitt, is",
     "position": [],
     "crime": [],
     "description": "Michael D. Pruitt, is being investigated for stalking a minor girl whom he also gave alcohol and cannabis gummies. Her mother took out a restraining order to get him to leave her daughter alone.",
@@ -1533,7 +1535,7 @@
   },
   {
     "id": 1468,
-    "name": "Michael S. Ritchason,",
+    "name": "Michael S. Ritchason, pastor",
     "position": [
       "educator",
       "local official",
@@ -1588,7 +1590,7 @@
   },
   {
     "id": 1471,
-    "name": "Les Hughey, founder of Highlands Church, Scottsdale, AZ,",
+    "name": "Les Hughey, founder",
     "position": [
       "religious leader"
     ],
@@ -1607,7 +1609,7 @@
   },
   {
     "id": 1472,
-    "name": "John C. Sapp, Maranatha Fellowship,",
+    "name": "John C. Sapp, youth",
     "position": [
       "religious leader"
     ],
@@ -1677,7 +1679,7 @@
   },
   {
     "id": 1476,
-    "name": "Dominic Olivares, a former Greenville, NC, police officer,",
+    "name": "Dominic Olivares, a",
     "position": [
       "law enforcement"
     ],
@@ -1713,7 +1715,7 @@
   },
   {
     "id": 1478,
-    "name": "Dustin Weir, Somerset County Sheriff,",
+    "name": "Dustin Weir, Somerset",
     "position": [
       "law enforcement"
     ],

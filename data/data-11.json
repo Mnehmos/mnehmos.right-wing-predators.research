@@ -65,7 +65,7 @@
   },
   {
     "id": 994,
-    "name": "Thomas Gilman Hartman,",
+    "name": "Thomas Gilman Hartman, founding",
     "position": [
       "religious leader"
     ],
@@ -283,7 +283,7 @@
   },
   {
     "id": 1006,
-    "name": "Phillip Briggs, Spencerville, OH,",
+    "name": "Phillip Briggs, Spencerville,",
     "position": [
       "local official"
     ],
@@ -446,7 +446,7 @@
   },
   {
     "id": 1015,
-    "name": "Matthew Reiber,",
+    "name": "Matthew Reiber, pastor",
     "position": [
       "religious leader"
     ],
@@ -517,7 +517,7 @@
   },
   {
     "id": 1019,
-    "name": "Jeffrey Bedwell,",
+    "name": "Jeffrey Bedwell, sentenced",
     "position": [],
     "crime": [
       "child molestation"
@@ -648,7 +648,7 @@
   },
   {
     "id": 1027,
-    "name": "Milton Martin III,",
+    "name": "Pastor Milton Martin III, of",
     "position": [
       "religious leader"
     ],
@@ -667,7 +667,7 @@
   },
   {
     "id": 1028,
-    "name": "Andrew Kloster, congressional counsel for Matt Gaetz,",
+    "name": "Andrew Kloster, congressional",
     "position": [
       "congress"
     ],
@@ -818,7 +818,7 @@
   },
   {
     "id": 1037,
-    "name": "Joshua Wine, Iowa National Guard recruiter,",
+    "name": "Joshua Wine, Iowa",
     "position": [],
     "crime": [],
     "description": "Joshua Wine, Iowa National Guard recruiter, charged with sexuallly abusing a 10-year-old girl",
@@ -924,7 +924,7 @@
   },
   {
     "id": 1043,
-    "name": "Jeffery York,",
+    "name": "Jeffery York, pastor",
     "position": [
       "religious leader"
     ],
@@ -943,7 +943,7 @@
   },
   {
     "id": 1044,
-    "name": "Austin Haynes, former West Virginia state delegate,",
+    "name": "Austin Haynes, former",
     "position": [],
     "crime": [
       "sexual harassment"
@@ -1062,7 +1062,9 @@
     "position": [
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Paul Zunker, former Carver County Wis. GOP Chair, pled guilty to criminal sexual contact with a person under 16. He was sentenced to 6 mo. and 15 yrs probation in 2012. In 2013, he was charged again for the same crime with a different person. He now leads a sex addiction counseling nonprofit called Turnback Ministries",
     "sources": [
       "https://www.bluestemprairie.com/bluestemprairie/2011/09/a-little-more-than-a-hiccup-carver-county-gop-chair-resigns-following-criminal-sex-charges.html",
@@ -1092,7 +1094,7 @@
   },
   {
     "id": 1053,
-    "name": "Timothy Wade Owen, former police officer in Edmond, OK,",
+    "name": "Timothy Wade Owen, former",
     "position": [
       "law enforcement"
     ],
@@ -1223,7 +1225,7 @@
   },
   {
     "id": 1061,
-    "name": "Scotty Campbell, TN House Rep,",
+    "name": "Scotty Campbell, TN",
     "position": [
       "congress"
     ],
@@ -1257,7 +1259,9 @@
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "child pornography"
+    ],
     "description": "Jacob Desormeaux, a Lafayette, LA, police officer was arrested for showing pornography to two underage teens, charged with two counts of obscenity with children.",
     "sources": [
       "https://www.kadn.com/news/lafayette-police-officer-arrested-for-alleged-obscenity-with-children/article_bda4e6c8-e0be-11ed-9533-3302f635da7e.html"
@@ -1333,7 +1337,7 @@
   },
   {
     "id": 1068,
-    "name": "Percy Wilbur Rock Jr,",
+    "name": "Percy Wilbur Rock Jr, candidate",
     "position": [
       "candidate",
       "law enforcement",
@@ -1414,7 +1418,7 @@
   },
   {
     "id": 1072,
-    "name": "Erickson Lee,",
+    "name": "Erickson Lee, law",
     "position": [
       "religious leader"
     ],
@@ -1459,7 +1463,9 @@
       "educator",
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Emma Hancock was a substitute teacher and acting in the capacity when she allegedly groped a teenaged boy in a classroom closet. She had an inappropriate relationship, text, exchange nudes. Her husband is Chief of Police, her father",
     "sources": [
       "https://www.ibtimes.com/mayors-daughter-charged-sexual-abuse-teenager-during-substitute-teaching-3686542"
@@ -1494,7 +1500,7 @@
   },
   {
     "id": 1076,
-    "name": "Kieran Cartharn,",
+    "name": "Kieran Cartharn, unsuccessful",
     "position": [
       "candidate",
       "local official"
@@ -1515,7 +1521,7 @@
   },
   {
     "id": 1077,
-    "name": "Laverne Paul Fox,",
+    "name": "Laverne Paul Fox, was",
     "position": [
       "educator"
     ],
@@ -1626,7 +1632,7 @@
   },
   {
     "id": 1083,
-    "name": "Bart Jetton,",
+    "name": "Bart Jetton, Mayor",
     "position": [
       "local official"
     ],
