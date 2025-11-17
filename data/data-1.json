@@ -17,26 +17,29 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 2,
-    "name": "Judge Roy Moore",
+    "name": "Roy Moore",
     "position": [
-      "judge"
+      "judge",
+      "candidate"
     ],
     "crime": [
       "assault",
       "sexual assault"
     ],
-    "description": "Judge Roy Moore is accused of sexual assault and dating underage women.",
+    "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
     "sources": [
       "https://en.wikipedia.org/wiki/Roy_Moore_sexual_misconduct_allegation"
     ],
     "tags": [
-      "judge"
+      "judge",
+      "candidate",
+      "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 3,
@@ -63,36 +66,36 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 4,
-    "name": "Speaker of the House Denn",
+    "name": "Dennis Hastert",
     "position": [
       "congress"
     ],
     "crime": [
       "sexual abuse"
     ],
-    "description": "Speaker of the House Dennis Hastert sexually abused his high school students. He is outside the statute of limitations but was convicted of paying off/bribing some of his victims",
+    "description": "Former Speaker of the House Dennis Hastert sexually abused high school students while working as a wrestling coach. He was convicted in 2016 of structuring bank withdrawals to evade currency reporting requirements, related to paying hush money to victims of his abuse. He received a 15-month prison sentence.",
     "sources": [
       "https://www.nytimes.com/2016/04/28/us/dennis-hastert-sentencing.html"
     ],
     "tags": [
       "congress"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 5,
-    "name": "Cobb County GOP Chairman Joseph Russell Dendy - child",
+    "name": "Joseph Russell Dendy",
     "position": [
       "party official"
     ],
     "crime": [
       "child molestation"
     ],
-    "description": "Cobb County GOP Chairman Joseph Russell Dendy - child molesting - pleaded guilty, life sentence, parole possible in 30",
+    "description": "Cobb County GOP Chairman Joseph Russell Dendy pleaded guilty in 2017 to 13 charges including child molestation, enticing a child for indecent purposes, and aggravated sexual battery. He received a life sentence with 30 years to serve. The crimes occurred from 2004 to 2011. He was arrested in May 2016.",
     "sources": [
       "https://www.ajc.com/news/crime--law/cobb-gop-chairman-dendy-indicted-molestation-charges/Ajxs2SiORqMCCdVZpGqj1M/",
       "https://www.ajc.com/news/local-govt--politics/former-cobb-gop-leader-pleads-guilty-child-molestation-gets-life-sentence/JnEAITpb5Oy9iZ9RtsVvnI/"
@@ -101,7 +104,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 6,
@@ -123,7 +126,7 @@
   },
   {
     "id": 7,
-    "name": "GOP Ohio County Comm",
+    "name": "Ohio County Comm",
     "position": [
       "local official",
       "party official"
@@ -144,7 +147,7 @@
   },
   {
     "id": 8,
-    "name": "Republican judge Mark Pazuhanich",
+    "name": "Mark Pazuhanich",
     "position": [
       "judge",
       "party member"
@@ -165,7 +168,7 @@
   },
   {
     "id": 9,
-    "name": "Republican anti-abortion activ",
+    "name": "anti-abortion activ",
     "position": [
       "activist",
       "party member"
@@ -183,26 +186,26 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2001
   },
   {
     "id": 10,
-    "name": "Republican Speaker of the House in PR Ed",
+    "name": "Edison Misla Aldarondo",
     "position": [
-      "congress",
-      "party member"
+      "state legislator"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "Republican Speaker of the House in PR Edison Misla Aldarondo was sentenced to 10 years in prison for raping his daughter between the ages of 9 and",
+    "description": "Puerto Rico House Speaker Edison Misla Aldarondo was charged in 2002 with rape of a 17-year-old friend of his stepdaughter. He was convicted of attempted rape, sexual abuse of a minor, and four counts of lewd conduct for molesting his stepdaughter beginning when she was 9 years old. He was sentenced to 13 years in prison in 2004.",
     "sources": [],
     "tags": [
-      "congress",
-      "party member",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 17,
@@ -216,12 +219,14 @@
   },
   {
     "id": 11,
-    "name": "Republican Mayor Philip Giordano",
+    "name": "Philip Giordano",
     "position": [
       "local official",
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Republican Mayor Philip Giordano is serving a 37-year sentence in federal prison for sexually abusing 8- and 10- year old girls.",
     "sources": [
       "https://www.nytimes.com/2003/03/26/nyregion/ex-mayor-convicted-in-sex-abuse-case.html"
@@ -231,11 +236,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2003
   },
   {
     "id": 12,
-    "name": "Republican campaign consultant Tom Shortridge",
+    "name": "campaign consultant Tom Shortridge",
     "position": [
       "party member"
     ],
@@ -248,11 +253,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2001
   },
   {
     "id": 13,
-    "name": "Republican rac",
+    "name": "rac",
     "position": [
       "party member",
       "state legislator"
@@ -273,7 +278,7 @@
   },
   {
     "id": 14,
-    "name": "Republican pastor Mike Hintz, whom George W. Bush",
+    "name": "Mike Hintz, George W. Bush",
     "position": [
       "law enforcement",
       "party member",
@@ -294,7 +299,7 @@
   },
   {
     "id": 15,
-    "name": "Republican leg",
+    "name": "leg",
     "position": [
       "party member"
     ],
@@ -307,30 +312,31 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 16,
-    "name": "Republican Congressman Donald \"Buz\" Lukens",
+    "name": "Donald Lukens",
     "position": [
-      "congress",
-      "party member"
+      "congress"
     ],
-    "crime": [],
-    "description": "Republican Congressman Donald \"Buz\" Lukens was found guilty of having sex with a female minor and sentenced to one month in jail.",
+    "crime": [
+      "sexual abuse",
+      "child exploitation"
+    ],
+    "description": "U.S. Representative Donald 'Buz' Lukens (R-OH) was convicted in 1989 of contributing to the delinquency of a minor after paying a 16-year-old girl $40 for sex. He was convicted again in 1996 on bribery and conspiracy charges related to his time in Congress and sentenced to 30 months in prison.",
     "sources": [
       "https://www.npr.org/sections/politicaljunkie/2009/05/on_this_day_in_1989_buz_lukens.html"
     ],
     "tags": [
       "congress",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 1989
   },
   {
     "id": 17,
-    "name": "Republican fundra",
+    "name": "fundra",
     "position": [
       "party member"
     ],
@@ -345,11 +351,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2003
   },
   {
     "id": 18,
-    "name": "Republican of the Year Mark A. Grethen",
+    "name": "of the Year Mark A. Grethen",
     "position": [
       "party member"
     ],
@@ -366,29 +372,30 @@
   },
   {
     "id": 19,
-    "name": "Republican state senator Ralph Shortey from Oklahoma",
+    "name": "Ralph Shortey",
     "position": [
-      "party member",
-      "state legislator"
+      "state legislator",
+      "party official"
     ],
     "crime": [
-      "child pornography",
-      "sodomy"
+      "child exploitation",
+      "sexual trafficking"
     ],
-    "description": "Republican state senator Ralph Shortey from Oklahoma admitted to being involved in sodomy with a 17 year old male prostitute and transporting child pornography.",
+    "description": "Oklahoma state senator and Donald Trump's 2016 Oklahoma campaign chair Ralph Shortey was arrested in March 2017 after being found in a motel room with a 17-year-old boy. He pleaded guilty in 2017 to child sex trafficking and was sentenced to 15 years in federal prison in 2018.",
     "sources": [
       "https://www.washingtonpost.com/news/post-nation/wp/2017/11/20/former-oklahoma-state-senator-admits-to-child-sex-trafficking-while-in-office/"
     ],
     "tags": [
-      "party member",
+      "state legislator",
+      "party official",
       "republican",
-      "state legislator"
+      "maga"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 20,
-    "name": "Republican activ",
+    "name": "activ",
     "position": [
       "activist",
       "party member"
@@ -406,49 +413,50 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 21,
-    "name": "GOP Congressman Dan Crane had sex with a page. To be",
+    "name": "Dan Crane",
     "position": [
-      "congress",
-      "party official"
+      "congress"
     ],
-    "crime": [],
-    "description": "GOP Congressman Dan Crane had sex with a page. To be fair, Dem Congressman was Gerry Studds was also caught for the same thing..",
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "U.S. Representative Dan Crane (R-IL) was censured by the House of Representatives on July 20, 1983, by a vote of 421-3 for having sex with a 17-year-old congressional page. He lost his re-election bid in 1984.",
     "sources": [
       "https://en.wikipedia.org/wiki/1983_congressional_page_sex_scandal"
     ],
     "tags": [
       "congress",
-      "party official",
       "republican"
     ],
-    "year": null
+    "year": 1983
   },
   {
     "id": 22,
-    "name": "Republican Congressman Mark Foley abruptly",
+    "name": "Mark Foley",
     "position": [
-      "congress",
-      "party member"
+      "congress"
     ],
-    "crime": [],
-    "description": "Republican Congressman Mark Foley abruptly resigned from Congress after \"sexually explicit\" emails surfaced showing him flirting with a 16-year old boy.",
+    "crime": [
+      "sexual harassment",
+      "child exploitation"
+    ],
+    "description": "U.S. Representative Mark Foley (R-FL) resigned from Congress on September 29, 2006, after it was revealed he had sent sexually explicit instant messages and emails to teenage boys who had served as congressional pages. The scandal broke less than six weeks before the 2006 midterm elections.",
     "sources": [
       "http://www.washingtonpost.com/wp-dyn/content/article/2006/09/29/AR2006092901574.html"
     ],
     "tags": [
       "congress",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 23,
-    "name": "Republican activ",
+    "name": "activ",
     "position": [
       "activist",
       "party member",
@@ -471,7 +479,7 @@
   },
   {
     "id": 24,
-    "name": "Republican congressman and anti-gay activ",
+    "name": "congressman and anti-gay activ",
     "position": [
       "activist",
       "congress",
@@ -494,7 +502,7 @@
   },
   {
     "id": 25,
-    "name": "Republican Committee Chairman Jeffrey Patti",
+    "name": "Committee Jeffrey Patti",
     "position": [
       "party member",
       "party official"
@@ -512,11 +520,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 26,
-    "name": "Republican leg",
+    "name": "leg",
     "position": [
       "party member"
     ],
@@ -532,11 +540,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2001
   },
   {
     "id": 27,
-    "name": "Republican Senate candidate John Hathaway",
+    "name": "Senate John Hathaway",
     "position": [
       "candidate",
       "party member"
@@ -553,11 +561,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 1996
   },
   {
     "id": 28,
-    "name": "Republican preacher *Stephen White**, who demanded a",
+    "name": "preacher *Stephen White**, who demanded a",
     "position": [
       "party member"
     ],
@@ -570,11 +578,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 29,
-    "name": "Republican talk show host Jon Matthews",
+    "name": "talk show host Jon Matthews",
     "position": [
       "party member"
     ],
@@ -591,7 +599,7 @@
   },
   {
     "id": 30,
-    "name": "Republican anti-gay activ",
+    "name": "anti-gay activ",
     "position": [
       "activist",
       "party member"
@@ -608,11 +616,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 31,
-    "name": "Republican Party leader Paul Ingram",
+    "name": "Party leader Paul Ingram",
     "position": [
       "party member",
       "party official"
@@ -629,15 +637,17 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 32,
-    "name": "Republican election board official Kevin Coan",
+    "name": "Kevin Coan",
     "position": [
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Republican election board official Kevin Coan was sentenced to two years probation for soliciting sex over the internet from",
     "sources": [
       "https://news.stlpublicradio.org/other/2004-07-19/former-st-louis-election-official-pleads-guilty-in-sex-case"
@@ -646,11 +656,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 33,
-    "name": "Republican politician *Andrew Buhr**",
+    "name": "politician *Andrew Buhr**",
     "position": [
       "party member"
     ],
@@ -669,7 +679,7 @@
   },
   {
     "id": 34,
-    "name": "Republican politician Keith Westmoreland",
+    "name": "politician Keith Westmoreland",
     "position": [
       "party member"
     ],
@@ -682,11 +692,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 35,
-    "name": "Republican anti-abortion activ",
+    "name": "anti-abortion activ",
     "position": [
       "activist",
       "party member"
@@ -705,7 +715,7 @@
   },
   {
     "id": 36,
-    "name": "Republican County Councilman *Keola Childs**",
+    "name": "County Childs**",
     "position": [
       "local official",
       "party member"
@@ -722,11 +732,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2000
   },
   {
     "id": 37,
-    "name": "Republican activ",
+    "name": "activ",
     "position": [
       "activist",
       "party member"
@@ -744,11 +754,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 38,
-    "name": "NYC councilman, Republican-Queens, Denn",
+    "name": "NYC Republican-Queens, Denn",
     "position": [
       "local official",
       "party member"
@@ -765,17 +775,19 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2008
   },
   {
     "id": 39,
-    "name": "Rep Mayoral Candidate and pastor - Pastor Stephen David",
+    "name": "Rep Mayoral Stephen David",
     "position": [
       "candidate",
       "local official",
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Rep Mayoral Candidate and pastor - Pastor Stephen David Rambler was accused of having sex with an underage boy and was convicted of soliciting explicit photos from a swingers' group & using the pics to extort money",
     "sources": [
       "https://lancasteronline.com/news/sex-crimes-figure-in-wrightsville-mayor-race/article_7aef2162-c8e8-55ac-9cf2-1ee14c5c2211.html"
@@ -789,7 +801,7 @@
   },
   {
     "id": 40,
-    "name": "Republican City Councilman Fred C. Smeltzer, Jr.",
+    "name": "City Fred C. Smeltzer, Jr.",
     "position": [
       "local official",
       "party member"
@@ -810,7 +822,7 @@
   },
   {
     "id": 41,
-    "name": "GOP Sen aide Ryan Loskarn committed suicide after CSAM",
+    "name": "Sen aide Ryan Loskarn committed suicide after CSAM",
     "position": [
       "party official"
     ],
@@ -826,7 +838,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2014
   },
   {
     "id": 42,
@@ -851,7 +863,7 @@
   },
   {
     "id": 43,
-    "name": "Republican parole board officer and former Colorado state",
+    "name": "parole board officer and former Colorado state",
     "position": [
       "party member",
       "state legislator"
@@ -868,16 +880,18 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 44,
-    "name": "Faith and Family Alliance director, Republican strateg",
+    "name": "Faith Family Alliance Republican",
     "position": [
       "lobbyist",
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Faith and Family Alliance director, Republican strategist, and lobbyist Robin Vanderwall was convicted of five counts of soliciting sex from boys and girls over the internet. It's at the end or article, after all his illegal lobbying schemes",
     "sources": [
       "https://www.washingtonpost.com/wp-dyn/content/article/2005/10/15/AR2005101501539_3.html?noredirect=o"
@@ -887,11 +901,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 45,
-    "name": "Republican businessman Jon Grunseth withdrew h",
+    "name": "businessman Jon Grunseth withdrew h",
     "position": [
       "governor",
       "party member"
@@ -906,11 +920,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 46,
-    "name": "Nicholas Elizondo, director of the \"Young Republican",
+    "name": "Nicholas Elizondo,",
     "position": [
       "party member"
     ],
@@ -929,7 +943,7 @@
   },
   {
     "id": 47,
-    "name": "Republican benefactor of conservative Chr",
+    "name": "benefactor of conservative Chr",
     "position": [
       "law enforcement",
       "party member"
@@ -950,29 +964,31 @@
   },
   {
     "id": 48,
-    "name": "Republican Judge and campaign official Tim Nolan for",
+    "name": "Tim Nolan",
     "position": [
       "judge",
-      "party member"
+      "party official"
     ],
     "crime": [
-      "sexual trafficking"
+      "sexual trafficking",
+      "child exploitation",
+      "sexual abuse"
     ],
-    "description": "Republican Judge and campaign official Tim Nolan for President Donald Trump indicted for human trafficking and forcing a minors (9) to engage in sexual activity",
+    "description": "Former Kentucky judge and Trump Campbell County campaign chair Tim Nolan pleaded guilty in 2018 to 21 counts including human trafficking and child sex trafficking involving 19 victims (7 minors). He was sentenced to 20 years in federal prison. He used his position and threatened victims with arrest unless they performed sex acts.",
     "sources": [
       "https://www.cincinnati.com/story/news/2018/03/26/tim-nolan-judge-tim-nolan-conservative-activist-tim-nolan-human-trafficker/400004002/"
     ],
     "tags": [
       "judge",
-      "maga",
-      "party member",
-      "republican"
+      "party official",
+      "republican",
+      "maga"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 49,
-    "name": "Republican County Board Candidate Brent Schepp",
+    "name": "County Board Brent Schepp",
     "position": [
       "candidate",
       "party member"
@@ -989,11 +1005,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 50,
-    "name": "Randall Casseday, HR Director for right-wing",
+    "name": "Randall Casseday, HR",
     "position": [],
     "crime": [],
     "description": "Randall Casseday, HR Director for right-wing Washington Times - caught in an underage sex sting - \"The Washington Times is the only newspaper where the moral issues of family and faith are proudly reported on the front page on a regular basis\"",
@@ -1005,7 +1021,7 @@
   },
   {
     "id": 51,
-    "name": "Republican chairman of the Oregon Chr",
+    "name": "chairman",
     "position": [
       "party member",
       "party official"
@@ -1022,15 +1038,17 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 52,
-    "name": "Republican County Constable Larry Dale Floyd",
+    "name": "County Larry Dale Floyd",
     "position": [
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Republican County Constable Larry Dale Floyd was arrested on suspicion of soliciting sex with an 8-year old girl. Floyd has repeatedly won elections for Denton County, Texas,",
     "sources": [
       "https://www.myplainview.com/news/article/Former-Denton-County-constable-sentenced-in-sex-8506421.php"
@@ -1043,7 +1061,7 @@
   },
   {
     "id": 53,
-    "name": "Republican Party leader Bobby Stumbo",
+    "name": "Party leader Bobby Stumbo",
     "position": [
       "party member",
       "party official"
@@ -1064,7 +1082,7 @@
   },
   {
     "id": 54,
-    "name": "Republican petition drive manager Tom Randall",
+    "name": "petition drive manager Tom Randall",
     "position": [
       "party member"
     ],
@@ -1079,11 +1097,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 55,
-    "name": "Republican County Chairman Armando Tebano",
+    "name": "County Armando Tebano",
     "position": [
       "party member",
       "party official"
@@ -1104,7 +1122,7 @@
   },
   {
     "id": 56,
-    "name": "Republican teacher and former city councilman John Collins",
+    "name": "John Collins",
     "position": [
       "educator",
       "local official",
@@ -1123,11 +1141,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 57,
-    "name": "Republican campaign worker Mark Seidensticker",
+    "name": "campaign worker Mark Seidensticker",
     "position": [
       "party member"
     ],
@@ -1142,11 +1160,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 58,
-    "name": "Republican Mayor Tom Adams",
+    "name": "Tom Adams",
     "position": [
       "local official",
       "party member"
@@ -1164,16 +1182,18 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 59,
-    "name": "Republican Mayor John Gosek",
+    "name": "John Gosek",
     "position": [
       "local official",
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Republican Mayor John Gosek was arrested on charges of soliciting sex from two 15-year old girls.",
     "sources": [
       "https://blog.syracuse.com/indepth/2009/05/john_gosek_the_man_oswego_has.html"
@@ -1183,11 +1203,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 60,
-    "name": "Republican Committeeman John R. Curtin",
+    "name": "Committeeman John R. Curtin",
     "position": [
       "party member"
     ],
@@ -1202,11 +1222,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 61,
-    "name": "Republican zoning superv",
+    "name": "zoning superv",
     "position": [
       "party member",
       "party official"
@@ -1225,7 +1245,7 @@
   },
   {
     "id": 62,
-    "name": "GOP ad consultant Carey Lee Cramer who created an anti-",
+    "name": "ad consultant Carey Lee Cramer who created an anti-",
     "position": [
       "party official"
     ],
@@ -1245,7 +1265,7 @@
   },
   {
     "id": 63,
-    "name": "Republican Lobby",
+    "name": "Lobby",
     "position": [
       "lobbyist",
       "party member"
@@ -1262,11 +1282,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 1989
   },
   {
     "id": 64,
-    "name": "Republican Judge Ronald C. Kline",
+    "name": "Ronald C. Kline",
     "position": [
       "congress",
       "judge",
@@ -1285,11 +1305,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 65,
-    "name": "GOP state Rep Jim Knoblach of St. Cloud ended h",
+    "name": "state Rep Jim Knoblach of St. Cloud ended h",
     "position": [
       "party official"
     ],
@@ -1302,11 +1322,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 66,
-    "name": "Steve Aiken, campaign manager for a Republican candidate",
+    "name": "Steve Aiken,",
     "position": [
       "candidate",
       "congress",
@@ -1325,11 +1345,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 1996
   },
   {
     "id": 67,
-    "name": "Republican president of the New York City Housing",
+    "name": "president of the New York City Housing",
     "position": [
       "party member"
     ],
@@ -1348,12 +1368,14 @@
   },
   {
     "id": 68,
-    "name": "Republican state representative Bob Allen",
+    "name": "Bob Allen",
     "position": [
       "party member",
       "state legislator"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Republican state representative Bob Allen charged with soliciting oral sex from a male undercover cop. Normally, I : X would ignore a gay man being arrested for being gay, but he claimed Fear of Black men made him do it",
     "sources": [
       "https://boingboing.net/2007/08/07/rep-bob-allen-cites.html"
@@ -1363,11 +1385,11 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 69,
-    "name": "Republican prosecutor John David Roy Atch",
+    "name": "prosecutor John David Roy Atch",
     "position": [
       "party member"
     ],
@@ -1380,11 +1402,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 70,
-    "name": "Republican chairman & radio show host E Ozwald Balfour",
+    "name": "E Ozwald Balfour",
     "position": [
       "party member",
       "party official"
@@ -1406,7 +1428,7 @@
   },
   {
     "id": 71,
-    "name": "Clifton Bennett, 18, son of Arizona republican state senator",
+    "name": "Clifton Bennett,",
     "position": [
       "party member",
       "state legislator"
@@ -1423,15 +1445,17 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 72,
-    "name": "Republican preacher Hewart Lee Bennett",
+    "name": "preacher Hewart Lee Bennett",
     "position": [
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Republican preacher Hewart Lee Bennett arrested for soliciting sex from 16 year old boys while claiming that he did so to gain their trust and then teach them the love of Jesus",
     "sources": [
       "https://www.advocate.com/news/2003/10/29/church-youth-leader-arrested-soliciting-sex-minor-10312"
@@ -1440,11 +1464,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2003
   },
   {
     "id": 73,
-    "name": "Republican comm",
+    "name": "comm",
     "position": [
       "candidate",
       "party member"
@@ -1465,7 +1489,7 @@
   },
   {
     "id": 74,
-    "name": "Republican councilman John Bryan",
+    "name": "John Bryan",
     "position": [
       "law enforcement",
       "local official",
@@ -1507,7 +1531,7 @@
   },
   {
     "id": 76,
-    "name": "Republican staffer and long term director of financial",
+    "name": "staffer and long term director",
     "position": [
       "party member"
     ],
@@ -1526,7 +1550,7 @@
   },
   {
     "id": 77,
-    "name": "Republican talk show host Scott Eller Cortelyou plead guilty",
+    "name": "talk show host Scott Eller Cortelyou plead guilty",
     "position": [
       "party member"
     ],
@@ -1543,7 +1567,7 @@
   },
   {
     "id": 78,
-    "name": "Republican constable Joshua Dickens",
+    "name": "Joshua Dickens",
     "position": [
       "party member"
     ],
@@ -1560,7 +1584,7 @@
   },
   {
     "id": 79,
-    "name": "Republican spokesman Brian Doyle",
+    "name": "spokesman Brian Doyle",
     "position": [
       "party member"
     ],
@@ -1577,7 +1601,7 @@
   },
   {
     "id": 80,
-    "name": "Republican campaign official and former Romney staffer",
+    "name": "Romney",
     "position": [
       "party member"
     ],
@@ -1596,7 +1620,7 @@
   },
   {
     "id": 81,
-    "name": "Republican party chair Donald Fle",
+    "name": "party chair Donald Fle",
     "position": [
       "party member",
       "party official"
@@ -1615,7 +1639,7 @@
   },
   {
     "id": 82,
-    "name": "Republican Michael Flory, former head of the Michigan",
+    "name": "Michael Flory, former head of the Michigan",
     "position": [
       "party member"
     ],
@@ -1631,11 +1655,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 83,
-    "name": "Richard Gardner, a Nevada State Representative (R),",
+    "name": "Richard Gardner, Nevada State",
     "position": [
       "state legislator"
     ],
@@ -1649,7 +1673,7 @@
     "tags": [
       "state legislator"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 84,
@@ -1661,7 +1685,7 @@
       "https://www.salon.com/2000/01/19/hillsdale/"
     ],
     "tags": [],
-    "year": null
+    "year": 2000
   },
   {
     "id": 85,
@@ -1681,7 +1705,7 @@
   },
   {
     "id": 86,
-    "name": "Republican high level Bush appointee Dr. W. David Hager",
+    "name": "high level Bush appointee Dr. W. David Hager",
     "position": [
       "party member"
     ],
@@ -1698,7 +1722,7 @@
   },
   {
     "id": 87,
-    "name": "Republican sheriff Don Haidl used h",
+    "name": "Don Haidl",
     "position": [
       "law enforcement",
       "party member"
@@ -1719,7 +1743,7 @@
   },
   {
     "id": 88,
-    "name": "Republican activ",
+    "name": "activ",
     "position": [
       "activist",
       "party member"
@@ -1752,7 +1776,7 @@
   },
   {
     "id": 90,
-    "name": "Republican congressman Joseph McDade",
+    "name": "Joseph McDade",
     "position": [
       "congress",
       "party member"
@@ -1771,7 +1795,7 @@
   },
   {
     "id": 91,
-    "name": "Republican delegate Robert McKee resigns after police seize",
+    "name": "delegate Robert McKee resigns after police seize",
     "position": [
       "law enforcement",
       "party member"
@@ -1790,7 +1814,7 @@
   },
   {
     "id": 92,
-    "name": "Republican blowhard TV personality Bill O’Reilly paid several",
+    "name": "blowhard TV personality Bill O’Reilly paid several",
     "position": [
       "party member"
     ],
@@ -1809,7 +1833,7 @@
   },
   {
     "id": 93,
-    "name": "Republican mega-preacher Marshal Seymour",
+    "name": "mega-preacher Marshal Seymour",
     "position": [
       "party member"
     ],
@@ -1854,7 +1878,7 @@
       "https://consumerist.com/2008/01/31/family-friendly-movie-censors-were-running-porn-business/"
     ],
     "tags": [],
-    "year": null
+    "year": 2008
   },
   {
     "id": 96,
@@ -1870,7 +1894,7 @@
   },
   {
     "id": 97,
-    "name": "Spokane Republican homophobic mayor Jim West recalled",
+    "name": "Spokane Republican Jim West",
     "position": [
       "local official",
       "party member"
@@ -1905,7 +1929,7 @@
   },
   {
     "id": 99,
-    "name": "Republican Southern Bapt",
+    "name": "Southern Bapt",
     "position": [
       "party member",
       "religious leader"

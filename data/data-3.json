@@ -16,7 +16,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 201,
@@ -28,7 +28,7 @@
       "https://www.indystar.com/story/news/politics/2015/09/30/state-rep-jud-mcmillin-resigns/73040942/"
     ],
     "tags": [],
-    "year": null
+    "year": 2015
   },
   {
     "id": 202,
@@ -40,7 +40,7 @@
       "https://www.johnsoncitypress.com/law-enforcement/2013/09/19/Update-Jurors-convict-Rep-Hawk-of-reckless-endangerment"
     ],
     "tags": [],
-    "year": null
+    "year": 2013
   },
   {
     "id": 203,
@@ -60,7 +60,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 204,
@@ -97,7 +97,7 @@
   },
   {
     "id": 206,
-    "name": "Tennessee Republican judicial candidate Chuck Hunter -",
+    "name": "Tennessee Republican Chuck Hunter",
     "position": [
       "candidate",
       "party member"
@@ -112,7 +112,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2014
   },
   {
     "id": 207,
@@ -147,7 +147,7 @@
   },
   {
     "id": 209,
-    "name": "Former GOP state house candidate Schaeffer Cox -",
+    "name": "GOP Schaeffer Cox",
     "position": [
       "candidate",
       "congress",
@@ -170,7 +170,7 @@
   },
   {
     "id": 210,
-    "name": "Sheriff Joe Arpaio ignored 400 sexual assault and abuse",
+    "name": "Joe Arpaio",
     "position": [
       "law enforcement"
     ],
@@ -207,7 +207,7 @@
   },
   {
     "id": 212,
-    "name": "GOP Fundra",
+    "name": "Fundra",
     "position": [
       "party official"
     ],
@@ -251,11 +251,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 214,
-    "name": "Republican Mayor Rick W Nelson of Stillwater NY, - child",
+    "name": "Rick W Nelson",
     "position": [
       "local official",
       "party member"
@@ -277,7 +277,7 @@
   },
   {
     "id": 215,
-    "name": "GOP Stockton mayor Anthony Silva - alcohol to minors,",
+    "name": "Stockton Anthony Silva",
     "position": [
       "local official",
       "party official"
@@ -315,7 +315,9 @@
     "position": [
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "OK GOP State Sen Bryce Marlatt - sexual battery",
     "sources": [
       "https://newsok.com/article/5563751/state-sen.-bryce-marlatt-jailed-tuesday-morning-in-sexual-battery-case"
@@ -414,7 +416,9 @@
     "position": [
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "SC GOP state Rep Thad Viers, stalking and harassing ex- girlfriend - pled guilty now sentenced for money laundering",
     "sources": [
       "https://www.thestate.com/news/local/crime/article90762662.html"
@@ -466,7 +470,9 @@
       "local official",
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "NC Baptist Minister, state Rep and County Commissioner Coy C. Privette - so soliciting prostitutes which would not be a thing, except he paid them by check, then reported the checks as stolen, the louse.",
     "sources": [
       "https://www.wral.com/news/local/story/1618128/"
@@ -479,7 +485,7 @@
   },
   {
     "id": 226,
-    "name": "Kennesaw Mayor, former councilman Leonard Church (all",
+    "name": "Kennesaw Mayor, Leonard Church",
     "position": [
       "congress",
       "local official"
@@ -499,7 +505,7 @@
   },
   {
     "id": 227,
-    "name": "GOP WA state Sen Joe Fain -",
+    "name": "WA state Sen Joe Fain -",
     "position": [
       "party official"
     ],
@@ -514,11 +520,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 228,
-    "name": "Federal judge Brett Kavanaugh and Supreme Court",
+    "name": "Federal Brett Kavanaugh Supreme Court",
     "position": [
       "judge"
     ],
@@ -533,7 +539,7 @@
     "tags": [
       "judge"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 229,
@@ -547,7 +553,7 @@
       "https://www.businessinsider.com/who-accused-george-h-w-bush-sexual-harassment-2017-11"
     ],
     "tags": [],
-    "year": null
+    "year": 2017
   },
   {
     "id": 230,
@@ -566,11 +572,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 231,
-    "name": "Pensacola’s GOP Sheriff Al Harr",
+    "name": "Pensacola’s GOP Al Harr",
     "position": [
       "law enforcement",
       "party official"
@@ -585,7 +591,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 1995
   },
   {
     "id": 232,
@@ -632,7 +638,7 @@
   },
   {
     "id": 234,
-    "name": "Republican Sheriff L. PAUL BAILEY of Berrien Co, Michigan",
+    "name": "L. PAUL BAILEY",
     "position": [
       "law enforcement",
       "party member"
@@ -688,7 +694,7 @@
   },
   {
     "id": 237,
-    "name": "Republican NY state Assemblyman Steve McLaughlin -",
+    "name": "NY state Assemblyman Steve McLaughlin -",
     "position": [
       "party member"
     ],
@@ -719,7 +725,7 @@
       "https://www.timesunion.com/local/article/Woman-s-claims-shadow-ex-senator-11076198.php"
     ],
     "tags": [],
-    "year": null
+    "year": 2010
   },
   {
     "id": 239,
@@ -738,11 +744,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 240,
-    "name": "Former state representative and gubernatorial candidate",
+    "name": "state representative and gubernatorial candidate",
     "position": [
       "candidate",
       "state legislator"
@@ -763,7 +769,7 @@
   },
   {
     "id": 241,
-    "name": "GOP Kent County Comm",
+    "name": "Kent County Comm",
     "position": [
       "local official",
       "party official"
@@ -804,7 +810,7 @@
   },
   {
     "id": 243,
-    "name": "MN GOP state house candidate Brad Gerten - domestic",
+    "name": "MN GOP Brad Gerten",
     "position": [
       "candidate",
       "congress",
@@ -821,11 +827,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 244,
-    "name": "GOP Congressional candidate David \"Bull\" Gurfein",
+    "name": "Congressional David Gurfein",
     "position": [
       "candidate",
       "congress",
@@ -842,7 +848,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 245,
@@ -862,7 +868,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 246,
@@ -879,7 +885,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 247,
@@ -900,11 +906,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2004
   },
   {
     "id": 248,
-    "name": "William \"Wild Bill\" Janklow Republican governor of SD - two",
+    "name": "William Bill\" Janklow Republican",
     "position": [
       "governor",
       "party member"
@@ -925,7 +931,7 @@
   },
   {
     "id": 249,
-    "name": "Republican Congressman Dan Burton - sexual harassment",
+    "name": "Dan Burton",
     "position": [
       "congress",
       "party member"
@@ -942,11 +948,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 1998
   },
   {
     "id": 250,
-    "name": "Dick Armey, GOP Congressman from Texas - sexual",
+    "name": "Dick Armey, GOP",
     "position": [
       "congress",
       "party official"
@@ -984,7 +990,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 252,
@@ -996,7 +1002,7 @@
       "http://www.taipeitimes.com/News/world/archives/2003/11/28/2003077560"
     ],
     "tags": [],
-    "year": null
+    "year": 2003
   },
   {
     "id": 253,
@@ -1042,11 +1048,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2012
   },
   {
     "id": 256,
-    "name": "NH GOP Representative Robert F",
+    "name": "NH GOP Robert F",
     "position": [
       "party official",
       "state legislator"
@@ -1065,7 +1071,7 @@
   },
   {
     "id": 257,
-    "name": "Union County GA GOP Chairman Billy Joe Turnage -",
+    "name": "Union County GA GOP Billy Joe Turnage",
     "position": [
       "party official"
     ],
@@ -1113,7 +1119,7 @@
   },
   {
     "id": 259,
-    "name": "NJ GOP candidate for town council Mike Krawitz had to",
+    "name": "NJ GOP",
     "position": [
       "candidate",
       "local official",
@@ -1153,11 +1159,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2013
   },
   {
     "id": 261,
-    "name": "Former GOP Walton Co. Comm",
+    "name": "GOP Walton Co. Comm",
     "position": [
       "local official",
       "party official"
@@ -1191,7 +1197,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2015
   },
   {
     "id": 263,
@@ -1268,7 +1274,7 @@
   },
   {
     "id": 267,
-    "name": "Former Judge, Bapt",
+    "name": "Judge, Bapt",
     "position": [
       "judge",
       "party member",
@@ -1289,7 +1295,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 268,
@@ -1312,7 +1318,7 @@
   },
   {
     "id": 269,
-    "name": "GOP Comm",
+    "name": "Comm",
     "position": [
       "local official",
       "party official"
@@ -1331,7 +1337,7 @@
   },
   {
     "id": 270,
-    "name": "Anti-Choice Congressman Tim Murphy forced to resign for",
+    "name": "Anti-Choice Tim Murphy",
     "position": [
       "congress"
     ],
@@ -1345,11 +1351,11 @@
     "tags": [
       "congress"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 271,
-    "name": "GOP Comm",
+    "name": "Comm",
     "position": [
       "local official",
       "party official"
@@ -1391,7 +1397,7 @@
   },
   {
     "id": 273,
-    "name": "Michigan GOP Gubernatorial Candidate Bill Schuette. Th",
+    "name": "Michigan GOP Gubernatorial Bill Schuette. Th",
     "position": [
       "candidate",
       "party official"
@@ -1407,7 +1413,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 274,
@@ -1445,7 +1451,7 @@
   },
   {
     "id": 276,
-    "name": "Frederick Eugene Wall, Republican candidate for state",
+    "name": "Frederick Eugene Wall, Republican",
     "position": [
       "candidate",
       "congress",
@@ -1507,11 +1513,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 279,
-    "name": "GOP Rep. Michael Capps of Wichita - child abuse of foster",
+    "name": "Rep. Michael Capps of Wichita - child abuse of foster",
     "position": [
       "party official"
     ],
@@ -1527,7 +1533,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 280,
@@ -1558,7 +1564,7 @@
       "https://www.cnn.com/2018/09/08/politics/elliott-broidy-lawsuit-mistress-payment-breach/index.html"
     ],
     "tags": [],
-    "year": null
+    "year": 2018
   },
   {
     "id": 282,
@@ -1577,11 +1583,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 283,
-    "name": "Former GOP State Senator Shawn Hamerlinck, sexual",
+    "name": "GOP State Shawn Hamerlinck,",
     "position": [
       "party official",
       "state legislator"
@@ -1598,7 +1604,7 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 284,
@@ -1612,7 +1618,7 @@
       "https://www.washingtontimes.com/news/2014/oct/16/lawsuit-details-fired-iowa-senate-aides-claims/"
     ],
     "tags": [],
-    "year": null
+    "year": 2014
   },
   {
     "id": 285,
@@ -1631,7 +1637,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 286,
@@ -1650,7 +1656,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 287,
@@ -1662,7 +1668,7 @@
       "https://www.desmoinesregister.com/story/news/investigations/2018/10/14/iowa-capitol-legislature-sexual-harassment-allegations-pornography-depositions-lawmakers-anderson/1187983002/"
     ],
     "tags": [],
-    "year": null
+    "year": 2018
   },
   {
     "id": 288,
@@ -1674,11 +1680,11 @@
       "https://www.desmoinesregister.com/story/news/investigations/2018/10/14/iowa-capitol-legislature-sexual-harassment-allegations-pornography-depositions-lawmakers-anderson/1187983002/"
     ],
     "tags": [],
-    "year": null
+    "year": 2018
   },
   {
     "id": 289,
-    "name": "GOP NV Assembly candidate and LEGAL brothel owner",
+    "name": "NV Assembly LEGAL",
     "position": [
       "candidate",
       "party official"
@@ -1732,7 +1738,7 @@
   },
   {
     "id": 292,
-    "name": "ME state house GOP candidate Mark Bedell - domestic",
+    "name": "ME GOP Mark Bedell",
     "position": [
       "candidate",
       "congress",
@@ -1770,7 +1776,7 @@
   },
   {
     "id": 294,
-    "name": "ME GOP state house candidate Chr",
+    "name": "ME GOP Chr",
     "position": [
       "candidate",
       "congress",
@@ -1791,11 +1797,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 295,
-    "name": "GOP Voters - More Republican voters would vote for a",
+    "name": "Voters - More Republican voters would vote for a",
     "position": [
       "candidate",
       "party member",

@@ -11,7 +11,7 @@
       "http://www.cnn.com/2009/CRIME/09/17/us.haiti.sex.abuse.charge/"
     ],
     "tags": [],
-    "year": null
+    "year": 2009
   },
   {
     "id": 399,
@@ -31,7 +31,7 @@
   },
   {
     "id": 400,
-    "name": "Valentino DiGiorgio III, chairman of the Pennsylvania",
+    "name": "Valentino DiGiorgio III,",
     "position": [
       "candidate",
       "local official",
@@ -54,7 +54,7 @@
   },
   {
     "id": 401,
-    "name": "Todd Poole, a former executive director for the NC GOP and",
+    "name": "Todd Poole,",
     "position": [
       "party official"
     ],
@@ -75,7 +75,7 @@
   },
   {
     "id": 402,
-    "name": "Republican Judge James Troiano protected alleged rap",
+    "name": "James Troiano",
     "position": [
       "judge",
       "party member"
@@ -90,11 +90,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 403,
-    "name": "Republican Judge Marcia Silva protected rap",
+    "name": "Marcia Silva",
     "position": [
       "judge",
       "party member"
@@ -147,7 +147,7 @@
   },
   {
     "id": 406,
-    "name": "Amanda Chase, Rep. VA state senator, thinks women are",
+    "name": "Amanda Chase, Rep. VA",
     "position": [
       "state legislator"
     ],
@@ -180,11 +180,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 408,
-    "name": "OK City Councilman, former ICE agent Jeffrey Short,",
+    "name": "OK City Councilman, ICE Jeffrey Short,",
     "position": [
       "local official"
     ],
@@ -216,7 +216,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 410,
@@ -235,7 +235,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 411,
@@ -274,7 +274,7 @@
   },
   {
     "id": 413,
-    "name": "Republican activ",
+    "name": "activ",
     "position": [
       "activist",
       "party member"
@@ -292,7 +292,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 414,
@@ -309,7 +309,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 415,
@@ -328,11 +328,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 416,
-    "name": "Republican campaign volunteers/staff for #TeamMitch",
+    "name": "campaign volunteers/staff for #TeamMitch",
     "position": [
       "party member"
     ],
@@ -364,7 +364,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 418,
@@ -407,7 +407,9 @@
       "lobbyist",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "CA GOP Rep. Joel Anderson was reprimanded for sexually harassing& threatening a woman lobbyist.",
     "sources": [
       "https://www.sandiegouniontribune.com/news/politics/sd-me-anderson-reprimand-20180925-story.html"
@@ -455,7 +457,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 423,
@@ -501,7 +503,7 @@
       "https://www.cleveland.com/open/2017/11/state_rep_michael_henne_was_or.html"
     ],
     "tags": [],
-    "year": null
+    "year": 2017
   },
   {
     "id": 426,
@@ -521,7 +523,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 427,
@@ -542,17 +544,19 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 428,
-    "name": "Omar Navarro, GOP Congressional candidate from",
+    "name": "Omar Navarro, GOP Congressional",
     "position": [
       "candidate",
       "congress",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Omar Navarro, GOP Congressional candidate from California, accused of hiring Jacob Wohl to harass and threaten ex-girlfriend and former staffer",
     "sources": [
       "https://www.thedailybeast.com/did-a-far-right-star-recruit-jacob-wohl-to-terrorize-women?ref=home"
@@ -567,7 +571,7 @@
   },
   {
     "id": 429,
-    "name": "GOP Rep. Steve King of Iowa thinks humanity would not",
+    "name": "Rep. Steve King of Iowa thinks humanity would not",
     "position": [
       "party official"
     ],
@@ -586,7 +590,7 @@
   },
   {
     "id": 430,
-    "name": "Paxton Singer, youth pastor at anti-gay church - sexual",
+    "name": "Paxton Singer,",
     "position": [
       "religious leader"
     ],
@@ -602,7 +606,7 @@
   },
   {
     "id": 431,
-    "name": "GOP Oregon Senate candidate Monica Wehby",
+    "name": "Oregon Senate Monica Wehby",
     "position": [
       "candidate",
       "party official"
@@ -619,7 +623,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2014
   },
   {
     "id": 432,
@@ -643,7 +647,7 @@
       "https://www.burnetbulletin.com/articles/2019/08/22/boys-home-operators-indicted-human-trafficking"
     ],
     "tags": [],
-    "year": null
+    "year": 2019
   },
   {
     "id": 434,
@@ -659,11 +663,11 @@
     "tags": [
       "educator"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 435,
-    "name": "Joshua Powell, former NRA executive director of general",
+    "name": "Joshua Powell, NRA",
     "position": [],
     "crime": [
       "sexual harassment"
@@ -673,18 +677,20 @@
       "https://washingtonpress.com/2019/08/30/a-top-nra-official-has-been-exposed-quietly-settling-two-sex-harassment-complaints/"
     ],
     "tags": [],
-    "year": null
+    "year": 2019
   },
   {
     "id": 436,
-    "name": "GOP House candidate Daniel Rodimer likes to “fuck people",
+    "name": "House Daniel Rodimer",
     "position": [
       "candidate",
       "congress",
       "law enforcement",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "GOP House candidate Daniel Rodimer likes to “fuck people up” He claims he was standing up to a bully but police and witnesses say he was harassing women and attacked a man who asked him to leave them alone",
     "sources": [
       "https://www.thedailybeast.com/dan-rodimer-a-former-wrestling-star-involved-in-a-waffle-house-assault-is-running-for-congress"
@@ -714,7 +720,7 @@
   },
   {
     "id": 438,
-    "name": "Pennsylvania Republican State Senator Mike Folmer",
+    "name": "Pennsylvania Republican State Mike Folmer",
     "position": [
       "party member",
       "state legislator"
@@ -731,11 +737,11 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 439,
-    "name": "GOP Assemblyman Bill Brough has been asked by the party",
+    "name": "Assemblyman Bill Brough has been asked by the party",
     "position": [
       "party official"
     ],
@@ -750,7 +756,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 440,
@@ -788,11 +794,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 442,
-    "name": "Sacramento County Sheriff and failed GOP congressional",
+    "name": "Sacramento County GOP",
     "position": [
       "candidate",
       "congress",
@@ -817,7 +823,7 @@
   },
   {
     "id": 443,
-    "name": "By a party line vote, Senate confirmed conservative judge",
+    "name": "By Senate",
     "position": [
       "judge"
     ],
@@ -832,7 +838,7 @@
     "tags": [
       "judge"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 444,
@@ -858,7 +864,7 @@
   },
   {
     "id": 445,
-    "name": "Former Republican candidate for Idaho governor Steven",
+    "name": "Republican",
     "position": [
       "candidate",
       "governor",
@@ -914,7 +920,7 @@
       "maga",
       "party official"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 448,
@@ -939,12 +945,14 @@
   },
   {
     "id": 449,
-    "name": "Cory Green, new GOP candidate for Utah’s 1st d",
+    "name": "Cory Green, GOP",
     "position": [
       "candidate",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Cory Green, new GOP candidate for Utah’s 1st district, claims he is as innocent as Kavanaugh He pled guilty to sexual battery.",
     "sources": [
       "https://www.sltrib.com/news/politics/2019/09/18/utah-congressional/"
@@ -954,7 +962,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 450,
@@ -975,13 +983,15 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2013
   },
   {
     "id": 451,
     "name": "While Eric Lin",
     "position": [],
-    "crime": [],
+    "crime": [
+      "kidnapping"
+    ],
     "description": "While Eric Lin was thanking God everyday that Trump was president, he was also plotting to kidnap a woman and keep her captive, also planned to exterminate Latinos. Trigger Warning on this story",
     "sources": [
       "https://lawandcrime.com/high-profile/i-thank-god-everyday-donald-john-trump-is-president-fbi-arrests-neo-nazi-for-allegedly-threatening-hispanic-women/"
@@ -993,7 +1003,7 @@
   },
   {
     "id": 452,
-    "name": "Evangelical Pastor Thomas Bruce, often retweeted Laura",
+    "name": "Evangelical Thomas Bruce, Laura",
     "position": [
       "religious leader"
     ],
@@ -1007,7 +1017,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 453,
@@ -1025,7 +1035,7 @@
     "tags": [
       "party official"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 454,
@@ -1048,7 +1058,7 @@
   },
   {
     "id": 455,
-    "name": "NJ GOP Senator Jon Bramnick makes a living enabling",
+    "name": "NJ GOP Jon Bramnick",
     "position": [
       "party official",
       "state legislator"
@@ -1066,11 +1076,11 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 456,
-    "name": "Peter O’Rourke, Florida GOP Executive Director, retaliated",
+    "name": "Peter O’Rourke, Florida GOP Executive Director,",
     "position": [
       "party official"
     ],
@@ -1085,11 +1095,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 457,
-    "name": "SC Sheriff R. A. Strickland",
+    "name": "SC R. A. Strickland",
     "position": [
       "law enforcement"
     ],
@@ -1248,7 +1258,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 466,
@@ -1344,7 +1354,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 472,
@@ -1383,7 +1393,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 474,
@@ -1414,7 +1424,7 @@
       "https://www.usatoday.com/story/news/politics/2019/12/12/probe-finds-pentagons-nuclear-chief-roberts-sexually-harassed-staff/4407912002/"
     ],
     "tags": [],
-    "year": null
+    "year": 2019
   },
   {
     "id": 476,
@@ -1482,7 +1492,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 480,
@@ -1505,7 +1515,7 @@
   },
   {
     "id": 481,
-    "name": "An aide to NY state senator Mariarz named Glenn Aronow",
+    "name": "An NY Mariarz Glenn Aronow",
     "position": [
       "state legislator"
     ],
@@ -1523,7 +1533,7 @@
   },
   {
     "id": 482,
-    "name": "Wilmington’s Republican City Councilman Ciro Adams",
+    "name": "Wilmington’s Republican City Ciro Adams",
     "position": [
       "local official",
       "party member"
@@ -1594,7 +1604,7 @@
   },
   {
     "id": 486,
-    "name": "Rene Pedrosa, aide to Republican Mayor Franc",
+    "name": "Rene Pedrosa, Republican Franc",
     "position": [
       "local official",
       "party member"
@@ -1628,11 +1638,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 488,
-    "name": "State Senator Michelle Ugenti-Rita (R – Scottsdale) has",
+    "name": "State Michelle Ugenti-Rita Scottsdale)",
     "position": [
       "lobbyist",
       "state legislator"
@@ -1674,7 +1684,7 @@
   },
   {
     "id": 490,
-    "name": "Republican congressional candidate Jamie Berryhill thinks",
+    "name": "Jamie Berryhill",
     "position": [
       "candidate",
       "congress",
@@ -1697,7 +1707,7 @@
   },
   {
     "id": 491,
-    "name": "Mayor John Valdivia",
+    "name": "John Valdivia",
     "position": [
       "candidate",
       "congress",
@@ -1719,11 +1729,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 492,
-    "name": "Roanoke attorney & sometimes judge C.J Covati, a donor to",
+    "name": "Roanoke C.J Covati,",
     "position": [
       "judge"
     ],
@@ -1764,7 +1774,7 @@
   },
   {
     "id": 494,
-    "name": "GOP Rep & Trump Toady Matt Gaetz",
+    "name": "Rep & Trump Toady Matt Gaetz",
     "position": [
       "congress",
       "lobbyist",
@@ -1786,11 +1796,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 495,
-    "name": "Former White House physician, now Republican",
+    "name": "White House physician, now Republican",
     "position": [
       "congress",
       "party member"
@@ -1809,11 +1819,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 496,
-    "name": "SC state senate candidate & bullet-proof vest charity",
+    "name": "SC",
     "position": [
       "candidate"
     ],

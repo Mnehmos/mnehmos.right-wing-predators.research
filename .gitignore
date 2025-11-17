@@ -1,0 +1,27 @@
+# Intermediate data processing files
+data_cleaned.json
+data_enriched.json
+data_original_backup.json
+high_priority_research.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

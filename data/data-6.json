@@ -49,7 +49,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 501,
@@ -66,7 +66,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2015
   },
   {
     "id": 502,
@@ -85,7 +85,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2009
   },
   {
     "id": 503,
@@ -97,11 +97,11 @@
       "https://www.nytimes.com/2020/07/01/business/media/ed-henry-fired-fox-news.html?smtyp=cur&smid=tw-nytmedia"
     ],
     "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 504,
-    "name": "CT GOP Congressional candidate Thomas Gilmer withdrew",
+    "name": "CT GOP Congressional Thomas Gilmer",
     "position": [
       "candidate",
       "congress",
@@ -169,7 +169,7 @@
   },
   {
     "id": 508,
-    "name": "Republican Brian Mast apologizes for social media jokes",
+    "name": "Brian Mast apologizes for social media jokes",
     "position": [
       "party member"
     ],
@@ -207,7 +207,7 @@
   },
   {
     "id": 510,
-    "name": "Republican Congressional candidate Mad",
+    "name": "Congressional Mad",
     "position": [
       "candidate",
       "congress",
@@ -227,7 +227,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 511,
@@ -241,7 +241,7 @@
       "https://chicago.suntimes.com/movies-and-tv/2020/7/20/21332150/sean-hannity-tucker-carlson-sexual-harassment-lawsuit-fox-news-howard-kurtz-jennifer-eckhart"
     ],
     "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 512,
@@ -255,11 +255,11 @@
       "https://www.nbc12.com/2020/07/21/fox-news-stars-hannity-carlson-others-named-sexual-harassment-lawsuit/"
     ],
     "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 513,
-    "name": "Republican campaign manager Bobby Burns",
+    "name": "campaign manager Bobby Burns",
     "position": [
       "party member"
     ],
@@ -274,11 +274,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 514,
-    "name": "Marcie Adkins, GOP primary candidate for FL House D",
+    "name": "Marcie Adkins, GOP",
     "position": [
       "candidate",
       "congress",
@@ -302,7 +302,7 @@
   },
   {
     "id": 515,
-    "name": "Loren Culp, Republican gubernatorial candidate,",
+    "name": "Loren Culp, Republican",
     "position": [
       "candidate",
       "party member"
@@ -358,7 +358,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 114400795,
@@ -372,7 +372,7 @@
   },
   {
     "id": 518,
-    "name": "Republican Rep. Robert Forsythe, NH state representative,",
+    "name": "Rep. Robert Forsythe, NH",
     "position": [
       "party member",
       "state legislator"
@@ -394,7 +394,7 @@
   },
   {
     "id": 519,
-    "name": "John Gallman, SC Republican state Senate candidate -",
+    "name": "John Gallman, SC Republican Senate",
     "position": [
       "candidate",
       "party member"
@@ -438,12 +438,14 @@
   },
   {
     "id": 521,
-    "name": "C. Plover, Republican candidate for Thurston County",
+    "name": "C. Plover, Republican",
     "position": [
       "candidate",
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "C. Plover, Republican candidate for Thurston County Commission in Washington is accused of sexually harassing several young women, approaching them at church with creepy comments even when they were as young as twelve. He was in search of a child bride.",
     "sources": [
       "https://www.thejoltnews.com/stories/candidate-for-county-commissioner-accused-of-sexual-harassment"
@@ -457,11 +459,13 @@
   },
   {
     "id": 522,
-    "name": "Minnesota Republican Party’s communications director Jack",
+    "name": "Minnesota Republican Party’s Jack",
     "position": [
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Minnesota Republican Party’s communications director Jack Tomczak is accused by his ex-wife of harassing, stalking, and threatening her. She got a restraining order last month",
     "sources": [
       "https://minnesotareformer.com/2020/08/26/judge-grants-temporary-restraining-order-to-ex-wife-of-minnesota-gop-communications-director/"
@@ -470,7 +474,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 523,
@@ -531,7 +535,7 @@
   },
   {
     "id": 527,
-    "name": "Former NH state Rep. Frank Sapareto",
+    "name": "NH state Rep. Frank Sapareto",
     "position": [],
     "crime": [
       "assault"
@@ -565,7 +569,7 @@
   },
   {
     "id": 529,
-    "name": "FOX personality Judge Napolitano has been",
+    "name": "FOX Napolitano",
     "position": [
       "judge"
     ],
@@ -580,7 +584,7 @@
     "tags": [
       "judge"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 530,
@@ -636,11 +640,11 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 533,
-    "name": "Democrat turned Republican Sheriff Robert Anderson",
+    "name": "Democrat Republican Robert Anderson",
     "position": [
       "law enforcement",
       "party member"
@@ -663,7 +667,7 @@
   },
   {
     "id": 534,
-    "name": "Rick Roeber, Republican candidate for MO HD 34,",
+    "name": "Rick Roeber, Republican",
     "position": [
       "candidate",
       "party member"
@@ -698,7 +702,7 @@
   },
   {
     "id": 536,
-    "name": "Republican donor and Oregon doctor David Farley",
+    "name": "donor and Oregon doctor David Farley",
     "position": [
       "party member"
     ],
@@ -713,11 +717,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 537,
-    "name": "Daryl Brooks, GOP poll watcher, perennial GOP candidate,",
+    "name": "Daryl Brooks, GOP GOP",
     "position": [
       "candidate",
       "party official"
@@ -732,7 +736,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 538,
@@ -787,7 +791,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 541,
@@ -808,7 +812,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 542,
@@ -830,15 +834,17 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 543,
-    "name": "GOP Donor Darrell Cafasso",
+    "name": "Donor Darrell Cafasso",
     "position": [
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "GOP Donor Darrell Cafasso is accused of sexually harassing a colleague. Goldman Sachs who hired him is accused of covering it up and firing another lawyer who spoke up about it.",
     "sources": [
       "https://news.bloomberglaw.com/business-and-practice/goldmans-top-lawyers-accused-of-covering-up-sexual-harassment"
@@ -853,7 +859,9 @@
     "id": 544,
     "name": "Mel",
     "position": [],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Melissa Carone just finished serving her probation for harassing her boyfriend’s ex by sending them tapes of him and her having sex.",
     "sources": [
       "https://www.deadlinedetroit.com/articles/26813/giuliani_s_michigan_witness_mellissa_carone_harassed_sent_sex_videos"
@@ -877,7 +885,7 @@
   },
   {
     "id": 546,
-    "name": "Unsuccessful GOP Congressional candidate (LA-4) Ben",
+    "name": "Unsuccessful GOP Congressional Ben",
     "position": [
       "candidate",
       "congress",
@@ -900,7 +908,7 @@
   },
   {
     "id": 547,
-    "name": "Former CA Republican Congressman Jerry Lew",
+    "name": "CA Republican Jerry Lew",
     "position": [
       "congress",
       "party member"
@@ -918,11 +926,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 548,
-    "name": "Republican members of the Texas Board of Education",
+    "name": "members of the Texas Board of Education",
     "position": [
       "party member"
     ],
@@ -935,7 +943,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 549,
@@ -969,7 +977,7 @@
   },
   {
     "id": 551,
-    "name": "Republican Mad",
+    "name": "Mad",
     "position": [
       "local official",
       "party member"
@@ -988,11 +996,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 552,
-    "name": "Republican OC superv",
+    "name": "OC superv",
     "position": [
       "candidate",
       "party member"
@@ -1009,11 +1017,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 553,
-    "name": "Republican Attorney General Ed Sniffen",
+    "name": "Attorney General Ed Sniffen",
     "position": [
       "coach",
       "party member"
@@ -1052,7 +1060,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 555,
@@ -1072,7 +1080,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 556,
@@ -1148,13 +1156,15 @@
       "https://www.vvdailypress.com/story/opinion/columns/2020/06/21/opinion-two-viruses-in-our-community/42183097/"
     ],
     "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 561,
     "name": "Insurrection",
     "position": [],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Insurrectionist Samuel Pinho Camargo arrested for battery of his sister",
     "sources": [
       "https://www.huffpost.com/entry/nine-far-right-insurrectionists-have-a-history-of-violence-against-women_n_60198d1ec5b6bde2f5c35bd6"
@@ -1217,7 +1227,7 @@
       "https://kfgo.com/2021/02/25/north-dakota-lawmaker-accused-of-sexual-harassment/"
     ],
     "tags": [],
-    "year": null
+    "year": 2021
   },
   {
     "id": 566,
@@ -1236,7 +1246,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 567,
@@ -1268,7 +1278,7 @@
   },
   {
     "id": 569,
-    "name": "Kevin Hohn, former Mayor of Brookville FL and unsuccessful",
+    "name": "Kevin Hohn,",
     "position": [
       "candidate",
       "local official",
@@ -1288,7 +1298,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 570,
@@ -1308,7 +1318,7 @@
   },
   {
     "id": 571,
-    "name": "Maine Republican state representative Bruce Bickford",
+    "name": "Maine Republican Bruce Bickford",
     "position": [
       "party member",
       "state legislator"
@@ -1343,7 +1353,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 573,
@@ -1368,7 +1378,7 @@
   },
   {
     "id": 574,
-    "name": "Republican Sedgwick County Comm",
+    "name": "Sedgwick County Comm",
     "position": [
       "candidate",
       "local official",
@@ -1409,7 +1419,7 @@
   },
   {
     "id": 576,
-    "name": "Republican Mayor Dominic Foppoli of Windsor, CA has been",
+    "name": "Dominic Foppoli",
     "position": [
       "local official",
       "party member"
@@ -1427,7 +1437,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 577,
@@ -1447,7 +1457,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 578,
@@ -1465,7 +1475,7 @@
   },
   {
     "id": 579,
-    "name": "Gary Caplinger, Mayor Pro Tem and City Council member",
+    "name": "Gary Caplinger, Pro Tem City Council",
     "position": [
       "local official"
     ],
@@ -1483,7 +1493,7 @@
   },
   {
     "id": 580,
-    "name": "Martin (Marty) Peterson, former Idaho State Budget Director,",
+    "name": "Martin Peterson, Idaho State Budget Director,",
     "position": [],
     "crime": [
       "child pornography"
@@ -1550,7 +1560,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 584,
@@ -1567,7 +1577,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 585,
@@ -1594,7 +1604,7 @@
   },
   {
     "id": 586,
-    "name": "Former Republican Lt. Governor David Dewhurst of Texas",
+    "name": "Republican Lt. David Dewhurst",
     "position": [
       "governor",
       "party member"
@@ -1612,7 +1622,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 587,
@@ -1648,7 +1658,7 @@
   },
   {
     "id": 589,
-    "name": "US House candidate Anthony Bouchard impregnated a 14-",
+    "name": "US House Anthony Bouchard",
     "position": [
       "candidate",
       "congress"
@@ -1666,7 +1676,7 @@
   },
   {
     "id": 590,
-    "name": "Conservative Evangelical pastor Mack Charles Andrews",
+    "name": "Conservative Evangelical Mack Charles Andrews",
     "position": [
       "religious leader"
     ],
@@ -1681,11 +1691,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 591,
-    "name": "Trump Commerce Dept official Adam Hageman - child",
+    "name": "Trump Commerce Dept Adam Hageman",
     "position": [],
     "crime": [
       "child pornography"
@@ -1698,7 +1708,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 592,
@@ -1777,7 +1787,7 @@
   },
   {
     "id": 596,
-    "name": "Athens, TX Mayor James Montgomery, who credited h",
+    "name": "Athens, TX James Montgomery,",
     "position": [
       "candidate",
       "local official"

@@ -1,7 +1,7 @@
 [
   {
     "id": 695,
-    "name": "Mayor Virgil Hebert of Wilmot, OH",
+    "name": "Virgil Hebert",
     "position": [
       "local official"
     ],
@@ -17,7 +17,7 @@
   },
   {
     "id": 696,
-    "name": "Former Mayor Byron Campbell of Concord, CA, a",
+    "name": "Byron Campbell",
     "position": [
       "local official",
       "party member"
@@ -40,7 +40,9 @@
     "id": 697,
     "name": "Fran Coombs, editor of",
     "position": [],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Fran Coombs, editor of Washington Times, has sexually harassed so many women it’s an open secret in Washington, DC.",
     "sources": [
       "https://www.huffpost.com/entry/resign-mr-editor_b_30894"
@@ -50,7 +52,7 @@
   },
   {
     "id": 698,
-    "name": "Republican Mayor Jim Maloof of Peoria, IL, and the City of",
+    "name": "Jim Maloof",
     "position": [
       "local official",
       "party member"
@@ -67,11 +69,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 1997
   },
   {
     "id": 699,
-    "name": "Bernie Alimenti, Republican Councilman in Fort Meyers,",
+    "name": "Bernie Alimenti, Republican",
     "position": [
       "local official",
       "party member",
@@ -91,11 +93,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 1996
   },
   {
     "id": 700,
-    "name": "Michigan gubernatorial candidate Garrett Soldano thinks",
+    "name": "Michigan Garrett Soldano",
     "position": [
       "candidate"
     ],
@@ -147,7 +149,7 @@
   },
   {
     "id": 703,
-    "name": "Pastor Greg Locke, a big Trump supporter,",
+    "name": "Greg Locke, Trump",
     "position": [
       "religious leader"
     ],
@@ -162,7 +164,7 @@
       "maga",
       "religious leader"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 704,
@@ -189,7 +191,7 @@
   },
   {
     "id": 705,
-    "name": "Nebraska state senator Mike Groene has",
+    "name": "Nebraska Mike Groene",
     "position": [
       "state legislator"
     ],
@@ -201,7 +203,7 @@
     "tags": [
       "state legislator"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 706,
@@ -233,7 +235,7 @@
   },
   {
     "id": 708,
-    "name": "Gary Clark, the former mayor Zillah, WA who retired after",
+    "name": "Gary Clark, Zillah, WA",
     "position": [
       "local official"
     ],
@@ -252,7 +254,7 @@
   },
   {
     "id": 709,
-    "name": "Severance, CO, Mayor Donald Marceau McLeod, a",
+    "name": "Severance, CO, Donald Marceau McLeod,",
     "position": [
       "local official",
       "party member"
@@ -292,7 +294,7 @@
   },
   {
     "id": 711,
-    "name": "Jeremy Filbert, Republican former Mayor of Mitchellville, IA,",
+    "name": "Jeremy Filbert, Republican",
     "position": [
       "local official",
       "party member"
@@ -315,7 +317,7 @@
   },
   {
     "id": 712,
-    "name": "Valley Mills TX Mayor, Rodney Burl Nichols, child indecency",
+    "name": "Valley Mills TX Mayor, Rodney Burl Nichols,",
     "position": [
       "local official"
     ],
@@ -390,7 +392,7 @@
   },
   {
     "id": 716,
-    "name": "Michigan House candidate Republican Robert “RJ” Regan",
+    "name": "Michigan House Republican Robert Regan",
     "position": [
       "candidate",
       "congress",
@@ -413,7 +415,7 @@
   },
   {
     "id": 717,
-    "name": "Brandon Beckham, Republican Utah State Senate candidate",
+    "name": "Brandon Beckham, Republican Utah State Senate",
     "position": [
       "candidate",
       "party member"
@@ -432,11 +434,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 718,
-    "name": "Paul Dyal, Jacksonville Florida pastor and reg",
+    "name": "Paul Dyal, Jacksonville Florida",
     "position": [
       "party member",
       "religious leader"
@@ -454,17 +456,20 @@
       "religious leader",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 719,
-    "name": "William Henry Randall, 1998 Republican candidate for",
+    "name": "William Henry Randall, Republican",
     "position": [
       "candidate",
       "congress",
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "assault",
+      "child exploitation"
+    ],
     "description": "William Henry Randall, 1998 Republican candidate for Congress in FL, was sentenced to 20 years for child sexual battery",
     "sources": [
       "https://www.jacksonville.com/story/news/crime/2021/03/18/former-orange-park-minister-pleads-guilty-child-sexual-battery/4746388001/"
@@ -479,7 +484,7 @@
   },
   {
     "id": 720,
-    "name": "Stephen Bates, Ted Cruz-endorsing pastor of Bible Bapt",
+    "name": "Stephen Bates, Ted Cruz-endorsing",
     "position": [
       "religious leader"
     ],
@@ -505,11 +510,11 @@
       "https://www.tennessean.com/story/news/2020/11/04/tennnessee-sen-joey-hensley-put-medical-probation-opioid-prescriptions/3714014001/"
     ],
     "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 722,
-    "name": "Danielle Neuschwanger, the leading candidate in the GOP",
+    "name": "Danielle Neuschwanger,",
     "position": [
       "candidate",
       "governor",
@@ -532,11 +537,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 723,
-    "name": "Former MN GOP leg",
+    "name": "MN GOP leg",
     "position": [
       "candidate",
       "party official"
@@ -567,7 +572,7 @@
   },
   {
     "id": 724,
-    "name": "Former Blasdell NY Mayor Michael McGuire, a Republican,",
+    "name": "Blasdell NY Michael McGuire, Republican,",
     "position": [
       "local official",
       "party member"
@@ -588,7 +593,7 @@
   },
   {
     "id": 725,
-    "name": "Former Sweetwater, FL mayor, Republican Jose “Pepe”",
+    "name": "Sweetwater, FL Republican Jose",
     "position": [
       "local official",
       "party member"
@@ -609,7 +614,7 @@
   },
   {
     "id": 726,
-    "name": "Alan Moran, Republican Acting Mayor of Diamondhead, MS,",
+    "name": "Alan Moran, Republican Acting",
     "position": [
       "local official",
       "party member"
@@ -639,7 +644,7 @@
       "https://religionnews.com/2022/04/04/willy-rice-sbc-pastor-says-it-was-a-mistake-to-ordain-deacon-turned-desantis-faith-advisor-with-abuse-history/"
     ],
     "tags": [],
-    "year": null
+    "year": 2022
   },
   {
     "id": 728,
@@ -660,7 +665,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 729,
@@ -681,7 +686,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 730,
@@ -698,7 +703,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 731,
@@ -716,7 +721,7 @@
       "candidate",
       "congress"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 732,
@@ -736,7 +741,7 @@
       "maga",
       "party official"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 733,
@@ -750,7 +755,7 @@
       "https://www.news-leader.com/story/news/local/missouri/2021/04/20/former-kanakuk-counselor-peter-newman-named-new-sex-abuse-lawsuit/7292935002/"
     ],
     "tags": [],
-    "year": null
+    "year": 2021
   },
   {
     "id": 734,
@@ -785,7 +790,7 @@
   },
   {
     "id": 736,
-    "name": "Cary Rhodes, Republican mayor of Taylorsville, GA",
+    "name": "Cary Rhodes, Republican",
     "position": [
       "local official",
       "party member"
@@ -806,7 +811,7 @@
   },
   {
     "id": 737,
-    "name": "Saunemin, IL Former Mayor Mike Stoecklin,",
+    "name": "Saunemin, IL Former Mike Stoecklin,",
     "position": [
       "local official"
     ],
@@ -824,7 +829,7 @@
   },
   {
     "id": 738,
-    "name": "Republican Mayor of Ketchikan, AK, Jack Shay",
+    "name": "Mayor",
     "position": [
       "local official",
       "party member"
@@ -842,11 +847,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2011
   },
   {
     "id": 739,
-    "name": "Former Republican Mayor of Seven Fields, PA Ed Bayne",
+    "name": "Republican",
     "position": [
       "local official",
       "party member"
@@ -864,11 +869,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 740,
-    "name": "Paul Reeves, former mayor of Ashland, KY - child",
+    "name": "Paul Reeves,",
     "position": [
       "local official"
     ],
@@ -887,7 +892,7 @@
   },
   {
     "id": 741,
-    "name": "Gregory J. Nies, Republican mayoral candidate for Lititz, PA",
+    "name": "Gregory J. Nies, Republican",
     "position": [
       "candidate",
       "local official",
@@ -910,7 +915,7 @@
   },
   {
     "id": 742,
-    "name": "Jeffrey Armstong, Former Mayor of Rockford, OH, and GOP",
+    "name": "Jeffrey Armstong, Former",
     "position": [
       "local official",
       "party official"
@@ -928,7 +933,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 743,
@@ -947,11 +952,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 744,
-    "name": "Town Councilman David Bernard (R) in Greybull, WY, David",
+    "name": "Town David Bernard",
     "position": [
       "local official"
     ],
@@ -965,7 +970,7 @@
     "tags": [
       "local official"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 745,
@@ -1006,7 +1011,7 @@
   },
   {
     "id": 747,
-    "name": "Trump-endorsed candidate for the Nebraska Republican",
+    "name": "Trump-endorsed",
     "position": [
       "candidate",
       "party member",
@@ -1028,11 +1033,11 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 748,
-    "name": "Derik Ford, the conservative candidate for mayor of",
+    "name": "Derik Ford,",
     "position": [
       "candidate",
       "local official",
@@ -1052,11 +1057,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 749,
-    "name": "John Randall Hammock, the conservative Republican mayor",
+    "name": "John Randall Hammock, Republican",
     "position": [
       "local official",
       "party member"
@@ -1133,7 +1138,7 @@
   },
   {
     "id": 753,
-    "name": "Republican Sheriff Jon Hammond of Hamilton County, TN,",
+    "name": "Jon Hammond",
     "position": [
       "law enforcement",
       "party member"
@@ -1155,7 +1160,7 @@
   },
   {
     "id": 754,
-    "name": "Former mayor David G. Landfair of Gulf Breeze, FL,",
+    "name": "David G. Landfair",
     "position": [
       "educator",
       "local official"
@@ -1169,7 +1174,7 @@
       "educator",
       "local official"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 755,
@@ -1187,7 +1192,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 756,
@@ -1206,7 +1211,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 757,
@@ -1317,7 +1322,7 @@
       "https://www.washingtonpost.com/sports/2022/04/29/trevor-bauer-abuse-accusations"
     ],
     "tags": [],
-    "year": null
+    "year": 2022
   },
   {
     "id": 763,
@@ -1336,7 +1341,7 @@
     "tags": [
       "judge"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 764,
@@ -1371,7 +1376,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 766,
@@ -1380,7 +1385,9 @@
       "party member",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "David H. Broadbent is an OB/GYN in Provo, UT, a registered Republican and generous GOP donor, has been accused by 83 women of sexually abusing them.",
     "sources": [
       "https://www.sltrib.com/news/2022/05/02/there-are-now-women-suing/"
@@ -1390,7 +1397,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 767,
@@ -1415,7 +1422,7 @@
   },
   {
     "id": 768,
-    "name": "Greg Lopez, GOP primary candidate for CO governor, and",
+    "name": "Greg Lopez, GOP",
     "position": [
       "candidate",
       "governor",
@@ -1438,7 +1445,7 @@
   },
   {
     "id": 769,
-    "name": "Circuit Court Judge Jonathan Young lost the Putnam County",
+    "name": "Circuit Court Jonathan Young Putnam County",
     "position": [
       "judge",
       "party member"
@@ -1491,7 +1498,7 @@
   },
   {
     "id": 772,
-    "name": "Pastor John Raymond of Lakeside Academy in Slidell, LA,",
+    "name": "John Raymond",
     "position": [
       "party member",
       "religious leader"
@@ -1523,7 +1530,7 @@
   },
   {
     "id": 774,
-    "name": "Sandy Smith, GOP primary candidate for NC-01, has been",
+    "name": "Sandy Smith, GOP",
     "position": [
       "candidate",
       "party official"
@@ -1593,7 +1600,7 @@
   },
   {
     "id": 778,
-    "name": "Anti-Gay, anti-abortion Pastor John Lowe of New Life church",
+    "name": "Anti-Gay, John Lowe",
     "position": [
       "religious leader"
     ],
@@ -1611,7 +1618,7 @@
   },
   {
     "id": 779,
-    "name": "Ronnie Floyd, Trump lover and Arkansas pastor",
+    "name": "Ronnie Floyd, Trump Arkansas",
     "position": [
       "religious leader"
     ],
@@ -1647,7 +1654,7 @@
     "tags": [
       "local official"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 781,
@@ -1665,11 +1672,11 @@
     "tags": [
       "local official"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 782,
-    "name": "Tony Cutler, unsuccessful Republican primary candidate for",
+    "name": "Tony Cutler, Republican",
     "position": [
       "candidate",
       "party member"
@@ -1716,11 +1723,11 @@
       "religious leader",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 784,
-    "name": "Matthew Chappell, a candidate in the VA Republican",
+    "name": "Matthew Chappell,",
     "position": [
       "candidate",
       "law enforcement",
@@ -1762,7 +1769,7 @@
   },
   {
     "id": 786,
-    "name": "Scott Huse, former United Pentacostal pastor",
+    "name": "Scott Huse, United Pentacostal",
     "position": [
       "religious leader"
     ],
@@ -1821,7 +1828,7 @@
   },
   {
     "id": 789,
-    "name": "Former Greenville, SC, Radiant Life Youth Pastor Shane",
+    "name": "Greenville, SC, Radiant Life Youth Shane",
     "position": [
       "religious leader"
     ],
@@ -1835,11 +1842,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 790,
-    "name": "David A. Walker ex-youth pastor at the anti-gay",
+    "name": "David A. Walker",
     "position": [
       "religious leader"
     ],
@@ -1853,11 +1860,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 791,
-    "name": "Kevin Madden, Youth Pastor in Arkansas, has been",
+    "name": "Kevin Madden, Youth",
     "position": [
       "religious leader"
     ],
@@ -1873,12 +1880,14 @@
   },
   {
     "id": 792,
-    "name": "Matthew McIlravy, recently elected Mayor of Pilot Point, TX,",
+    "name": "Matthew McIlravy,",
     "position": [
       "local official",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Matthew McIlravy, recently elected Mayor of Pilot Point, TX, a prayer group leader who is said to be a big Gov. Abbott supporter, was arrested for soliciting a minor. Ongoing investigation to see if there are more cases.",
     "sources": [
       "https://amp.star-telegram.com/news/local/crime/article262846268.html"

@@ -13,7 +13,7 @@
     "tags": [
       "state legislator"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 794,
@@ -34,11 +34,11 @@
       "congress",
       "religious leader"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 795,
-    "name": "Michigan Republican primary candidate for governor, Kevin",
+    "name": "Michigan Republican",
     "position": [
       "candidate",
       "governor",
@@ -57,7 +57,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 796,
@@ -99,7 +99,7 @@
   },
   {
     "id": 798,
-    "name": "Kevin Smith, GOP primary candidate for US Senate (NH),",
+    "name": "Kevin Smith, GOP",
     "position": [
       "candidate",
       "party official"
@@ -120,7 +120,7 @@
   },
   {
     "id": 799,
-    "name": "Jonathan Hernandez, Chairman of the Oklahoma College",
+    "name": "Jonathan Hernandez,",
     "position": [
       "party member",
       "party official"
@@ -156,11 +156,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 801,
-    "name": "Eric Carlson, a Republican candidate in the 1st",
+    "name": "Eric Carlson, Republican",
     "position": [
       "candidate",
       "congress",
@@ -184,7 +184,7 @@
   },
   {
     "id": 802,
-    "name": "NC Congressman Greg Murphy denied rape even ex",
+    "name": "NC Greg Murphy",
     "position": [
       "congress"
     ],
@@ -202,7 +202,7 @@
   },
   {
     "id": 803,
-    "name": "Kansas Republican gubernatorial candidate Arlyn Briggs",
+    "name": "Kansas Republican Arlyn Briggs",
     "position": [
       "candidate",
       "law enforcement",
@@ -219,11 +219,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 804,
-    "name": "Kendall Kippen, WA) a conservative youth pastor and Ben",
+    "name": "Kendall Kippen, WA) Ben",
     "position": [
       "law enforcement",
       "religious leader"
@@ -328,7 +328,7 @@
   },
   {
     "id": 810,
-    "name": "Joshua Clemons, a former youth pastor, has been",
+    "name": "Joshua Clemons,",
     "position": [
       "religious leader"
     ],
@@ -360,7 +360,7 @@
   },
   {
     "id": 812,
-    "name": "Republican Mayor Dale Berry",
+    "name": "Dale Berry",
     "position": [
       "local official",
       "party member"
@@ -378,11 +378,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 813,
-    "name": "Republican school board candidate Joshua Schopp",
+    "name": "Joshua Schopp",
     "position": [
       "candidate",
       "party member"
@@ -397,7 +397,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 814,
@@ -444,7 +444,7 @@
   },
   {
     "id": 817,
-    "name": "Former AL state representative and 2016 Donald Trump",
+    "name": "AL Donald Trump",
     "position": [
       "party official",
       "state legislator"
@@ -486,7 +486,7 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 819,
@@ -494,7 +494,9 @@
     "position": [
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Luke Bowen of Texas Right-to-Life who also was a volunteer blogger for the Texas GOP has been arrested for soliciting a minor. Sentenced to five years.",
     "sources": [
       "https://jessica.substack.com/p/anti-choice-leader-arrested-for-solicitation",
@@ -506,7 +508,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 820,
@@ -520,7 +522,7 @@
       "https://crooksandliars.com/2018/01/dc-charter-school-board-official-exposed"
     ],
     "tags": [],
-    "year": null
+    "year": 2018
   },
   {
     "id": 821,
@@ -539,11 +541,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 822,
-    "name": "WV state senator Robert Karnes argued against abortions",
+    "name": "WV Robert Karnes",
     "position": [
       "state legislator"
     ],
@@ -557,11 +559,11 @@
     "tags": [
       "state legislator"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 823,
-    "name": "Keenan Hord who served as a youth pastor at two non-",
+    "name": "Keenan Hord",
     "position": [
       "religious leader"
     ],
@@ -581,7 +583,7 @@
   },
   {
     "id": 824,
-    "name": "Arizona Republican candidate for Superintendent of Public",
+    "name": "Arizona Republican",
     "position": [
       "candidate",
       "party member"
@@ -599,7 +601,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 825,
@@ -699,7 +701,7 @@
   },
   {
     "id": 830,
-    "name": "Carl Johnson, formerly a Republican mayor and an LDS",
+    "name": "Carl Johnson, Republican LDS",
     "position": [
       "law enforcement",
       "local official",
@@ -721,11 +723,11 @@
       "religious leader",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 831,
-    "name": "John Flores, a pastor at the anti-gay, arch-conservative",
+    "name": "John Flores,",
     "position": [
       "religious leader"
     ],
@@ -740,11 +742,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 832,
-    "name": "Anthony Iglesias, youth pastor in one of the churches in the",
+    "name": "Anthony Iglesias,",
     "position": [
       "religious leader"
     ],
@@ -758,11 +760,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2011
   },
   {
     "id": 833,
-    "name": "John Grant, pastor of the conservative, anti-gay Calvary",
+    "name": "John Grant,",
     "position": [
       "religious leader"
     ],
@@ -777,11 +779,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 834,
-    "name": "Glen Uselmann, youth pastor of Calvary Gospel, groomed",
+    "name": "Glen Uselmann,",
     "position": [
       "religious leader"
     ],
@@ -814,7 +816,7 @@
   },
   {
     "id": 836,
-    "name": "Shreveport, LA, Republican mayoral candidate Melvin Slack",
+    "name": "Shreveport, LA, Republican Melvin Slack",
     "position": [
       "candidate",
       "local official",
@@ -833,7 +835,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 837,
@@ -852,11 +854,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2016
   },
   {
     "id": 838,
-    "name": "David Wayne Farren, former youth pastor at the anti-gay",
+    "name": "David Wayne Farren,",
     "position": [
       "religious leader"
     ],
@@ -890,11 +892,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2015
   },
   {
     "id": 840,
-    "name": "Clark County Sheriff Jamey Noel",
+    "name": "Clark County Jamey Noel",
     "position": [
       "law enforcement"
     ],
@@ -912,7 +914,7 @@
   },
   {
     "id": 841,
-    "name": "Frequent Republican candidate Billy Oswald has been sued",
+    "name": "Frequent Republican Billy Oswald",
     "position": [
       "candidate",
       "party member"
@@ -944,7 +946,7 @@
   },
   {
     "id": 843,
-    "name": "Clifford James Neesmith, the chairman of the Port",
+    "name": "Clifford James Neesmith,",
     "position": [
       "party official"
     ],
@@ -975,11 +977,11 @@
       "https://www.wcbu.org/local-news/2023-05-25/former-stark-county-councilman-sentenced-to-35-years-in-prison-on-child-pornography-charges"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 845,
-    "name": "Jorge Ariel Benavides, a pastor,",
+    "name": "Jorge Ariel Benavides,",
     "position": [
       "religious leader"
     ],
@@ -1035,11 +1037,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 848,
-    "name": "Republican State Senate candidate Dave Estenson",
+    "name": "State Senate Dave Estenson",
     "position": [
       "candidate",
       "law enforcement",
@@ -1099,7 +1101,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 851,
@@ -1119,7 +1121,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 852,
@@ -1154,7 +1156,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2011
   },
   {
     "id": 854,
@@ -1198,7 +1200,7 @@
       "https://strublog.wordpress.com/2013/07/02/billy-james-hargis-and-the-bible-made-me-gay-defense/"
     ],
     "tags": [],
-    "year": null
+    "year": 2013
   },
   {
     "id": 857,
@@ -1236,14 +1238,16 @@
   },
   {
     "id": 859,
-    "name": "Diego Morales, Indiana Secretary of State candidate, has",
+    "name": "Diego Morales, Indiana Secretary",
     "position": [
       "candidate",
       "congress",
       "party member",
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Diego Morales, Indiana Secretary of State candidate, has been accused by two Republican women of sexually harassing them and forcibly kissing them without consent. They went to state GOP leaders to try to handle in-house.",
     "sources": [
       "https://indianacapitalchronicle.com/2022/10/04/could-morales-allegations-affect-secretary-of-states-race/",
@@ -1256,11 +1260,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 860,
-    "name": "Randy Kaufman, a Republican candidate for the Maricopa",
+    "name": "Randy Kaufman, Republican",
     "position": [
       "candidate",
       "party member"
@@ -1279,7 +1283,7 @@
   },
   {
     "id": 861,
-    "name": "Daniel Montague Acker Jr., youth pastor at the anti-gay",
+    "name": "Daniel Montague Acker Jr.,",
     "position": [
       "educator",
       "religious leader"
@@ -1385,7 +1389,7 @@
       "https://annemariemiller.com/2021/07/02/mark-aderholts-criminal-record-is-wiped-clean-today-and-why-i-supported-the-plea-deal-instead-of-a-trial/"
     ],
     "tags": [],
-    "year": null
+    "year": 2021
   },
   {
     "id": 867,
@@ -1407,11 +1411,13 @@
   },
   {
     "id": 868,
-    "name": "Former Winnebago County Republican Central Committee",
+    "name": "Winnebago County Republican Central Committee",
     "position": [
       "party member"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Former Winnebago County Republican Central Committee Chairperson Eli Nicolosi, who lost his primary bid for state senate, was charged with home invasion, aggravated battery, and violating an order of protection that his wife had been granted. The person he attacked was her boyfriend. His injuries include with injuries including a ripped ear lobe, a large black eye, scratches and a bite on the back.There’s a reason she sought an order of protection.",
     "sources": [
       "https://www.wifr.com/2022/10/03/former-winnebago-county-republican-committee-chairman-arrested-felony-charges/"
@@ -1420,11 +1426,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 869,
-    "name": "Charles Pierce, Alaska GOP candidate for governor, has",
+    "name": "Charles Pierce, Alaska GOP",
     "position": [
       "candidate",
       "governor",
@@ -1445,11 +1451,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 870,
-    "name": "NC Republican candidate for US House Sandy Smith",
+    "name": "NC Republican",
     "position": [
       "candidate",
       "congress",
@@ -1475,7 +1481,9 @@
     "id": 871,
     "name": "Cade Cothren, chief of staff to former TN Speaker Glen",
     "position": [],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Cade Cothren, chief of staff to former TN Speaker Glen Casada,sexually harassed interns, sent racist and misogynistic texts (also indicted for fraud)",
     "sources": [
       "https://www.tba.org/?pg=LawBlog&blAction=showEntry&blogEntry=34423"
@@ -1497,7 +1505,7 @@
   },
   {
     "id": 873,
-    "name": "South Dakota Republican state senate candidate Joel",
+    "name": "South Dakota Republican Joel",
     "position": [
       "candidate",
       "party member"
@@ -1518,7 +1526,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 874,
@@ -1538,7 +1546,7 @@
       "local official",
       "religious leader"
     ],
-    "year": null
+    "year": 2010
   },
   {
     "id": 875,
@@ -1556,7 +1564,7 @@
   },
   {
     "id": 876,
-    "name": "Matthew Foster, GOP candidate for D",
+    "name": "Matthew Foster, GOP",
     "position": [
       "candidate",
       "party official"
@@ -1574,7 +1582,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 877,
@@ -1590,7 +1598,7 @@
   },
   {
     "id": 878,
-    "name": "David Lloyd Walther, Pastor of Faith Bapt",
+    "name": "David Lloyd Walther,",
     "position": [
       "religious leader"
     ],
@@ -1610,7 +1618,7 @@
   },
   {
     "id": 879,
-    "name": "GOP candidate for SD state house, Bud Marty May, who lost",
+    "name": "candidate",
     "position": [
       "candidate",
       "congress",
@@ -1631,11 +1639,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 880,
-    "name": "David Lynn Richards, former pastor of the anti-gay My",
+    "name": "David Lynn Richards,",
     "position": [
       "congress",
       "religious leader"
@@ -1652,7 +1660,7 @@
       "congress",
       "religious leader"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 881,
@@ -1669,7 +1677,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 882,
@@ -1693,14 +1701,16 @@
     "id": 883,
     "name": "David Ray Barker, member of the white supremac",
     "position": [],
-    "crime": [],
+    "crime": [
+      "violence"
+    ],
     "description": "David Ray Barker, member of the white supremacist Texas Patriot Network, was twice convicted of indecency with a child by contact, sexually violent offenses.",
     "sources": [
       "https://law.justia.com/cases/texas/fourteenth-court-of-appeals/2011/87919.html",
       "https://itsgoingdown.org/leaked-audio-reveals-militias-plans-to-attack-houston-protesters"
     ],
     "tags": [],
-    "year": null
+    "year": 2011
   },
   {
     "id": 884,
@@ -1792,7 +1802,7 @@
       "https://nypost.com/2022/10/29/paul-pelosi-attacker-david-depape-sexually-abused-his-kids-stepdaughter/0"
     ],
     "tags": [],
-    "year": null
+    "year": 2022
   },
   {
     "id": 890,
@@ -1822,7 +1832,7 @@
       "https://aratally.wordpress.com/2017/11/15/nerds-with-tattoos/"
     ],
     "tags": [],
-    "year": null
+    "year": 2017
   },
   {
     "id": 892,

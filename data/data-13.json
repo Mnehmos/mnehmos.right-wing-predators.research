@@ -21,13 +21,15 @@
     "id": 1187,
     "name": "Robert Stahn, a counselor for survivors of child sexual",
     "position": [],
-    "crime": [],
+    "crime": [
+      "child exploitation"
+    ],
     "description": "Robert Stahn, a counselor for survivors of child sexual trauma, himself victimized a vulnerable adult who was nonverbal.",
     "sources": [
       "https://www.eastidahonews.com/2023/10/local-therapist-accused-of-sexually-abusing-a-vulnerable-adult-admits-guilt/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1188,
@@ -47,7 +49,9 @@
     "id": 1189,
     "name": "Matthew Thomas Wyatt, guest preacher at Southside",
     "position": [],
-    "crime": [],
+    "crime": [
+      "child exploitation"
+    ],
     "description": "Matthew Thomas Wyatt, guest preacher at Southside Baptist Church. Charged with child sex crimes.",
     "sources": [
       "https://myfox8.com/news/north-carolina/piedmont-triad/yadkinville-man-charged-with-child-sex-crimes-voted-out-of-church/",
@@ -110,7 +114,7 @@
   },
   {
     "id": 1193,
-    "name": "Corey White, youth pastor at the anti-gay, hate church",
+    "name": "Corey White,",
     "position": [
       "religious leader"
     ],
@@ -151,7 +155,7 @@
   },
   {
     "id": 1195,
-    "name": "John Justin McCall, pastor/worship leader at Grace River",
+    "name": "John Justin McCall, Grace River",
     "position": [
       "party official",
       "religious leader"
@@ -169,11 +173,11 @@
       "party official",
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1196,
-    "name": "Ashley Crouse, pastor at New V",
+    "name": "Ashley Crouse, New V",
     "position": [
       "religious leader"
     ],
@@ -204,11 +208,11 @@
       "https://www.reuters.com/legal/charges-dropped-against-former-exxon-executive-2024-02-14/"
     ],
     "tags": [],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1198,
-    "name": "Tom Garrett, VA GOP Congressman - domestic violence",
+    "name": "Tom Garrett, VA GOP",
     "position": [
       "congress",
       "party official"
@@ -246,11 +250,11 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2010
   },
   {
     "id": 1200,
-    "name": "Republican Del. Matt Far",
+    "name": "Del. Matt Far",
     "position": [
       "congress",
       "party member"
@@ -269,7 +273,7 @@
   },
   {
     "id": 1201,
-    "name": "Brad Benson, GOP Granbury, TX, City Council candidate",
+    "name": "Brad Benson, GOP Granbury, TX, City Council",
     "position": [
       "candidate",
       "local official",
@@ -304,7 +308,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1203,
@@ -343,7 +347,7 @@
   },
   {
     "id": 1205,
-    "name": "Kyle Hilleary, pastor at anti-gay church and educator",
+    "name": "Kyle Hilleary,",
     "position": [
       "religious leader"
     ],
@@ -399,7 +403,9 @@
     "position": [
       "educator"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Daniel J Abraham, a Christian school teacher in NC, is charged with sexual battery, indecent liberties with a child.",
     "sources": [
       "https://www.sanfordherald.com/news/lee-christian-teacher-accused-of-molesting-student/article_35450285-3fb6-59d2-baba-dfd5d8a18978.html"
@@ -474,7 +480,9 @@
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Justin Sigmon, Franklin County Sheriff, was convicted of sexually abusing his niece.",
     "sources": [
       "https://www.sportskeeda.com/pop-culture/news-the-fact-anyone-actually-donated-beyond-disgusting-justin-sigmon-gofundme-sparks-outrage-good-christian-claim",
@@ -484,7 +492,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1213,
@@ -492,7 +500,9 @@
     "position": [
       "educator"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Reagan Anderson was a teacher at a private christian school. She’s been charged with sexual battery of one of her students and sendng him nude photos of herself.",
     "sources": [
       "https://lawandcrime.com/crime/this-predator-has-robbed-him-mom-calls-out-private-school-teacher-charged-with-sexually-battering-her-son-in-pizza-hut-parking-lot/"
@@ -551,7 +561,7 @@
     "tags": [
       "maga"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1217,
@@ -576,7 +586,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1218,
@@ -613,7 +623,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1220,
@@ -628,7 +638,7 @@
       "https://www.nbcnews.com/news/us-news/tucker-carlsons-longtime-producer-accused-2008-sexual-assault-rcna128062"
     ],
     "tags": [],
-    "year": null
+    "year": 2008
   },
   {
     "id": 1221,
@@ -669,7 +679,7 @@
   },
   {
     "id": 1223,
-    "name": "Johnathan Andrew Edwards, a Sheriff’s deputy in Harnett",
+    "name": "Johnathan Andrew Edwards, Sheriff’s",
     "position": [
       "law enforcement"
     ],
@@ -687,7 +697,7 @@
   },
   {
     "id": 1224,
-    "name": "John Sweeney, former NY congressman,",
+    "name": "John Sweeney, NY",
     "position": [
       "congress",
       "law enforcement"
@@ -709,7 +719,7 @@
   },
   {
     "id": 1225,
-    "name": "Jose Saez Jr, a Brentwood, NY, pastor at Iglesia Cr",
+    "name": "Jose Saez Jr, Brentwood, NY, Iglesia Cr",
     "position": [
       "religious leader"
     ],
@@ -725,13 +735,15 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1226,
     "name": "Brock Fredin, a W",
     "position": [],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Brock Fredin, a Wisconsin right-wing twitter user/influencer frequently amplified by Donald Trump, has a history of stalking and harassing women.",
     "sources": [
       "https://themessenger.com/politics/the-story-behind-trumps-gag-order-involves-a-man-under-criminal-investigation-for-stalking"
@@ -760,7 +772,7 @@
   },
   {
     "id": 1228,
-    "name": "Albert Benjamin Wharton, a pastor at a conservative",
+    "name": "Albert Benjamin Wharton,",
     "position": [
       "religious leader"
     ],
@@ -809,11 +821,11 @@
       "https://www.justice.gov/usao-edny/pr/former-new-york-city-police-officer-sentenced-40-years-imprisonment-sex-offenses"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1231,
-    "name": "Clarice Schillinger, Republican candidate for PA LT. Gov",
+    "name": "Clarice Schillinger, Republican",
     "position": [
       "activist",
       "candidate",
@@ -832,11 +844,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1232,
-    "name": "Thomas Wall, a former pastor at the conservative",
+    "name": "Thomas Wall,",
     "position": [
       "religious leader"
     ],
@@ -864,7 +876,7 @@
       "https://westerniowatoday.com/2023/12/20/dr-calvin-weber-found-guilty-of-assault-on-patient/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1234,
@@ -884,7 +896,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1235,
@@ -902,7 +914,7 @@
     "tags": [
       "educator"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1236,
@@ -940,11 +952,11 @@
       "law enforcement",
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1238,
-    "name": "Mark Rivera, lay pastor at Chr",
+    "name": "Mark Rivera, Chr",
     "position": [
       "religious leader"
     ],
@@ -995,7 +1007,7 @@
   },
   {
     "id": 1241,
-    "name": "Richard Shaw, a pastor from Riverton, WY,",
+    "name": "Richard Shaw,",
     "position": [
       "religious leader"
     ],
@@ -1009,7 +1021,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1242,
@@ -1047,7 +1059,7 @@
       "https://www.nhpr.org/politics/2018-08-06/sanborn-made-reference-to-sex-act-in-2013-conversation-with-intern-according-to-n-h-senate-lawyer"
     ],
     "tags": [],
-    "year": null
+    "year": 2018
   },
   {
     "id": 1244,
@@ -1101,7 +1113,7 @@
       "https://www.wsfa.com/2024/01/23/former-wetumpka-firefighter-pleads-guilty-sex-crimes/"
     ],
     "tags": [],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1247,
@@ -1117,7 +1129,7 @@
     "tags": [
       "party official"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1248,
@@ -1135,7 +1147,7 @@
   },
   {
     "id": 1249,
-    "name": "Micah Whitfield, the technical director of the Arend Arts",
+    "name": "Micah Whitfield,",
     "position": [],
     "crime": [
       "assault",
@@ -1188,7 +1200,7 @@
   },
   {
     "id": 1252,
-    "name": "Brad Nash, former Mayor of Salem, MO, Dent County Fire",
+    "name": "Brad Nash,",
     "position": [
       "local official"
     ],
@@ -1203,7 +1215,7 @@
     "tags": [
       "local official"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1253,
@@ -1241,7 +1253,7 @@
   },
   {
     "id": 1255,
-    "name": "Donald H. Briggs, former mayor of Millbrook, NY",
+    "name": "Donald H. Briggs,",
     "position": [
       "local official"
     ],
@@ -1258,7 +1270,7 @@
   },
   {
     "id": 1256,
-    "name": "Corey Botelho, a PA sheriff’s deputy, soccer coach, and",
+    "name": "Corey Botelho, PA",
     "position": [
       "coach",
       "law enforcement"
@@ -1284,7 +1296,7 @@
       "https://www.exploreclarion.com/2024/01/31/case-against-former-soccer-coach-sheriffs-deputy-who-allegedly-raped-young-girl-moves-forward-in-court-additional-charges-added/"
     ],
     "tags": [],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1257,
@@ -1302,7 +1314,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 1258,
@@ -1321,7 +1333,7 @@
   },
   {
     "id": 1259,
-    "name": "Dale Kenyon, former mayor of Clayton, New York,",
+    "name": "Dale Kenyon,",
     "position": [
       "local official"
     ],
@@ -1354,7 +1366,7 @@
   },
   {
     "id": 1261,
-    "name": "David Helbling, CA, Assemblies of God pastor has been",
+    "name": "David Helbling, CA, Assemblies",
     "position": [
       "religious leader"
     ],
@@ -1384,11 +1396,11 @@
       "https://www.desmoinesregister.com/story/news/crime-and-courts/2024/02/16/lynn-lindaman-west-des-moines-doctor-convicted-child-sex-abuse-polk-county/72632246007/"
     ],
     "tags": [],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1263,
-    "name": "Pastor Bobby Leonard of Bible Bapt",
+    "name": "Bobby Leonard",
     "position": [
       "religious leader"
     ],
@@ -1402,7 +1414,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1264,
@@ -1427,7 +1439,7 @@
   },
   {
     "id": 1265,
-    "name": "David Wakefield, principal and athletic director at",
+    "name": "David Wakefield,",
     "position": [
       "educator"
     ],
@@ -1439,7 +1451,7 @@
     "tags": [
       "educator"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1266,
@@ -1448,7 +1460,9 @@
       "coach",
       "educator"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Rachel Wakefield, substitute teacher and coach at Damascus Christian School has been charged with sexually abusing a 14-year-old girl for four years.",
     "sources": [
       "https://www.yahoo.com/news/community-shocked-abuse-charges-against-000522489.html?guccounter=1"
@@ -1496,7 +1510,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1269,
@@ -1510,7 +1524,7 @@
       "https://www.wbtv.com/2024/02/28/cleveland-co-schools-employee-arrested-accused-sex-crimes-against-child/"
     ],
     "tags": [],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1270,
@@ -1531,7 +1545,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1271,
@@ -1562,7 +1576,7 @@
       "https://www.azbbhe.us/pdfs/BoardOrder/2023-0157.pdf"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1273,
@@ -1582,7 +1596,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1274,
@@ -1598,7 +1612,7 @@
   },
   {
     "id": 1275,
-    "name": "Paul Rytting, Director of R",
+    "name": "Paul Rytting,",
     "position": [],
     "crime": [
       "sexual abuse"
@@ -1634,7 +1648,7 @@
   },
   {
     "id": 1277,
-    "name": "Dan Rodimer, a GOP House candidate, has been",
+    "name": "Dan Rodimer, GOP House",
     "position": [
       "candidate",
       "congress",
@@ -1651,7 +1665,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1278,
@@ -1671,11 +1685,11 @@
       "congress",
       "local official"
     ],
-    "year": null
+    "year": 2024
   },
   {
     "id": 1279,
-    "name": "Les Stapleton, Mayor of Prestonburg, KY,",
+    "name": "Les Stapleton,",
     "position": [
       "local official"
     ],
@@ -1695,7 +1709,7 @@
   },
   {
     "id": 1280,
-    "name": "William Keith Dodd, a pastor in Kansas,",
+    "name": "William Keith Dodd,",
     "position": [
       "religious leader"
     ],
@@ -1713,7 +1727,7 @@
   },
   {
     "id": 1281,
-    "name": "Marvin Leroy Mosley, a now-former pastor of the extreme-",
+    "name": "Marvin Leroy Mosley,",
     "position": [
       "religious leader"
     ],
@@ -1741,11 +1755,13 @@
   },
   {
     "id": 1282,
-    "name": "Jeffrey Duncan, a Nebraska pastor and one time Lutherans",
+    "name": "Jeffrey Duncan, Nebraska Lutherans",
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Jeffrey Duncan, a Nebraska pastor and one time Lutherans for Life staffer, was sentenced to 4.5 years for sexually abusing a child.",
     "sources": [
       "https://omaha.com/news/local/crime-courts/former-omaha-pastor-sentenced-for-third-degree-sexual-assault-of-child/article_c6d8d876-ec39-11ee-9cec-f7dcacf8e0bd.html"
@@ -1757,7 +1773,7 @@
   },
   {
     "id": 1283,
-    "name": "Jon Stone, GOP NH state representative, responded to an",
+    "name": "Jon Stone, GOP NH",
     "position": [
       "law enforcement",
       "party official",
@@ -1776,6 +1792,6 @@
       "republican",
       "state legislator"
     ],
-    "year": null
+    "year": 2024
   }
 ]

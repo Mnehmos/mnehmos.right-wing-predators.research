@@ -1,7 +1,7 @@
 [
   {
     "id": 991,
-    "name": "Gerald Fairbanks, a former Ada County (ID) sheriff’s deputy,",
+    "name": "Gerald Fairbanks, Ada County",
     "position": [
       "law enforcement"
     ],
@@ -45,7 +45,7 @@
       "coach",
       "educator"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 993,
@@ -61,11 +61,11 @@
       "https://www.ksat.com/news/local/2023/01/26/boerne-area-music-school-owner-tutor-arrested-on-child-sex-crime-charges-records-show/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 994,
-    "name": "Thomas Gilman Hartman, founding pastor of Wings of",
+    "name": "Thomas Gilman Hartman,",
     "position": [
       "religious leader"
     ],
@@ -112,7 +112,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 997,
@@ -120,7 +120,9 @@
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Erich A. Bennett, a NJ police officer, used police databases to stalk and harass a woman who ended their relationship in",
     "sources": [],
     "tags": [
@@ -138,7 +140,7 @@
       "https://www.nj.com/monmouth/2023/01/nj-cop-used-police-databases-to-stalk-ex-girlfriend-investigators-say.html?outputType=amp"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 998,
@@ -152,7 +154,7 @@
       "https://www.arkansasonline.com/news/2022/jun/09/cave-springs-doctor-arrested-on-sexual-assault/"
     ],
     "tags": [],
-    "year": null
+    "year": 2022
   },
   {
     "id": 999,
@@ -174,7 +176,7 @@
   },
   {
     "id": 1000,
-    "name": "Tony Ernest Bunton, a Statesville NC pastor,",
+    "name": "Tony Ernest Bunton, Statesville NC",
     "position": [
       "religious leader"
     ],
@@ -203,15 +205,17 @@
       "https://www.wifr.com/2023/01/28/ex-rockford-detective-gets-6-months-child-pornography-charges/?outputType=amp"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1002,
-    "name": "Troy Hinchey, a former Sheriff’s Deputy in",
+    "name": "Troy Hinchey, Sheriff’s Deputy",
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Troy Hinchey, a former Sheriff’s Deputy in Washington County, VA, has been charged with misdemeanor sexual battery.",
     "sources": [
       "http://www.supertalk929.com/2023/01/27/former-washington-county-virginia-officer-indicted-for-sexual-battery/"
@@ -219,7 +223,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1003,
@@ -235,7 +239,7 @@
   },
   {
     "id": 1004,
-    "name": "NY Congressman and real-life Zelig, George Santos has",
+    "name": "NY Zelig, George Santos",
     "position": [
       "congress"
     ],
@@ -250,11 +254,11 @@
     "tags": [
       "congress"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1005,
-    "name": "Mayor Jaron Rosien of",
+    "name": "Jaron Rosien",
     "position": [
       "congress",
       "local official",
@@ -275,11 +279,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1006,
-    "name": "Phillip Briggs, Spencerville, OH, mayor",
+    "name": "Phillip Briggs, Spencerville, OH,",
     "position": [
       "local official"
     ],
@@ -325,7 +329,7 @@
   },
   {
     "id": 1009,
-    "name": "Pastor Fred Gammon of Miami, OK",
+    "name": "Fred Gammon",
     "position": [
       "religious leader"
     ],
@@ -341,11 +345,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1010,
-    "name": "Ted J. Tomaszewski, former Republican mayor and county",
+    "name": "Ted J. Tomaszewski, Republican",
     "position": [
       "candidate",
       "local official",
@@ -384,7 +388,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1012,
@@ -406,7 +410,7 @@
       "party official",
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1013,
@@ -442,7 +446,7 @@
   },
   {
     "id": 1015,
-    "name": "Matthew Reiber, pastor of the anti-gay New Life Chr",
+    "name": "Matthew Reiber,",
     "position": [
       "religious leader"
     ],
@@ -474,7 +478,7 @@
       "party official",
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1017,
@@ -537,7 +541,7 @@
     "tags": [
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 1021,
@@ -565,11 +569,11 @@
       "https://wtop.com/prince-georges-county/2023/03/former-prince-georges-co-schools-librarian-faces-child-porn-charges/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1023,
-    "name": "Jacob Woods, a youth pastor at Rutherford County Bapt",
+    "name": "Jacob Woods, Rutherford County Bapt",
     "position": [
       "religious leader"
     ],
@@ -591,7 +595,9 @@
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Dennis Wayne Laferty, pastor of Thompson United Methodist Church in Geauga County, Ohio, has been charged with sexual battery, sexual imposition (victim between 13 and 16), and gross sexual imposition (under 13) of minors over the past 4 years.",
     "sources": [
       "https://www.geaugamapleleaf.com/news/thompson-pastor-faces-felony-sexual-battery-charges/"
@@ -642,7 +648,7 @@
   },
   {
     "id": 1027,
-    "name": "Pastor Milton Martin III, of the First Pentacostal Church in",
+    "name": "Milton Martin III,",
     "position": [
       "religious leader"
     ],
@@ -679,11 +685,13 @@
   },
   {
     "id": 1029,
-    "name": "Donald McKinney, City Council and Mayor Pro Tem of",
+    "name": "Donald McKinney, City Council Pro Tem",
     "position": [
       "local official"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Donald McKinney, City Council and Mayor Pro Tem of Pickens, SC was arrested for sexually abusing a minor between 15 and 16",
     "sources": [
       "https://www.wmbfnews.com/2022/10/07/pickens-city-council-member-accused-sexually-abusing-teen/"
@@ -691,7 +699,7 @@
     "tags": [
       "local official"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 1030,
@@ -709,11 +717,11 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1031,
-    "name": "David Duffett, youth pastor at Bible Bapt",
+    "name": "David Duffett, Bible Bapt",
     "position": [
       "religious leader"
     ],
@@ -750,7 +758,7 @@
   },
   {
     "id": 1033,
-    "name": "Gary Buckaloo, former youth pastor at the rightwing First",
+    "name": "Gary Buckaloo, First",
     "position": [
       "educator",
       "religious leader"
@@ -766,7 +774,7 @@
       "educator",
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1034,
@@ -778,13 +786,15 @@
       "https://www.theguardian.com/us-news/2023/mar/19/international-churches-of-christ-lawsuits-alleged-sexual-abuse"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1035,
     "name": "William Morr",
     "position": [],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "William Morrissey, a school resource officer in Cayuga County, NY. was arrested for sexually abusing a 14yo girl ignored order of protection to contact her, cited for contempt",
     "sources": [
       "https://auburnpub.com/news/local/crime-and-courts/ex-auburn-sro-accused-of-sex-abuse-now-charged-with-contempt/article_8cb5ba0b-bbe5-572e-82e9-ec22fcd1b1fb.html"
@@ -820,7 +830,7 @@
   },
   {
     "id": 1038,
-    "name": "Leslie Shawn Brock, Lockland city councilman until h",
+    "name": "Leslie Shawn Brock, Lockland",
     "position": [
       "local official"
     ],
@@ -856,7 +866,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1040,
@@ -874,7 +884,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1041,
@@ -882,7 +892,9 @@
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Fulton Brock, a Maricopa County Supervisor, used his influence with Sheriff Joe Arpaio to protect his wife and daughter who were both sexually abusing a minor child.",
     "sources": [
       "https://www.phoenixnewtimes.com/news/brocked-up-supervisor-fulton-brock-attempted-to-cover-up-the-sexual-liaisons-between-his-wife-daughter-and-a-teenage-boy-6450425"
@@ -898,7 +910,9 @@
     "position": [
       "coach"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Nick Johnson, former coach at anti-gay Huntington University, arrested for felony sexual battery",
     "sources": [
       "https://www.indystar.com/story/news/local/indianapolis/2023/03/27/nick-johnson-huntington-university-coach-fired-sexual-battery-charge/70053417007/"
@@ -906,15 +920,17 @@
     "tags": [
       "coach"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1043,
-    "name": "Jeffery York, pastor of the anti-gay New Beginnings",
+    "name": "Jeffery York,",
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Jeffery York, pastor of the anti-gay New Beginnings Community Church in San Luis Obispo, was charged with sexually abusing a child for three years.",
     "sources": [
       "https://keyt.com/news/san-luis-obispo-county/2023/03/29/53-year-old-former-nipomo-youth-pastor-arrested-for-child-molestation-between-2005-2008/",
@@ -923,7 +939,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1044,
@@ -945,7 +961,9 @@
     "position": [
       "educator"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Jonathan Sauers, teacher at Faith Academy (uses RW Abeka & Bob Jones University curriculum) has been arrested for sexually abusing a student.",
     "sources": [
       "https://www.wsaz.com/2023/03/17/teacher-christian-school-alabama-accused-having-sex-with-underage-student/"
@@ -953,7 +971,7 @@
     "tags": [
       "educator"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1046,
@@ -969,7 +987,7 @@
       "https://ksltv.com/538062/new-victim-reports-rape-by-former-officer-as-he-awaits-sentencing-for-assault/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1047,
@@ -987,7 +1005,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 1048,
@@ -1036,7 +1054,7 @@
       "https://www.texastribune.org/2023/04/10/bryan-slaton-texas-legislature-ethics-criminal-attorney/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1051,
@@ -1070,7 +1088,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1053,
@@ -1090,7 +1108,7 @@
   },
   {
     "id": 1054,
-    "name": "Joshua Craft, unsuccessful candidate Otter Creek",
+    "name": "Joshua Craft, Otter Creek",
     "position": [
       "candidate"
     ],
@@ -1112,7 +1130,9 @@
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Michael Wayne Coleman, a Mormon bishop in Arizona, was arrested for soliciting a minor. He was fired by the church immediately.",
     "sources": [
       "https://floodlit.org/a/a069/",
@@ -1121,7 +1141,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2014
   },
   {
     "id": 1056,
@@ -1207,7 +1227,9 @@
     "position": [
       "congress"
     ],
-    "crime": [],
+    "crime": [
+      "sexual harassment"
+    ],
     "description": "Scotty Campbell, TN House Rep, resigned after subcommittee investigation found he sexually harassed at : X least one intern",
     "sources": [
       "https://tennesseelookout.com/2023/04/20/east-tenn-lawmaker-resigns-after-sexual-harassment-finding/"
@@ -1215,7 +1237,7 @@
     "tags": [
       "congress"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1062,
@@ -1296,7 +1318,7 @@
   },
   {
     "id": 1067,
-    "name": "Former Regent University law school ass",
+    "name": "Regent University law school ass",
     "position": [],
     "crime": [
       "rape"
@@ -1311,7 +1333,7 @@
   },
   {
     "id": 1068,
-    "name": "Percy Wilbur Rock Jr, candidate in the Republican primary",
+    "name": "Percy Wilbur Rock Jr,",
     "position": [
       "candidate",
       "law enforcement",
@@ -1331,16 +1353,18 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1069,
-    "name": "Jim Duran, Ventura City Councilman and Lead Pastor at",
+    "name": "Jim Duran, Ventura City Lead",
     "position": [
       "local official",
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Jim Duran, Ventura City Councilman and Lead Pastor at The River Community Church knew his son was sexually abusing a 14-year-old girl and did not do mandatory reporting, his wife coerced the girl to not report.",
     "sources": [
       "https://www.vcstar.com/story/news/local/2023/04/29/ventura-councilman-knew-of-his-sons-abuse-of-teen-"
@@ -1349,11 +1373,11 @@
       "local official",
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1070,
-    "name": "Andrea Speck, failed GOP primary candidate for PA",
+    "name": "Andrea Speck, GOP",
     "position": [
       "candidate",
       "congress",
@@ -1386,15 +1410,17 @@
       "https://nymag.com/intelligencer/2023/05/steven-crowder-exposed-himself-at-work-ex-staffers-say.html"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1072,
-    "name": "Erickson Lee, law enforcement officer and youth pastor,",
+    "name": "Erickson Lee,",
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "child exploitation"
+    ],
     "description": "Erickson Lee, law enforcement officer and youth pastor, child sex crimes. NC",
     "sources": [
       "https://www.wsoctv.com/news/local/warrants-officer-arrested-child-sex-crimes-allegedly-committed-them-church-leader/KMD7SQZAYJEJFMYHZD5ANJYTF4/"
@@ -1424,7 +1450,7 @@
       "activist",
       "law enforcement"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 1074,
@@ -1446,7 +1472,7 @@
   },
   {
     "id": 1075,
-    "name": "Harry Jackson, Fairfax VA school board candidate",
+    "name": "Harry Jackson, Fairfax VA",
     "position": [
       "candidate",
       "party official"
@@ -1468,7 +1494,7 @@
   },
   {
     "id": 1076,
-    "name": "Kieran Cartharn, unsuccessful candidate for Columbus OH",
+    "name": "Kieran Cartharn,",
     "position": [
       "candidate",
       "local official"
@@ -1503,7 +1529,7 @@
     "tags": [
       "educator"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 1078,
@@ -1551,11 +1577,11 @@
       "https://julieroys.com/oregon-pastor-sentenced-to-13-years-in-prison-for-sexual-abuse/"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 1081,
-    "name": "Ron Causby, GOP podcaster/influencer and candidate for",
+    "name": "Ron Causby, GOP",
     "position": [
       "candidate",
       "party official"
@@ -1596,11 +1622,11 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2012
   },
   {
     "id": 1083,
-    "name": "Bart Jetton, Mayor of Reno, Texas,",
+    "name": "Bart Jetton,",
     "position": [
       "local official"
     ],
@@ -1680,7 +1706,7 @@
   },
   {
     "id": 1088,
-    "name": "Matthew Porter, former youth pastor at Bethel Bapt",
+    "name": "Matthew Porter, Bethel Bapt",
     "position": [
       "religious leader"
     ],
@@ -1692,6 +1718,6 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2008
   }
 ]

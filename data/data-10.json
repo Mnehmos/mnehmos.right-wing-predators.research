@@ -11,7 +11,7 @@
       "https://www.pressherald.com/2022/01/28/portland-man-sentenced-to-5-years-in-child-porn-case/"
     ],
     "tags": [],
-    "year": null
+    "year": 2022
   },
   {
     "id": 894,
@@ -42,7 +42,7 @@
       "https://law.justia.com/cases/federal/appellate-courts/ca8/10-1789/101789p-2011-02-25.html"
     ],
     "tags": [],
-    "year": null
+    "year": 2011
   },
   {
     "id": 896,
@@ -60,7 +60,7 @@
     "tags": [
       "party official"
     ],
-    "year": null
+    "year": 2015
   },
   {
     "id": 897,
@@ -94,7 +94,7 @@
   },
   {
     "id": 899,
-    "name": "Republican Congresscritter James Comer, KY.",
+    "name": "Congresscritter James Comer, KY.",
     "position": [
       "congress",
       "party member"
@@ -161,7 +161,7 @@
     "tags": [
       "party official"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 903,
@@ -197,7 +197,9 @@
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Jesse Shenk of CA, part of the Goyim Defense League of anti-Semites, was arrested for soliciting a minor (police officer presenting as 14), sending pornography to minor",
     "sources": [
       "https://krcrtv.com/north-coast-news/eureka-local-news/2-arrested-in-del-norte-sheriffs-operation-targeting-online-child-sex-predators"
@@ -234,7 +236,7 @@
       "https://www.wbtv.com/2020/10/22/man-arrested-kannapolis-with-van-full-guns-explosives-researched-killing-joe-biden/"
     ],
     "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 908,
@@ -270,7 +272,7 @@
   },
   {
     "id": 910,
-    "name": "Jonathan Myers, youth pastor in Edinburgh, IN and chr",
+    "name": "Jonathan Myers,",
     "position": [
       "educator",
       "religious leader"
@@ -290,7 +292,7 @@
   },
   {
     "id": 911,
-    "name": "Timothy Jason Jeltema, Texas youth pastor at Southern",
+    "name": "Timothy Jason Jeltema, Texas Southern",
     "position": [
       "religious leader"
     ],
@@ -306,7 +308,7 @@
   },
   {
     "id": 912,
-    "name": "Ryan Scott Walsh, Gulf Breeze, FL, youth pastor - sexually",
+    "name": "Ryan Scott Walsh, Gulf Breeze, FL,",
     "position": [
       "religious leader"
     ],
@@ -324,11 +326,13 @@
   },
   {
     "id": 913,
-    "name": "Youth Pastor Trent Ivey at Vestal Bapt",
+    "name": "Youth Trent Ivey Vestal Bapt",
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Youth Pastor Trent Ivey at Vestal Baptist Church in South Knox, TN has been charged with sexual battery of two young girls.",
     "sources": [
       "https://www.wvlt.tv/2022/09/16/knox-county-youth-pastor-arrested-sexual-battery/"
@@ -336,7 +340,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 914,
@@ -358,7 +362,7 @@
   },
   {
     "id": 915,
-    "name": "Thomas James Bracket, once a youth pastor in Baltimore,",
+    "name": "Thomas James Bracket,",
     "position": [
       "religious leader"
     ],
@@ -374,7 +378,7 @@
   },
   {
     "id": 916,
-    "name": "Youth pastor Sean Patrick Masopust of Northridge Assembly",
+    "name": "Youth Sean Patrick Masopust",
     "position": [
       "religious leader"
     ],
@@ -408,7 +412,7 @@
   },
   {
     "id": 918,
-    "name": "Sean M. Higgins, youth pastor in Palmyra NJ, online sexual",
+    "name": "Sean M. Higgins,",
     "position": [
       "religious leader"
     ],
@@ -426,7 +430,7 @@
   },
   {
     "id": 919,
-    "name": "Kenneth Baker, Ashland OR youth pastor",
+    "name": "Kenneth Baker, Ashland OR",
     "position": [
       "religious leader"
     ],
@@ -442,7 +446,7 @@
   },
   {
     "id": 920,
-    "name": "Peter Bass, Oregon youth pastor",
+    "name": "Peter Bass, Oregon",
     "position": [
       "religious leader"
     ],
@@ -456,16 +460,18 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2015
   },
   {
     "id": 921,
-    "name": "Central Point, OR youth pastor Dustin Colony-Herrera",
+    "name": "Central Point, OR Dustin Colony-Herrera",
     "position": [
       "judge",
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Central Point, OR youth pastor Dustin Colony-Herrera sexually abusing children in California. Pled no contest. District Court Judge Karen Townsend sentenced Herrera on May 26 to two, six-year prison sentences, which were suspended in favor of five years of sex offender probation.",
     "sources": [
       "https://www.desertsun.com/story/news/crime_courts/2019/04/11/california-pastor-dustin-herrera-evaded-child-sex-abuse-charges-across-county-lines-oregon/3438152002/"
@@ -474,11 +480,11 @@
       "judge",
       "religious leader"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 922,
-    "name": "NY youth pastor Robert Fenton groomed and sexually",
+    "name": "NY Robert Fenton",
     "position": [
       "religious leader"
     ],
@@ -496,7 +502,7 @@
   },
   {
     "id": 923,
-    "name": "Evansville, IN, youth pastor Joshua Burton Henley",
+    "name": "Evansville, IN, Joshua Burton Henley",
     "position": [
       "religious leader"
     ],
@@ -516,7 +522,7 @@
   },
   {
     "id": 924,
-    "name": "Ronnie Lee Barron, youth pastor in Lor",
+    "name": "Ronnie Lee Barron,",
     "position": [
       "religious leader"
     ],
@@ -534,7 +540,7 @@
   },
   {
     "id": 925,
-    "name": "Donald Courtney Biggs, recently fired youth pastor at MTN",
+    "name": "Donald Courtney Biggs, MTN",
     "position": [
       "religious leader"
     ],
@@ -550,7 +556,7 @@
   },
   {
     "id": 926,
-    "name": "Ben Courson, pastor of Applegate Chr",
+    "name": "Ben Courson,",
     "position": [
       "religious leader"
     ],
@@ -566,7 +572,7 @@
   },
   {
     "id": 927,
-    "name": "Jon Courson, former pastor of Applegate Chr",
+    "name": "Jon Courson,",
     "position": [
       "religious leader"
     ],
@@ -582,7 +588,7 @@
   },
   {
     "id": 928,
-    "name": "Former youth pastor, Jeffrey Winston Forrest,",
+    "name": "Jeffrey Winston Forrest,",
     "position": [
       "religious leader"
     ],
@@ -596,11 +602,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2021
   },
   {
     "id": 929,
-    "name": "Nicholas Kelley, youth pastor in Lawrencevill GA,",
+    "name": "Nicholas Kelley,",
     "position": [
       "religious leader"
     ],
@@ -618,7 +624,7 @@
   },
   {
     "id": 930,
-    "name": "Shawn Fitzgerald, youth pastor and teacher,",
+    "name": "Shawn Fitzgerald,",
     "position": [
       "educator",
       "religious leader"
@@ -636,21 +642,24 @@
   },
   {
     "id": 2,
-    "name": "com/news/crime/2020/11/22/florida-teacher-",
+    "name": "Roy Moore",
     "position": [
-      "educator"
+      "judge",
+      "candidate"
     ],
     "crime": [],
-    "description": "com/news/crime/2020/11/22/florida-teacher-arrested-400- counts-child-pornography/ Sentenced to 35 years. : X",
+    "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
     "sources": [],
     "tags": [
-      "educator"
+      "judge",
+      "candidate",
+      "republican"
     ],
-    "year": 2020
+    "year": 2017
   },
   {
     "id": 931,
-    "name": "Alexander Roesly, youth pastor at Pra",
+    "name": "Alexander Roesly, Pra",
     "position": [
       "religious leader"
     ],
@@ -666,7 +675,7 @@
   },
   {
     "id": 932,
-    "name": "Malo \"Victor\" Monteiro, youth pastor at Faith Bapt",
+    "name": "Malo Monteiro, Faith Bapt",
     "position": [
       "religious leader"
     ],
@@ -681,11 +690,11 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 933,
-    "name": "Wendel Nix, youth pastor in Aztec, NM, at Bible Bapt",
+    "name": "Wendel Nix,",
     "position": [
       "religious leader"
     ],
@@ -756,11 +765,11 @@
       "https://www.nytimes.com/2022/10/06/us/politics/joseph-brody-jan-6-youngkin.html"
     ],
     "tags": [],
-    "year": null
+    "year": 2022
   },
   {
     "id": 937,
-    "name": "North Carolina youth pastor Benjamin Damron",
+    "name": "North Carolina Benjamin Damron",
     "position": [
       "religious leader"
     ],
@@ -779,7 +788,7 @@
   },
   {
     "id": 938,
-    "name": "Jeff Taylor, former youth pastor at First Bapt",
+    "name": "Jeff Taylor, First Bapt",
     "position": [
       "religious leader"
     ],
@@ -798,7 +807,7 @@
   },
   {
     "id": 939,
-    "name": "Republican Rep-elect Brian Stout of Oregon",
+    "name": "Rep-elect Brian Stout of Oregon",
     "position": [
       "party member"
     ],
@@ -814,7 +823,7 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 940,
@@ -835,11 +844,13 @@
   },
   {
     "id": 941,
-    "name": "Jonathan Ryan Ensey, a music director and worship leader",
+    "name": "Jonathan Ryan Ensey,",
     "position": [
       "party official"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "Jonathan Ryan Ensey, a music director and worship leader at the conservative Living Way Fellowship in Conroe, TX was convicted of indecency with a child and soliciting a minor. TW: This article is more graphic than most.",
     "sources": [
       "https://www.yourconroenews.com/neighborhood/moco/news/article/Conroe-worship-leader-gets-12-years-in-church-17028700.php"
@@ -851,7 +862,7 @@
   },
   {
     "id": 942,
-    "name": "Conrad Estrada Valdez, pastor of the conservative",
+    "name": "Conrad Estrada Valdez,",
     "position": [
       "religious leader"
     ],
@@ -867,7 +878,7 @@
   },
   {
     "id": 943,
-    "name": "Aaron Duane Shipman, pastor of the fundamental",
+    "name": "Aaron Duane Shipman,",
     "position": [
       "religious leader"
     ],
@@ -885,7 +896,7 @@
   },
   {
     "id": 944,
-    "name": "Brian Pounds, pastor at Assembly of God in Vernon, TX,",
+    "name": "Brian Pounds, Assembly",
     "position": [
       "religious leader"
     ],
@@ -921,7 +932,7 @@
   },
   {
     "id": 946,
-    "name": "William Frank Brown, pastor of Bellmead (TX) First Bapt",
+    "name": "William Frank Brown,",
     "position": [
       "religious leader"
     ],
@@ -988,7 +999,7 @@
   },
   {
     "id": 950,
-    "name": "Conner Jesse Penny, youth pastor in Texas, confessed to",
+    "name": "Conner Jesse Penny,",
     "position": [
       "religious leader"
     ],
@@ -1004,7 +1015,7 @@
   },
   {
     "id": 951,
-    "name": "Robert Shiflet, former Texas youth pastor,",
+    "name": "Robert Shiflet, Texas",
     "position": [
       "religious leader"
     ],
@@ -1023,7 +1034,7 @@
   },
   {
     "id": 952,
-    "name": "William C. Robinson, William C Robinson, pastor in Corpus",
+    "name": "William C. Robinson, William C Robinson,",
     "position": [
       "religious leader"
     ],
@@ -1042,7 +1053,7 @@
   },
   {
     "id": 953,
-    "name": "David Pettigrew, a Texas pastor,",
+    "name": "David Pettigrew, Texas",
     "position": [
       "religious leader"
     ],
@@ -1060,7 +1071,7 @@
   },
   {
     "id": 954,
-    "name": "Lawrence Hopkins, Texas pastor,",
+    "name": "Lawrence Hopkins, Texas",
     "position": [
       "religious leader"
     ],
@@ -1113,13 +1124,15 @@
   },
   {
     "id": 957,
-    "name": "Shane Flournoy, a youth pastor and teacher at the Texas",
+    "name": "Shane Flournoy, Texas",
     "position": [
       "educator",
       "law enforcement",
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "child molestation"
+    ],
     "description": "Shane Flournoy, a youth pastor and teacher at the Texas School for the Deaf, confessed to his minister that he fondled a teen. The minister went to the police.",
     "sources": [
       "https://www.chron.com/news/article/Texas-School-for-the-Deaf-worker-arrested-on-sex-8467097.php%20"
@@ -1135,7 +1148,9 @@
     "id": 958,
     "name": "Bradley Wayne Dixon",
     "position": [],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Bradley Wayne Dixon was the dorm director at San Marcos Baptist Academy and has been convicted of sexually abusing four boys",
     "sources": [
       "https://www.chron.com/news/nation-world/article/Dorm-director-found-guilty-of-assaulting-students-13552070.php"
@@ -1179,15 +1194,17 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 961,
-    "name": "Former Lake Center police chief William Ray Pruitt has been",
+    "name": "Lake Center police chief William Ray Pruitt has been",
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Former Lake Center police chief William Ray Pruitt has been arrested for the sexual battery of a 14-year-old child.",
     "sources": [
       "https://news.yahoo.com/former-central-florida-police-chief-"
@@ -1229,7 +1246,7 @@
   },
   {
     "id": 963,
-    "name": "Richard J. Corkery, former mayor of Coaldale, in Carbon",
+    "name": "Richard J. Corkery,",
     "position": [
       "local official"
     ],
@@ -1247,7 +1264,7 @@
   },
   {
     "id": 964,
-    "name": "Gordon Grabau, Special Deputy Sheriff in Linn Cty, IA,",
+    "name": "Gordon Grabau, Special Deputy",
     "position": [
       "law enforcement"
     ],
@@ -1262,7 +1279,7 @@
     "tags": [
       "law enforcement"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 965,
@@ -1311,7 +1328,7 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 968,
@@ -1348,11 +1365,13 @@
   },
   {
     "id": 970,
-    "name": "Dean Alan Smith, pastor at Morning Star Bapt",
+    "name": "Dean Alan Smith, Morning Star Bapt",
     "position": [
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Dean Alan Smith, pastor at Morning Star Baptist Church in Lame Deer, MT, was charged with sexually abusing four girls, three under age 12.",
     "sources": [
       "https://www.ktvq.com/news/crime-watch/lame-deer-pastor-charged-with-sexual-abuse-of-children"
@@ -1396,7 +1415,7 @@
     "tags": [
       "republican"
     ],
-    "year": null
+    "year": 2022
   },
   {
     "id": 973,
@@ -1431,7 +1450,7 @@
     "tags": [
       "party official"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 975,
@@ -1451,11 +1470,11 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 976,
-    "name": "John Rose, a Tennessee representative,",
+    "name": "John Rose, Tennessee",
     "position": [
       "state legislator"
     ],
@@ -1471,7 +1490,7 @@
   },
   {
     "id": 977,
-    "name": "Garrett Biggerstaff, former pastor of Pleasant Grove",
+    "name": "Garrett Biggerstaff,",
     "position": [
       "religious leader"
     ],
@@ -1483,7 +1502,7 @@
     "tags": [
       "religious leader"
     ],
-    "year": null
+    "year": 2023
   },
   {
     "id": 978,
@@ -1491,7 +1510,9 @@
     "position": [
       "educator"
     ],
-    "crime": [],
+    "crime": [
+      "assault"
+    ],
     "description": "Joseph Kade Abbott, a teacher at the Apostolic Christian Academy in Merryville, TN is charged with sexual battery of a 14-year-old girl. In March 2024, he agreed to plead guilty.",
     "sources": [
       "https://www.knoxnews.com/story/news/crime/2023/01/12/former-teacher-maryville-apostolic-christian-academy-accused-sexual-abuse/69796642007/",
@@ -1504,7 +1525,7 @@
   },
   {
     "id": 979,
-    "name": "Rafael Cuevas took over as pastor of Temple of Prayer",
+    "name": "Rafael Cuevas",
     "position": [
       "religious leader"
     ],
@@ -1522,11 +1543,13 @@
   },
   {
     "id": 980,
-    "name": "Scott Yotka, a Jacksonville sheriff’s office d",
+    "name": "Scott Yotka, Jacksonville",
     "position": [
       "law enforcement"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Scott Yotka, a Jacksonville sheriff’s office dispatcher sentenced to 60 years for producing and distributing photos of himself sexually abusing young children",
     "sources": [
       "https://www.fbi.gov/contact-us/field-offices/jacksonville/news/former-jacksonville-sheriffs-office-emergency-dispatcher-sentenced-to-60-years-in-federal-prison-for-producing-and-distributing-photos-and-a-video-of-himself-sexually-abusing-two-young-children"
@@ -1580,11 +1603,11 @@
       "https://www.oregonlive.com/politics/2023/05/oregon-house-speaker-calls-on-rep-brian-stout-to-resign-after-judge-upholds-sex-abuse-protective-order.html?utm_campaign=theoregonian_sf&utm_medium=social&utm_source=twitter"
     ],
     "tags": [],
-    "year": null
+    "year": 2023
   },
   {
     "id": 984,
-    "name": "Dustin Spillers, a former youth pastor at the conservative",
+    "name": "Dustin Spillers,",
     "position": [
       "congress",
       "religious leader"
@@ -1602,7 +1625,7 @@
       "congress",
       "religious leader"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 985,
@@ -1611,7 +1634,9 @@
       "law enforcement",
       "religious leader"
     ],
-    "crime": [],
+    "crime": [
+      "prostitution"
+    ],
     "description": "John Blanchard a fervent Trump supporter who remains pastor of Rock Church Virginia Beach was charged with soliciting sex from a police officer he believed to be a 17- year-old girl. For some reason the charges were dropped, a : X special prosecutor has now been assigned.",
     "sources": [
       "https://www.wavy.com/news/investigative/rock-church-pastor-voluntarily-steps-back-from-duties-after-prostitution-charges-withdrawn/amp/",
@@ -1651,7 +1676,9 @@
     "position": [
       "educator"
     ],
-    "crime": [],
+    "crime": [
+      "sexual abuse"
+    ],
     "description": "Jason Kennedy, the principal of a conservative Christian school in Tennessee, has been charged with sexually abusing four children",
     "sources": [
       "https://newschannel9.com/news/local/school-principal-secretary-in-mcminn-co-charged-with-improper-sexual-behavior-with-teen-jason-kennedy-brittney-branham-liberty-christian-academy"
@@ -1663,7 +1690,7 @@
   },
   {
     "id": 988,
-    "name": "Deric Wallace Peacock, former youth pastor for South",
+    "name": "Deric Wallace Peacock,",
     "position": [
       "religious leader"
     ],
@@ -1681,7 +1708,7 @@
   },
   {
     "id": 989,
-    "name": "Former Sheriff’s Deputy of Onandaga County, Alexander",
+    "name": "Sheriff’s Deputy",
     "position": [
       "law enforcement"
     ],

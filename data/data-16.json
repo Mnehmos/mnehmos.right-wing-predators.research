@@ -17,15 +17,24 @@
   },
   {
     "id": 10,
-    "name": "Four other counts",
-    "position": [],
-    "crime": [],
-    "description": "Four other counts were dismissed. He has been sentenced to a minimum of 15 years.",
+    "name": "Edison Misla Aldarondo",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "rape",
+      "sexual abuse",
+      "child molestation"
+    ],
+    "description": "Puerto Rico House Speaker Edison Misla Aldarondo was charged in 2002 with rape of a 17-year-old friend of his stepdaughter. He was convicted of attempted rape, sexual abuse of a minor, and four counts of lewd conduct for molesting his stepdaughter beginning when she was 9 years old. He was sentenced to 13 years in prison in 2004.",
     "sources": [
       "https://www.10tv.com/article/news/local/george-bell-sentenced-at-least-15-years-rape-charges/530-9fa4950b-46fa-4454-8f92-04458633e43e"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "state legislator",
+      "republican"
+    ],
+    "year": 2002
   },
   {
     "id": 1483,
@@ -107,7 +116,7 @@
   },
   {
     "id": 1487,
-    "name": "Matthew McGinley, a Colorado worship pastor and former",
+    "name": "Matthew McGinley, Colorado",
     "position": [
       "educator",
       "religious leader"

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "name": "Roy Moore",
+    "year": 2017,
+    "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
+    "position": ["judge", "candidate"],
+    "tags": ["judge", "candidate", "republican"]
+  },
+  {
+    "id": 4,
+    "name": "Dennis Hastert",
+    "description": "Former Speaker of the House Dennis Hastert sexually abused high school students while working as a wrestling coach. He was convicted in 2016 of structuring bank withdrawals to evade currency reporting requirements, related to paying hush money to victims of his abuse. He received a 15-month prison sentence."
+  },
+  {
+    "id": 5,
+    "name": "Joseph Russell Dendy",
+    "year": 2017,
+    "description": "Cobb County GOP Chairman Joseph Russell Dendy pleaded guilty in 2017 to 13 charges including child molestation, enticing a child for indecent purposes, and aggravated sexual battery. He received a life sentence with 30 years to serve. The crimes occurred from 2004 to 2011. He was arrested in May 2016."
+  },
+  {
+    "id": 19,
+    "name": "Ralph Shortey",
+    "description": "Oklahoma state senator and Donald Trump's 2016 Oklahoma campaign chair Ralph Shortey was arrested in March 2017 after being found in a motel room with a 17-year-old boy. He pleaded guilty in 2017 to child sex trafficking and was sentenced to 15 years in federal prison in 2018.",
+    "position": ["state legislator", "party official"],
+    "crime": ["child exploitation", "sexual trafficking"],
+    "tags": ["state legislator", "party official", "republican", "maga"]
+  },
+  {
+    "id": 22,
+    "name": "Mark Foley",
+    "year": 2006,
+    "description": "U.S. Representative Mark Foley (R-FL) resigned from Congress on September 29, 2006, after it was revealed he had sent sexually explicit instant messages and emails to teenage boys who had served as congressional pages. The scandal broke less than six weeks before the 2006 midterm elections.",
+    "position": ["congress"],
+    "crime": ["sexual harassment", "child exploitation"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 48,
+    "name": "Tim Nolan",
+    "description": "Former Kentucky judge and Trump Campbell County campaign chair Tim Nolan pleaded guilty in 2018 to 21 counts including human trafficking and child sex trafficking involving 19 victims (7 minors). He was sentenced to 20 years in federal prison. He used his position and threatened victims with arrest unless they performed sex acts.",
+    "position": ["judge", "party official"],
+    "crime": ["sexual trafficking", "child exploitation", "sexual abuse"],
+    "tags": ["judge", "party official", "republican", "maga"]
+  },
+  {
+    "id": 124,
+    "name": "Blake Farenthold",
+    "year": 2018,
+    "description": "U.S. Representative Blake Farenthold (R-TX) resigned from Congress in April 2018 after it was revealed he used $84,000 in taxpayer money to settle a sexual harassment lawsuit filed by his former communications director. The lawsuit alleged gender discrimination, sexual harassment, and creating a hostile work environment.",
+    "crime": ["sexual harassment"],
+    "position": ["congress"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 16,
+    "name": "Donald Lukens",
+    "year": 1989,
+    "description": "U.S. Representative Donald 'Buz' Lukens (R-OH) was convicted in 1989 of contributing to the delinquency of a minor after paying a 16-year-old girl $40 for sex. He was convicted again in 1996 on bribery and conspiracy charges related to his time in Congress and sentenced to 30 months in prison.",
+    "position": ["congress"],
+    "crime": ["sexual abuse", "child exploitation"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 21,
+    "name": "Dan Crane",
+    "year": 1983,
+    "description": "U.S. Representative Dan Crane (R-IL) was censured by the House of Representatives on July 20, 1983, by a vote of 421-3 for having sex with a 17-year-old congressional page. He lost his re-election bid in 1984.",
+    "position": ["congress"],
+    "crime": ["sexual abuse"],
+    "tags": ["congress", "republican"]
+  },
+  {
+    "id": 10,
+    "name": "Edison Misla Aldarondo",
+    "year": 2002,
+    "description": "Puerto Rico House Speaker Edison Misla Aldarondo was charged in 2002 with rape of a 17-year-old friend of his stepdaughter. He was convicted of attempted rape, sexual abuse of a minor, and four counts of lewd conduct for molesting his stepdaughter beginning when she was 9 years old. He was sentenced to 13 years in prison in 2004.",
+    "position": ["state legislator"],
+    "crime": ["rape", "sexual abuse", "child molestation"],
+    "tags": ["state legislator", "republican"]
+  }
+]
