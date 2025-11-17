@@ -64,17 +64,17 @@
   },
   {
     "id": 897,
-    "name": "Warren Jeffs, fundamental",
+    "name": "Warren Jeffs",
     "position": [],
     "crime": [
       "rape"
     ],
-    "description": "Warren Jeffs, fundamentalist Mormon extremist - rape of many children. Too horrific to recount. Sentenced to life in prison plus twenty years. This story is too awful.",
+    "description": "FLDS (Fundamentalist Church of Jesus Christ of Latter Day Saints) leader Warren Jeffs was convicted in August 2011 of child rape and aggravated sexual assault of a minor for raping a 15-year-old child bride and a 12-year-old child bride. He was sentenced to life in prison plus 20 years. Texas authorities discovered over 700 pieces of evidence including priesthood records and audio tape of sexual assault.",
     "sources": [
       "https://abcnews.go.com/US/warren-jeffs-guilty-child-rape/story?id=14228198"
     ],
     "tags": [],
-    "year": null
+    "year": 2011
   },
   {
     "id": 898,
@@ -94,7 +94,7 @@
   },
   {
     "id": 899,
-    "name": "Congresscritter James Comer, KY.",
+    "name": "James Comer",
     "position": [
       "congress",
       "party member"
@@ -103,7 +103,7 @@
       "domestic violence",
       "violence"
     ],
-    "description": "Republican Congresscritter James Comer, KY. Accused by former girlfriend of domestic violence",
+    "description": "U.S. Representative James Comer (R-KY) was accused by ex-girlfriend Marilyn Thomas of domestic violence in the 1990s. Thomas claimed Comer hit her, was controlling and abusive, impregnated her, and forced her to get an abortion in November 1991. Comer denied allegations but later admitted to leaking emails to discredit her story.",
     "sources": [
       "https://www.tumblr.com/youwantbloodyouvegotit/146593145803/allegation-of-james-comers-domestic-violence-the",
       "https://www.facebook.com/250986546777/photos/a.298472761777.145340.250986546777/10152793648761778/?type=3&theater"
@@ -113,37 +113,37 @@
       "party member",
       "republican"
     ],
-    "year": null
+    "year": 1991
   },
   {
     "id": 900,
-    "name": "Nathan Larson, far-right white supremac",
+    "name": "Nathan Larson",
     "position": [],
     "crime": [
       "kidnapping"
     ],
-    "description": "Nathan Larson, far-right white supremacist Libertarian, advocate of pedophilia.Arrested for grooming and kidnapping a 12yo girl, died in federal custody",
+    "description": "Far-right white supremacist and self-described pedophilia advocate Nathan Larson served 14 months in prison in 2008 for threatening the president. He created websites to facilitate sharing of child sexual abuse material and pedophilia advocacy. In 2020, he was arrested for kidnapping a 12-year-old girl. He died in custody in September 2021 while facing federal charges for soliciting child pornography.",
     "sources": [
       "https://www.fauquier.com/news/nathan-larson-of-catlett-dies-in-federal-custody/article_8b0abf48-516d-11ed-81f1-97b152df73b4.html"
     ],
     "tags": [],
-    "year": null
+    "year": 2008
   },
   {
     "id": 901,
-    "name": "James Mason, white national",
+    "name": "James Mason",
     "position": [],
     "crime": [
       "child exploitation",
       "rape"
     ],
-    "description": "James Mason, white nationalist, created child sexual exploitation materials, raped minor girls.",
+    "description": "White nationalist and influential neo-Nazi figure James Mason was arrested in the late 1980s-1990s and found to have nude images of a 15-year-old girl. In 1994, he was charged with sexual exploitation of a minor. He was convicted on weapons charges. Mason is best known as author of 'Siege', influential neo-Nazi manifesto advocating for white supremacist revolution.",
     "sources": [
       "https://bridge.georgetown.edu/research/factsheet-james-mason/",
       "https://www.splcenter.org/fighting-hate/extremist-files/individual/james-mason"
     ],
     "tags": [],
-    "year": null
+    "year": 1994
   },
   {
     "id": 902,
