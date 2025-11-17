@@ -3,6 +3,7 @@ data_cleaned.json
 data_enriched.json
 data_original_backup.json
 high_priority_research.json
+manual_enrichments.json
 
 # Python
 __pycache__/
