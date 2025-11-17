@@ -1181,15 +1181,23 @@
   },
   {
     "id": 82,
-    "name": "",
-    "position": [],
-    "crime": [],
-    "description": "",
+    "name": "Michael Flory",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "rape",
+      "sexual assault"
+    ],
+    "description": "Republican Michael Flory, former head of the Michigan chapter of Young Americans for Freedom, raped a college student in 2019. The incident occurred while he was a prominent conservative activist on college campuses.",
     "sources": [
       "https://www.star-telegram.com/news/local/crime/article277827533.html"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2019
   },
   {
     "id": 1154,
