@@ -249,5 +249,50 @@
     "position": ["party official"],
     "crime": ["child enticement", "indecent exposure", "contributing to delinquency of minor"],
     "tags": ["party official", "republican"]
+  },
+  {
+    "id": 84,
+    "name": "George Roche III",
+    "year": 1999,
+    "description": "George Roche III was president of conservative Hillsdale College in Michigan from 1971 to 1999. In October 1999, Roche resigned after allegations surfaced of a 19-year sexual affair with his daughter-in-law, Lissa Jackson Roche. The scandal erupted when Lissa publicly disclosed the alleged affair. Hours after making the disclosure, Lissa was found dead from a self-inflicted gunshot wound in the college arboretum. Her death was ruled a suicide, though no suicide note was found. Roche's version claims he never confirmed the affair occurred.",
+    "position": ["college president"],
+    "crime": ["sexual misconduct", "alleged affair with family member"],
+    "tags": ["college president", "conservative"]
+  },
+  {
+    "id": 85,
+    "name": "Bishop Daniel Paprocki",
+    "year": 2018,
+    "description": "Bishop Daniel Paprocki of the Diocese of Springfield, Illinois has been accused of protecting pedophile priests and enabling abuse within the Catholic Church. Under Paprocki's leadership, the Springfield Diocese was the last in Illinois to disclose a list of clergy with substantiated child sexual abuse allegations (posted in November 2018). Even when disclosed, the list lacked transparency regarding parish assignments. Illinois Attorney General Kwame Raoul has investigated whether the church properly handled sexual abuse cases. Paprocki has also engaged in partisan political action, ordering priests to deny Democratic politicians communion.",
+    "position": ["religious leader", "church official"],
+    "crime": ["child abuse enablement", "obstruction of justice"],
+    "tags": ["religious leader", "church official"]
+  },
+  {
+    "id": 86,
+    "name": "Dr. W. David Hager",
+    "year": 2002,
+    "description": "Dr. W. David Hager is a prominent obstetrician-gynecologist from Kentucky and anti-abortion advocate appointed by the Bush administration to the Reproductive Health Drugs Advisory Committee of the FDA in 2002. According to his ex-wife Linda Carruth Davis, Hager repeatedly sodomized her while she slept between 1995 and their divorce in 2002. Linda Davis was narcoleptic, and Hager would forcibly assault her during her sleep. She divorced him citing sexual and emotional abuse. In 2003, Hager remarried physician Kathleen Martin, but she filed for divorce from him in 2007, also citing sexual misconduct.",
+    "position": ["government official", "medical professional"],
+    "crime": ["sexual assault", "marital rape", "sodomy"],
+    "tags": ["government official", "medical professional", "bush administration"]
+  },
+  {
+    "id": 87,
+    "name": "Don Haidl",
+    "year": 2002,
+    "description": "Don Haidl was an assistant sheriff in Orange County, California. His son, Gregory Haidl (age 19 at the time), was one of three men charged in the July 2002 sexual assault of a 16-year-old girl. The victim was drugged and assaulted while unconscious on a pool table; she was penetrated with a lighted cigarette and pool cue, and the assault was videotaped. The first trial ended in a mistrial in June 2004 due to jury deadlock. In the retrial, Gregory Haidl and two co-defendants were convicted in March 2005. Gregory received a six-year prison sentence in 2006. Don Haidl used his position as sheriff to smear the victim and defend his son's actions, claiming the victim 'deserved it' because she was a 'slut.'",
+    "position": ["law enforcement"],
+    "crime": ["aiding and abetting sexual assault", "obstruction of justice", "abuse of power"],
+    "tags": ["law enforcement", "california"]
+  },
+  {
+    "id": 88,
+    "name": "Neal Horsley",
+    "year": 1973,
+    "description": "Neal Horsley (1944-2015) was a militant anti-abortion activist and Christian Reconstructionist. In 2005, Horsley admitted during an interview that he engaged in bestiality as an adolescent, stating 'When you grow up on a farm in Georgia, your first girlfriend is a mule.' He also boasted about having sex with men and abusing drugs. Horsley served a 30-month federal prison sentence in 1973 for possession of three gallons of hashish oil. He created and maintained the 'Nuremberg Files' website, which listed the names, addresses, and other details of abortion providers, health care workers, politicians, and judges who supported abortion rights. He also included a list of providers who had been wounded or killed, effectively creating a target list for violence.",
+    "position": ["activist"],
+    "crime": ["bestiality", "drug trafficking", "harassment", "incitement to violence"],
+    "tags": ["activist", "anti-abortion extremist", "extremist"]
   }
 ]
