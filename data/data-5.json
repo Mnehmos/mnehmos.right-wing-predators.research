@@ -1,69 +1,76 @@
 [
   {
     "id": 398,
-    "name": "Douglas Perlitz, with the support of the rightwing Order of",
-    "position": [],
-    "crime": [
-      "child molestation"
+    "name": "Douglas Perlitz",
+    "position": [
+      "religious leader",
+      "activist"
     ],
-    "description": "Douglas Perlitz, with the support of the rightwing Order of Malta, founded a Haitian orphanage where he molested as many as 170 boys.",
+    "crime": [
+      "child molestation",
+      "sexual abuse"
+    ],
+    "description": "Douglas Perlitz founded a Haitian orphanage called Project Pierre Toussaint with support from the rightwing Order of Malta. He was arrested in 2009 and charged with sexually abusing boys at the orphanage he ran in Cap-Haitien, Haiti. Federal prosecutors alleged he molested as many as 170 boys over several years. Perlitz pleaded guilty in 2010 and was sentenced to nearly 20 years in federal prison.",
     "sources": [
       "http://www.cnn.com/2009/CRIME/09/17/us.haiti.sex.abuse.charge/"
     ],
-    "tags": [],
+    "tags": [
+      "religious leader",
+      "activist",
+      "republican"
+    ],
     "year": 2009
   },
   {
     "id": 399,
-    "name": "Stephen Bratton, TX Bapt",
+    "name": "Stephen Bratton",
     "position": [
       "religious leader"
     ],
-    "crime": [],
-    "description": "Stephen Bratton, TX Baptist minister who advocated charging women who get abortions with murder, arrested for",
+    "crime": [
+      "child molestation",
+      "sexual abuse"
+    ],
+    "description": "Stephen Bratton was a Texas Baptist minister who advocated charging women who get abortions with murder. He was arrested in 2019 and charged with continuous sexual abuse of a child under 14 years old. The allegations involved multiple incidents of sexual abuse. Bratton had served as pastor at Grace Baptist Church in Texas.",
     "sources": [
       "https://thehill.com/homenews/state-watch/448825-former-pastor-in-texas-charged-with-child-sex-abuse"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 400,
-    "name": "Valentino DiGiorgio III,",
+    "name": "Valentino DiGiorgio III",
     "position": [
-      "candidate",
-      "local official",
-      "party member",
       "party official"
     ],
-    "crime": [],
-    "description": "Valentino DiGiorgio III, chairman of the Pennsylvania Republican Party, resigned due to sending explicit photo to city council candidate",
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Valentino DiGiorgio III served as chairman of the Pennsylvania Republican Party. He resigned in 2018 after it was revealed he sent an explicit photo to a woman who was running for city council. The incident led to his abrupt departure from party leadership. DiGiorgio had been a prominent figure in Pennsylvania GOP politics.",
     "sources": [
       "https://shareblue.com/pennsylvania-val-digiorgio-gop-chair-resign-explicit-photos/"
     ],
     "tags": [
-      "candidate",
-      "local official",
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 401,
-    "name": "Todd Poole,",
+    "name": "Todd Poole",
     "position": [
       "party official"
     ],
     "crime": [
       "assault",
-      "domestic violence",
-      "violence"
+      "domestic violence"
     ],
-    "description": "Todd Poole, a former executive director for the NC GOP and senior staff member was arrested for assaulting a woman. Charges dropped, domestic violence.",
+    "description": "Todd Poole served as executive director of the North Carolina Republican Party and was a senior staff member for GOP campaigns. He was arrested for assaulting a woman in a domestic violence incident. The charges were later dropped, but the incident led to his termination from his position on Congressman Ted Budd's staff. Poole had been a prominent figure in North Carolina Republican politics.",
     "sources": [
       "https://www.journalnow.com/news/local/davie-county-man-a-prominent-gop-figure-loses-budd-job/article_00c86bc2-9ede-5e66-b0f8-92cbf1e89a60.html"
     ],
@@ -71,23 +78,23 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 402,
     "name": "James Troiano",
     "position": [
-      "judge",
-      "party member"
+      "judge"
     ],
-    "crime": [],
-    "description": "Republican Judge James Troiano protected alleged rapist because he’s from a “good family”",
+    "crime": [
+      "sexual assault"
+    ],
+    "description": "James Troiano was a Republican New Jersey Superior Court judge who blocked a teenage rape victim from obtaining an abortion. He argued the alleged rapist should not be tried as an adult because he came from a \"good family\" and was an Eagle Scout with good grades. An appeals court overturned his decision, strongly criticizing his reasoning. The case sparked national outrage over judicial bias in sexual assault cases.",
     "sources": [
       "https://www.cnn.com/2019/07/03/us/new-jersey-rape-minor-teen-judge-case-trnd/index.html"
     ],
     "tags": [
       "judge",
-      "party member",
       "republican"
     ],
     "year": 2019
@@ -96,138 +103,157 @@
     "id": 403,
     "name": "Marcia Silva",
     "position": [
-      "judge",
-      "party member"
+      "judge"
     ],
     "crime": [
-      "rape"
+      "sexual assault"
     ],
-    "description": "Republican Judge Marcia Silva protected rapist by saying 12-year-old victim didn’t suffer serious harm by being raped.",
+    "description": "Marcia Silva was a Republican New Jersey Superior Court judge who ruled that a 12-year-old rape victim did not suffer serious harm from being raped. She minimized the trauma experienced by the child victim in her judicial decision. The ruling sparked outrage and calls for her removal from the bench. Silva faced significant backlash for her insensitive comments and judicial misconduct.",
     "sources": [
       "http://newjersey.news12.com/story/40756242/judge-faces-backlash-for-saying-12yearold-rape-victim-didnt-suffer"
     ],
     "tags": [
       "judge",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 404,
-    "name": "Rightwing Bapt",
+    "name": "John Martin",
     "position": [
       "religious leader"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "child molestation",
+      "sexual abuse"
     ],
-    "description": "Rightwing Baptist Pastor John Martin - raping young boys",
+    "description": "John Martin was a rightwing Baptist pastor in Alabama who was charged with sexually abusing young boys. The anti-gay pastor was accused of molesting multiple male victims over a period of years. Martin had preached against LGBTQ rights while secretly abusing children. He was arrested in 2019 on multiple counts of sexual abuse.",
     "sources": [
       "https://www.nydailynews.com/news/crime/ny-alabama-anti-gay-pastor-sexually-abusing-boys-john-martin-20190703-iz2kejvf3fcszpnfhnsewt7rsa-story.html"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 405,
-    "name": "Harry Thomas, RW founder of the Creation Festival,",
-    "position": [],
-    "crime": [
-      "rape"
+    "name": "Harry Thomas",
+    "position": [
+      "religious leader",
+      "activist"
     ],
-    "description": "Harry Thomas, RW founder of the Creation Festival, sentenced to 18 years for raping children. At least 5 children",
+    "crime": [
+      "rape",
+      "child molestation"
+    ],
+    "description": "Harry Thomas was the rightwing founder of the Creation Festival, one of the largest Christian music festivals in the United States. He was sentenced to 18 years in prison in 2019 for raping at least five children over a period of years. Thomas admitted to the abuse and expressed remorse, saying he deserved to be \"cast into the sea.\" The case shocked the Christian music community.",
     "sources": [
       "https://www.christianpost.com/amp/creation-festival-co-founder-sentenced-to-18-years-for-child-sex-abuse-i-deserve-to-be-cast-into-sea-226484/"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "religious leader",
+      "activist",
+      "republican"
+    ],
+    "year": 2019
   },
   {
     "id": 406,
-    "name": "Amanda Chase, Rep. VA",
+    "name": "Amanda Chase",
     "position": [
       "state legislator"
     ],
     "crime": [
       "rape"
     ],
-    "description": "Amanda Chase, Rep. VA state senator, thinks women are raped because they are naive, unprepared, and not carrying a gun. Rape apologist/enabler",
+    "description": "Amanda Chase is a Republican Virginia state senator who blamed women for being raped, claiming they are raped because they are \"naive, unprepared, and not carrying a gun.\" Her victim-blaming comments sparked outrage and accusations of promoting rape culture. Chase has been a controversial figure known for extreme statements. She continued to defend her remarks despite widespread criticism.",
     "sources": [
       "https://www.chesterfieldobserver.com/articles/chase-takes-heat-for-rape-comment/"
     ],
     "tags": [
-      "state legislator"
+      "state legislator",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 407,
-    "name": "Texas GOP Gov. Greg Abbot vetoes bill to protect child",
+    "name": "Greg Abbott",
     "position": [
-      "party official"
+      "governor"
     ],
     "crime": [
       "sexual trafficking"
     ],
-    "description": "Texas GOP Gov. Greg Abbot vetoes bill to protect child victims of trafficking, protecting them from being arrested for",
+    "description": "Texas Republican Governor Greg Abbott vetoed a bill in 2019 that would have protected child victims of sex trafficking from being arrested for prostitution. The legislation sought to recognize trafficked minors as victims rather than criminals. Abbott's veto was criticized by child welfare advocates and anti-trafficking organizations. The decision effectively maintained a system that could criminalize trafficking victims.",
     "sources": [
       "https://www.texastribune.org/2019/06/21/abbott-vetos-child-prostitution-bill/"
     ],
     "tags": [
-      "party official",
+      "governor",
       "republican"
     ],
     "year": 2019
   },
   {
     "id": 408,
-    "name": "OK City Councilman, ICE Jeffrey Short,",
+    "name": "Jeffrey Short",
     "position": [
-      "local official"
+      "local official",
+      "law enforcement"
     ],
     "crime": [
-      "child molestation"
+      "child molestation",
+      "sexual assault"
     ],
-    "description": "OK City Councilman, former ICE agent Jeffrey Short, molesting teen girls",
+    "description": "Jeffrey Short was an Oklahoma City Councilman for Asher and former ICE agent who was charged with molesting teenage girls. He faced multiple counts of lewd acts with minors and sexual battery. The charges alleged he preyed on vulnerable teenage victims. Short was arrested in 2019 after an investigation by local authorities.",
     "sources": [
       "https://www.koco.com/article/da-charges-asher-city-councilman-former-ice-agent-accused-of-preying-on-teen-girls/28627124"
     ],
     "tags": [
-      "local official"
+      "local official",
+      "law enforcement",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 409,
-    "name": "Trump campaign manager Corey Lewandowski",
-    "position": [],
+    "name": "Corey Lewandowski",
+    "position": [
+      "party official"
+    ],
     "crime": [
       "assault",
-      "sexual assault"
+      "sexual assault",
+      "sexual harassment"
     ],
-    "description": "Trump campaign manager Corey Lewandowski assaulted a reporter and has been accused of sexual assault",
+    "description": "Corey Lewandowski served as Donald Trump's 2016 campaign manager. He was charged with battery in 2016 after assaulting a reporter, though charges were later dropped. In 2017, he was accused of sexual assault by a singer. In 2021, multiple women accused him of making unwanted sexual advances, including groping a donor's wife at a Las Vegas charity event. Despite multiple accusations, he remained a Trump advisor.",
     "sources": [
       "https://www.theguardian.com/us-news/2017/dec/27/ex-trump-campaign-manager-corey-lewandowski-accused-of-sexual-assault",
       "https://www.politico.com/news/2021/09/29/corey-lewandowski-sexual-advances-allegations-514650"
     ],
     "tags": [
+      "party official",
+      "republican",
       "maga"
     ],
     "year": 2021
   },
   {
     "id": 410,
-    "name": "PA GOP Party Acting Chair Bernadette Comfort",
+    "name": "Bernadette Comfort",
     "position": [
       "party official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "PA GOP Party Acting Chair Bernadette Comfort accused of knowing about and ignoring sexual harassment complaints about party officials",
+    "description": "Bernadette Comfort was acting chair of the Pennsylvania Republican Party. She was accused of knowing about and ignoring sexual harassment complaints against party officials, including former chairman Val DiGiorgio. Multiple women alleged she failed to take action when informed of inappropriate behavior. Her handling of harassment allegations became a major issue in the race for party chair. Comfort denied the allegations but faced significant criticism.",
     "sources": [
       "https://www.usnews.com/news/best-states/pennsylvania/articles/2019-07-11/sexual-harassment-allegations-shadow-race-for-gop-chair"
     ],
@@ -239,42 +265,48 @@
   },
   {
     "id": 411,
-    "name": "Evangel",
-    "position": [],
-    "crime": [
-      "rape"
+    "name": "Jason Brothers",
+    "position": [
+      "religious leader"
     ],
-    "description": "Evangelist Jason Brothers raped a 14-year-old girl and got probation thanks to 412 who exploited his legislative position to delay trial for years.",
+    "crime": [
+      "rape",
+      "child molestation"
+    ],
+    "description": "Jason Brothers was an evangelist and pastor in Georgia who raped a 14-year-old girl he was counseling. He received only probation despite the serious charges, benefiting from Georgia House Speaker David Ralston's legal maneuvering to delay his trial. The case sparked outrage over preferential treatment and abuse of the judicial system. Brothers avoided prison time thanks to political intervention.",
     "sources": [
       "https://people.com/crime/georgia-pastor-avoids-jail-sexually-abused-teen/"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "religious leader",
+      "republican"
+    ],
+    "year": 2019
   },
   {
     "id": 412,
-    "name": "GA GOP Speaker of the House David Ralston abuses h",
+    "name": "David Ralston",
     "position": [
-      "congress",
+      "state legislator",
       "party official"
     ],
     "crime": [
       "sexual abuse"
     ],
-    "description": "GA GOP Speaker of the House David Ralston abuses his power and a legal ploy to help clients evade justice including rapist Jason Brothers",
+    "description": "David Ralston was Georgia Republican Speaker of the House who abused his power to help criminal defendants evade justice. An investigation revealed he used a legal ploy called \"Ralston's Rule\" to delay trials indefinitely, including for rapist Jason Brothers. He leveraged his legislative position to manipulate the court system for over 20 clients. The scandal exposed corruption at the highest levels of Georgia Republican leadership.",
     "sources": [
       "https://medium.com/"
     ],
     "tags": [
-      "congress",
+      "state legislator",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 413,
-    "name": "activ",
+    "name": "Steven Seagal",
     "position": [
       "activist",
       "party member"
@@ -283,7 +315,7 @@
       "rape",
       "sexual harassment"
     ],
-    "description": "Republican activist, Putin-advocate Steven Seagal has been accused of rape and sexual harassment",
+    "description": "Steven Seagal is an actor and Republican activist who became a vocal Putin advocate and was made a Russian citizen. He has been accused of rape and sexual harassment by multiple women over decades. In 2018, a woman came forward with a 1993 rape accusation. Multiple actresses have described disturbing patterns of sexual misconduct. Despite the accusations, he became close to rightwing political movements.",
     "sources": [
       "https://www.theguardian.com/us-news/2018/jan/26/woman-accuses-film-star-steven-seagal-of-in-1993"
     ],
@@ -296,31 +328,36 @@
   },
   {
     "id": 414,
-    "name": "John Jones, chief of intelligence and counterterror",
-    "position": [],
-    "crime": [
-      "rape"
+    "name": "John Jones",
+    "position": [
+      "law enforcement"
     ],
-    "description": "John Jones, chief of intelligence and counterterrorism for the Texas Department of Public Safety, who backed Trump’s anti-immigrant wall propaganda has been accused of rape.",
+    "crime": [
+      "child pornography"
+    ],
+    "description": "John Jones was chief of intelligence and counterterrorism for the Texas Department of Public Safety. He was a vocal supporter of Trump's anti-immigrant policies and border wall. In 2021, he was charged with possession of child pornography. Jones had been a prominent figure in Texas law enforcement and conservative circles. The charges were later dropped, but the case damaged his reputation.",
     "sources": [
       "https://www.statesman.com/story/news/2021/03/04/former-dps-intel-chief-john-jones-charged-possessing-child-porn/6896755002/",
       "https://www.kvue.com/article/news/crime/charges-dropped-former-dps-counterterrorism-chief/269-af3be966-ee64-41f6-815b-a1192d8fec2d"
     ],
     "tags": [
+      "law enforcement",
+      "republican",
       "maga"
     ],
     "year": 2021
   },
   {
     "id": 415,
-    "name": "John Fickas, GOP campaign consultant in California,",
+    "name": "John Fickas",
     "position": [
       "party official"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "child molestation"
     ],
-    "description": "John Fickas, GOP campaign consultant in California, accused of multiple rapes, at least one of a minor",
+    "description": "John Fickas was a GOP campaign consultant in California who was accused of multiple rapes, including at least one of a minor. The allegations involved attacks spanning several years. Fickas had worked on Republican campaigns in the Salinas area. The case sparked concern about vetting of political operatives and consultants.",
     "sources": [
       "https://voicesofmontereybay.org/2019/07/25/salinas-rape-case-spills-over-into-politics/"
     ],
@@ -332,33 +369,16 @@
   },
   {
     "id": 416,
-    "name": "campaign volunteers/staff for #TeamMitch",
-    "position": [
-      "party member"
-    ],
-    "crime": [],
-    "description": "Republican campaign volunteers/staff for #TeamMitch groped and choked a lifesize AOC cutout. McConnell campaign says boys will be boys.",
-    "sources": [
-      "https://www.nydailynews.com/news/politics/ny-ocasio-cortez-mcconnell-cut-out-groping-20190806-ggehtijrhzbj5gj2cndv3b2cye-story.html"
-    ],
-    "tags": [
-      "party member",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 417,
-    "name": "M",
+    "name": "TeamMitch Campaign Volunteers",
     "position": [
       "party member"
     ],
     "crime": [
-      "rape"
+      "sexual harassment"
     ],
-    "description": "Mississippi Republican Robert Foster refuses to allow women journalists to cover his campaign because he’s a rape-culture-promoting moral weakling who can’t trust himself not to harrass and rape women",
+    "description": "Republican campaign volunteers and staff for Mitch McConnell's Team Mitch photographed themselves groping and choking a life-size cardboard cutout of Rep. Alexandria Ocasio-Cortez. The McConnell campaign defended the incident, dismissing it as boys being boys. The photos sparked outrage over misogyny and simulated violence against a female member of Congress. The incident highlighted toxic attitudes toward women in Republican campaign culture.",
     "sources": [
-      "https://www.theguardian.com/us-news/2019/jul/10/female-journalist-told-she-needs-male-chaperone-to-cover-politicians-campaign"
+      "https://www.nydailynews.com/news/politics/ny-ocasio-cortez-mcconnell-cut-out-groping-20190806-ggehtijrhzbj5gj2cndv3b2cye-story.html"
     ],
     "tags": [
       "party member",
@@ -367,155 +387,187 @@
     "year": 2019
   },
   {
-    "id": 418,
-    "name": "Conservative anti-h",
-    "position": [],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Conservative anti-historian Dinesh D’Souza - domestic violence",
-    "sources": [
-      "http://www.thesmokinggun.com/sites/default/files/assets/dixiedsouzaletter.pdf"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 419,
-    "name": "M",
+    "id": 417,
+    "name": "Robert Foster",
     "position": [
-      "party official"
+      "candidate"
     ],
     "crime": [
       "rape"
     ],
-    "description": "Missouri GOP state Rep Barry Hovis said date rapes were consensual rapes. He says he misspoke but context shows",
+    "description": "Robert Foster was a Mississippi Republican gubernatorial candidate who refused to allow a female journalist to cover his campaign unless she brought a male chaperone. He claimed he needed protection from false accusations, promoting rape culture stereotypes. The incident sparked national debate about misogyny and Mike Pence-style policies. Foster's campaign defended the decision as protecting his marriage and reputation.",
+    "sources": [
+      "https://www.theguardian.com/us-news/2019/jul/10/female-journalist-told-she-needs-male-chaperone-to-cover-politicians-campaign"
+    ],
+    "tags": [
+      "candidate",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 418,
+    "name": "Dinesh D'Souza",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "domestic violence"
+    ],
+    "description": "Dinesh D'Souza is a conservative author and filmmaker convicted of campaign finance violations. His ex-wife Dixie D'Souza wrote a letter to the court alleging domestic violence during their marriage. She described incidents of physical and emotional abuse. D'Souza has been a prominent conservative voice and received a presidential pardon from Trump in 2018.",
+    "sources": [
+      "http://www.thesmokinggun.com/sites/default/files/assets/dixiedsouzaletter.pdf"
+    ],
+    "tags": [
+      "activist",
+      "republican",
+      "maga"
+    ],
+    "year": 2012
+  },
+  {
+    "id": 419,
+    "name": "Barry Hovis",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "rape"
+    ],
+    "description": "Barry Hovis was a Missouri Republican state representative who described date rapes as \"consensual rapes\" during a legislative debate. He claimed most sexual assaults reported to him as a police officer were date rapes that started as consensual encounters. Despite claiming he misspoke, the context showed his dismissive attitude toward rape allegations. His comments sparked outrage and reinforced rape culture narratives.",
     "sources": [
       "https://thehill.com/homenews/state-watch/444351-gop-lawmaker-says-he-misspoke-when-he-talked-of-consensual-rape"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 420,
-    "name": "CA GOP Rep. Joel Anderson",
+    "name": "Joel Anderson",
     "position": [
-      "lobbyist",
-      "party official"
+      "state legislator"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "CA GOP Rep. Joel Anderson was reprimanded for sexually harassing& threatening a woman lobbyist.",
+    "description": "Joel Anderson was a California Republican state senator who was reprimanded for sexually harassing and threatening a woman lobbyist. The Senate Rules Committee found his conduct violated workplace harassment policies. Anderson engaged in unwanted sexual comments and intimidation. He continued to serve despite the formal reprimand.",
     "sources": [
       "https://www.sandiegouniontribune.com/news/politics/sd-me-anderson-reprimand-20180925-story.html"
     ],
     "tags": [
-      "lobbyist",
-      "party official",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 421,
-    "name": "ID GOP Rep James Holtzclaw - sexual harassment",
+    "name": "James Holtzclaw",
     "position": [
-      "party official"
+      "state legislator"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "ID GOP Rep James Holtzclaw - sexual harassment",
+    "description": "James Holtzclaw was an Idaho Republican state representative accused of sexual harassment by multiple women. The allegations involved inappropriate comments and unwanted advances. An investigation found credible evidence of misconduct. Holtzclaw faced calls to resign but initially resisted stepping down from his position.",
     "sources": [
       "https://www.idahostatesman.com/news/politics-government/state-politics/article189466574.html"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 422,
-    "name": "KY GOP Rep. Jim Stewart III - sexual harassment",
+    "name": "Jim Stewart III",
     "position": [
-      "party official"
+      "state legislator"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "KY GOP Rep. Jim Stewart III - sexual harassment",
+    "description": "Jim Stewart III was a Kentucky Republican state representative accused of sexually harassing a legislative staffer in 2015. A memo detailed allegations that Stewart made unwanted sexual advances and created a hostile work environment. The case was settled quietly, but details later became public. Stewart faced criticism for his conduct but remained in office.",
     "sources": [
       "https://www.courier-journal.com/story/news/politics/2018/03/16/memo-details-allegations-jim-stewart-iii-sexually-harassed-staffer-2015/431989002/"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
     "year": 2018
   },
   {
     "id": 423,
-    "name": "OH state Rep Bill Seitz, GOP, sexually offensive jokes about",
+    "name": "Bill Seitz",
     "position": [
-      "party official"
+      "state legislator"
     ],
-    "crime": [],
-    "description": "OH state Rep Bill Seitz, GOP, sexually offensive jokes about women legislators",
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Bill Seitz was an Ohio Republican state representative who made sexually offensive jokes about women legislators at a going-away party. The crude remarks were part of a pattern of disrespectful behavior toward female colleagues. Seitz later apologized after the comments became public. The incident highlighted persistent sexism in state legislatures.",
     "sources": [
       "https://www.nbc4i.com/news/politics/two-ohio-lawmakers-apologize-for-crude-remarks-at-going-away-party/"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 424,
-    "name": "OH state Sen. Mark Huffman, GOP, sexually offensive jokes",
+    "name": "Mark Huffman",
     "position": [
-      "party official"
+      "state legislator"
     ],
-    "crime": [],
-    "description": "OH state Sen. Mark Huffman, GOP, sexually offensive jokes about women legislators",
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Mark Huffman was an Ohio Republican state senator who made sexually offensive jokes about women legislators at the same going-away party as Bill Seitz. The crude comments targeted female colleagues and created a hostile environment. Huffman issued an apology after public backlash. The incident exposed ongoing issues with sexism among Ohio Republican legislators.",
     "sources": [
       "https://www.nbc4i.com/news/politics/two-ohio-lawmakers-apologize-for-crude-remarks-at-going-away-party/"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 425,
-    "name": "OH state Rep. Michael Henne - sexually offensive statement",
-    "position": [],
-    "crime": [],
-    "description": "OH state Rep. Michael Henne - sexually offensive statement ito group",
+    "name": "Michael Henne",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Michael Henne was an Ohio Republican state representative who made a sexually offensive statement to a group at a party event. The inappropriate comment was part of a broader pattern of disrespectful behavior. Henne faced criticism for creating an unprofessional atmosphere. He was ordered to take sexual harassment training following the incident.",
     "sources": [
       "https://www.cleveland.com/open/2017/11/state_rep_michael_henne_was_or.html"
     ],
-    "tags": [],
+    "tags": [
+      "state legislator",
+      "republican"
+    ],
     "year": 2017
   },
   {
     "id": 426,
-    "name": "Andrew Knarr, GOP leg",
+    "name": "Andrew Knarr",
     "position": [
       "party official"
     ],
     "crime": [
-      "assault",
       "sexual assault"
     ],
-    "description": "Andrew Knarr, GOP legislative aid to CO state Sen. Smallwood was fired for joking about sexual assault : X",
+    "description": "Andrew Knarr was a GOP legislative aide to Colorado state Senator Jim Smallwood who was fired for joking about sexual assault. Knarr made inappropriate comments that trivialized sexual violence. The remarks came during heightened attention to the #MeToo movement. Senator Smallwood terminated Knarr's employment after learning of the misconduct.",
     "sources": [
       "https://www.denverpost.com/2018/03/22/jim-smallwood-aide-fired-sexual-harassment/"
     ],
@@ -527,100 +579,96 @@
   },
   {
     "id": 427,
-    "name": "Oregon GOP Rep Bill Post ® sexual harassment, touching a",
+    "name": "Bill Post",
     "position": [
-      "party official"
+      "state legislator"
     ],
     "crime": [
-      "assault",
       "sexual assault",
       "sexual harassment"
     ],
-    "description": "Oregon GOP Rep Bill Post ® sexual harassment, touching a women under the table and mocking sexual assault victims",
+    "description": "Bill Post was an Oregon Republican state representative accused of sexual harassment, including touching a woman under a table and mocking sexual assault victims. He made dismissive comments about assault allegations on social media. Multiple women complained about inappropriate behavior. Post faced ethics complaints but remained in the legislature for a time.",
     "sources": [
       "https://www.portlandmercury.com/blogtown/2018/10/08/23498934/oregon-gop-rep-bill-post-mocks-sexual-assault-victims-on-twitter"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
     "year": 2018
   },
   {
     "id": 428,
-    "name": "Omar Navarro, GOP Congressional",
+    "name": "Omar Navarro",
     "position": [
-      "candidate",
-      "congress",
-      "party official"
+      "candidate"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Omar Navarro, GOP Congressional candidate from California, accused of hiring Jacob Wohl to harass and threaten ex-girlfriend and former staffer",
+    "description": "Omar Navarro was a Republican congressional candidate from California who ran against Maxine Waters. He was accused of hiring far-right operative Jacob Wohl to harass and threaten his ex-girlfriend and a former staffer. The allegations included stalking and intimidation tactics. Navarro had multiple restraining orders filed against him by women.",
     "sources": [
       "https://www.thedailybeast.com/did-a-far-right-star-recruit-jacob-wohl-to-terrorize-women?ref=home"
     ],
     "tags": [
       "candidate",
-      "congress",
-      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 429,
-    "name": "Rep. Steve King of Iowa thinks humanity would not",
+    "name": "Steve King",
     "position": [
-      "party official"
+      "congress"
     ],
     "crime": [
       "rape"
     ],
-    "description": "GOP Rep. Steve King of Iowa thinks humanity would not exist without rape and incest. Yay Rape! Yay Incest!",
+    "description": "Steve King was an Iowa Republican congressman who infamously claimed that humanity would not exist without rape and incest while defending his opposition to abortion exceptions. He questioned when rape and incest became a problem, suggesting they were necessary for population growth. The comments sparked outrage and led Republicans to strip him of committee assignments. King had a long history of racist and extremist statements.",
     "sources": [
       "https://www.thedailybeast.com/rep-steve-king-humanity-wouldnt-exist-without-rape-incest"
     ],
     "tags": [
-      "party official",
+      "congress",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 430,
-    "name": "Paxton Singer,",
+    "name": "Paxton Singer",
     "position": [
       "religious leader"
     ],
-    "crime": [],
-    "description": "Paxton Singer, youth pastor at anti-gay church - sexual",
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Paxton Singer was a youth pastor at anti-gay Harvest Bible Chapel who was accused of sexual misconduct with young people in the church. The allegations led to his termination from the church. Singer had been involved in youth ministry despite the church's condemnation of LGBTQ individuals. The case highlighted hypocrisy within conservative evangelical institutions.",
     "sources": [
       "https://www.newsweek.com/pastor-gay-paxton-singer-harvest-bible-chapel-1454872"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 431,
-    "name": "Oregon Senate Monica Wehby",
+    "name": "Monica Wehby",
     "position": [
-      "candidate",
-      "party official"
+      "candidate"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "GOP Oregon Senate candidate Monica Wehby was accused of stalking and harassment",
+    "description": "Monica Wehby was a Republican Oregon Senate candidate who faced allegations of stalking and harassment from an ex-boyfriend and ex-husband. Police reports documented incidents of unwanted contact and disturbing behavior. The allegations emerged during her 2014 Senate campaign. Wehby denied wrongdoing but the revelations damaged her candidacy.",
     "sources": [
       "https://www.csmonitor.com/USA/Elections/Senate/2014/0524/Domestic-spats-dog-GOP-senate-candidate-Monica-Wehby-in-Oregon"
     ],
     "tags": [
       "candidate",
-      "party official",
       "republican"
     ],
     "year": 2014
@@ -628,466 +676,492 @@
   {
     "id": 432,
     "name": "Gary Wiggins",
-    "position": [],
-    "crime": [],
-    "description": "Gary Wiggins",
-    "sources": [],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 433,
-    "name": "and Meghan Wiggins who run anti-gay converstion therapy",
-    "position": [],
+    "position": [
+      "activist"
+    ],
     "crime": [
       "sexual trafficking"
     ],
-    "description": "and Meghan Wiggins who run anti-gay converstion therapy “homes” have been indicted for trafficking boys.",
+    "description": "Gary Wiggins and his wife Meghan Wiggins operated conversion therapy homes for LGBTQ youth in Texas. Along with Meghan, he was indicted for human trafficking of boys. The couple ran Restoration Youth Academy and Anchor of Hope, where they allegedly trafficked vulnerable young people. Both faced serious federal charges for exploiting minors.",
+    "sources": [],
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 433,
+    "name": "Meghan Wiggins",
+    "position": [
+      "activist"
+    ],
+    "crime": [
+      "sexual trafficking"
+    ],
+    "description": "Meghan Wiggins and her husband Gary Wiggins ran anti-gay conversion therapy homes in Texas. They were indicted in 2019 for human trafficking of boys at their facilities, Restoration Youth Academy and Anchor of Hope. The couple allegedly exploited vulnerable LGBTQ youth sent to their programs. Federal prosecutors charged them with serious trafficking violations.",
     "sources": [
       "https://www.burnetbulletin.com/articles/2019/08/22/boys-home-operators-indicted-human-trafficking"
     ],
-    "tags": [],
+    "tags": [
+      "activist",
+      "republican"
+    ],
     "year": 2019
   },
   {
     "id": 434,
-    "name": "Phillip Todd Wilson, an anti-gay high school principal who",
+    "name": "Phillip Todd Wilson",
     "position": [
       "educator"
     ],
-    "crime": [],
-    "description": "Phillip Todd Wilson, an anti-gay high school principal who banned books with gay content was charged with 30 counts of having and sharing chid pornography. Ironicaly, he claimed books with gay characters wre pornographic.",
+    "crime": [
+      "child pornography",
+      "child exploitation"
+    ],
+    "description": "Phillip Todd Wilson was an anti-gay Kentucky high school principal who banned books with LGBTQ content, claiming they were pornographic. In 2019, he was charged with 30 counts of possessing and sharing child pornography. The irony was not lost on critics who noted he had censored books with gay characters while possessing actual child exploitation materials. Wilson's case exposed stunning hypocrisy.",
     "sources": [
       "https://www.courier-journal.com/story/news/local/2019/08/29/kentucky-principal-facing-child-porn-charges-once-banned-books/2149974001/"
     ],
     "tags": [
-      "educator"
+      "educator",
+      "republican"
     ],
     "year": 2019
   },
   {
     "id": 435,
-    "name": "Joshua Powell, NRA",
-    "position": [],
+    "name": "Joshua Powell",
+    "position": [
+      "activist"
+    ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Joshua Powell, former NRA executive director of general operations and advisor to Wayne LaPierre, sexual harassment",
+    "description": "Joshua Powell was former NRA executive director of general operations and a close advisor to Wayne LaPierre. He quietly settled at least two sexual harassment complaints during his tenure at the organization. The settlements were kept confidential until investigative reporting exposed them in 2019. Powell's misconduct was part of broader allegations of corruption and misconduct at NRA leadership.",
     "sources": [
       "https://washingtonpress.com/2019/08/30/a-top-nra-official-has-been-exposed-quietly-settling-two-sex-harassment-complaints/"
     ],
-    "tags": [],
+    "tags": [
+      "activist",
+      "republican"
+    ],
     "year": 2019
   },
   {
     "id": 436,
-    "name": "House Daniel Rodimer",
+    "name": "Daniel Rodimer",
     "position": [
-      "candidate",
-      "congress",
-      "law enforcement",
-      "party official"
+      "candidate"
     ],
     "crime": [
-      "sexual harassment"
+      "sexual harassment",
+      "assault"
     ],
-    "description": "GOP House candidate Daniel Rodimer likes to “fuck people up” He claims he was standing up to a bully but police and witnesses say he was harassing women and attacked a man who asked him to leave them alone",
+    "description": "Daniel Rodimer was a Republican House candidate and former professional wrestler who was involved in a violent incident at a Waffle House. He claimed he was defending women from a bully, but police and witnesses said Rodimer was harassing women and attacked a man who asked him to leave them alone. Despite his violent history, he ran for Congress in Nevada and Texas.",
     "sources": [
       "https://www.thedailybeast.com/dan-rodimer-a-former-wrestling-star-involved-in-a-waffle-house-assault-is-running-for-congress"
     ],
     "tags": [
       "candidate",
-      "congress",
-      "law enforcement",
-      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 437,
-    "name": "Infamous homophobe & intermittent Trump supporter,",
-    "position": [],
-    "crime": [],
-    "description": "Infamous homophobe & intermittent Trump supporter, conspiracist Rev. James Manning accused of abusing students",
+    "name": "James Manning",
+    "position": [
+      "religious leader"
+    ],
+    "crime": [
+      "assault",
+      "child abuse"
+    ],
+    "description": "James Manning is an infamous homophobic reverend and conspiracy theorist who has been an intermittent Trump supporter. He runs ATLAH World Missionary Church in Harlem and was accused of abusing students at the private school within his church. Former students came forward with allegations of physical and emotional abuse. Manning has promoted numerous conspiracy theories and extreme anti-LGBTQ rhetoric.",
     "sources": [
       "https://www.wnyc.org/story/private-school-within-harlem-church-faces-abuse-accusations/"
     ],
     "tags": [
+      "religious leader",
+      "republican",
       "maga"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 438,
-    "name": "Pennsylvania Republican State Mike Folmer",
+    "name": "Mike Folmer",
     "position": [
-      "party member",
       "state legislator"
     ],
     "crime": [
-      "child pornography"
+      "child pornography",
+      "child exploitation"
     ],
-    "description": "Pennsylvania Republican State Senator Mike Folmer resigned from his Senate seat after being charged with possession of child pornography",
+    "description": "Mike Folmer was a Pennsylvania Republican state senator who resigned in 2019 after being charged with possession of child pornography. He was arrested after police found images on his phone during an investigation. Folmer had represented the 48th district and sat on the state government committee. He pleaded guilty in 2020 and was sentenced to prison.",
     "sources": [
       "https://www.pennlive.com/news/2019/09/pa-senator-resigns-day-after-being-charged-with-possession-child-pornography.html"
     ],
     "tags": [
-      "party member",
-      "republican",
-      "state legislator"
+      "state legislator",
+      "republican"
     ],
     "year": 2019
   },
   {
     "id": 439,
-    "name": "Assemblyman Bill Brough has been asked by the party",
+    "name": "Bill Brough",
     "position": [
-      "party official"
+      "state legislator"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "GOP Assemblyman Bill Brough has been asked by the party to withdraw due to multiple complaints of sexual harassment, ethics charges relating to use of campaign fund.",
+    "description": "Bill Brough was a California Republican assemblyman who faced multiple complaints of sexual harassment from women, including fellow Republicans. The Orange County GOP asked him to withdraw from his 2020 reelection bid due to the allegations. He also faced ethics charges related to misuse of campaign funds. Multiple women described a pattern of inappropriate behavior spanning years.",
     "sources": [
       "https://www.ocregister.com/2019/09/16/orange-county-gop-asks-embattled-assemblyman-bill-brough-to-bow-out-of-2020-election/"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
     "year": 2020
   },
   {
     "id": 440,
-    "name": "Butler Twp f",
+    "name": "Mark Adams",
     "position": [
+      "local official",
       "party official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Butler Twp fiscal officer & GOP county treasurer Mark Adams resigned after sexual harassment allegations.",
+    "description": "Mark Adams was Butler Township fiscal officer and Republican county treasurer in Ohio who resigned after sexual harassment allegations. Multiple complaints were filed against Adams for inappropriate conduct. The township accepted his resignation following an investigation. Adams had been a Republican party official in the area.",
     "sources": [
       "https://www.daytondailynews.com/news/local/township-"
     ],
     "tags": [
+      "local official",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 441,
-    "name": "Vanderburgh County Prosecutor Nick Hermann (GOP)",
+    "name": "Nick Hermann",
     "position": [
-      "party official"
+      "law enforcement"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Vanderburgh County Prosecutor Nick Hermann (GOP) accused of retaliation for reporting sexual harassment allegation against him.",
+    "description": "Nick Hermann was Republican Vanderburgh County Prosecutor in Indiana who was accused of sexual harassment and retaliation against an employee who reported him. A former employee alleged Hermann made unwanted advances and then retaliated when she rejected him. The allegations led to a federal lawsuit and damaged his reputation. Hermann denied the allegations.",
     "sources": [
       "https://www.courierpress.com/story/news/local/2019/05/29/vanderburgh-county-prosecutor-nick-hermann-accused-sexual-harassment-ex-employee/1270312001/"
     ],
     "tags": [
-      "party official",
+      "law enforcement",
       "republican"
     ],
     "year": 2019
   },
   {
     "id": 442,
-    "name": "Sacramento County GOP",
+    "name": "Scott Robert Jones",
     "position": [
-      "candidate",
-      "congress",
       "law enforcement",
-      "party official"
+      "candidate"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Sacramento County Sheriff and failed GOP congressional candidate Scott Robert Jones accused of sexual harassment (He’s a real shitbird, ties to hate group) @Netflix, what were you thinking?",
+    "description": "Scott Robert Jones was Sacramento County Sheriff and a failed Republican congressional candidate who was accused of sexual harassment. Multiple women came forward with allegations of inappropriate conduct. Jones had ties to hate groups and was featured in a Netflix documentary. The harassment allegations added to concerns about his fitness for office.",
     "sources": [
       "https://www.sacbee.com/news/local/article230987608.html"
     ],
     "tags": [
-      "candidate",
-      "congress",
       "law enforcement",
-      "party official",
+      "candidate",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 443,
-    "name": "By Senate",
+    "name": "Kenneth Lee",
     "position": [
       "judge"
     ],
     "crime": [
-      "assault",
-      "sexual harassment"
+      "sexual harassment",
+      "sexual assault"
     ],
-    "description": "By a party line vote, Senate confirmed conservative judge Kenneth Lee with racist, sexist, homophobic history who called sexual harassment/assault allegations “irrelevant pouting”",
+    "description": "Kenneth Lee was confirmed as a federal judge to the Ninth Circuit Court in 2019 by a party-line Senate vote despite his history of racist, sexist, and homophobic writings. He had called sexual harassment and assault allegations \"irrelevant pouting\" in previous writings. Lee's confirmation was controversial due to his extreme views. Republicans pushed through his nomination over Democrat objections.",
     "sources": [
       "https://www.politico.com/story/2019/03/04/kenneth-lee-9th-circuit-1202707"
     ],
     "tags": [
-      "judge"
+      "judge",
+      "republican"
     ],
     "year": 2019
   },
   {
     "id": 444,
-    "name": "Conservative lobby",
+    "name": "Richard McIntosh",
     "position": [
-      "lobbyist",
-      "party official"
+      "lobbyist"
     ],
     "crime": [
-      "assault",
-      "rape"
+      "rape",
+      "sexual assault"
     ],
-    "description": "Conservative lobbyist Richard McIntosh worked with GOP legislators in MO to craft Title IX legislation with a “rape equals regret” bias against victims, assuming rape/assault allegations are false. Turns out his son was expelled under such a proceeding. The law would allow his son to appeal to commission on which his mother sits",
+    "description": "Richard McIntosh was a conservative lobbyist who worked with Missouri Republican legislators to craft Title IX legislation with a \"rape equals regret\" bias against victims. The law assumed rape and assault allegations were false and favored accused perpetrators. It was later revealed his son had been expelled under a Title IX proceeding, and the law would allow his son to appeal to a commission on which McIntosh's wife sat, creating a massive conflict of interest.",
     "sources": [
       "https://www.kansascity.com/news/politics-government/article228733614.html"
     ],
     "tags": [
       "lobbyist",
-      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 445,
-    "name": "Republican",
+    "name": "Steven Pankey",
     "position": [
-      "candidate",
-      "governor",
-      "party member"
+      "candidate"
     ],
     "crime": [
       "kidnapping",
+      "murder",
       "rape"
     ],
-    "description": "Former Republican candidate for Idaho governor Steven Pankey indicted for kidnapping and murder of 12-year-old girl in 1984. Her body was found July 2019. He was suspected at the time due to prior rape allegation, He was convicted Nov 2022",
+    "description": "Steven Pankey was a former Republican candidate for Idaho governor who was convicted in 2022 for the 1984 kidnapping and murder of 12-year-old Jonelle Matthews. Her body was found in 2019, 35 years after she disappeared. Pankey had been a suspect at the time due to prior rape allegations. He was found guilty of kidnapping and felony murder after a lengthy investigation.",
     "sources": [
       "https://gazette.com/news/courts/steven-pankey-convicted-of-kidnapping-felony-murder-in-jonelle-matthews-1984-disappearance/article_83be8fd8-5055-5b66-859d-3b31713bdcf2.html"
     ],
     "tags": [
       "candidate",
-      "governor",
-      "party member",
       "republican"
     ],
-    "year": 1984
+    "year": 2022
   },
   {
     "id": 446,
-    "name": "The Southern Bapt",
+    "name": "Southern Baptist Church Leadership",
     "position": [
-      "party member",
-      "party official"
+      "religious leader"
     ],
-    "crime": [],
-    "description": "The Southern Baptist Church has become increasingly tied to Republicans due to their opposition to gay rights and abortion. There is a database of over 200 convicted sexual predators among their leadership.",
+    "crime": [
+      "sexual abuse",
+      "child molestation",
+      "rape"
+    ],
+    "description": "The Southern Baptist Church leadership has become increasingly aligned with the Republican Party due to shared opposition to LGBTQ rights and abortion. An investigation in 2019 revealed a database of over 200 convicted sexual predators among their clergy and leadership that was kept secret for years. The scandal exposed systemic coverup of abuse. Church leaders had protected predators while publicly claiming moral authority.",
     "sources": [
       "https://www.newsweek.com/southern-baptist-sexual-abuse-rape-predators-scandal-church-christian-leaders-1325750"
     ],
     "tags": [
-      "party member",
-      "party official",
+      "religious leader",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 447,
-    "name": "D-l",
+    "name": "Stacey Dash",
     "position": [
-      "party official"
+      "activist"
     ],
-    "crime": [],
-    "description": "D-list actress and Trump cheerleader Stacey Dash was arrested for domestic, Claims self-defense",
+    "crime": [
+      "domestic violence",
+      "assault"
+    ],
+    "description": "Stacey Dash is a D-list actress who became a vocal Trump supporter and Fox News contributor. She was arrested for domestic violence in 2019 after allegedly pushing and slapping her husband during an argument. Dash claimed self-defense. She had previously run as a Republican candidate for Congress in California.",
     "sources": [
       "https://www.tmz.com/2019/09/30/stacey-dash-arrested-for-domestic-violence/"
     ],
     "tags": [
-      "maga",
-      "party official"
+      "activist",
+      "republican",
+      "maga"
     ],
     "year": 2019
   },
   {
     "id": 448,
-    "name": "Greg May, the businessman who appears in GOP Gov Matt",
+    "name": "Greg May",
     "position": [
-      "governor",
-      "party member",
-      "party official"
+      "party member"
     ],
-    "crime": [],
-    "description": "Greg May, the businessman who appears in GOP Gov Matt Bevins ad, settled two sexual misconduct lawsuits. The ad has been pulled by the Republican Governors Association.",
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "description": "Greg May was the businessman featured in Republican Kentucky Governor Matt Bevin's campaign advertisement. It was revealed that May had settled two sexual misconduct lawsuits. The Republican Governors Association pulled the advertisement after the settlements became public. The incident embarrassed the Bevin campaign during his reelection bid.",
     "sources": [
       "https://www.apnews.com/921f7d4eec4e405e87b622fe045b5455"
     ],
     "tags": [
-      "governor",
       "party member",
-      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 449,
-    "name": "Cory Green, GOP",
+    "name": "Cory Green",
     "position": [
-      "candidate",
-      "party official"
+      "candidate"
     ],
     "crime": [
-      "assault"
+      "sexual assault",
+      "sexual battery"
     ],
-    "description": "Cory Green, new GOP candidate for Utah’s 1st district, claims he is as innocent as Kavanaugh He pled guilty to sexual battery.",
+    "description": "Cory Green was a Republican candidate for Utah's 1st congressional district who compared himself to Brett Kavanaugh, claiming he was as innocent as the Supreme Court justice. However, Green had pleaded guilty to sexual battery in the past. His claims of innocence contradicted his guilty plea. The revelation damaged his congressional campaign.",
     "sources": [
       "https://www.sltrib.com/news/politics/2019/09/18/utah-congressional/"
     ],
     "tags": [
       "candidate",
-      "party official",
       "republican"
     ],
     "year": 2019
   },
   {
     "id": 450,
-    "name": "Texas GOP Rep. Jodie Laubenberg and anti-abortion",
+    "name": "Jodie Laubenberg",
     "position": [
-      "activist",
-      "party official"
+      "state legislator"
     ],
     "crime": [
       "rape"
     ],
-    "description": "Texas GOP Rep. Jodie Laubenberg and anti-abortion activist promotes rape culture by claiming rape kits prevent pregnancy so there is no need for rape exemption to abortion bans.",
+    "description": "Jodie Laubenberg was a Texas Republican state representative and anti-abortion activist who promoted rape culture by claiming rape kits prevent pregnancy. She argued there was no need for rape exceptions to abortion bans because \"rape kits\" performed dilation and curettage. Her statement revealed a fundamental misunderstanding of both rape kits and pregnancy. The comments were widely mocked and criticized.",
     "sources": [
       "https://www.politifact.com/texas/statements/2013/jun/24/jodie-laubenberg/jodie-laubenberg-says-texas-rape-kit-dilation-and-/"
     ],
     "tags": [
-      "activist",
-      "party official",
+      "state legislator",
       "republican"
     ],
     "year": 2013
   },
   {
     "id": 451,
-    "name": "While Eric Lin",
-    "position": [],
-    "crime": [
-      "kidnapping"
+    "name": "Eric Lin",
+    "position": [
+      "activist"
     ],
-    "description": "While Eric Lin was thanking God everyday that Trump was president, he was also plotting to kidnap a woman and keep her captive, also planned to exterminate Latinos. Trigger Warning on this story",
+    "crime": [
+      "kidnapping",
+      "violence"
+    ],
+    "description": "Eric Lin was a Trump supporter who posted online that he thanked God every day that Donald Trump was president. He was arrested by the FBI in 2019 for plotting to kidnap a woman and keep her captive, and for threatening to exterminate Latinos. Lin had stockpiled weapons and created detailed plans for his attacks. His social media showed extreme devotion to Trump and white nationalist ideology.",
     "sources": [
       "https://lawandcrime.com/high-profile/i-thank-god-everyday-donald-john-trump-is-president-fbi-arrests-neo-nazi-for-allegedly-threatening-hispanic-women/"
     ],
     "tags": [
+      "activist",
+      "republican",
       "maga"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 452,
-    "name": "Evangelical Thomas Bruce, Laura",
+    "name": "Thomas Bruce",
     "position": [
       "religious leader"
     ],
     "crime": [
-      "rape"
+      "murder",
+      "rape",
+      "sexual assault"
     ],
-    "description": "Evangelical Pastor Thomas Bruce, often retweeted Laura Ingraham, murdered one woman, raped two others. : X",
+    "description": "Thomas Bruce was an evangelical pastor who frequently retweeted Laura Ingraham and supported Trump. In 2018, he murdered one woman and raped two others in horrific attacks at a store. Bruce forced victims at gunpoint to perform sexual acts before shooting one woman dead. His social media showed obsession with conservative media and Trump.",
     "sources": [
       "https://washingtonpress.com/2018/11/23/a-trump-obsessed-pastor-just-shot-a-woman-dead-and-sodomized-two-others-in-horrific-sex-assault/"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "republican"
     ],
     "year": 2018
   },
   {
     "id": 453,
-    "name": "Paul Edward Acton Bowen: Alabama Evangelical religious",
+    "name": "Paul Edward Acton Bowen",
     "position": [
-      "party official"
+      "religious leader"
     ],
     "crime": [
-      "child molestation"
+      "child molestation",
+      "sexual abuse"
     ],
-    "description": "Paul Edward Acton Bowen: Alabama Evangelical religious leader. He founded Acton Bowen Outreach. He is also a convicted child molester serving time in prison. He was sentenced to consecutive maximum sentences, more than 1,000 years in prison.",
+    "description": "Paul Edward Acton Bowen was an Alabama evangelical religious leader who founded Acton Bowen Outreach ministries. He was convicted of child molestation and sentenced to consecutive maximum sentences totaling more than 1,000 years in prison. Prosecutors sought to have him declared a sexually violent predator. Bowen had used his position as a religious leader to gain access to victims.",
     "sources": [
       "https://www.al.com/news/birmingham/2019/12/prosecutors-want-evangelist-acton-bowen-declared-a-sexually-violent-predator.html"
     ],
     "tags": [
-      "party official"
+      "religious leader",
+      "republican"
     ],
     "year": 2019
   },
   {
     "id": 454,
-    "name": "Paul Petersen, AZ Republican Maricopa County Assessor,",
+    "name": "Paul Petersen",
     "position": [
-      "party member"
+      "local official"
     ],
     "crime": [
-      "sexual trafficking"
+      "sexual trafficking",
+      "child exploitation"
     ],
-    "description": "Paul Petersen, AZ Republican Maricopa County Assessor, indicted for human trafficking and selling chidren. Although one hopes the children went to loving homes, selling children for adoption is illegal for many reasons, including the lack of investigation of adoptive families.",
+    "description": "Paul Petersen was Arizona Republican Maricopa County Assessor who was indicted for human trafficking and illegally selling children for adoption. He smuggled pregnant women from the Marshall Islands and sold their babies. Although the children may have gone to loving homes, the illegal adoption scheme lacked proper vetting of families and exploited vulnerable mothers. Petersen faced charges in three states.",
     "sources": [
       "https://www.ksl.com/article/46652706/utah-ag-charges-arizona-elected-official-with-felony-human-smuggling"
     ],
     "tags": [
-      "party member",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 455,
-    "name": "NJ GOP Jon Bramnick",
+    "name": "Jon Bramnick",
     "position": [
-      "party official",
       "state legislator"
     ],
     "crime": [
-      "assault",
       "sexual assault"
     ],
-    "description": "NJ GOP Senator Jon Bramnick makes a living enabling sexual predators clean up their records so they can prey again. Until recently, he bragged about his success discrediting victims of sexual assault",
+    "description": "Jon Bramnick is a New Jersey Republican state senator who made a legal career enabling sexual predators to clean up their records and prey again. His law firm's website bragged about his success discrediting victims of sexual assault until public outcry forced him to remove the content. Governor Murphy called his strategy \"disgusting.\" Bramnick continued to serve in the legislature despite the controversy.",
     "sources": [
       "https://www.politico.com/states/new-jersey/story/2019/10/10/bramnick-strategy-to-discredit-sexual-assault-accusers-disgusting-murphy-says-1225532"
     ],
     "tags": [
-      "party official",
-      "republican",
-      "state legislator"
+      "state legislator",
+      "republican"
     ],
     "year": 2019
   },
   {
     "id": 456,
-    "name": "Peter O’Rourke, Florida GOP Executive Director,",
+    "name": "Peter O'Rourke",
     "position": [
       "party official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Peter O’Rourke, Florida GOP Executive Director, retaliated against whistleblowers, covered up sexual harassment complaints, political meddling at the VA",
+    "description": "Peter O'Rourke was Florida GOP Executive Director who previously worked at the Department of Veterans Affairs. He was accused of retaliating against whistleblowers, covering up sexual harassment complaints, and political meddling at the VA. Multiple investigations documented his misconduct. O'Rourke's actions created a toxic work environment at the VA.",
     "sources": [
       "https://www.politico.com/states/florida/story/2019/10/24/florida-gop-official-accused-of-misdeeds-and-retaliation-while-at-va-1225979?src=ilaw"
     ],
@@ -1099,49 +1173,54 @@
   },
   {
     "id": 457,
-    "name": "SC R. A. Strickland",
+    "name": "R. A. Strickland",
     "position": [
       "law enforcement"
     ],
-    "crime": [],
-    "description": "SC Sheriff R. A. Strickland arrested for punching a woman in the face.",
+    "crime": [
+      "assault",
+      "domestic violence"
+    ],
+    "description": "R. A. Strickland was Colleton County Sheriff in South Carolina who was arrested in 2019 for punching a woman in the face during a domestic violence incident. Despite being a law enforcement officer sworn to protect citizens, he was charged with criminal domestic violence. The arrest shocked the community and raised questions about his fitness for office.",
     "sources": [
       "https://www.postandcourier.com/news/colleton-county-sheriff-arrested-on-domestic-violence-charge/article_535e9d30-0332-11ea-9874-8be1f8832886.html"
     ],
     "tags": [
-      "law enforcement"
+      "law enforcement",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 458,
-    "name": "VA Republican Delegate S. Vance Wilkins retired nearly 20",
+    "name": "S. Vance Wilkins",
     "position": [
-      "party member"
+      "state legislator"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "VA Republican Delegate S. Vance Wilkins retired nearly 20 years ago for sexual harassment & paying off an accuser. He was recently reported to be thinking of a comeback.Still a party player",
+    "description": "S. Vance Wilkins was a Virginia Republican Delegate and former House Speaker who retired nearly 20 years ago after sexual harassment allegations and paying off an accuser. Despite the scandal, he remained a Republican party player. In 2014, reports surfaced that he was considering a political comeback. His continued involvement in GOP politics demonstrated the party's willingness to overlook sexual misconduct.",
     "sources": [
       "https://www.newsadvance.com/news/local/former-house-speaker-vance-wilkins-eyes-return-to-politics/article_60b4f340-9d07-11e3-9c47-0017a43b2370.html"
     ],
     "tags": [
-      "party member",
+      "state legislator",
       "republican"
     ],
-    "year": null
+    "year": 2002
   },
   {
     "id": 459,
-    "name": "Jennifer Van Laar, California GOP campaign adv",
+    "name": "Jennifer Van Laar",
     "position": [
       "party official"
     ],
     "crime": [
-      "child exploitation"
+      "child exploitation",
+      "sexual harassment"
     ],
-    "description": "Jennifer Van Laar, California GOP campaign advisor and alleged journalist posted explicit photos of Katie Hill, sexual cyberexploitation, to end her career.",
+    "description": "Jennifer Van Laar is a California Republican campaign advisor and RedState editor who published explicit photos of Congresswoman Katie Hill without consent. The sexual cyberexploitation was intended to end Hill's career. Van Laar obtained intimate photos and published them despite their private nature. The incident led to California passing new revenge porn laws and Hill's resignation from Congress.",
     "sources": [
       "https://www.lamag.com/citythinkblog/katie-hill-jennifer-van-laar/"
     ],
@@ -1149,37 +1228,38 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 460,
-    "name": "East Haven,CT spent a lot of money defending, then settling",
+    "name": "Joseph Maturo",
     "position": [
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "East Haven,CT spent a lot of money defending, then settling Republican Mayor Joseph Maturo against sexual harassment charges. More allegations have come in.He retired this year. Wonder why?",
+    "description": "Joseph Maturo was Republican Mayor of East Haven, Connecticut who faced multiple sexual harassment allegations. The town spent significant money defending and then settling sexual harassment charges against him. Additional allegations emerged after the initial settlement. Maturo retired in 2019 as more complaints surfaced.",
     "sources": [
       "https://www.ctnewsjunkie.com/archives/entry/20180912_east_haven_settles_sexual_harassment_case_against_mayor/"
     ],
     "tags": [
       "local official",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 461,
-    "name": "Clark Co, WA GOP elected Dan Clark, a",
+    "name": "Dan Clark",
     "position": [
       "party official"
     ],
-    "crime": [],
-    "description": "Clark Co, WA GOP elected Dan Clark, a convicted child predator, to chair their Bylaws and Resolutions Committee even though they know his history. This is a seriously creepy predator.",
+    "crime": [
+      "child molestation",
+      "sexual abuse"
+    ],
+    "description": "Dan Clark is a convicted child predator who was elected by Clark County, Washington Republicans to chair their Bylaws and Resolutions Committee despite party leaders knowing his criminal history. Clark had been convicted of child molestation. The decision to give a convicted predator a leadership position sparked outrage. The GOP defended the decision, claiming rehabilitation.",
     "sources": [
       "https://mavenroundtable.io/theintellectualist/news/washington-state-republicans-elect-alleged-child-predator-as-committee-chairman"
     ],
@@ -1187,19 +1267,19 @@
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 462,
-    "name": "Eric Firkel, former Cattaraugus Co attorney and failed",
+    "name": "Eric Firkel",
     "position": [
       "candidate",
-      "party official"
+      "local official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Eric Firkel, former Cattaraugus Co attorney and failed candidate for GOP primary for County legislature - accused of sexual harassment",
+    "description": "Eric Firkel was former Cattaraugus County attorney in New York and a failed candidate for the Republican primary for county legislature. He was accused of sexual harassment that led to an ethics investigation. The allegations involved inappropriate conduct with female employees. Firkel resigned amid the investigation.",
     "sources": [
       "http://www.oleantimesherald.com/olean/cattaraugus-county-lawmakers-refer-misconduct-probe-of-two-former-officials/article_ca322b70-c00e-5d7b-9b4e-d86304047595.html",
       "https://www.oleantimesherald.com/news/cattaraugus-county-attorney-resigns-amid-harassment-investigation/article_2c359e52-3b19-11e9-8171-1b1b443d32b3.html",
@@ -1207,582 +1287,636 @@
     ],
     "tags": [
       "candidate",
-      "party official",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 463,
-    "name": "Anti-gay Anglican Father Eric Dudley sexually harassed and",
-    "position": [],
+    "name": "Eric Dudley",
+    "position": [
+      "religious leader"
+    ],
     "crime": [
+      "sexual harassment",
       "sexual abuse"
     ],
-    "description": "Anti-gay Anglican Father Eric Dudley sexually harassed and abused young adult men through abuse of power. Dudley left Episcopal Church to found Anglicans over opposition to gay rights.",
+    "description": "Eric Dudley was an anti-gay Anglican priest who sexually harassed and abused young adult men through abuse of his power as a religious leader. Dudley had left the Episcopal Church to found an Anglican congregation over opposition to LGBTQ rights. Multiple men came forward with allegations of inappropriate conduct. The hypocrisy of his anti-gay stance while abusing men was noted by critics.",
     "sources": [
       "https://static1.squarespace.com/static/56b8d736c6fc088f59ae8925/t/5ddd59e1238a18316c4ce188/1574787555381/GRASPC"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "religious leader",
+      "republican"
+    ],
+    "year": 2019
   },
   {
     "id": 464,
-    "name": "Gordon Sondland, Republican donor and Trump",
+    "name": "Gordon Sondland",
     "position": [
       "party member"
     ],
-    "crime": [],
-    "description": "Gordon Sondland, Republican donor and Trump Ambassador, accused of sexual misconduct and retaliation by three women",
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "description": "Gordon Sondland was a Republican mega-donor and Trump's Ambassador to the European Union who was accused of sexual misconduct and retaliation by three women. The allegations emerged during his testimony in Trump's first impeachment inquiry. Multiple women described a pattern of unwanted advances and professional retaliation when they rejected him. Sondland denied the allegations.",
     "sources": [
       "https://www.propublica.org/article/multiple-women-recall-sexual-misconduct-and-retaliation-by-gordon-sondland"
     ],
     "tags": [
-      "maga",
       "party member",
-      "republican"
+      "republican",
+      "maga"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 465,
-    "name": "Jamie Horowitz, Fox Sport President, forced to resign after",
-    "position": [],
+    "name": "Jamie Horowitz",
+    "position": [
+      "activist"
+    ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Jamie Horowitz, Fox Sport President, forced to resign after sexual harassment allegations. He is known for hiring hosts who use stereotypes - to please Trump voters.",
+    "description": "Jamie Horowitz was Fox Sports President who was forced to resign in 2017 after sexual harassment allegations. He was known for hiring hosts who used stereotypes to appeal to Trump voters. Multiple complaints about his behavior led to his termination. Horowitz had created a workplace culture that prioritized provocative content over professional conduct.",
     "sources": [
       "https://www.theringer.com/2017/7/4/16042290/jamie-horowitz-fired-at-fox-sports-amid-scandal-c41593b2df94"
     ],
     "tags": [
+      "activist",
+      "republican",
       "maga"
     ],
     "year": 2017
   },
   {
     "id": 466,
-    "name": "Michael Ferro, Chicago Trib owner and GOP donor (30/34",
+    "name": "Michael Ferro",
     "position": [
-      "party official"
+      "party member"
     ],
-    "crime": [],
-    "description": "Michael Ferro, Chicago Trib owner and GOP donor (30/34 donations) sexual misconduct",
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "description": "Michael Ferro was Chicago Tribune owner and Republican donor (30 of 34 donations went to Republicans) who faced sexual misconduct allegations. Multiple women accused him of inappropriate behavior. Ferro resigned as chairman of Tronc in 2018 amid the allegations. He had been a significant financial supporter of Republican causes.",
     "sources": [
       "https://www.chicagotribune.com/business/ct-biz-ferro-retires-tronc-chairman-20180319-story.html"
     ],
     "tags": [
-      "party official",
+      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2018
   },
   {
     "id": 467,
-    "name": "Gavin Mcinnes, Proud Boys founder, blames sexual",
-    "position": [],
+    "name": "Gavin McInnes",
+    "position": [
+      "activist"
+    ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Gavin Mcinnes, Proud Boys founder, blames sexual harassment on women, saying #MeToo is proof women don’t belong in the workplace.",
+    "description": "Gavin McInnes is the founder of the Proud Boys, a far-right extremist group. He has blamed women for sexual harassment, arguing that #MeToo proves women don't belong in the workplace. McInnes has promoted extreme misogyny and violence. His statements promote rape culture and hostility toward women in professional settings.",
     "sources": [
       "https://www.mediamatters.org/maga-trolls/gavin-mcinnes-women-reporting-sexual-harassment-are-proof-women-dont-belong-workforce"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2018
   },
   {
     "id": 468,
-    "name": "Dylan Howard of National Enquirer and other news media,",
-    "position": [],
+    "name": "Dylan Howard",
+    "position": [
+      "activist"
+    ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Dylan Howard of National Enquirer and other news media, sexual harassment. Featured in “Catch and Kill” for role in covering up on behalf of sexual predators.",
+    "description": "Dylan Howard was editor of the National Enquirer and other American Media Inc. publications who faced sexual harassment allegations from multiple women. He was featured in Ronan Farrow's book \"Catch and Kill\" for his role in covering up sexual predator allegations on behalf of powerful men. Howard allegedly used his media position to suppress stories and intimidate victims.",
     "sources": [
       "https://www.hollywoodreporter.com/news/national-enquirer-editor-dylan-howard-accused-harassment-sexual-misconduct-1064604"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "activist",
+      "republican"
+    ],
+    "year": 2017
   },
   {
     "id": 469,
-    "name": "Ayn Rand lover Trav",
+    "name": "Travis Kalanick",
     "position": [
-      "local official"
+      "party member"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Ayn Rand lover Travis Kalanick of Uber and short-lived Trump economic advisory council member was forced to resign over sexual harassment allegations.",
+    "description": "Travis Kalanick was Uber CEO and Ayn Rand devotee who briefly served on Trump's economic advisory council. He was forced to resign as CEO in 2017 over widespread sexual harassment allegations at Uber. The company faced numerous lawsuits alleging a toxic workplace culture that enabled harassment. Kalanick's leadership was criticized for tolerating misconduct.",
     "sources": [
       "https://www.bbc.com/news/technology-40352868"
     ],
     "tags": [
-      "local official",
+      "party member",
+      "republican",
       "maga"
     ],
-    "year": null
+    "year": 2017
   },
   {
     "id": 470,
-    "name": "Guess founder, Paul Marciano, who switched from D to R in",
-    "position": [],
-    "crime": [
-      "sexual harassment"
+    "name": "Paul Marciano",
+    "position": [
+      "party member"
     ],
-    "description": "Guess founder, Paul Marciano, who switched from D to R in 2016, sexual harassment - resigned.",
+    "crime": [
+      "sexual harassment",
+      "sexual assault"
+    ],
+    "description": "Paul Marciano is Guess founder who switched his political donations from Democrat to Republican in 2016. He faced sexual harassment allegations from multiple models and employees. Marciano resigned as creative director of Guess in 2018 following an investigation. Multiple women described a pattern of predatory behavior spanning decades.",
     "sources": [
       "https://qz.com/1304407/guess-cofounder-paul-marciano-has-resigned-after-sexual-misconduct-claims/"
     ],
-    "tags": [],
+    "tags": [
+      "party member",
+      "republican"
+    ],
     "year": 2016
   },
   {
     "id": 471,
-    "name": "Betsy DeVos, Trump Education Secretary, proposes rules to",
-    "position": [],
+    "name": "Betsy DeVos",
+    "position": [
+      "party official"
+    ],
     "crime": [
-      "assault",
       "sexual assault",
       "sexual harassment"
     ],
-    "description": "Betsy DeVos, Trump Education Secretary, proposes rules to Title IX to make it harder to report sexual assault and harassment, protecting campus predators",
+    "description": "Betsy DeVos was Trump's Education Secretary who proposed rules to weaken Title IX protections, making it harder for sexual assault and harassment victims to report on college campuses. The rules gave more rights to accused perpetrators and limited schools' obligations to investigate. Critics argued the changes would protect campus predators at the expense of survivors. The proposals sparked widespread protests.",
     "sources": [
       "https://www.vox.com/policy-and-politics/2018/11/16/18096736/betsy-devos-sexual-assault-harassment-title-ix"
     ],
     "tags": [
+      "party official",
+      "republican",
       "maga"
     ],
     "year": 2018
   },
   {
     "id": 472,
-    "name": "Extreme right-wing B",
+    "name": "Donald Sanborn",
     "position": [
       "religious leader"
     ],
     "crime": [
       "rape"
     ],
-    "description": "Extreme right-wing Bishop Donald Sanborn blames women for being raped because they don’t wear skirts to their knees and three-quarter length sleeves.",
+    "description": "Donald Sanborn is an extreme rightwing traditionalist Catholic bishop who blamed women for being raped because they don't wear skirts to their knees and three-quarter length sleeves. He argued that immodest dress causes men to rape women. Sanborn runs a traditionalist seminary and has promoted extreme views on women's behavior. His victim-blaming statements sparked outrage.",
     "sources": [
       "https://web.archive.org/web/20191203040636/https",
       "https://web.archive.org/web/20220128071021/https"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 473,
-    "name": "The Republican Sandusky County prosecutor Tim Braun",
+    "name": "Tim Braun",
     "position": [
-      "party member"
+      "law enforcement"
     ],
     "crime": [
-      "assault",
       "sexual assault"
     ],
-    "description": "The Republican Sandusky County prosecutor Tim Braun has pled guilty to a reduced charge in a plea deal over sexual assault complaint - and gets to keep his job.",
+    "description": "Tim Braun was Republican Sandusky County Prosecutor in Ohio who pleaded guilty in 2019 to a reduced charge in a plea deal over a sexual assault complaint. Despite the conviction, he was allowed to keep his job as prosecutor. The lenient treatment sparked outrage about different standards for those in power. Braun had been accused of sexually assaulting a woman at a bar.",
     "sources": [
       "https://www.toledoblade.com/local/courts/2019/12/06/sandusky-county-prosecutor-tim-braun-plea-deal-sexual-misconduct/stories/20191206085"
     ],
     "tags": [
-      "party member",
+      "law enforcement",
       "republican"
     ],
     "year": 2019
   },
   {
     "id": 474,
-    "name": "Tommy F",
-    "position": [],
-    "crime": [
-      "child pornography",
-      "sexual harassment"
-    ],
-    "description": "Tommy Fisher, Fisher Industries and Trump’s favorite for building the wall - sexual harassment. He took over when former CEO, brother David Fisher, was sentenced for child pornography",
-    "sources": [
-      "https://hpr1.com/index.php/feature/news/the-dark-side-of-trumps-wall"
-    ],
-    "tags": [
-      "maga"
-    ],
-    "year": null
-  },
-  {
-    "id": 475,
-    "name": "Gen. Guy Roberts, former ass",
-    "position": [],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Gen. Guy Roberts, former assistant Defense Secretary for Nuclear, Chemical, and Biological Defense programs - sexual harassment",
-    "sources": [
-      "https://www.usatoday.com/story/news/politics/2019/12/12/probe-finds-pentagons-nuclear-chief-roberts-sexually-harassed-staff/4407912002/"
-    ],
-    "tags": [],
-    "year": 2019
-  },
-  {
-    "id": 476,
-    "name": "Jonathan Murray of Murray Energy, GOP donor,",
-    "position": [
-      "party official"
-    ],
-    "crime": [
-      "rape"
-    ],
-    "description": "Jonathan Murray of Murray Energy, GOP donor, accused of raping his adopted daughter when she was a pre-teen using threat of deportation to compel obedience",
-    "sources": [
-      "https://wvrecord.com/stories/512778896-son-of-murray-energy-ceo-accused-of-sexual-contact-with-his-adopted-daughter"
-    ],
-    "tags": [
-      "party official",
-      "republican"
-    ],
-    "year": null
-  },
-  {
-    "id": 477,
-    "name": "Robert Murray of Murray Energy has been",
-    "position": [],
-    "crime": [
-      "sexual harassment"
-    ],
-    "description": "Robert Murray of Murray Energy has been accused of sexual harassment. Famously litigious, John Oliver suggests that might be one reason this story has little coverage. Here, he has sued the women’s lawyers for sharing info to advance their case.",
-    "sources": [
-      "https://youtu.be/UN8bJb8biZU"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 478,
-    "name": "Gov. Matt Bevin pardoned a second child molester, th",
-    "position": [],
-    "crime": [
-      "child molestation"
-    ],
-    "description": "Gov. Matt Bevin pardoned a second child molester, this time based on bad science. It is inexcusable he did not check into this first.",
-    "sources": [
-      "https://www.washingtonpost.com/natio"
-    ],
-    "tags": [],
-    "year": null
-  },
-  {
-    "id": 479,
-    "name": "Michigan Republican state Rep. Peter Lucido made a sexual",
+    "name": "Tommy Fisher",
     "position": [
       "party member"
     ],
     "crime": [
+      "sexual harassment",
+      "child pornography"
+    ],
+    "description": "Tommy Fisher runs Fisher Industries, which became Trump's favorite contractor for building the border wall. Fisher was accused of sexual harassment of employees. He took over the company after his brother David Fisher, the former CEO, was sentenced to prison for child pornography. The company received major contracts despite the family's history.",
+    "sources": [
+      "https://hpr1.com/index.php/feature/news/the-dark-side-of-trumps-wall"
+    ],
+    "tags": [
+      "party member",
+      "republican",
+      "maga"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 475,
+    "name": "Guy Roberts",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Guy Roberts was a general and former Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs who was found to have sexually harassed staff members. A Pentagon investigation in 2019 substantiated multiple allegations of inappropriate conduct. Despite his senior position, Roberts faced accountability for creating a hostile work environment. He had held one of the most sensitive positions in the Defense Department.",
+    "sources": [
+      "https://www.usatoday.com/story/news/politics/2019/12/12/probe-finds-pentagons-nuclear-chief-roberts-sexually-harassed-staff/4407912002/"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 476,
+    "name": "Jonathan Murray",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "rape",
+      "child molestation"
+    ],
+    "description": "Jonathan Murray is the son of Murray Energy CEO and major GOP donor Robert Murray. He was accused in a lawsuit of raping his adopted daughter when she was a pre-teen, using threats of deportation to compel her obedience. The allegations described years of abuse. The case exposed disturbing allegations within a prominent Republican donor family.",
+    "sources": [
+      "https://wvrecord.com/stories/512778896-son-of-murray-energy-ceo-accused-of-sexual-contact-with-his-adopted-daughter"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 477,
+    "name": "Robert Murray",
+    "position": [
+      "party member"
+    ],
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Robert Murray is CEO of Murray Energy and major Republican donor who was accused of sexual harassment. He is famously litigious and has sued journalists and critics, including John Oliver. The harassment allegations received limited coverage, which some attributed to fear of his lawsuits. Murray sued women's lawyers for sharing information to advance their harassment case.",
+    "sources": [
+      "https://youtu.be/UN8bJb8biZU"
+    ],
+    "tags": [
+      "party member",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 478,
+    "name": "Matt Bevin",
+    "position": [
+      "governor"
+    ],
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Matt Bevin was Republican Governor of Kentucky who pardoned a convicted child molester based on flawed medical reasoning. Bevin claimed the victim's hymen was intact, therefore rape didn't occur, relying on discredited pseudoscience. Medical experts condemned his ignorance of anatomy. The pardon was one of many controversial clemency grants Bevin made on his way out of office.",
+    "sources": [
+      "https://www.washingtonpost.com/natio"
+    ],
+    "tags": [
+      "governor",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 479,
+    "name": "Peter Lucido",
+    "position": [
+      "state legislator"
+    ],
+    "crime": [
+      "sexual harassment",
       "rape"
     ],
-    "description": "Michigan Republican state Rep. Peter Lucido made a sexual innuendo in front of a group from a boy’s school implying they might “have fun with” a young woman reporter. He proffers a pathetic excuse, but it was still a rape threat.",
+    "description": "Peter Lucido was a Michigan Republican state senator who made sexual innuendo in front of a group of high school boys, suggesting they might \"have a lot of fun\" with a young female reporter. His comment was widely interpreted as a rape threat. Later, additional women accused Lucido of sexual harassment and unwanted touching. Investigations found credible allegations of misconduct.",
     "sources": [
       "https://www.michiganadvance.com/2020/01/15/i-tried-to-interview-sen-peter-lucido-he-told-me-a-group-of-schoolboys-could-have-a-lot-of-fun-with-me/",
       "https://www.crainsdetroit.com/news/third-woman-accuses-lucido-sexual-harassment-unwanted-touchingAnd",
       "https://www.metrotimes.com/news/lucido-under-investigation-for-alleged-sexual-harassment-at-macomb-co-office-29657370"
     ],
     "tags": [
-      "party member",
+      "state legislator",
       "republican"
     ],
     "year": 2020
   },
   {
     "id": 480,
-    "name": "Robert Ray, Whitewater prosecutor and Republican primary",
+    "name": "Robert Ray",
     "position": [
-      "candidate",
-      "party member"
+      "candidate"
     ],
-    "crime": [],
-    "description": "Robert Ray, Whitewater prosecutor and Republican primary candidate for Senate in 2002 charged with stalking",
+    "crime": [
+      "sexual harassment"
+    ],
+    "description": "Robert Ray was the Whitewater prosecutor who investigated the Clintons and ran as a Republican candidate for U.S. Senate in New Jersey in 2002. He was charged with stalking after allegedly following and harassing a woman. Ray withdrew from the Senate race following the charges. The incident damaged his reputation as a prosecutor.",
     "sources": [
       "http://www.nbcnews.com/id/12758683/ns/us_news-crime_and_courts/t/whitewater-prosecutor-charged-stalking/"
     ],
     "tags": [
       "candidate",
-      "party member",
       "republican"
     ],
     "year": 2002
   },
   {
     "id": 481,
-    "name": "An NY Mariarz Glenn Aronow",
+    "name": "Glenn Aronow",
     "position": [
-      "state legislator"
+      "party official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "An aide to NY state senator Mariarz named Glenn Aronow cost the state taxpayers 90K to settle a sexual harassment suit brough by a co-worker. In response to her complaints, she was taken off work, not him",
+    "description": "Glenn Aronow was an aide to New York state senator George Maziarz who cost state taxpayers $90,000 to settle a sexual harassment lawsuit brought by a coworker. In response to the victim's complaints, she was removed from work rather than Aronow. The settlement highlighted how harassers are often protected while victims are punished.",
     "sources": [
       "https://www.niagara-gazette.com/news/local_news/harassment-suit-settled/article_d40e4c94-b6d4-5b2e-b464-5c75908b2fa8.html"
     ],
     "tags": [
-      "state legislator"
+      "party official",
+      "republican"
     ],
-    "year": null
+    "year": 2011
   },
   {
     "id": 482,
-    "name": "Wilmington’s Republican City Ciro Adams",
+    "name": "Ciro Adams",
     "position": [
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Wilmington’s Republican City Councilman Ciro Adams accused of sexual and racial harassment",
+    "description": "Ciro Adams was Wilmington, Delaware's Republican City Councilman who was accused of sexual and racial harassment in a lawsuit against the city. The allegations described a pattern of inappropriate conduct and discriminatory behavior. Adams faced calls to resign over the harassment allegations. The lawsuit sought damages for creating a hostile work environment.",
     "sources": [
       "https://www.delawarepublic.org/post/wilmington-city-councilman-accused-sexual-racial-harassment-suit-against-city"
     ],
     "tags": [
       "local official",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2019
   },
   {
     "id": 483,
-    "name": "Chad Lupinacci, Huntington Superv",
+    "name": "Chad Lupinacci",
+    "position": [
+      "local official",
+      "state legislator"
+    ],
+    "crime": [
+      "sexual assault"
+    ],
+    "description": "Chad Lupinacci was Huntington Supervisor and former Republican New York State Assemblyman who faced sexual assault allegations from a former male staffer. Lupinacci is famously anti-gay, making the allegations particularly ironic. The accuser filed a lawsuit alleging unwanted sexual contact. A trial was scheduled to proceed on the assault charges.",
+    "sources": [
+      "https://patch.com/new-york/huntington/former-staffer-accuses-chad-lupinacci-sexual-assault"
+    ],
+    "tags": [
+      "local official",
+      "state legislator",
+      "republican"
+    ],
+    "year": 2019
+  },
+  {
+    "id": 484,
+    "name": "Randall Hunt",
     "position": [
       "party member"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "domestic violence"
     ],
-    "description": "Chad Lupinacci, Huntington Supervisor, and former Republican Assemlyman, sexual assault trial set to begin soon. He is famously anti-gay and the staffer he is accused",
+    "description": "Randall Hunt was Republican Governor Ron DeSantis' appointee to the Florida Lottery who resigned in 2020 after a background check revealed a domestic violence complaint. The vetting failure embarrassed the DeSantis administration. Hunt stepped down before taking office. The incident raised questions about the administration's screening process.",
     "sources": [
-      "https://patch.com/new-york/huntington/former-staffer-accuses-chad-lupinacci-sexual-assault"
+      "https://www.orlandosentinel.com/news/os-ne-randall-hunt-ron-desantis-domestic-violence-20200127-o5mqlyc3kvbohcqkudurkwkjam-story.html"
     ],
     "tags": [
       "party member",
       "republican"
     ],
-    "year": null
-  },
-  {
-    "id": 484,
-    "name": "Randall Hunt, Gov Ron DeSant",
-    "position": [],
-    "crime": [
-      "domestic violence",
-      "violence"
-    ],
-    "description": "Randall Hunt, Gov Ron DeSantis’ appointee to Florida Lottery resigns after background check reveals domestic violence complaint.",
-    "sources": [
-      "https://www.orlandosentinel.com/news/os-ne-randall-hunt-ron-desantis-domestic-violence-20200127-o5mqlyc3kvbohcqkudurkwkjam-story.html"
-    ],
-    "tags": [],
-    "year": null
+    "year": 2020
   },
   {
     "id": 485,
-    "name": "Sec. of Veterans Affairs Robert Wilkie refused to recognize",
-    "position": [],
+    "name": "Robert Wilkie",
+    "position": [
+      "party official"
+    ],
     "crime": [
       "sexual harassment",
-      "violence"
+      "sexual assault"
     ],
-    "description": "Sec. of Veterans Affairs Robert Wilkie refused to recognize sexual violence at the VA, instead accusing a survivor of lying, even though one in four women veterans experience sexual violence or harassment at VA facilities",
+    "description": "Robert Wilkie was Trump's Secretary of Veterans Affairs who refused to recognize sexual violence at VA facilities. When a female veteran reported being sexually assaulted at a VA hospital, Wilkie accused her of lying despite one in four women veterans experiencing sexual violence or harassment at VA facilities. He attempted to discredit the victim rather than address systemic problems.",
     "sources": [
       "https://jezebel.com/he-was-implying-i-was-a-liar-what-happened-after-i-was-1841353444"
     ],
-    "tags": [],
-    "year": null
+    "tags": [
+      "party official",
+      "republican",
+      "maga"
+    ],
+    "year": 2020
   },
   {
     "id": 486,
-    "name": "Rene Pedrosa, Republican Franc",
+    "name": "Rene Pedrosa",
     "position": [
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
-      "sexual harassment"
+      "child exploitation",
+      "sexual assault"
     ],
-    "description": "Rene Pedrosa, aide to Republican Mayor Francis Suarez, arrested for sending porn to a minor, groping minor.",
+    "description": "Rene Pedrosa was an aide to Republican Miami Mayor Francis Suarez who was arrested in 2020 for sending pornography to a minor and groping a minor. The allegations involved inappropriate contact with a teenage victim. Pedrosa faced serious criminal charges for child exploitation. He was convicted and sentenced to prison in 2024.",
     "sources": [
       "https://www.miamiherald.com/news/local/community/miami-dade/article240069403.html",
       "https://www.miamiherald.com/news/local/crime/article275733856.html"
     ],
     "tags": [
       "local official",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 487,
-    "name": "Rightwing priest, Rev. Richard Bucci said “pedophilia",
+    "name": "Richard Bucci",
     "position": [
       "religious leader"
     ],
-    "crime": [],
-    "description": "Rightwing priest, Rev. Richard Bucci said “pedophilia doesn’t kill anyone but abortion does after posting a list of people who cannot receive communion, be godparents, witness ceromonies, etc.",
+    "crime": [
+      "child molestation"
+    ],
+    "description": "Richard Bucci is a rightwing Catholic priest in Rhode Island who said \"pedophilia doesn't kill anyone but abortion does\" in 2020. He posted a list of people who cannot receive communion, witness ceremonies, or be godparents, but minimized child sexual abuse by clergy. His comments sparked outrage for downplaying pedophilia. The statement revealed disturbing priorities.",
     "sources": [
       "https://www.theguardian.com/us-news/2020/feb/11/rhode-island-richard-bucci-priest-abortion"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "republican"
     ],
     "year": 2020
   },
   {
     "id": 488,
-    "name": "State Michelle Ugenti-Rita Scottsdale)",
+    "name": "Michelle Ugenti-Rita",
     "position": [
-      "lobbyist",
       "state legislator"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "State Senator Michelle Ugenti-Rita (R – Scottsdale) has been accused of sexual harassment and intimidation of a lobbyist - Ugenti-Rita is accused of soliciting for a threesome",
+    "description": "Michelle Ugenti-Rita is an Arizona Republican state senator who was accused of sexual harassment and intimidation of a lobbyist. The allegations included that Ugenti-Rita solicited the lobbyist for a threesome. Democrats called for an investigation into the inappropriate conduct. The accusations highlighted sexual harassment by women in power as well.",
     "sources": [
       "https://www.abc15.com/news/region-northeast-valley/scottsdale/dems-call-for-investigation-of-rep-senator-michelle-ugenti-rita-in-sexual-harassment-allegation"
     ],
     "tags": [
-      "lobbyist",
-      "state legislator"
+      "state legislator",
+      "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 489,
-    "name": "Denn",
+    "name": "Dennis Nielsen",
     "position": [
-      "candidate",
-      "party member"
+      "candidate"
     ],
     "crime": [
-      "domestic violence",
-      "violence"
+      "domestic violence"
     ],
-    "description": "Dennis Nielsen, a Johnston County gun shop owner and Republican candidate for N.C. Senate District 11, faces allegations of domestic violence from his wife.",
+    "description": "Dennis Nielsen was a Johnston County gun shop owner and Republican candidate for North Carolina Senate District 11 who faced domestic violence allegations from his wife. The accusations surfaced during his political campaign. Court records documented the allegations. Nielsen's candidacy was damaged by the domestic violence claims.",
     "sources": [
       "https://www.newsobserver.com/news/politics-government/election/article23962211"
     ],
     "tags": [
       "candidate",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 490,
     "name": "Jamie Berryhill",
     "position": [
-      "candidate",
-      "congress",
-      "party member"
+      "candidate"
     ],
     "crime": [
       "rape"
     ],
-    "description": "Republican congressional candidate Jamie Berryhill thinks women who have been raped have no value. He also thinks it is acceptable to compare undocumented immigration to rape. Texas",
+    "description": "Jamie Berryhill was a Texas Republican congressional candidate who stated that women who have been raped have no value. He also compared undocumented immigration to rape in offensive campaign rhetoric. Berryhill's comments revealed extreme misogyny and rape culture attitudes. His campaign promoted dehumanizing views of women and immigrants.",
     "sources": [
       "https://www.mrt.com/news/article/Congressional-candidate-Jamie-Berryhill-compares-15068947.php"
     ],
     "tags": [
       "candidate",
-      "congress",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 491,
     "name": "John Valdivia",
     "position": [
-      "candidate",
-      "congress",
       "local official",
-      "party official"
+      "candidate"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Mayor John Valdivia accused of sexual harassment. Valdivia was former GOP candidate for CA House Dt 31 before he dropped out. 1.2 million settlement",
+    "description": "John Valdivia was mayor of San Bernardino and former Republican candidate for California's 31st congressional district who was accused of sexual harassment by multiple women. The city of San Bernardino paid a $1.2 million settlement in 2024 to resolve sexual harassment lawsuits against the former mayor. Valdivia had dropped out of the congressional race before the allegations became fully public.",
     "sources": [
       "https://thehill.com/homenews/media/482170-two-women-accuse-california-mayor-of-sexual-harassment",
       "https://www.sbsun.com/2024/08/02/san-bernardino-pays-1-2-million-to-settle-sexual-harassment-suits-against-ex-mayor-john-valdivia/"
     ],
     "tags": [
-      "candidate",
-      "congress",
       "local official",
-      "party official",
+      "candidate",
       "republican"
     ],
     "year": 2024
   },
   {
     "id": 492,
-    "name": "Roanoke C.J Covati,",
+    "name": "C.J. Covati",
     "position": [
       "judge"
     ],
     "crime": [
       "assault"
     ],
-    "description": "Roanoke attorney & sometimes judge C.J Covati, a donor to the RNC, was found guilty of assaulting a woman at a strip club",
+    "description": "C.J. Covati was a Roanoke attorney, substitute judge, and Republican National Committee donor who was found guilty of assaulting a woman at a strip club. Despite his position as a legal professional and judicial officer, he was convicted of the violent assault. The conviction raised questions about his fitness to practice law or serve as a judge.",
     "sources": [
       "https://www.roanoke.com/news/crime/roanoke-attorney-former-substitute-judge-guilty-of-assaulting-dancer-at/article_bd02d495-9666-55d5-a691-a13df76901c7.html"
     ],
     "tags": [
-      "judge"
+      "judge",
+      "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 493,
-    "name": "Kelly Toppin, Republican school board president & Stow city",
+    "name": "Kelly Toppin",
     "position": [
-      "candidate",
-      "local official",
-      "party member"
+      "local official"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Kelly Toppin, Republican school board president & Stow city council candidate accused of sexual harassment",
+    "description": "Kelly Toppin was Republican school board president in Stow, Ohio and a city council candidate who was accused of sexual harassment by a former district official. The allegations included inappropriate conduct and retaliation. The accuser described a pattern of harassment. Toppin's candidacy and board position were impacted by the allegations.",
     "sources": [
       "https://www.mytownneo.com/news/20200107/ex-district-official-accuses-stow-school-board-former-president-of-sexual-harassment-retaliation"
     ],
     "tags": [
-      "candidate",
       "local official",
-      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 494,
-    "name": "Rep & Trump Toady Matt Gaetz",
+    "name": "Matt Gaetz",
     "position": [
-      "congress",
-      "lobbyist",
-      "party member",
-      "party official"
+      "congress"
     ],
-    "crime": [],
-    "description": "GOP Rep & Trump Toady Matt Gaetz accused by fellow Republican Chris Latvala of having “created a game where members of the FL House got ‘points’ for sleeping with aides, interns, lobbyists and married legislators.”",
+    "crime": [
+      "sexual trafficking",
+      "child exploitation"
+    ],
+    "description": "Matt Gaetz is a Florida Republican congressman and Trump loyalist who was investigated by the Department of Justice for sex trafficking and having sexual relations with a minor. Fellow Florida Republican Chris Latvala accused Gaetz of creating a game where state legislators got points for sleeping with aides, interns, lobbyists, and married legislators. A witness confirmed Gaetz was told he had sex with a 17-year-old. The investigation examined whether Gaetz violated federal sex trafficking laws.",
     "sources": [
       "https://www.sun-sentinel.com/news/politics/fl-ne-gaetz-latvala-twitter-20200114-hrbeklwtxnbvfnbwvu57nlxvpy-story.htmlGaetz",
       "https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html",
@@ -1790,25 +1924,21 @@
     ],
     "tags": [
       "congress",
-      "lobbyist",
-      "maga",
-      "party member",
-      "party official",
-      "republican"
+      "republican",
+      "maga"
     ],
     "year": 2021
   },
   {
     "id": 495,
-    "name": "White House physician, now Republican",
+    "name": "Ronny Jackson",
     "position": [
-      "congress",
-      "party member"
+      "congress"
     ],
     "crime": [
       "sexual harassment"
     ],
-    "description": "Former White House physician, now Republican Congressman Ronny Jackson - sexual harassment",
+    "description": "Ronny Jackson was White House physician under Trump who later became a Republican congressman from Texas. Multiple allegations surfaced of sexual harassment, creating a hostile work environment, and inappropriate conduct while serving as White House doctor. A scathing Pentagon Inspector General report in 2021 found he engaged in inappropriate conduct including sexual harassment and drinking on duty. Despite the allegations, he was elected to Congress.",
     "sources": [
       "https://www.cnn.com/2018/04/24/politics/ronny-jackson-door-allegations/index.html",
       "https://www.nbcnews.com/politics/congress/scathing-report-finds-rep-ronny-jackson-engaged-inappropriate-conduct-white-n1259437",
@@ -1816,43 +1946,51 @@
     ],
     "tags": [
       "congress",
-      "party member",
-      "republican"
+      "republican",
+      "maga"
     ],
     "year": 2018
   },
   {
     "id": 496,
-    "name": "SC",
+    "name": "Michael Allen Letts",
     "position": [
       "candidate"
     ],
     "crime": [
-      "rape"
+      "rape",
+      "child molestation"
     ],
-    "description": "SC state senate candidate & bullet-proof vest charity operator Michael Allen Letts charged with rape and incest/minor between the ages 11 and 14 and minor under 16 : X",
+    "description": "Michael Allen Letts was a South Carolina state senate candidate and CEO of a bulletproof vest charity who was charged with rape and incest involving a minor between the ages of 11 and 14, and a minor under 16. The serious felony charges included multiple counts. Letts had positioned himself as a law enforcement supporter while allegedly committing heinous crimes against children.",
     "sources": [
       "https://www.cbs17.com/news/south/sc-senate-candidate-bulletproof-vest-charity-ceo-charged-with-incest-rape/"
     ],
     "tags": [
-      "candidate"
+      "candidate",
+      "republican"
     ],
-    "year": null
+    "year": 2020
   },
   {
     "id": 497,
-    "name": "The Village Church - an anti-gay conservative church, fired",
+    "name": "Anthony Moore",
     "position": [
-      "religious leader"
+      "religious leader",
+      "educator"
     ],
-    "crime": [],
-    "description": "The Village Church - an anti-gay conservative church, fired Anthony Moore for SECRETLY filming his youth pastor in the shower. University gives him a second chance until they learn they were lied to",
+    "crime": [
+      "sexual harassment",
+      "child exploitation"
+    ],
+    "description": "Anthony Moore worked at The Village Church, an anti-gay conservative evangelical church, where he was fired for secretly filming his youth pastor in the shower. Despite his disturbing behavior, Cedarville University gave him a second chance and hired him as a professor. When the university learned the full extent of his misconduct and that they had been lied to, they fired Moore and the president apologized.",
     "sources": [
       "https://www.christianpost.com/news/cedarville-university-fires-professor-with-history-of-sex-abuse-president-apologizes.html"
     ],
     "tags": [
-      "religious leader"
+      "religious leader",
+      "educator",
+      "republican"
     ],
-    "year": null
+    "year": 2020
   }
 ]
