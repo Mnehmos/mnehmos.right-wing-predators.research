@@ -1259,42 +1259,43 @@
   },
   {
     "id": 61,
-    "name": "zoning superv",
+    "name": "Dennis Rader",
     "position": [
-      "party member",
-      "party official"
+      "local official"
     ],
-    "crime": [],
-    "description": "Republican zoning supervisor, Boy Scout leader and Lutheran church president and BTK killer Dennis L. Rader pleaded guilty to performing a sexual act on an 11-year old girl he murdered.",
+    "crime": [
+      "violence"
+    ],
+    "description": "Dennis Rader, the BTK serial killer, was arrested on February 25, 2005. He was a Park City compliance supervisor, Boy Scout leader, and was elected president of Christ Lutheran Church council in January 2005. He murdered 10 people between 1974 and 1991. He served on the county zoning board and animal control advisory board.",
     "sources": [
       "https://www.nndb.com/people/612/000091339/"
     ],
     "tags": [
-      "party member",
-      "party official",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 62,
-    "name": "ad consultant Carey Lee Cramer who created an anti-",
+    "name": "Carey Lee Cramer",
     "position": [
-      "party official"
+      "party member"
     ],
     "crime": [
-      "assault",
-      "sexual assault"
+      "sexual assault",
+      "sexual abuse",
+      "child molestation"
     ],
-    "description": "GOP ad consultant Carey Lee Cramer who created an anti- Gore ad modeled on LBJ's \"Daisy\" ad convicted of sexual assault of 2 8-year-old girls, including daughter who",
+    "description": "GOP advertising consultant Carey Lee Cramer created anti-Gore ads and used his 9-year-old stepdaughter in a 2000 Republican commercial. He was arrested in 2005 and convicted in 2006 of aggravated sexual assault of a child, two counts of indecency with a child by contact, and indecency with a child by exposure. The case was in McAllen/Mercedes, Texas.",
     "sources": [
       "https://tucson.com/news/political-consultant-from-tucson-convicted-of-child-sex-assault-in/article_d8ef6399-4082-595a-8693-ea30dda123fe.html"
     ],
     "tags": [
-      "party official",
+      "party member",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 63,
@@ -1342,17 +1343,19 @@
   },
   {
     "id": 65,
-    "name": "state Rep Jim Knoblach of St. Cloud ended h",
+    "name": "Jim Knoblach",
     "position": [
-      "party official"
+      "state legislator"
     ],
-    "crime": [],
-    "description": "GOP state Rep Jim Knoblach of St. Cloud ended his re- election campaign Friday amid detailed accusations from his adult daughter of what she described as his inappropriate behavior toward her since she was 9",
+    "crime": [
+      "sexual abuse"
+    ],
+    "description": "Minnesota state Representative Jim Knoblach, eight-term Republican and chairman of the House Ways and Means Committee, ended his re-election campaign in September 2018 after his daughter publicly accused him of inappropriately touching her from age 9 to 21. Police investigated in 2017 but declined to file charges citing insufficient evidence.",
     "sources": [
       "https://www.mprnews.org/story/2018/09/21/knoblach-ends-campaign-amid-abuse-allegations"
     ],
     "tags": [
-      "party official",
+      "state legislator",
       "republican"
     ],
     "year": 2018
@@ -1382,22 +1385,22 @@
   },
   {
     "id": 67,
-    "name": "president of the New York City Housing",
+    "name": "Russell Harding",
     "position": [
-      "party member"
+      "local official"
     ],
     "crime": [
       "child pornography"
     ],
-    "description": "Republican president of the New York City Housing Development Corp. Russell Harding pleaded guilty to possessing child pornography on his computer",
+    "description": "Russell Harding, president of the New York City Housing Development Corp (appointed by Mayor Giuliani), pleaded guilty in March 2005 to embezzlement and possession of child pornography. He was sentenced to the maximum of 63 months in federal prison in July 2005. He was initially arrested in 2003.",
     "sources": [
       "https://www.nydailynews.com/archives/news/ex-giuliani-aide-busted-child-porn-fraud-scandal-article-1.669207"
     ],
     "tags": [
-      "party member",
+      "local official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 68,
@@ -1422,42 +1425,43 @@
   },
   {
     "id": 69,
-    "name": "prosecutor John David Roy Atch",
+    "name": "John David Roy Atchison",
     "position": [
-      "party member"
+      "prosecutor"
     ],
-    "crime": [],
-    "description": "Republican prosecutor John David Roy Atchison arrested on charges of flying across the country to try and have sex with a five year old girl. Committed suicide.",
+    "crime": [
+      "child exploitation",
+      "sexual abuse"
+    ],
+    "description": "Assistant U.S. Attorney John David Roy Atchison was arrested on September 16, 2007, at Detroit airport in an FBI sting operation. He had chatted online for two weeks with an undercover detective posing as a mother offering her 5-year-old daughter. He was charged with enticement of a minor and traveling to have sex with someone under 12. He committed suicide by hanging in his Michigan prison cell three weeks later.",
     "sources": [
       "https://www.nytimes.com/2007/10/06/us/06suicide.html"
     ],
     "tags": [
-      "party member",
+      "prosecutor",
       "republican"
     ],
     "year": 2007
   },
   {
     "id": 70,
-    "name": "E Ozwald Balfour",
+    "name": "E. Ozwald Balfour",
     "position": [
-      "party member",
       "party official"
     ],
     "crime": [
       "sexual abuse",
-      "sexual harassment"
+      "sexual assault"
     ],
-    "description": "Republican chairman & radio show host E Ozwald Balfour arrested on four counts of forcible sex abuse/groping",
+    "description": "E. Ozwald Balfour, chairman of the Utah Republican Black Assembly and host of 'Talk of the Town' radio show on KTKK, was arrested in February 2005 and charged with four felony counts of forcible sex abuse. About a dozen women came forward with complaints about abuse during job interviews at his Media and Entertainment Studio. His radio show was pulled off the air.",
     "sources": [
       "https://archive.sltrib.com/article.php?id=50665680&itype=CMSID"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2005
   },
   {
     "id": 71,
