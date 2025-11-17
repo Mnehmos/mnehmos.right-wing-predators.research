@@ -647,7 +647,10 @@
       "judge",
       "candidate"
     ],
-    "crime": [],
+    "crime": [
+      "sexual assault",
+      "assault"
+    ],
     "description": "Former Alabama Chief Justice Roy Moore faced multiple allegations of sexual misconduct in 2017. Multiple women accused Moore of sexual assault when they were teenagers and he was in his 30s. The allegations first surfaced in November 2017 during his U.S. Senate campaign. Moore lost the special election to Democrat Doug Jones.",
     "sources": [],
     "tags": [

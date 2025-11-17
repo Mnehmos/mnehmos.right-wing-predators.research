@@ -1556,39 +1556,46 @@
   },
   {
     "id": 76,
-    "name": "staffer and long term director",
+    "name": "Larry Corrigan",
     "position": [
-      "party member"
+      "party member",
+      "government official"
     ],
     "crime": [
-      "rape"
+      "attempted child molestation",
+      "child exploitation",
+      "embezzlement"
     ],
-    "description": "Republican staffer and long term director of financial operations for Seattle Republicans Larry Corrigan plead guilty for attempted rape of a 13 year old girl",
+    "description": "GOP activist and director of financial operations at the King County Prosecutor's office for over 25 years, Larry Corrigan was arrested in 2006 in an Internet sting for attempting to arrange sex with a 13-year-old girl. He pleaded guilty in 2007 to one count of second-degree attempted child molestation and one count of communicating with a minor for immoral purposes. He was sentenced to 23 months in prison, received three to four years of probation, must register as a sex offender, and must complete sexual deviancy evaluation and treatment. Corrigan also was accused of embezzling over $70,000 from campaign funds between May 2004 and early 2005.",
     "sources": [
       "https://www.seattletimes.com/seattle-news/well-known-gop-activist-held-in-sex-predator-sting/"
     ],
     "tags": [
       "party member",
+      "government official",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 77,
-    "name": "talk show host Scott Eller Cortelyou plead guilty",
+    "name": "Scott Eller Cortelyou",
     "position": [
-      "party member"
+      "media personality"
     ],
-    "crime": [],
-    "description": "Republican talk show host Scott Eller Cortelyou plead guilty on charges of using the Internet to try and lure a child into a sexual relationship with him",
+    "crime": [
+      "Internet luring",
+      "child exploitation"
+    ],
+    "description": "Republican radio host Scott Eller Cortelyou was the host of 'Business for Breakfast' on KRCN 1060-AM in Colorado. He was arrested for having sexually graphic online conversations with someone he thought was a 12-year-old girl in August 2006. Cortelyou pleaded guilty in 2007 to Internet luring and attempted Internet sexual exploitation of a child (both class 5 felonies). He was sentenced to 18 months of intensive supervised probation and must register as a sex offender.",
     "sources": [
       "https://www.9news.com/article/news/local/former-radio-host-must-register-as-a-sex-offender/73-343881126"
     ],
     "tags": [
-      "party member",
+      "media personality",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 78,
@@ -1609,58 +1616,64 @@
   },
   {
     "id": 79,
-    "name": "spokesman Brian Doyle",
+    "name": "Brian J. Doyle",
     "position": [
-      "party member"
+      "government official"
     ],
-    "crime": [],
-    "description": "Republican spokesman Brian Doyle arrested for trying to seduce a 14 year old girl over the Internet. He was later sentenced to 5 years in prison",
+    "crime": [
+      "child exploitation",
+      "sexual solicitation"
+    ],
+    "description": "Brian J. Doyle, 55, was the deputy press secretary for the U.S. Department of Homeland Security. He was arrested on April 4, 2006, at his home in Silver Spring, Maryland, after being caught in an undercover sting attempting to initiate sexually explicit conversation with a 14-year-old girl (actually a sheriff's deputy working undercover). He was indicted on 23 felony counts including seven counts of using a computer to seduce a child and sixteen counts of transmitting harmful materials to a child. He pleaded no contest to the charges.",
     "sources": [
       "https://www.cbsnews.com/news/homeland-cyber-sex-case-causes-concern/"
     ],
     "tags": [
-      "party member",
-      "republican"
+      "government official",
+      "federal employee"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 80,
-    "name": "Romney",
+    "name": "Matthew Joseph Elliott",
     "position": [
-      "party member"
+      "party official"
     ],
     "crime": [
-      "child exploitation"
+      "child sexual exploitation",
+      "child abuse"
     ],
-    "description": "Republican campaign official and former Romney staffer Matthew Joseph Elliott convicted of sexual exploitation of a child Got great deal, but really went astray, ending up murdering a child",
+    "description": "Matthew Joseph Elliott was a consultant for Mitt Romney's Commonwealth political action committee in early 2006, joining the PAC in early 2006 but leaving after only a few weeks. Elliott is a registered sex offender who was convicted in Iowa in October 2006 of exploiting a minor. He was also arrested in connection with the death of a 7-month-old baby girl in Iowa, with autopsy ruling the death a homicide. Elliott was questioned in the baby's death but was not charged at the time of reporting.",
     "sources": [
       "http://ssristories.net/archive/show0d92.html?item=2504"
     ],
     "tags": [
-      "party member",
+      "party official",
       "republican"
     ],
-    "year": null
+    "year": 2006
   },
   {
     "id": 81,
-    "name": "party chair Donald Fle",
+    "name": "Donald Fleischman",
     "position": [
-      "party member",
       "party official"
     ],
-    "crime": [],
-    "description": "Republican party chair Donald Fleischman was charged with two counts of child enticement and one count of exposing himself to a child (Brown County, WI)",
+    "crime": [
+      "child enticement",
+      "indecent exposure",
+      "contributing to delinquency of minor"
+    ],
+    "description": "Donald Fleischman was chairman and treasurer of the Brown County (Wisconsin) Republican Party. He was charged in 2007-2008 with child enticement, contributing to the delinquency of a child, and exposing his genitals. The charges related to an incident with a 16-year-old boy from a juvenile facility. Police found the boy hiding in Fleischman's closet in underwear and a T-shirt, and the boy claimed Fleischman gave him beer and marijuana. Fleischman resigned from his post as county GOP chair. State Republicans subsequently disbanded the Green Bay area's Republican Party, citing inability to muster enough officers to pick a new leader.",
     "sources": [
       "https://freerepublic.com/focus/news/1911441/posts"
     ],
     "tags": [
-      "party member",
       "party official",
       "republican"
     ],
-    "year": null
+    "year": 2007
   },
   {
     "id": 82,
