@@ -1,0 +1,21 @@
+---
+name: "George Rutler"
+slug: "george-rutler"
+positions:
+  - "religious leader"
+crimes:
+  - "assault"
+tags:
+  - "maga"
+  - "religious leader"
+sources:
+  - "https://www.thedailybeast.com/george-rutler-prominent-etwn-tv-priest-accused-of-sexually-assaulting-nyc-female-security-guard"
+---
+
+## Overview
+
+George Rutler, Trump-supporting anti-gay, anti-choice, anti- Francis Catholic priest has been accused of sexually assaulting a security guard.
+
+## Description
+
+George Rutler, Trump-supporting anti-gay, anti-choice, anti- Francis Catholic priest has been accused of sexually assaulting a security guard.

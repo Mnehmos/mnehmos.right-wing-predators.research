@@ -1,0 +1,182 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import StatCard from '../components/StatCard.astro';
+import SearchBar from '../components/SearchBar.astro';
+import EntryCard from '../components/EntryCard.astro';
+import { getCollection } from 'astro:content';
+
+const entries = await getCollection('entries');
+const totalEntries = entries.length;
+
+// Get unique crimes and positions for stats
+const allCrimes = new Set<string>();
+const allPositions = new Set<string>();
+const allTags = new Set<string>();
+
+entries.forEach(entry => {
+  entry.data.crimes.forEach(crime => allCrimes.add(crime));
+  entry.data.positions.forEach(position => allPositions.add(position));
+  entry.data.tags.forEach(tag => allTags.add(tag));
+});
+
+// Count by crime type for top crimes
+const crimeCounts = new Map<string, number>();
+entries.forEach(entry => {
+  entry.data.crimes.forEach(crime => {
+    crimeCounts.set(crime, (crimeCounts.get(crime) || 0) + 1);
+  });
+});
+const topCrimes = [...crimeCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 6);
+
+// Get recent/notable entries (randomize for variety)
+const shuffled = [...entries].sort(() => Math.random() - 0.5);
+const featuredEntries = shuffled.slice(0, 6);
+
+// Count by position type
+const positionCounts = new Map<string, number>();
+entries.forEach(entry => {
+  entry.data.positions.forEach(pos => {
+    positionCounts.set(pos, (positionCounts.get(pos) || 0) + 1);
+  });
+});
+const topPositions = [...positionCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 5);
+---
+
+<BaseLayout title="Home">
+  <!-- Hero Section -->
+  <section class="text-center py-12 md:py-20">
+    <div class="max-w-4xl mx-auto">
+      <h1 class="text-4xl md:text-6xl font-extrabold mb-6 font-display gradient-text">
+        Republican Misconduct Database
+      </h1>
+      <p class="text-lg md:text-xl text-stone-600 dark:text-stone-400 max-w-2xl mx-auto mb-8 leading-relaxed">
+        A documented collection of <span class="text-stone-800 dark:text-stone-100 font-semibold">{totalEntries.toLocaleString()}</span> Republican-affiliated 
+        individuals accused of sexual misconduct, with verified sources for each entry.
+      </p>
+      
+      <!-- Hero Search -->
+      <div class="max-w-xl mx-auto mb-8">
+        <SearchBar placeholder="Search by name, position, or crime..." size="lg" />
+      </div>
+      
+      <div class="flex flex-wrap justify-center gap-4">
+        <a href="/entries" class="btn btn-primary text-base px-6 py-3 inline-flex items-center gap-2">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+          </svg>
+          Browse All Entries
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Statistics Grid -->
+  <section class="py-12">
+    <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Database Statistics</h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-5xl mx-auto">
+      <StatCard value={totalEntries} label="Total Entries" color="copper" icon="📊" />
+      <StatCard value={allCrimes.size} label="Crime Types" color="red" icon="⚠️" />
+      <StatCard value={allPositions.size} label="Position Types" color="green" icon="🏛️" />
+      <StatCard value={allTags.size} label="Tags" color="purple" icon="🏷️" />
+    </div>
+  </section>
+
+  <!-- Top Crime Categories -->
+  <section class="py-12">
+    <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Most Common Allegations</h2>
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+      {topCrimes.map(([crime, count]) => (
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-4 hover:bg-stone-200 dark:hover:bg-stone-800 hover:border-copper transition-colors">
+          <div class="text-2xl font-bold text-red-600 dark:text-red-400">{count}</div>
+          <div class="text-sm text-stone-600 dark:text-stone-400 mt-1">{crime}</div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Featured Entries -->
+  <section class="py-12">
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100">Sample Entries</h2>
+      <a href="/entries" class="text-copper hover:text-copper-light text-sm font-medium no-underline inline-flex items-center gap-1">
+        View all
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {featuredEntries.map((entry) => (
+        <EntryCard 
+          name={entry.data.name}
+          slug={entry.slug}
+          positions={entry.data.positions}
+          crimes={entry.data.crimes}
+          tags={entry.data.tags}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="py-12">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">About This Database</h2>
+      
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
+          <div class="text-2xl mb-3">📋</div>
+          <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Comprehensive Documentation</h3>
+          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
+            Each entry includes the individual's name, known positions or affiliations, 
+            the nature of allegations, and links to source documentation.
+          </p>
+        </div>
+        
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
+          <div class="text-2xl mb-3">🔗</div>
+          <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Verified Sources</h3>
+          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
+            All information is sourced from publicly available news reports, court 
+            documents, and official records. Every entry includes citation links.
+          </p>
+        </div>
+        
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
+          <div class="text-2xl mb-3">🔍</div>
+          <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Searchable & Filterable</h3>
+          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
+            Use full-text search or filter by crime type, position, and tags to find 
+            specific entries quickly and efficiently.
+          </p>
+        </div>
+        
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
+          <div class="text-2xl mb-3">⚖️</div>
+          <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Important Disclaimer</h3>
+          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
+            Inclusion in this database documents allegations, not proven guilt. 
+            Users should verify information through provided sources.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Top Positions -->
+  <section class="py-12 border-t border-stone-200 dark:border-stone-800">
+    <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Most Common Positions</h2>
+    <div class="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto">
+      {topPositions.map(([position, count]) => (
+        <div class="inline-flex items-center gap-2 px-4 py-2 bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-full hover:border-copper transition-colors">
+          <span class="text-stone-700 dark:text-stone-300 text-sm">{position.length > 40 ? position.substring(0, 40) + '...' : position}</span>
+          <span class="text-xs text-stone-500 bg-stone-200 dark:bg-stone-700/50 px-2 py-0.5 rounded-full">{count}</span>
+        </div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

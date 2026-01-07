@@ -1,0 +1,524 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   Mnehmos Brand Design System
+   ============================================ */
+
+/* CSS Custom Properties */
+:root {
+  /* Copper Brand Colors */
+  --copper: #b87333;
+  --copper-light: #d4956a;
+  --copper-dark: #8b5a2b;
+  
+  /* Theme Colors */
+  --color-bg: #fafaf9;
+  --color-surface: #f5f5f4;
+  --color-text: #1c1917;
+  --color-text-muted: #57534e;
+  --color-border: #d6d3d1;
+  
+  /* Transition durations */
+  --transition-fast: 150ms;
+  --transition-normal: 200ms;
+  --transition-slow: 300ms;
+}
+
+.dark {
+  --color-bg: #0c0a09;
+  --color-surface: #1c1917;
+  --color-text: #fafaf9;
+  --color-text-muted: #a8a29e;
+  --color-border: #44403c;
+}
+
+/* ============================================
+   Base Layer - HTML Elements
+   ============================================ */
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  
+  body {
+    @apply bg-stone-50 text-stone-800 antialiased;
+  }
+  
+  .dark body {
+    @apply bg-stone-950 text-stone-100;
+  }
+
+  /* Focus styles */
+  :focus-visible {
+    outline: 2px solid var(--copper);
+    outline-offset: 2px;
+  }
+  
+  /* Links */
+  a {
+    color: var(--copper);
+    transition: color 0.2s ease;
+  }
+  
+  a:hover {
+    color: var(--copper-light);
+  }
+  
+  /* Headings - Display font */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Space Grotesk", system-ui, sans-serif;
+    @apply font-bold text-stone-800;
+  }
+  
+  .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    @apply text-stone-100;
+  }
+}
+
+/* ============================================
+   Selection Styling
+   ============================================ */
+
+::selection {
+  background-color: rgba(184, 115, 51, 0.2);
+  color: #b87333;
+}
+
+::-moz-selection {
+  background-color: rgba(184, 115, 51, 0.2);
+  color: #b87333;
+}
+
+/* ============================================
+   Component Layer
+   ============================================ */
+
+@layer components {
+  /* Display font utility */
+  .font-display {
+    font-family: "Space Grotesk", system-ui, sans-serif;
+  }
+
+  /* Button styles */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2;
+    @apply px-4 py-2 rounded-lg font-medium;
+    @apply transition-all duration-200;
+    @apply disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  
+  .btn-primary {
+    background-color: var(--copper);
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--copper-light);
+  }
+  
+  .btn-primary:focus {
+    box-shadow: 0 0 0 2px rgba(184, 115, 51, 0.4);
+  }
+  
+  .btn-secondary {
+    @apply bg-stone-200 text-stone-800;
+  }
+  
+  .btn-secondary:hover {
+    @apply bg-stone-300;
+  }
+  
+  .dark .btn-secondary {
+    @apply bg-stone-700 text-stone-100;
+  }
+  
+  .dark .btn-secondary:hover {
+    @apply bg-stone-600;
+  }
+  
+  .btn-ghost {
+    @apply bg-transparent text-stone-600;
+  }
+  
+  .btn-ghost:hover {
+    @apply bg-stone-100;
+    color: var(--copper);
+  }
+  
+  .dark .btn-ghost {
+    @apply text-stone-400;
+  }
+  
+  .dark .btn-ghost:hover {
+    @apply bg-stone-800;
+    color: var(--copper);
+  }
+
+  /* Card styles */
+  .card {
+    @apply bg-stone-100 border border-stone-200 rounded-xl transition-all duration-200;
+  }
+  
+  .dark .card {
+    background-color: rgba(28, 25, 23, 0.5);
+    border-color: rgba(68, 64, 60, 0.5);
+  }
+  
+  .card-hover:hover {
+    @apply bg-stone-200;
+    border-color: var(--copper);
+    @apply shadow-lg;
+  }
+  
+  .dark .card-hover:hover {
+    @apply bg-stone-800;
+    border-color: var(--copper);
+  }
+
+  /* Gradient text effect */
+  .gradient-text {
+    background: linear-gradient(to right, var(--copper), var(--copper-light), var(--copper));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Badge styles */
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+  
+  .badge-copper {
+    background-color: rgba(184, 115, 51, 0.1);
+    color: var(--copper);
+    border: 1px solid rgba(184, 115, 51, 0.3);
+  }
+  
+  .dark .badge-copper {
+    background-color: rgba(184, 115, 51, 0.2);
+    border-color: rgba(184, 115, 51, 0.4);
+  }
+  
+  .badge-red {
+    @apply bg-red-100 text-red-700 border border-red-200;
+  }
+  
+  .dark .badge-red {
+    background-color: rgba(127, 29, 29, 0.3);
+    @apply text-red-300;
+    border-color: rgba(127, 29, 29, 0.5);
+  }
+  
+  .badge-stone {
+    @apply bg-stone-100 text-stone-600 border border-stone-200;
+  }
+  
+  .dark .badge-stone {
+    background-color: rgba(68, 64, 60, 0.5);
+    @apply text-stone-300;
+    border-color: rgba(87, 83, 78, 0.5);
+  }
+
+  /* Input styles */
+  .input {
+    @apply w-full px-4 py-2 rounded-lg;
+    @apply bg-stone-100 border border-stone-300;
+    @apply text-stone-800 placeholder:text-stone-400;
+    @apply transition-all duration-200;
+  }
+  
+  .input:focus {
+    outline: none;
+    border-color: var(--copper);
+    box-shadow: 0 0 0 2px rgba(184, 115, 51, 0.2);
+  }
+  
+  .dark .input {
+    @apply bg-stone-800 border-stone-700;
+    @apply text-stone-100 placeholder:text-stone-500;
+  }
+}
+
+/* ============================================
+   Utility Layer
+   ============================================ */
+
+@layer utilities {
+  /* Copper color utilities */
+  .text-copper {
+    color: var(--copper);
+  }
+  
+  .text-copper-light {
+    color: var(--copper-light);
+  }
+  
+  .bg-copper {
+    background-color: var(--copper);
+  }
+  
+  .bg-copper-light {
+    background-color: var(--copper-light);
+  }
+  
+  .border-copper {
+    border-color: var(--copper);
+  }
+  
+  .border-copper-light {
+    border-color: var(--copper-light);
+  }
+
+  /* No underline link utility */
+  .no-underline {
+    text-decoration: none !important;
+  }
+  
+  .no-underline:hover {
+    text-decoration: none !important;
+  }
+
+  /* Glass effect */
+  .glass {
+    @apply backdrop-blur-md;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .dark .glass {
+    background: rgba(0, 0, 0, 0.1);
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  /* Subtle border */
+  .border-subtle {
+    border-color: rgba(214, 211, 209, 0.5);
+  }
+  
+  .dark .border-subtle {
+    border-color: rgba(68, 64, 60, 0.5);
+  }
+}
+
+/* ============================================
+   Hover States for Copper
+   ============================================ */
+
+.hover\:text-copper:hover {
+  color: var(--copper);
+}
+
+.hover\:text-copper-light:hover {
+  color: var(--copper-light);
+}
+
+.hover\:bg-copper:hover {
+  background-color: var(--copper);
+}
+
+.hover\:bg-copper-light:hover {
+  background-color: var(--copper-light);
+}
+
+.hover\:border-copper:hover {
+  border-color: var(--copper);
+}
+
+/* ============================================
+   Custom Scrollbar
+   ============================================ */
+
+/* WebKit browsers */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-stone-100;
+}
+
+.dark ::-webkit-scrollbar-track {
+  @apply bg-stone-900;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-stone-300 rounded-full;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  @apply bg-stone-700;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--copper);
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(214, 211, 209) rgb(245, 245, 244);
+}
+
+.dark * {
+  scrollbar-color: rgb(68, 64, 60) rgb(28, 25, 23);
+}
+
+/* ============================================
+   Prose / Typography Styles
+   ============================================ */
+
+.prose {
+  @apply text-stone-600;
+}
+
+.dark .prose {
+  @apply text-stone-300;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  @apply text-stone-800;
+}
+
+.dark .prose h1,
+.dark .prose h2,
+.dark .prose h3,
+.dark .prose h4,
+.dark .prose h5,
+.dark .prose h6 {
+  @apply text-stone-100;
+}
+
+.prose a {
+  color: var(--copper);
+  text-decoration: none;
+}
+
+.prose a:hover {
+  color: var(--copper-light);
+  text-decoration: underline;
+}
+
+.prose strong {
+  @apply text-stone-800 font-semibold;
+}
+
+.dark .prose strong {
+  @apply text-stone-100;
+}
+
+.prose code {
+  color: var(--copper);
+  @apply bg-stone-100 px-1.5 py-0.5 rounded;
+}
+
+.dark .prose code {
+  @apply bg-stone-800;
+}
+
+.prose pre {
+  @apply bg-stone-100 border border-stone-200 rounded-lg;
+}
+
+.dark .prose pre {
+  @apply bg-stone-800 border-stone-700;
+}
+
+.prose blockquote {
+  border-left: 4px solid var(--copper);
+  @apply bg-stone-100 py-2 px-4 rounded-r-lg text-stone-600;
+}
+
+.dark .prose blockquote {
+  background-color: rgba(28, 25, 23, 0.5);
+  @apply text-stone-300;
+}
+
+.prose hr {
+  @apply border-stone-200;
+}
+
+.dark .prose hr {
+  @apply border-stone-700;
+}
+
+.prose ul,
+.prose ol {
+  @apply text-stone-600;
+}
+
+.dark .prose ul,
+.dark .prose ol {
+  @apply text-stone-300;
+}
+
+.prose li::marker {
+  color: var(--copper);
+}
+
+/* ============================================
+   Animation Utilities
+   ============================================ */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes pulse-copper {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(184, 115, 51, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(184, 115, 51, 0);
+  }
+}
+
+.animate-pulse-copper {
+  animation: pulse-copper 2s infinite;
+}
+
+/* ============================================
+   Print Styles
+   ============================================ */
+
+@media print {
+  body {
+    @apply bg-white text-black;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  a {
+    @apply text-black underline;
+  }
+  
+  a[href]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+  }
+}

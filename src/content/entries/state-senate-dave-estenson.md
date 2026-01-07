@@ -1,0 +1,25 @@
+---
+name: "State Senate Dave Estenson"
+slug: "state-senate-dave-estenson"
+positions:
+  - "candidate"
+  - "law enforcement"
+  - "party member"
+crimes:
+  - "sexual abuse"
+tags:
+  - "candidate"
+  - "law enforcement"
+  - "party member"
+  - "republican"
+sources:
+  - "https://www.trempcountytimes.com/news/local-senate-candidate-accused-misconduct-while-working-police-office"
+---
+
+## Overview
+
+Republican State Senate candidate Dave Estenson accused of sexual misconduct and abuse of power while serving as police officer - Wisconsin
+
+## Description
+
+Republican State Senate candidate Dave Estenson accused of sexual misconduct and abuse of power while serving as police officer - Wisconsin

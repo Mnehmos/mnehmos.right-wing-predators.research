@@ -1,0 +1,196 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SourceLink from '../../components/SourceLink.astro';
+import EntryCard from '../../components/EntryCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('entries');
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+// Get related entries (same crime type)
+const allEntries = await getCollection('entries');
+const relatedEntries = allEntries
+  .filter(e => 
+    e.slug !== entry.slug && 
+    e.data.crimes.some(crime => entry.data.crimes.includes(crime))
+  )
+  .slice(0, 3);
+
+// Generate description for meta
+const description = `Documented allegations against ${entry.data.name}. ${entry.data.crimes.slice(0, 3).join(', ')}.`;
+---
+
+<BaseLayout title={entry.data.name} description={description}>
+  <article class="max-w-4xl mx-auto" data-pagefind-body>
+    <!-- Breadcrumb -->
+    <nav class="mb-6 text-sm" aria-label="Breadcrumb">
+      <ol class="flex items-center gap-2 text-stone-500 dark:text-stone-400">
+        <li>
+          <a href="/" class="hover:text-copper transition-colors no-underline">Home</a>
+        </li>
+        <li>
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </li>
+        <li>
+          <a href="/entries" class="hover:text-copper transition-colors no-underline">Entries</a>
+        </li>
+        <li>
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </li>
+        <li class="text-stone-700 dark:text-stone-300 truncate max-w-[200px]">
+          {entry.data.name}
+        </li>
+      </ol>
+    </nav>
+
+    <!-- Entry Header -->
+    <header class="mb-8 pb-8 border-b border-stone-200 dark:border-stone-800">
+      <h1 
+        class="text-3xl md:text-4xl lg:text-5xl font-extrabold mb-6 text-stone-800 dark:text-stone-100 leading-tight font-display"
+        data-pagefind-meta="title"
+      >
+        {entry.data.name}
+      </h1>
+      
+      <!-- Positions -->
+      {entry.data.positions.length > 0 && (
+        <div class="mb-6">
+          <h2 class="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-3">
+            Positions & Affiliations
+          </h2>
+          <div class="flex flex-wrap gap-2" data-pagefind-filter="position">
+            {entry.data.positions.map((position) => (
+              <span class="inline-flex items-center px-3 py-1.5 rounded-lg text-sm font-medium bg-copper/10 dark:bg-copper/20 text-copper border border-copper/30 dark:border-copper/40">
+                🏛️ {position}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Crimes/Allegations -->
+      {entry.data.crimes.length > 0 && (
+        <div class="mb-6">
+          <h2 class="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-3">
+            Allegations
+          </h2>
+          <div class="flex flex-wrap gap-2" data-pagefind-filter="crime">
+            {entry.data.crimes.map((crime) => (
+              <span class="inline-flex items-center px-3 py-1.5 rounded-lg text-sm font-medium bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-300 border border-red-200 dark:border-red-800/50">
+                ⚠️ {crime}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Tags -->
+      {entry.data.tags.length > 0 && (
+        <div>
+          <h2 class="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-3">
+            Tags
+          </h2>
+          <div class="flex flex-wrap gap-2" data-pagefind-filter="tag">
+            {entry.data.tags.map((tag) => (
+              <span class="inline-flex items-center px-3 py-1.5 rounded-lg text-sm font-medium bg-stone-100 dark:bg-stone-700/50 text-stone-600 dark:text-stone-300 border border-stone-200 dark:border-stone-600/50">
+                🏷️ {tag}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+    </header>
+
+    <!-- Main Content -->
+    <div class="mb-12">
+      <div class="prose prose-lg max-w-none
+        prose-headings:font-bold prose-headings:text-stone-800 dark:prose-headings:text-stone-100 prose-headings:font-display
+        prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-h2:border-b prose-h2:border-stone-200 dark:prose-h2:border-stone-800 prose-h2:pb-2
+        prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3
+        prose-p:text-stone-600 dark:prose-p:text-stone-300 prose-p:leading-relaxed prose-p:mb-4
+        prose-li:text-stone-600 dark:prose-li:text-stone-300
+        prose-strong:text-stone-800 dark:prose-strong:text-stone-100 prose-strong:font-semibold
+        prose-a:text-copper prose-a:no-underline hover:prose-a:underline
+        prose-blockquote:border-l-copper prose-blockquote:bg-stone-100 dark:prose-blockquote:bg-stone-800/50 prose-blockquote:py-1 prose-blockquote:px-4 prose-blockquote:rounded-r-lg
+        prose-code:text-copper prose-code:bg-stone-100 dark:prose-code:bg-stone-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded
+        prose-hr:border-stone-200 dark:prose-hr:border-stone-700
+      ">
+        <Content />
+      </div>
+    </div>
+
+    <!-- Sources Section -->
+    {entry.data.sources.length > 0 && (
+      <section class="mb-12">
+        <h2 class="text-xl font-bold mb-4 flex items-center gap-2 font-display text-stone-800 dark:text-stone-100">
+          <svg class="w-5 h-5 text-copper" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+          </svg>
+          Sources ({entry.data.sources.length})
+        </h2>
+        <div class="space-y-2">
+          {entry.data.sources.map((source, index) => (
+            <SourceLink url={source} index={index} />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Related Entries -->
+    {relatedEntries.length > 0 && (
+      <section class="border-t border-stone-200 dark:border-stone-800 pt-8">
+        <h2 class="text-xl font-bold mb-6 flex items-center gap-2 font-display text-stone-800 dark:text-stone-100">
+          <svg class="w-5 h-5 text-stone-500 dark:text-stone-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+          </svg>
+          Related Entries
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {relatedEntries.map((related) => (
+            <EntryCard 
+              name={related.data.name}
+              slug={related.slug}
+              positions={related.data.positions}
+              crimes={related.data.crimes}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Back Navigation -->
+    <div class="mt-12 pt-8 border-t border-stone-200 dark:border-stone-800 flex justify-between items-center">
+      <a 
+        href="/entries" 
+        class="inline-flex items-center gap-2 text-stone-500 dark:text-stone-400 hover:text-copper transition-colors no-underline"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+        </svg>
+        Back to all entries
+      </a>
+      
+      <button 
+        onclick="window.scrollTo({top: 0, behavior: 'smooth'})"
+        class="inline-flex items-center gap-2 text-stone-500 dark:text-stone-400 hover:text-copper transition-colors"
+      >
+        Back to top
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+        </svg>
+      </button>
+    </div>
+  </article>
+</BaseLayout>

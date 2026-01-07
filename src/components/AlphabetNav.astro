@@ -1,0 +1,112 @@
+---
+interface Props {
+  /** Set of letters (uppercase) that have at least one entry */
+  lettersWithEntries: Set<string>;
+  /** Currently selected letter (if any) */
+  currentLetter?: string;
+  /** Base URL for letter links */
+  baseUrl?: string;
+}
+
+const { 
+  lettersWithEntries, 
+  currentLetter,
+  baseUrl = '/entries' 
+} = Astro.props;
+
+const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+
+const getLetterUrl = (letter: string) => {
+  return `${baseUrl}/letter/${letter.toLowerCase()}/`;
+};
+
+const hasEntries = (letter: string) => lettersWithEntries.has(letter);
+const isActive = (letter: string) => currentLetter?.toUpperCase() === letter;
+---
+
+<nav class="alphabet-nav" aria-label="Alphabetical navigation">
+  <div class="flex flex-wrap items-center gap-1 justify-center">
+    {/* Show All link when a letter is selected */}
+    {currentLetter && (
+      <a
+        href={baseUrl}
+        class="px-2 py-1 text-xs font-medium rounded bg-stone-200 dark:bg-stone-700 text-stone-700 dark:text-stone-300 hover:bg-copper hover:text-white transition-colors no-underline mr-2"
+        title="Show all entries"
+      >
+        All
+      </a>
+    )}
+    
+    {alphabet.map((letter) => {
+      const hasEntry = hasEntries(letter);
+      const active = isActive(letter);
+      
+      if (!hasEntry) {
+        // Letter with no entries - muted and non-clickable
+        return (
+          <span
+            class="letter-item px-1.5 py-0.5 text-xs font-mono text-stone-400 dark:text-stone-600 cursor-default select-none"
+            title={`No entries starting with ${letter}`}
+          >
+            {letter}
+          </span>
+        );
+      }
+      
+      if (active) {
+        // Currently active letter - highlighted with copper
+        return (
+          <span
+            class="letter-item px-1.5 py-0.5 text-xs font-mono font-bold rounded bg-copper text-white"
+            aria-current="page"
+          >
+            {letter}
+          </span>
+        );
+      }
+      
+      // Letter with entries - clickable link
+      return (
+        <a
+          href={getLetterUrl(letter)}
+          class="letter-item px-1.5 py-0.5 text-xs font-mono rounded text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 hover:text-copper transition-colors no-underline"
+          title={`View entries starting with ${letter}`}
+        >
+          {letter}
+        </a>
+      );
+    })}
+  </div>
+</nav>
+
+<style>
+  .alphabet-nav {
+    background: rgba(245, 245, 244, 0.8); /* stone-100 with transparency */
+    border: 1px solid rgb(214, 211, 209); /* stone-300 */
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  :global(.dark) .alphabet-nav {
+    background: rgba(28, 25, 23, 0.5); /* stone-900 with transparency */
+    border-color: rgb(68, 64, 60); /* stone-700 */
+  }
+  
+  .letter-item {
+    min-width: 1.25rem;
+    text-align: center;
+    line-height: 1.5;
+  }
+  
+  /* Responsive - stack on very small screens */
+  @media (max-width: 400px) {
+    .alphabet-nav {
+      padding: 0.375rem 0.5rem;
+    }
+    
+    .letter-item {
+      font-size: 0.65rem;
+      padding: 0.125rem 0.25rem;
+    }
+  }
+</style>

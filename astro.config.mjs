@@ -1,0 +1,18 @@
+import { defineConfig } from 'astro/config';
+import tailwind from '@astrojs/tailwind';
+import pagefind from 'astro-pagefind';
+
+// https://astro.build/config
+export default defineConfig({
+  integrations: [tailwind(), pagefind()],
+  output: 'static',
+  build: {
+    format: 'directory',
+  },
+  vite: {
+    build: {
+      // Increase chunk size warning limit for large content collections
+      chunkSizeWarningLimit: 1000,
+    },
+  },
+});

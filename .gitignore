@@ -5,6 +5,16 @@ data_original_backup.json
 high_priority_research.json
 manual_enrichments.json
 
+# Astro build output
+.astro/
+dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 # Python
 __pycache__/
 *.py[cod]

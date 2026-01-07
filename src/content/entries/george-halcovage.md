@@ -1,0 +1,23 @@
+---
+name: "George Halcovage"
+slug: "george-halcovage"
+positions:
+  - "local official"
+  - "party member"
+crimes:
+  - "sexual harassment"
+tags:
+  - "local official"
+  - "party member"
+  - "republican"
+sources:
+  - "https://www.mcall.com/news/pennsylvania/mc-nws-pa-argall-halcovage-resign-20210503-oecdluwrbzd5zlvltlwzjdm3uy-story.html"
+---
+
+## Overview
+
+PA Republican Schuykill County Commissioner George Halcovage - sexual harassment.
+
+## Description
+
+PA Republican Schuykill County Commissioner George Halcovage - sexual harassment.

@@ -1,0 +1,40 @@
+---
+interface Props {
+  value: number | string;
+  label: string;
+  color?: 'copper' | 'blue' | 'red' | 'green' | 'yellow' | 'purple';
+  icon?: string;
+}
+
+const { value, label, color = 'copper', icon } = Astro.props;
+
+const colorClasses = {
+  copper: 'text-copper bg-copper/10 border-copper/30 dark:bg-copper/20 dark:border-copper/40',
+  blue: 'text-blue-600 dark:text-blue-400 bg-blue-100 dark:bg-blue-900/20 border-blue-200 dark:border-blue-800/50',
+  red: 'text-red-600 dark:text-red-400 bg-red-100 dark:bg-red-900/20 border-red-200 dark:border-red-800/50',
+  green: 'text-green-600 dark:text-green-400 bg-green-100 dark:bg-green-900/20 border-green-200 dark:border-green-800/50',
+  yellow: 'text-yellow-600 dark:text-yellow-400 bg-yellow-100 dark:bg-yellow-900/20 border-yellow-200 dark:border-yellow-800/50',
+  purple: 'text-purple-600 dark:text-purple-400 bg-purple-100 dark:bg-purple-900/20 border-purple-200 dark:border-purple-800/50',
+};
+
+const textColorClasses = {
+  copper: 'text-copper',
+  blue: 'text-blue-600 dark:text-blue-400',
+  red: 'text-red-600 dark:text-red-400',
+  green: 'text-green-600 dark:text-green-400',
+  yellow: 'text-yellow-600 dark:text-yellow-400',
+  purple: 'text-purple-600 dark:text-purple-400',
+};
+---
+
+<div class={`rounded-xl border p-6 text-center transition-all hover:scale-[1.02] ${colorClasses[color]}`}>
+  {icon && (
+    <div class="text-3xl mb-2">{icon}</div>
+  )}
+  <div class={`text-4xl md:text-5xl font-bold font-display ${textColorClasses[color]}`}>
+    {typeof value === 'number' ? value.toLocaleString() : value}
+  </div>
+  <div class="text-stone-600 dark:text-stone-400 mt-2 text-sm md:text-base font-medium uppercase tracking-wide">
+    {label}
+  </div>
+</div>

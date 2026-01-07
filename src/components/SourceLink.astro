@@ -1,0 +1,89 @@
+---
+interface Props {
+  url: string;
+  index?: number;
+}
+
+const { url, index } = Astro.props;
+
+// Extract domain for display
+const getDomain = (url: string): string => {
+  try {
+    const urlObj = new URL(url);
+    return urlObj.hostname.replace('www.', '');
+  } catch {
+    return url;
+  }
+};
+
+// Get favicon URL using Google's favicon service
+const getFaviconUrl = (url: string): string => {
+  try {
+    const urlObj = new URL(url);
+    return `https://www.google.com/s2/favicons?domain=${urlObj.hostname}&sz=32`;
+  } catch {
+    return '';
+  }
+};
+
+// Determine if URL is likely archived/wayback
+const isArchived = url.includes('archive.org') || url.includes('web.archive.org');
+
+// Determine source type for icon
+const getSourceIcon = (url: string): string => {
+  const domain = getDomain(url).toLowerCase();
+  if (domain.includes('wikipedia')) return '📚';
+  if (domain.includes('youtube') || domain.includes('youtu.be')) return '🎬';
+  if (domain.includes('twitter') || domain.includes('x.com')) return '🐦';
+  if (domain.includes('facebook')) return '👤';
+  if (domain.includes('court') || domain.includes('justice') || domain.includes('.gov')) return '⚖️';
+  if (domain.includes('news') || domain.includes('times') || domain.includes('post') || domain.includes('cnn') || domain.includes('nbc') || domain.includes('abc') || domain.includes('cbs') || domain.includes('fox')) return '📰';
+  return '🔗';
+};
+
+const domain = getDomain(url);
+const faviconUrl = getFaviconUrl(url);
+const sourceIcon = getSourceIcon(url);
+---
+
+<a 
+  href={url}
+  target="_blank"
+  rel="noopener noreferrer"
+  class="group flex items-start gap-3 p-3 rounded-lg bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 hover:bg-stone-200 dark:hover:bg-stone-700/50 hover:border-copper transition-all no-underline"
+>
+  <!-- Index number if provided -->
+  {typeof index === 'number' && (
+    <span class="flex-shrink-0 w-6 h-6 rounded-full bg-stone-200 dark:bg-stone-700 text-stone-600 dark:text-stone-400 text-xs flex items-center justify-center font-medium">
+      {index + 1}
+    </span>
+  )}
+  
+  <!-- Icon/Favicon -->
+  <span class="flex-shrink-0 text-lg" aria-hidden="true">
+    {sourceIcon}
+  </span>
+  
+  <!-- URL Info -->
+  <div class="flex-1 min-w-0">
+    <div class="text-sm font-medium text-copper group-hover:text-copper-light truncate">
+      {domain}
+    </div>
+    <div class="text-xs text-stone-500 truncate mt-0.5">
+      {url.length > 80 ? url.substring(0, 80) + '...' : url}
+    </div>
+    {isArchived && (
+      <span class="inline-flex items-center text-xs text-yellow-600 dark:text-yellow-500 mt-1">
+        <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        Archived
+      </span>
+    )}
+  </div>
+  
+  <!-- External link indicator -->
+  <svg class="flex-shrink-0 w-4 h-4 text-stone-400 dark:text-stone-500 group-hover:text-copper transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+  </svg>
+</a>
