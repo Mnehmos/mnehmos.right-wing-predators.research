@@ -7,6 +7,9 @@ import SearchBar from '../../../../../components/SearchBar.astro';
 import AlphabetNav from '../../../../../components/AlphabetNav.astro';
 import { getCollection } from 'astro:content';
 
+// Base path for all internal links
+const base = import.meta.env.BASE_URL;
+
 export async function getStaticPaths() {
   const ENTRIES_PER_PAGE = 48;
   const entries = await getCollection('entries');

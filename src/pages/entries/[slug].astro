@@ -4,6 +4,9 @@ import SourceLink from '../../components/SourceLink.astro';
 import EntryCard from '../../components/EntryCard.astro';
 import { getCollection } from 'astro:content';
 
+// Base path for all internal links
+const base = import.meta.env.BASE_URL;
+
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
   return entries.map((entry) => ({
@@ -34,7 +37,7 @@ const description = `Documented allegations against ${entry.data.name}. ${entry.
     <nav class="mb-6 text-sm" aria-label="Breadcrumb">
       <ol class="flex items-center gap-2 text-stone-500 dark:text-stone-400">
         <li>
-          <a href="/" class="hover:text-copper transition-colors no-underline">Home</a>
+          <a href={base} class="hover:text-copper transition-colors no-underline">Home</a>
         </li>
         <li>
           <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -42,7 +45,7 @@ const description = `Documented allegations against ${entry.data.name}. ${entry.
           </svg>
         </li>
         <li>
-          <a href="/entries" class="hover:text-copper transition-colors no-underline">Entries</a>
+          <a href={`${base}entries/`} class="hover:text-copper transition-colors no-underline">Entries</a>
         </li>
         <li>
           <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -172,8 +175,8 @@ const description = `Documented allegations against ${entry.data.name}. ${entry.
 
     <!-- Back Navigation -->
     <div class="mt-12 pt-8 border-t border-stone-200 dark:border-stone-800 flex justify-between items-center">
-      <a 
-        href="/entries" 
+      <a
+        href={`${base}entries/`}
         class="inline-flex items-center gap-2 text-stone-500 dark:text-stone-400 hover:text-copper transition-colors no-underline"
       >
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

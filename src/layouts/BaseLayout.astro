@@ -6,14 +6,17 @@ interface Props {
   description?: string;
 }
 
-const { 
-  title, 
-  description = 'A documented collection of Republican-affiliated individuals accused of sexual misconduct, with verified sources.' 
+const {
+  title,
+  description = 'A documented collection of Republican-affiliated individuals accused of sexual misconduct, with verified sources.'
 } = Astro.props;
 
-const fullTitle = title === 'Home' 
+const fullTitle = title === 'Home'
   ? 'Republican Misconduct Database'
   : `${title} | Republican Misconduct Database`;
+
+// Base path for all internal links
+const base = import.meta.env.BASE_URL;
 ---
 
 <!DOCTYPE html>
@@ -22,7 +25,7 @@ const fullTitle = title === 'Home'
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content={description} />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
   
   <!-- Google Fonts - Inter & Space Grotesk -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -30,7 +33,7 @@ const fullTitle = title === 'Home'
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
   
   <!-- Pagefind UI CSS -->
-  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <link href={`${base}pagefind/pagefind-ui.css`} rel="stylesheet" />
   
   <title>{fullTitle}</title>
   
@@ -61,7 +64,7 @@ const fullTitle = title === 'Home'
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <!-- Logo / Site Title -->
-        <a href="/" class="flex items-center gap-2 text-stone-800 dark:text-stone-100 hover:text-copper transition-colors no-underline">
+        <a href={base} class="flex items-center gap-2 text-stone-800 dark:text-stone-100 hover:text-copper transition-colors no-underline">
           <svg class="w-8 h-8 text-copper" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
           </svg>
@@ -70,10 +73,10 @@ const fullTitle = title === 'Home'
         
         <!-- Navigation Links -->
         <div class="flex items-center gap-1 sm:gap-2">
-          <a href="/" class="nav-link px-3 py-2 rounded-lg text-sm font-medium text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors no-underline">
+          <a href={base} class="nav-link px-3 py-2 rounded-lg text-sm font-medium text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors no-underline">
             Home
           </a>
-          <a href="/entries" class="nav-link px-3 py-2 rounded-lg text-sm font-medium text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors no-underline">
+          <a href={`${base}entries/`} class="nav-link px-3 py-2 rounded-lg text-sm font-medium text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors no-underline">
             Browse
           </a>
           
@@ -121,12 +124,12 @@ const fullTitle = title === 'Home'
           <h3 class="font-display font-bold text-stone-800 dark:text-stone-100 mb-4">Quick Links</h3>
           <ul class="space-y-2 text-sm">
             <li>
-              <a href="/" class="text-stone-600 dark:text-stone-400 hover:text-copper transition-colors no-underline">
+              <a href={base} class="text-stone-600 dark:text-stone-400 hover:text-copper transition-colors no-underline">
                 Home
               </a>
             </li>
             <li>
-              <a href="/entries" class="text-stone-600 dark:text-stone-400 hover:text-copper transition-colors no-underline">
+              <a href={`${base}entries/`} class="text-stone-600 dark:text-stone-400 hover:text-copper transition-colors no-underline">
                 Browse All Entries
               </a>
             </li>
