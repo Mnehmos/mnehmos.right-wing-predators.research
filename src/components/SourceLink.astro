@@ -69,7 +69,7 @@ const sourceIcon = getSourceIcon(url);
     <div class="text-sm font-medium text-copper group-hover:text-copper-light truncate">
       {domain}
     </div>
-    <div class="text-xs text-stone-500 truncate mt-0.5">
+    <div class="text-xs text-stone-500 dark:text-stone-400 truncate mt-0.5">
       {url.length > 80 ? url.substring(0, 80) + '...' : url}
     </div>
     {isArchived && (

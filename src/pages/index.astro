@@ -177,7 +177,7 @@ const topPositions = [...positionCounts.entries()]
       {topPositions.map(([position, count]) => (
         <div class="inline-flex items-center gap-2 px-4 py-2 bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-full hover:border-copper transition-colors">
           <span class="text-stone-700 dark:text-stone-300 text-sm">{position.length > 40 ? position.substring(0, 40) + '...' : position}</span>
-          <span class="text-xs text-stone-500 bg-stone-200 dark:bg-stone-700/50 px-2 py-0.5 rounded-full">{count}</span>
+          <span class="text-xs text-stone-500 dark:text-stone-400 bg-stone-200 dark:bg-stone-700/50 px-2 py-0.5 rounded-full">{count}</span>
         </div>
       ))}
     </div>
