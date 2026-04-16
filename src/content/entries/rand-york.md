@@ -2,13 +2,11 @@
 name: "Rand York"
 slug: "rand-york"
 positions:
-  - "law enforcement"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://ministrywatch.com/tag/christ-our-light-anglican-church/"
   - "https://ministrywatch.com/in-acna-abuse-case-mother-of-an-alleged-victim-says-she-paid-a-price-for-coming-forward/"

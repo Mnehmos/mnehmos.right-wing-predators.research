@@ -2,11 +2,10 @@
 name: "John C. Sapp, youth pastor at Maranatha Fellowship, Dover, DE"
 slug: "john-c-sapp-youth-pastor-at-maranatha-fellowship-dover-de"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.snapnetwork.org/youth_leader_indicted_89_counts_child_sex_abuse_snap_aug20"
 ---

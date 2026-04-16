@@ -3,8 +3,8 @@ name: "Daniel Ball, Florida insurrectionist pardoned by Trump"
 slug: "daniel-ball-florida-insurrectionist-pardoned-by-trump"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "maga"
 sources:

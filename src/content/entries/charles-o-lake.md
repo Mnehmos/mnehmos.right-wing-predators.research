@@ -2,12 +2,11 @@
 name: "Charles O. Lake"
 slug: "charles-o-lake"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.theledger.com/story/news/crime/2024/04/19/pcso-lake-alfred-commissioner-had-300-images-and-videos-of-child-porn/73383774007/"
 ---

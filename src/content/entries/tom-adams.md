@@ -2,14 +2,12 @@
 name: "Tom Adams"
 slug: "tom-adams"
 positions:
-  - "Local official"
-  - "Party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "Child pornography"
+  - "Child Pornography"
 tags:
-  - "Local official"
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.chicagotribune.com/news/ct-xpm-2009-07-03-0907010521-story.html"
   - "https://www.chicagotribune.com/news/ct-xpm-2009-07-03/0907010521-story.html"

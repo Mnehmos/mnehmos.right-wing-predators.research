@@ -2,11 +2,10 @@
 name: "Brian Ormes"
 slug: "brian-ormes"
 positions:
-  - "candidate"
-  - "congress"
+  - "Candidate"
+  - "US Representative"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
 sources:
   - "https://www.wcpo.com/news/northern-kentucky/kentucky-house-candidate-arrested-accused-of-strangling-teen-at-fort-wright-walmart"

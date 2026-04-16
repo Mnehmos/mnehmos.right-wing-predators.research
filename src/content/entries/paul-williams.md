@@ -3,14 +3,12 @@ name: "Paul Williams"
 slug: "paul-williams"
 positions:
   - "Religious Leader"
-  - "Church Official"
 crimes:
   - "Child Sexual Abuse"
   - "Child Molestation"
 tags:
-  - "Religious Leader"
-  - "Baptist"
-  - "Child Abuse"
+  - "baptist"
+  - "child abuse"
 sources:
   - "https://t.co/1E5yrAUNp2"
   - "https://baptistnews.com/article/bellevue-report-assistant-pastor-guilty-of-sex-abuse-against-son/"

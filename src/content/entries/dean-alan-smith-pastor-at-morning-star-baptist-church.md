@@ -2,11 +2,10 @@
 name: "Dean Alan Smith, pastor at Morning Star Baptist Church"
 slug: "dean-alan-smith-pastor-at-morning-star-baptist-church"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.ktvq.com/news/crime-watch/lame-deer-pastor-charged-with-sexual-abuse-of-children"
 ---

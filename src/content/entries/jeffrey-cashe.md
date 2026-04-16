@@ -2,13 +2,11 @@
 name: "Jeffrey Cashe"
 slug: "jeffrey-cashe"
 positions:
-  - "judge"
-  - "party member"
+  - "Judge"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "judge"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wbrz.com/news/investigative-unit-rape-victim-ordered-to-pay-her-abuser-child-support/"

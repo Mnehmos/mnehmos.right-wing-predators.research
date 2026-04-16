@@ -8,9 +8,7 @@ crimes:
   - "Assault"
   - "Sexual Trafficking"
   - "Prohibited Acts"
-tags:
-  - "Party Member"
-  - "State Legislator"
+tags: []
 sources:
   - "https://goppredators.wordpress.com/2022/08/27/173-norman-mcallister/"
 ---

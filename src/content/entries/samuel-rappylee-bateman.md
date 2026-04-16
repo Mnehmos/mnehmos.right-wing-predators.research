@@ -2,14 +2,13 @@
 name: "Samuel Rappylee Bateman"
 slug: "samuel-rappylee-bateman"
 positions:
-  - "FLDS offshoot leader"
-  - "self-proclaimed prophet"
+  - "Religious Leader"
 crimes:
-  - "child abuse"
-  - "sexual trafficking"
-  - "polygamy"
+  - "Child Abuse"
+  - "Sexual Trafficking"
+  - "Polygamy"
 tags:
-  - "FLDS"
+  - "flds"
   - "polygamy"
   - "child trafficking"
   - "cult"

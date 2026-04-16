@@ -2,13 +2,12 @@
 name: "Dustin Spillers, former youth pastor at Abba's House church"
 slug: "dustin-spillers-former-youth-pastor-at-abba-s-house-church"
 positions:
-  - "congress"
-  - "religious leader"
+  - "US Representative"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
   - "congress"
-  - "religious leader"
 sources:
   - "https://www.local3news.com/former-pta-president-with-ties-to-local-churches-charged-for-child-molestation-and-sexual-battery/article_5a003d3a-96e9-11ed-973a-eb51e8e5cb81.html"
   - "https://theheartofabba.com/2016/12/01/ready-fire-aim/"

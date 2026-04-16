@@ -2,13 +2,12 @@
 name: "Southern Baptist Church Leadership"
 slug: "southern-baptist-church-leadership"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-  - "child molestation"
-  - "rape"
+  - "Sexual Abuse"
+  - "Child Molestation"
+  - "Rape"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.newsweek.com/southern-baptist-sexual-abuse-rape-predators-scandal-church-christian-leaders-1325750"

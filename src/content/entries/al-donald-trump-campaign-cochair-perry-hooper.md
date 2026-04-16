@@ -2,15 +2,13 @@
 name: "AL Donald Trump campaign cochair Perry Hooper"
 slug: "al-donald-trump-campaign-cochair-perry-hooper"
 positions:
-  - "party official"
-  - "state legislator"
+  - "Party Official"
+  - "State Legislator"
 crimes:
-  - "assault"
-  - "sexual abuse"
+  - "Assault"
+  - "Sexual Abuse"
 tags:
   - "maga"
-  - "party official"
-  - "state legislator"
 sources:
   - "https://www.al.com/news/2022/08/perry-hooper-jr-former-alabama-lawmaker-charged-with-sex-abuse-in-montgomery.html"
   - "https://1819news.com/news/item/circuit-judge-drops-sexual-abuse-case-against-perry-hooper-jr"

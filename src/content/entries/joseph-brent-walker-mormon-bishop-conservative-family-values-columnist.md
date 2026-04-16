@@ -2,10 +2,9 @@
 name: "Joseph Brent Walker, Mormon Bishop, conservative \"family values\" columnist"
 slug: "joseph-brent-walker-mormon-bishop-conservative-family-values-columnist"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.deseret.com/utah/2025/08/22/joseph-walker-charges-enticement/"
 ---

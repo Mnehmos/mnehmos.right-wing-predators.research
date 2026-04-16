@@ -2,13 +2,11 @@
 name: "Rodney Creech, Ohio"
 slug: "rodney-creech-ohio"
 positions:
-  - "party official"
-  - "state legislator"
+  - "Party Official"
+  - "State Legislator"
 crimes: []
 tags:
-  - "party official"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.cleveland.com/news/2025/05/republican-representative-sanctioned-by-ohio-house-following-sexual-misconduct-investigation.html"
 ---

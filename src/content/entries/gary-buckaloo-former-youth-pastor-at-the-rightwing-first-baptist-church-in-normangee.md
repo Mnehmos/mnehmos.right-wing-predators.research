@@ -2,13 +2,11 @@
 name: "Gary Buckaloo, former youth pastor at the rightwing First Baptist Church in Normangee"
 slug: "gary-buckaloo-former-youth-pastor-at-the-rightwing-first-baptist-church-in-normangee"
 positions:
-  - "educator"
-  - "religious leader"
+  - "Educator"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.kbtx.com/2023/03/07/leon-county-youth-pastor-teacher-indicted-child-sex-crimes/"
 ---

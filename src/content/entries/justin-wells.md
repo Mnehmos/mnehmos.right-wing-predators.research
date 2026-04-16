@@ -3,8 +3,8 @@ name: "Justin Wells"
 slug: "justin-wells"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://www.nbcnews.com/news/us-news/tucker-carlsons-longtime-producer-accused-2008-sexual-assault-rcna128062"

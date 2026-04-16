@@ -4,11 +4,10 @@ slug: "nicholas-morency"
 positions:
   - "Activist"
 crimes:
-  - "Child pornography"
-  - "Incitement to violence"
+  - "Child Pornography"
+  - "Incitement To Violence"
 tags:
-  - "Activist"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.washingtonpost.com/archive/politics/2001/03/10/nation-in-brief/83fbbb01-c7fc-437a-81c4-2f686e3f1e58/"
 ---

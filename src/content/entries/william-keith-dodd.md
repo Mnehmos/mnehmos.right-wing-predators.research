@@ -2,11 +2,10 @@
 name: "William Keith Dodd"
 slug: "william-keith-dodd"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://kggfradio.com/local-news/735267"
 ---

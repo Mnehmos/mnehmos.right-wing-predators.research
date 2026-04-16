@@ -2,14 +2,12 @@
 name: "Philip Giordano"
 slug: "philip-giordano"
 positions:
-  - "Local official"
-  - "Party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "Sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "Local official"
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.nytimes.com/2003/03/26/ex-mayor-convicted-in-sex-abuse-case.html"
 ---

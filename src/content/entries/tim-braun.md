@@ -2,11 +2,10 @@
 name: "Tim Braun"
 slug: "tim-braun"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
-  - "law enforcement"
   - "republican"
 sources:
   - "https://www.toledoblade.com/local/courts/2019/12/06/sandusky-county-prosecutor-tim-braun-plea-deal-sexual-misconduct/stories/20191206085"

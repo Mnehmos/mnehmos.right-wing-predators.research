@@ -2,13 +2,11 @@
 name: "Jose \"Pepe\" Diaz"
 slug: "jose-pepe-diaz"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.miaminewtimes.com/news/former-sweetwater-mayor-jose-m-diaz-accused-of-sexually-harassing-city-employee-11210894"

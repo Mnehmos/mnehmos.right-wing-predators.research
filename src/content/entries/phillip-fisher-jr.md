@@ -2,15 +2,12 @@
 name: "Phillip Fisher Jr"
 slug: "phillip-fisher-jr"
 positions:
-  - "party member"
-  - "party official"
-  - "religious leader"
+  - "Party Member"
+  - "Party Official"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "party official"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.inquirer.com/politics/philadelphia/moms-for-liberty-philadelphia-pastor-sex-offender-20231120.html"

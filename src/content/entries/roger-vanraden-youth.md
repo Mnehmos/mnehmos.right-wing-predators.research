@@ -2,13 +2,11 @@
 name: "Roger VanRaden, youth"
 slug: "roger-vanraden-youth"
 positions:
-  - "law enforcement"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.wcia.com/news/local-news/former-pastor-sentenced-to-15-years-in-prison-for-sexually-assaulting-teenager/"
 ---

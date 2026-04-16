@@ -5,8 +5,7 @@ positions:
   - "Party Official"
 crimes: []
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.nydailynews.com/news/politics/senator-1995-resignation-years-sexual-misconduct-article-1.3643124"
 ---

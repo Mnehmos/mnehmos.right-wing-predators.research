@@ -2,13 +2,12 @@
 name: "Bill Gothard, former leader of conservative homeschooling Institute"
 slug: "bill-gothard-former-leader-of-conservative-homeschooling-institute"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
-  - "sexual harassment"
-tags:
-  - "party official"
+  - "Child Molestation"
+  - "Sexual Abuse"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.washingtonpost.com/news/acts-of-faith/wp/2016/01/06/new-charges-allege-religious-leader-who-has-ties-to-the-duggars-sexually-abused-women/?variant=d846d44221ecba95"
 ---

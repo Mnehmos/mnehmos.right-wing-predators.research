@@ -2,11 +2,10 @@
 name: "Alaska's Republican Attorney General Kevin Clarkson"
 slug: "alaska-s-republican-attorney-general-kevin-clarkson"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.propublica.org/article/alaskas-attorney-general-on-unpaid-leave-after-sending-hundreds-of-uncomfortable-texts-to-a-young-colleague?utm_source=twitter&utm_medium=social"

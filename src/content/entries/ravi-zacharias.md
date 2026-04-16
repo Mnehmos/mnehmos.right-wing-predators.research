@@ -2,12 +2,11 @@
 name: "Ravi Zacharias"
 slug: "ravi-zacharias"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "maga"
-  - "party official"
 sources:
   - "https://www.christianitytoday.com/news/2020/september/ravi-zacharias-sexual-harassment-rzim-spa-massage-investiga.html"
   - "https://frenchpress.thedispatch.com/p/you-are-one-step-away-from-complete?s=r"

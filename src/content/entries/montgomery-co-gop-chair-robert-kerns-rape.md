@@ -8,8 +8,7 @@ crimes:
   - "Rape"
   - "Sexual Assault"
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://patch.com/pennsylvania/lansdale/ex-north-wales-lawyer-montco-gop-chief-disbarred-amidst-charges"
   - "https://www.mcall.com/news/mc-xpm-2014-04-25/mc-montgomery-county-gop-rape-arrest-20140425-story.html"

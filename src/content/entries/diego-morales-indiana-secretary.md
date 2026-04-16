@@ -2,17 +2,14 @@
 name: "Diego Morales, Indiana Secretary"
 slug: "diego-morales-indiana-secretary"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://indianacapitalchronicle.com/2022/10/04/could-morales-allegations-affect-secretary-of-states-race/"

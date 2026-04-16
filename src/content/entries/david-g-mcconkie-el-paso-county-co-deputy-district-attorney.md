@@ -2,12 +2,11 @@
 name: "David G. McConkie, El Paso County, CO, Deputy District Attorney"
 slug: "david-g-mcconkie-el-paso-county-co-deputy-district-attorney"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://gazette.com/news/local/former-colorado-springs-deputy-district-attorney-church-leader-accepts-plea-agreement-in-child-sex-assault/article_456eed4d-d06e-488e-8322-f4fa924ebb34.html"
 ---

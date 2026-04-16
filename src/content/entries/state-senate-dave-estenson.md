@@ -2,15 +2,12 @@
 name: "State Senate Dave Estenson"
 slug: "state-senate-dave-estenson"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.trempcountytimes.com/news/local-senate-candidate-accused-misconduct-while-working-police-office"

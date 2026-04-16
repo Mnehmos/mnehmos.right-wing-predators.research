@@ -2,13 +2,13 @@
 name: "Strom Thurmond"
 slug: "strom-thurmond"
 positions:
-  - "Congressman (SC)"
+  - "US Representative"
 crimes:
   - "Rape"
-  - "Sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "Congress"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://web.archive.org/web/20190728115136/https"
 ---

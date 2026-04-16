@@ -2,11 +2,10 @@
 name: "Brandon Michael Fox, a Daytona police officer"
 slug: "brandon-michael-fox-a-daytona-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child exploitation"
-tags:
-  - "law enforcement"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.news-journalonline.com/story/news/courts/2023/03/15/ex-daytona-beach-police-officer-sentenced-to-prison-in-child-porn-case/70011243007/"
 ---

@@ -2,12 +2,10 @@
 name: "Joshua Schopp"
 slug: "joshua-schopp"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wafb.com/2022/08/17/school-board-candidate-accused-inappropriately-messaging-minor-snapchat/"

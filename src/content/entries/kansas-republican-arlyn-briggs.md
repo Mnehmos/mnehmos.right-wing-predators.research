@@ -2,14 +2,11 @@
 name: "Kansas Republican Arlyn Briggs"
 slug: "kansas-republican-arlyn-briggs"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://kansasreflector.com/2022/06/27/kansas-gop-governor-candidate-arrested-on-felony-charge-plunges-ahead-with-campaign/"

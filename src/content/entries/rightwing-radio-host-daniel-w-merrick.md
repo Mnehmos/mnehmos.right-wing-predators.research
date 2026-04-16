@@ -3,7 +3,7 @@ name: "Rightwing Radio Host Daniel W. Merrick"
 slug: "rightwing-radio-host-daniel-w-merrick"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.oleantimesherald.com/news/mckean-county-man-jailed-on-over-880-felony-counts-of-child-porn/article_2d918a13-917b-58f9-a054-cb0bd8ac999d.html"

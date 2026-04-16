@@ -2,11 +2,10 @@
 name: "Albert Benjamin Wharton"
 slug: "albert-benjamin-wharton"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.facebook.com/watch/?v=1327696387878319"
   - "https://www.wric.com/news/local-news/former-virginia-pastor-facing-30-felony-charges-including-indecent-liberties-with-a-child-aggravated-sexual-assault/"

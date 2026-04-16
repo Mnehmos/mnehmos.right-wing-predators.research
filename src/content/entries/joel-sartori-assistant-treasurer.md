@@ -2,13 +2,12 @@
 name: "Joel Sartori, assistant treasurer"
 slug: "joel-sartori-assistant-treasurer"
 positions:
-  - "congress"
-  - "party member"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://nypost.com/2022/07/13/carl-paladino-has-convicted-pedophile-on-campaign-staff/"

@@ -2,11 +2,10 @@
 name: "Johnny Hunt, former Southern Baptist Conference president"
 slug: "johnny-hunt-former-southern-baptist-conference-president"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://doctorpaul.org/2022/05/24/sbc-bombshell-report-johnny-hunt-ravi-zacharias-connection-revealed/"
 ---

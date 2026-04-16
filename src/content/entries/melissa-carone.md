@@ -3,7 +3,7 @@ name: "Melissa Carone"
 slug: "melissa-carone"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.deadlinedetroit.com/articles/26813/giuliani_s_michigan_witness_mellissa_carone_harassed_sent_sex_videos"

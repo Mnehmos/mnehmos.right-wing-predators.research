@@ -2,11 +2,10 @@
 name: "Troy Hinchey, Sheriff's Deputy"
 slug: "troy-hinchey-sheriff-s-deputy"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-tags:
-  - "law enforcement"
+  - "Assault"
+tags: []
 sources:
   - "http://www.supertalk929.com/2023/01/27/former-washington-county-virginia-officer-indicted-for-sexual-battery/"
 ---

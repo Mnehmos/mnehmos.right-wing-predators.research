@@ -2,10 +2,9 @@
 name: "Samuel Jason Ingle, Dean of Asheville Christian Academy"
 slug: "samuel-jason-ingle-dean-of-asheville-christian-academy"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.citizen-times.com/story/news/local/2024/06/07/asheville-christian-academy-coach-charged-with-sexual-act-with-student/74012671007/"

@@ -2,14 +2,12 @@
 name: "While there are no allegations against former TN state"
 slug: "while-there-are-no-allegations-against-former-tn-state"
 positions:
-  - "party official"
-  - "state legislator"
+  - "Party Official"
+  - "State Legislator"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "party official"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.tennessean.com/story/news/politics/2019/07/03/tennessee-rep-david-byrd-ashamed-his-past-amid-sex-assault-allegations/1634269001/"
 ---

@@ -3,7 +3,7 @@ name: "Le'Veon Bell, former NFL player who endorsed Trump"
 slug: "le-veon-bell-former-nfl-player-who-endorsed-trump"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "maga"
 sources:

@@ -6,7 +6,7 @@ crimes:
   - "Sexual Abuse"
   - "Sexual Harassment"
 tags:
-  - "MAGA"
+  - "maga"
 sources:
   - "https://www.vox.com/2018/7/5/17538132/bill-shine-fox-donald-trump-communications-sexual-harassment"
 ---

@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Candidate"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://caselaw.findlaw.com/us-9th-circuit/1221659.html"
 ---

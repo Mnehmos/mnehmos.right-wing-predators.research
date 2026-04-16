@@ -2,13 +2,11 @@
 name: "Cary Rhodes"
 slug: "cary-rhodes"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.dailycitizen.news/news/local_news/taylorsville-mayor-gets-prison-in-traveler-case/article_a3ce708a-83e0-5795-84ce-65728425fa23.html"

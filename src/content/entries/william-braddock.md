@@ -2,14 +2,11 @@
 name: "William Braddock"
 slug: "william-braddock"
 positions:
-  - "candidate"
-  - "judge"
-  - "party official"
+  - "Candidate"
+  - "Judge"
+  - "Party Official"
 crimes: []
 tags:
-  - "candidate"
-  - "judge"
-  - "party official"
   - "republican"
 sources:
   - "https://apnews.com/article/florida-government-and-politics-7b13452b08467b1bae1ddf318ad0e748"

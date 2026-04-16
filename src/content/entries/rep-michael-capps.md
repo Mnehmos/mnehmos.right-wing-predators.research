@@ -7,8 +7,7 @@ positions:
 crimes:
   - "Sexual Abuse"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.kcur.org/post/kansas-gop-cuts-ties-michael-capps-after-child-abuse-accusations-surface-https/"
 ---

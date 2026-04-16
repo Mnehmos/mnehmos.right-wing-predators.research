@@ -2,11 +2,10 @@
 name: "Andrew N Lackey"
 slug: "andrew-n-lackey"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "assault"
-tags:
-  - "educator"
+  - "Assault"
+tags: []
 sources:
   - "https://www.kwch.com/2023/12/20/seward-county-community-college-instructor-accused-child-sex-crime/"
 ---

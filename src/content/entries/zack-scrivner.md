@@ -3,8 +3,8 @@ name: "Zack Scrivner"
 slug: "zack-scrivner"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://lamag.com/news/kevin-mccarthy-protege-under-investigation-sexually-assaulting-daughter"

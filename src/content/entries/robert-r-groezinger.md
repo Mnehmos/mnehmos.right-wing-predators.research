@@ -2,14 +2,12 @@
 name: "Robert R. Groezinger"
 slug: "robert-r-groezinger"
 positions:
-  - "party member"
-  - "state legislator"
+  - "Party Member"
+  - "State Legislator"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.justice.gov/archive/usao/nys/pressreleases/December09/groezingersentencepr.pdf"
 ---

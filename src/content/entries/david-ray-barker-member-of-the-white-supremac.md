@@ -3,7 +3,7 @@ name: "David Ray Barker, member of the white supremac"
 slug: "david-ray-barker-member-of-the-white-supremac"
 positions: []
 crimes:
-  - "violence"
+  - "Violence"
 tags: []
 sources:
   - "https://law.justia.com/cases/texas/fourteenth-court-of-appeals/2011/87919.html"

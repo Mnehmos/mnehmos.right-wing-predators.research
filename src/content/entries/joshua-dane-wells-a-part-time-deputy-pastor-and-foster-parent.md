@@ -2,10 +2,9 @@
 name: "Joshua Dane Wells, a part-time deputy, pastor, and foster parent"
 slug: "joshua-dane-wells-a-part-time-deputy-pastor-and-foster-parent"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://mountainvalleynewspaper.com/featured/former-deputy-arrested-on-more-charges/"
 ---

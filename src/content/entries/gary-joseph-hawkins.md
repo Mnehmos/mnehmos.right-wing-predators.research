@@ -3,7 +3,7 @@ name: "Gary Joseph Hawkins"
 slug: "gary-joseph-hawkins"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://midutahradio.com/news/local-news/aurora-firefighter-arrested-in-online-child-exploitation-sting/"

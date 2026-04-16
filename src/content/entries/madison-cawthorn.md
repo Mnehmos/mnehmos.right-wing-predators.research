@@ -2,16 +2,14 @@
 name: "Madison Cawthorn"
 slug: "madison-cawthorn"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://world.wng.org/2020/08/rising_republican_star_faces_accusations_from_women"

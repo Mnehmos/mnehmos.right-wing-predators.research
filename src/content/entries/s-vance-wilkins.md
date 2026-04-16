@@ -2,11 +2,10 @@
 name: "S. Vance Wilkins"
 slug: "s-vance-wilkins"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.newsadvance.com/news/local/former-house-speaker-vance-wilkins-eyes-return-to-politics/article_60b4f340-9d07-11e3-9c47-0017a43b2370.html"

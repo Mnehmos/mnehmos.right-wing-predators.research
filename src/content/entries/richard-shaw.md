@@ -2,11 +2,10 @@
 name: "Richard Shaw"
 slug: "richard-shaw"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://dailyridge.com/2024/01/10/pcso-special-victims-unit-detectives-charged-wyoming-pastor-visiting-lakeland-with-lewd-molestation-against-a-polk-county-child/"
 ---

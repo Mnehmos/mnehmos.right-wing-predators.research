@@ -3,14 +3,13 @@ name: "Jon Grunseth"
 slug: "jon-grunseth"
 positions:
   - "Candidate"
-  - "Businessman"
+  - "Business Owner"
 crimes:
-  - "Indecent exposure"
-  - "Child endangerment"
+  - "Indecent Exposure"
+  - "Child Endangerment"
 tags:
-  - "Candidate"
-  - "Republican"
-  - "Minnesota"
+  - "republican"
+  - "minnesota"
 sources:
   - "https://www.mprnews.org/story/2017/11/21/history-1990-gubernatorial-race-rocked-by-scandal"
 ---

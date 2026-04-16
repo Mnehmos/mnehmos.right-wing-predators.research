@@ -2,13 +2,11 @@
 name: "Jared Woodfill, Harris County, TX, GOP chair and anti-gay activist"
 slug: "jared-woodfill-harris-county-tx-gop-chair-and-anti-gay-activist"
 positions:
-  - "activist"
-  - "party official"
+  - "Activist"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "activist"
-  - "party official"
   - "republican"
 sources:
   - "https://www.texastribune.org/2023/03/27/houston-jared-woodfill-gop-paul-pressler-southern-baptist/"

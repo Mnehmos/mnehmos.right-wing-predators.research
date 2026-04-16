@@ -3,8 +3,8 @@ name: "Blake Steiner, the Baton Rouge city-parish's chief building officer"
 slug: "blake-steiner-the-baton-rouge-city-parish-s-chief-building-officer"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.wbrz.com/news/ebr-s-contracted-chief-building-officer-arrested-for-allegedly-sharing-child-porn-with-undercover-officer"

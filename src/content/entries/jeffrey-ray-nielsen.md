@@ -7,11 +7,10 @@ positions:
 crimes:
   - "Child Sexual Abuse"
   - "Child Pornography"
-  - "Lewd Acts with Child"
+  - "Lewd Acts With Child"
 tags:
-  - "Government Official"
-  - "Republican"
-  - "California"
+  - "republican"
+  - "california"
 sources:
   - "https://t.co/kAikbXTEwJ"
 ---

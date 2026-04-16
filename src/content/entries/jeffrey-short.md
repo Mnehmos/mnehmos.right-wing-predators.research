@@ -2,14 +2,12 @@
 name: "Jeffrey Short"
 slug: "jeffrey-short"
 positions:
-  - "local official"
-  - "law enforcement"
+  - "Local Official"
+  - "Law Enforcement"
 crimes:
-  - "child molestation"
-  - "sexual assault"
+  - "Child Molestation"
+  - "Sexual Assault"
 tags:
-  - "local official"
-  - "law enforcement"
   - "republican"
 sources:
   - "https://www.koco.com/article/da-charges-asher-city-councilman-former-ice-agent-accused-of-preying-on-teen-girls/28627124"

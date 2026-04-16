@@ -2,10 +2,9 @@
 name: "Phillip Koons, a Ringling, OK, Hall of Fame football coach"
 slug: "phillip-koons-a-ringling-ok-hall-of-fame-football-coach"
 positions:
-  - "coach"
+  - "Coach"
 crimes: []
-tags:
-  - "coach"
+tags: []
 sources:
   - "https://www.thedailybeast.com/famed-ringling-high-school-"
 ---

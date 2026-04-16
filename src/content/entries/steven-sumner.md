@@ -2,14 +2,12 @@
 name: "Steven Sumner"
 slug: "steven-sumner"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
-  - "rape"
+  - "Child Pornography"
+  - "Rape"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://indianapublicradio.org/news/2020/12/madison-county-councilman-arrested-for-child-seduction/"

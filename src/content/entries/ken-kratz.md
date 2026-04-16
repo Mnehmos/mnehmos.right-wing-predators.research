@@ -3,10 +3,10 @@ name: "Ken Kratz"
 slug: "ken-kratz"
 positions: []
 crimes:
-  - "domestic violence"
-  - "rape"
-  - "sexual harassment"
-  - "violence"
+  - "Domestic Violence"
+  - "Rape"
+  - "Sexual Harassment"
+  - "Violence"
 tags: []
 sources:
   - "https://en.wikipedia.org/wiki/Ken_Kratz"

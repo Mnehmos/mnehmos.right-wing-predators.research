@@ -2,14 +2,13 @@
 name: "Gerald \"Jerry\" Cummings, recently elected Oregon GOP Chair"
 slug: "gerald-jerry-cummings-recently-elected-oregon-gop-chair"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "rape"
-  - "sexual abuse"
-  - "violence"
+  - "Domestic Violence"
+  - "Rape"
+  - "Sexual Abuse"
+  - "Violence"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.oregonjournalismproject.org/cummings"

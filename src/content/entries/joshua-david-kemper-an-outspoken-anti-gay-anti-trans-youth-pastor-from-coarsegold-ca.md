@@ -2,11 +2,10 @@
 name: "Joshua David Kemper, an outspoken anti-gay, anti-trans youth pastor from Coarsegold, CA"
 slug: "joshua-david-kemper-an-outspoken-anti-gay-anti-trans-youth-pastor-from-coarsegold-ca"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.lgbtqnation.com/2025/11/youth-pastor-arrested-for-child-once-claimed-lgbtq-people-make-women-feel-unsafe/"
 ---

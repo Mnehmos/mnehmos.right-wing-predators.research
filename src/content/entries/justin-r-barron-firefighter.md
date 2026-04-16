@@ -3,7 +3,7 @@ name: "Justin R. Barron, firefighter,"
 slug: "justin-r-barron-firefighter"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://twitter.com/antifaoperative/status/1694493722694627482?s=20"

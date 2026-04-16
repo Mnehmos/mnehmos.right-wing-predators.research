@@ -2,14 +2,12 @@
 name: "Timothy McGhee, GOP candidate for VA House District 30"
 slug: "timothy-mcghee-gop-candidate-for-va-house-district-30"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.arlnow.com/2025/01/10/breaking-substitute-teacher-fmr-candidate-arrested-for-sexual-relationship-with-student/"

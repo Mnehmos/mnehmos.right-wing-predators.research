@@ -2,14 +2,13 @@
 name: "John Sweeney"
 slug: "john-sweeney"
 positions:
-  - "congress"
-  - "law enforcement"
+  - "US Representative"
+  - "Law Enforcement"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "congress"
-  - "law enforcement"
 sources:
   - "https://www.nydailynews.com/2006/11/04/sweeney-faced-violence-charge-in-98-elex/"
   - "https://www.cbsnews.com/news/sweeneys-wife-claims-abuse/"

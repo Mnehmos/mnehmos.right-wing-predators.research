@@ -501,6 +501,269 @@
 }
 
 /* ============================================
+   Entry Card — shared between SSR and client-rendered cards
+   ============================================ */
+
+.entry-card {
+  height: 170px;
+}
+
+.card-link {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-title-area {
+  height: 30px;
+  padding-right: 28px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.4;
+}
+
+.card-meta-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+  align-items: center;
+  margin-bottom: 8px;
+  min-height: 20px;
+}
+
+.card-badges-area {
+  height: 26px;
+  overflow: hidden;
+}
+
+.positions-area {
+  margin-bottom: 6px;
+}
+
+.crimes-area {
+  margin-top: auto;
+}
+
+.badges-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+  align-items: center;
+  overflow: hidden;
+}
+
+.badge-placeholder {
+  height: 24px;
+  opacity: 0;
+}
+
+/* Card badges — override the @layer components .badge for grid-specific variants. */
+.entry-card .badge,
+#entries-grid .badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  white-space: nowrap;
+  flex-shrink: 0;
+  line-height: 1.4;
+}
+
+.entry-card .badge-position,
+#entries-grid .badge-position {
+  background-color: rgba(184, 115, 51, 0.15);
+  color: #8b5a2b;
+  border: 1px solid rgba(184, 115, 51, 0.35);
+}
+
+.dark .entry-card .badge-position,
+.dark #entries-grid .badge-position {
+  background-color: rgba(184, 115, 51, 0.2);
+  color: #d4956a;
+  border-color: rgba(184, 115, 51, 0.4);
+}
+
+.entry-card .badge-crime,
+#entries-grid .badge-crime {
+  background-color: rgba(239, 68, 68, 0.12);
+  color: rgb(185, 28, 28);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+}
+
+.dark .entry-card .badge-crime,
+.dark #entries-grid .badge-crime {
+  background-color: rgba(127, 29, 29, 0.4);
+  color: rgb(252, 165, 165);
+  border-color: rgba(185, 28, 28, 0.3);
+}
+
+/* badge-more: bumped contrast in light mode to meet AA */
+.entry-card .badge-more,
+#entries-grid .badge-more {
+  background-color: rgba(120, 113, 108, 0.25);
+  color: rgb(68, 64, 60);
+  border: 1px solid rgba(120, 113, 108, 0.35);
+}
+
+.dark .entry-card .badge-more,
+.dark #entries-grid .badge-more {
+  background-color: rgba(68, 64, 60, 0.5);
+  color: rgb(214, 211, 209);
+  border-color: rgba(87, 83, 78, 0.4);
+}
+
+.entry-card .badge-sources,
+#entries-grid .badge-sources {
+  background-color: rgba(59, 130, 246, 0.12);
+  color: rgb(37, 99, 235);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+.dark .entry-card .badge-sources,
+.dark #entries-grid .badge-sources {
+  background-color: rgba(30, 58, 138, 0.4);
+  color: rgb(147, 197, 253);
+  border-color: rgba(59, 130, 246, 0.35);
+}
+
+.entry-card .badge-research,
+#entries-grid .badge-research {
+  background-color: rgba(234, 179, 8, 0.15);
+  color: rgb(161, 98, 7);
+  border: 1px solid rgba(234, 179, 8, 0.35);
+}
+
+.dark .entry-card .badge-research,
+.dark #entries-grid .badge-research {
+  background-color: rgba(113, 63, 18, 0.4);
+  color: rgb(253, 224, 71);
+  border-color: rgba(161, 98, 7, 0.4);
+}
+
+/* ============================================
+   Active filter chips
+   ============================================ */
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 10px;
+  min-height: 32px;
+  border-radius: 9999px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  background-color: rgba(184, 115, 51, 0.15);
+  color: #8b5a2b;
+  border: 1px solid rgba(184, 115, 51, 0.35);
+  cursor: pointer;
+  transition: background-color 150ms, color 150ms;
+}
+
+.chip:hover,
+.chip:focus-visible {
+  background-color: rgba(184, 115, 51, 0.25);
+  color: #6b4420;
+  outline: none;
+}
+
+.dark .chip {
+  background-color: rgba(184, 115, 51, 0.2);
+  color: #d4956a;
+  border-color: rgba(184, 115, 51, 0.4);
+}
+
+.dark .chip:hover,
+.dark .chip:focus-visible {
+  background-color: rgba(184, 115, 51, 0.3);
+  color: #e7c49a;
+}
+
+/* ============================================
+   Pagination buttons (client-rendered)
+   ============================================ */
+
+.pg-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.5rem;
+  min-height: 44px;
+  padding: 0 12px;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  background-color: rgb(231, 229, 228);
+  color: rgb(68, 64, 60);
+  border: 1px solid rgb(214, 211, 209);
+  cursor: pointer;
+  transition: background-color 150ms, color 150ms, border-color 150ms;
+}
+
+.pg-btn:hover,
+.pg-btn:focus-visible {
+  background-color: rgb(214, 211, 209);
+  color: var(--copper);
+  border-color: var(--copper);
+  outline: none;
+}
+
+.dark .pg-btn {
+  background-color: rgb(41, 37, 36);
+  color: rgb(214, 211, 209);
+  border-color: rgb(68, 64, 60);
+}
+
+.dark .pg-btn:hover,
+.dark .pg-btn:focus-visible {
+  background-color: rgb(68, 64, 60);
+  color: var(--copper);
+  border-color: var(--copper);
+}
+
+.pg-btn-current {
+  background-color: var(--copper) !important;
+  color: white !important;
+  border-color: var(--copper) !important;
+  cursor: default;
+}
+
+.pg-btn-disabled {
+  background-color: rgb(245, 245, 244);
+  color: rgb(168, 162, 158);
+  border-color: rgb(231, 229, 228);
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.dark .pg-btn-disabled {
+  background-color: rgba(28, 25, 23, 0.5);
+  color: rgb(87, 83, 78);
+  border-color: rgba(68, 64, 60, 0.5);
+}
+
+/* ============================================
+   Touch targets (mobile)
+   ============================================ */
+
+@media (max-width: 640px) {
+  /* Min 44×44 tap targets on all interactive elements in entry grid */
+  .entries-grid a,
+  .entries-grid button {
+    min-height: 44px;
+  }
+}
+
+/* ============================================
    Print Styles
    ============================================ */
 

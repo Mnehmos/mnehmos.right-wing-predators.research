@@ -4,8 +4,7 @@ slug: "wasilla-republican-sen-david-wilson"
 positions:
   - "Party Member"
 crimes: []
-tags:
-  - "Party Member"
+tags: []
 sources:
   - "https://www.apnews.com/04982538dcba493cb5b2dd4a54ca1574"
 ---

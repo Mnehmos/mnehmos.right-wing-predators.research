@@ -2,14 +2,12 @@
 name: "Dominic Foppoli"
 slug: "dominic-foppoli"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.sfchronicle.com/projects/2021/windsor-mayor-dominic-foppoli-sexual-assault-allegations/"

@@ -2,11 +2,10 @@
 name: "Tony Ernest Bunton, Statesville NC pastor"
 slug: "tony-ernest-bunton-statesville-nc-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child exploitation"
-tags:
-  - "religious leader"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://flipboard.com/topic/metrolina/statesville-pastor-arrested-for-second-time-on-child-pornography-charges/f-2c7423a574%2Fstatesville.com"
 ---

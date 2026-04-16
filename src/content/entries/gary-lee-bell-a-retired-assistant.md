@@ -3,7 +3,7 @@ name: "Gary Lee Bell, a retired assistant"
 slug: "gary-lee-bell-a-retired-assistant"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.ksl.com/article/50463801/former-attorney-for-ags-child-protection-division-arrested-in-child-porn-investigation"

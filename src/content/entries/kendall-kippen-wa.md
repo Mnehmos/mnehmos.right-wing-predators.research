@@ -2,14 +2,12 @@
 name: "Kendall Kippen, WA"
 slug: "kendall-kippen-wa"
 positions:
-  - "law enforcement"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes:
-  - "rape"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
-  - "religious leader"
+  - "Rape"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.heraldnet.com/news/arlington-youth-pastor-charged-with-child-rape/"
 ---

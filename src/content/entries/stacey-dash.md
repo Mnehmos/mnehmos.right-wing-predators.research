@@ -2,12 +2,11 @@
 name: "Stacey Dash"
 slug: "stacey-dash"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "domestic violence"
-  - "assault"
+  - "Domestic Violence"
+  - "Assault"
 tags:
-  - "activist"
   - "republican"
   - "maga"
 sources:

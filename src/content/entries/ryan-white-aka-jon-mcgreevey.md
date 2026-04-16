@@ -3,7 +3,7 @@ name: "Ryan White AKA Jon McGreevey"
 slug: "ryan-white-aka-jon-mcgreevey"
 positions: []
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags: []
 sources:
   - "https://harfordsheriff.org/news/releases/senate-candidate-arrested-charged-with-false-report/"

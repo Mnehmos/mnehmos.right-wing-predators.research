@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Child Exploitation"
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://t.co/LzzEQZdZTT"
 ---

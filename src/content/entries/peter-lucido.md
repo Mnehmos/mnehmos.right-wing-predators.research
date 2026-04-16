@@ -2,12 +2,11 @@
 name: "Peter Lucido"
 slug: "peter-lucido"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
-  - "rape"
+  - "Sexual Harassment"
+  - "Rape"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.michiganadvance.com/2020/01/15/i-tried-to-interview-sen-peter-lucido-he-told-me-a-group-of-schoolboys-could-have-a-lot-of-fun-with-me/"

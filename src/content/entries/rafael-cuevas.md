@@ -2,11 +2,10 @@
 name: "Rafael Cuevas"
 slug: "rafael-cuevas"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.firstcoastnews.com/article/news/crime/jacksonville-pastor-sentenced-for-sex-crimes-with-minor/77-cb99e078-0079-4e2f-ab13-d0e64828e732"
 ---

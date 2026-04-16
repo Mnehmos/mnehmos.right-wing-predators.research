@@ -2,16 +2,14 @@
 name: "NC Republican"
 slug: "nc-republican"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/north-carolina-maga-congressional-candidate-sandy-smith-has-even-more-wild-secrets?ref=home"

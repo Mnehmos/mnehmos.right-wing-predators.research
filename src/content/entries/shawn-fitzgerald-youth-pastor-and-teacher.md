@@ -2,12 +2,10 @@
 name: "Shawn Fitzgerald, youth pastor and teacher"
 slug: "shawn-fitzgerald-youth-pastor-and-teacher"
 positions:
-  - "educator"
-  - "religious leader"
+  - "Educator"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "educator"
-  - "religious leader"
+tags: []
 sources:
   - "https://nbc-"
 ---

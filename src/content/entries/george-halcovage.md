@@ -2,13 +2,11 @@
 name: "George Halcovage"
 slug: "george-halcovage"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.mcall.com/news/pennsylvania/mc-nws-pa-argall-halcovage-resign-20210503-oecdluwrbzd5zlvltlwzjdm3uy-story.html"

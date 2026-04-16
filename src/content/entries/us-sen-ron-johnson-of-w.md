@@ -2,13 +2,11 @@
 name: "US Sen. Ron Johnson of W"
 slug: "us-sen-ron-johnson-of-w"
 positions:
-  - "local official"
-  - "religious leader"
+  - "Local Official"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "local official"
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://washingtonmonthly.com/2010/09/29/ron-johnsons-bizarre-position-on-child-abuse-victims/"
 ---

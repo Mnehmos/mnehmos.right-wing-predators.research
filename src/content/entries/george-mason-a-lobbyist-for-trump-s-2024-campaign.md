@@ -2,11 +2,10 @@
 name: "George Mason, a lobbyist for Trump's 2024 campaign"
 slug: "george-mason-a-lobbyist-for-trump-s-2024-campaign"
 positions:
-  - "lobbyist"
+  - "Lobbyist"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "lobbyist"
   - "maga"
 sources:
   - "https://www.charlotteobserver.com/news/local/crime/article312856764.html"

@@ -2,12 +2,12 @@
 name: "Blake Farenthold"
 slug: "blake-farenthold"
 positions:
-  - "Congress"
+  - "US Representative"
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Congress"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://www.rollcall.com/news/politics/farenthold-resigns-after-sexual-harassment-scandal"
 ---

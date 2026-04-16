@@ -3,8 +3,8 @@ name: "Jana Bradford - tough on crime prosecutor"
 slug: "jana-bradford-tough-on-crime-prosecutor"
 positions: []
 crimes:
-  - "child pornography"
-  - "rape"
+  - "Child Pornography"
+  - "Rape"
 tags: []
 sources:
   - "https://www.nbcnews.com/news/us-news/arkansas-prosecutor-barry-walker-avoid-child-abuse-charges-rcna83390"

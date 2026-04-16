@@ -2,13 +2,11 @@
 name: "Rick Roeber"
 slug: "rick-roeber"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.kansascity.com/opinion/editorials/article246067965.html"

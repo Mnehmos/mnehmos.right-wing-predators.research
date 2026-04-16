@@ -2,12 +2,11 @@
 name: "Stephen Bratton"
 slug: "stephen-bratton"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
+  - "Child Molestation"
+  - "Sexual Abuse"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://thehill.com/homenews/state-watch/448825-former-pastor-in-texas-charged-with-child-sex-abuse"

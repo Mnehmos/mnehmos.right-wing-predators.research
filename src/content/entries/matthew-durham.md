@@ -2,12 +2,11 @@
 name: "Matthew Durham"
 slug: "matthew-durham"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "domestic violence"
-  - "violence"
-tags:
-  - "local official"
+  - "Domestic Violence"
+  - "Violence"
+tags: []
 sources:
   - "https://wgog.com/april-to-be-set-as-matthew-durham-trial-date/"
 ---

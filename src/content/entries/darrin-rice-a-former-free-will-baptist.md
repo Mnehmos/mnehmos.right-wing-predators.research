@@ -2,15 +2,13 @@
 name: "Darrin Rice, a former Free Will Baptist"
 slug: "darrin-rice-a-former-free-will-baptist"
 positions:
-  - "coach"
-  - "religious leader"
+  - "Coach"
+  - "Religious Leader"
 crimes:
-  - "rape"
-  - "sexual abuse"
-  - "sodomy"
-tags:
-  - "coach"
-  - "religious leader"
+  - "Rape"
+  - "Sexual Abuse"
+  - "Sodomy"
+tags: []
 sources:
   - "https://www.paintsvilleherald.com/news/former-jchs-girls-basketball-coach-arrested-on-rape-sodomy-sexual-abuse-charges/article_5e6a927c-39eb-11ed-8fd5-b7fbf2ed7986.html"
 ---

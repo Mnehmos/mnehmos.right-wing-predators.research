@@ -3,7 +3,7 @@ name: "Edward Hemenway"
 slug: "edward-hemenway"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.kpcnews.com/article_ad8059dc-9856-5ace-a241-9bade2d10777.html"

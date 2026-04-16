@@ -2,13 +2,12 @@
 name: "Richard Gardner"
 slug: "richard-gardner"
 positions:
-  - "State legislator"
+  - "State Legislator"
 crimes:
-  - "Child molestation"
-  - "Sexual abuse"
+  - "Child Molestation"
+  - "Sexual Abuse"
 tags:
-  - "State legislator"
-  - "Republican"
+  - "republican"
 sources:
   - "https://lasvegassun.com/news/2002/oct/14/assembly-candidate-gardner-ruled-ineligible-due-to/"
 ---

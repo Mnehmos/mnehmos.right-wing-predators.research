@@ -3,14 +3,12 @@ name: "Andrew Buhr"
 slug: "andrew-buhr"
 positions:
   - "Candidate"
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Sexual abuse"
+  - "Sexual Abuse"
   - "Sodomy"
 tags:
-  - "Candidate"
-  - "Party official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://news.google.com/newspapers?nid=1908&dat=20040108&id=SNwfAAAAIBAJ&sjid=KANSASBITUNESHERALD"
 ---

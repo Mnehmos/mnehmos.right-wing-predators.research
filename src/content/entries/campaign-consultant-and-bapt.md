@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Party Member"
-  - "Religious Leader"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.jacksonville.com/news/public-safety/georgia/2017-04-25/judge-sentences-kenneth-adkins-life-prison-child-molestation"
 ---

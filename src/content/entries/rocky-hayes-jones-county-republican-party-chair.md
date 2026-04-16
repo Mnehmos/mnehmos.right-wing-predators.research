@@ -2,11 +2,10 @@
 name: "Rocky Hayes, Jones County Republican Party Chair"
 slug: "rocky-hayes-jones-county-republican-party-chair"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.keloland.com/news/local-news/child-porn-cyber-tip-leads-to-arrest-of-sioux-falls-man/"

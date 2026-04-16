@@ -2,12 +2,11 @@
 name: "Dan Waddington, former police officer, Utah Valley"
 slug: "dan-waddington-former-police-officer-utah-valley"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.abc4.com/news/wasatch-front/former-officer-uvu-professor-of-criminal-justice-arrested-for-child-porn/"
 ---

@@ -2,11 +2,10 @@
 name: "Alexander Kenoyer, former Cripple Creek, CO, police"
 slug: "alexander-kenoyer-former-cripple-creek-co-police"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual trafficking"
-tags:
-  - "law enforcement"
+  - "Sexual Trafficking"
+tags: []
 sources:
   - "https://gazette.com/pikespeakcourier/news/cripple-creek-detective-pleads-guilty-in-sex-case/article_3eb46714-0ace-11ee-b875-6bb87433b480.html"
 ---

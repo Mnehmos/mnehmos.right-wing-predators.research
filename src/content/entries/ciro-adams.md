@@ -2,11 +2,10 @@
 name: "Ciro Adams"
 slug: "ciro-adams"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://www.delawarepublic.org/post/wilmington-city-councilman-accused-sexual-racial-harassment-suit-against-city"

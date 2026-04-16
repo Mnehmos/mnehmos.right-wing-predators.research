@@ -2,13 +2,11 @@
 name: "Matthew Foster, GOP"
 slug: "matthew-foster-gop"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.bangordailynews.com/2022/11/03/mainefocus/matthew-foster-sexual-assault-investigation-denial/"

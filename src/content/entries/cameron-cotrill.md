@@ -2,12 +2,11 @@
 name: "Cameron Cotrill"
 slug: "cameron-cotrill"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.yahoo.com/news/ms-coast-media-minister-pleads-152430346.html"
 ---

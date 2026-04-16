@@ -2,10 +2,9 @@
 name: "James Zedaker"
 slug: "james-zedaker"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://floridapolitics.com/archives/486821-fsu-associate-dean-james-zedaker-resigns-amid-sexual-misconduct-investigation/"

@@ -2,13 +2,11 @@
 name: "Keith Farrell, Republican City Councilman in Providence, KY"
 slug: "keith-farrell-republican-city-councilman-in-providence-ky"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.14news.com/2024/06/13/update-providence-city-councilman-arrested-sexual-abuse-charge/"

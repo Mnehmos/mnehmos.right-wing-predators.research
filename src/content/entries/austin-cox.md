@@ -2,10 +2,9 @@
 name: "Austin Cox"
 slug: "austin-cox"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.deseret.com/utah/2021/10/7/22715444/investigation-substantiates-claims-of-sexual-misconduct-by-gov-coxs-2020-campaign-manager-governor"

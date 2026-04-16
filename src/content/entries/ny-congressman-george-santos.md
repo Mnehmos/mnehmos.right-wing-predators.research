@@ -2,9 +2,9 @@
 name: "NY Congressman George Santos"
 slug: "ny-congressman-george-santos"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "congress"
 sources:

@@ -3,7 +3,7 @@ name: "Ken Kurson"
 slug: "ken-kurson"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

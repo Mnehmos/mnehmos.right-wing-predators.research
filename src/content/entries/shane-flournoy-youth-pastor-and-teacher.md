@@ -2,15 +2,12 @@
 name: "Shane Flournoy, youth pastor and teacher"
 slug: "shane-flournoy-youth-pastor-and-teacher"
 positions:
-  - "educator"
-  - "law enforcement"
-  - "religious leader"
+  - "Educator"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "educator"
-  - "law enforcement"
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.chron.com/news/article/Texas-School-for-the-Deaf-worker-arrested-on-sex-8467097.php%20"
 ---

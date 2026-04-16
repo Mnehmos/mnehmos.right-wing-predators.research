@@ -2,10 +2,9 @@
 name: "Dale Kenyon"
 slug: "dale-kenyon"
 positions:
-  - "local official"
+  - "Local Official"
 crimes: []
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://cnycentral.com/news/local/deputies-jefferson-county-man-facing-22-counts-of"

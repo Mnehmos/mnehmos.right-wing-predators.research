@@ -2,10 +2,9 @@
 name: "Jake Freeman"
 slug: "jake-freeman"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.reviewjournal.com/local/local-las-vegas/las-vegas-police-officer-dies-by-suicide-after-arrest-2974912/"
 ---

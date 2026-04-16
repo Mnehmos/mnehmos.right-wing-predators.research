@@ -2,11 +2,10 @@
 name: "Joshua Powell"
 slug: "joshua-powell"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "activist"
   - "republican"
 sources:
   - "https://washingtonpress.com/2019/08/30/a-top-nra-official-has-been-exposed-quietly-settling-two-sex-harassment-complaints/"

@@ -2,13 +2,11 @@
 name: "Ed Sniffen"
 slug: "ed-sniffen"
 positions:
-  - "coach"
-  - "party member"
+  - "Coach"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "coach"
-  - "party member"
   - "republican"
 sources:
   - "https://www.propublica.org/article/sexual-misconduct-allegations-prompt-another-alaska-attorney-general-to-resign"

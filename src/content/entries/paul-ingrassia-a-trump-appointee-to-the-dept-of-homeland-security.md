@@ -3,7 +3,7 @@ name: "Paul Ingrassia, a Trump appointee to the Dept. of Homeland Security"
 slug: "paul-ingrassia-a-trump-appointee-to-the-dept-of-homeland-security"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

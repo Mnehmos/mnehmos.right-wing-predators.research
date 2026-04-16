@@ -2,10 +2,9 @@
 name: "Michael James Shover, a"
 slug: "michael-james-shover-a"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://littlevillagemag.com/abortion-ban-passes-iowa-legislature-after-seven-hour-debate/"
 ---

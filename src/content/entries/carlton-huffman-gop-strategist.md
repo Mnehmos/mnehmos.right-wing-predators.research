@@ -2,11 +2,10 @@
 name: "Carlton Huffman, GOP Strategist"
 slug: "carlton-huffman-gop-strategist"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.cnn.com/2023/03/10/politics/carlton-huffman-gop-strategist-sexual-assault-allegation/index.html"

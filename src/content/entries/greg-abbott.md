@@ -2,11 +2,10 @@
 name: "Greg Abbott"
 slug: "greg-abbott"
 positions:
-  - "governor"
+  - "Governor"
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
-  - "governor"
   - "republican"
 sources:
   - "https://www.texastribune.org/2019/06/21/abbott-vetos-child-prostitution-bill/"

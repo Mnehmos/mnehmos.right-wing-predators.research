@@ -2,15 +2,12 @@
 name: "Clarice Schillinger"
 slug: "clarice-schillinger"
 positions:
-  - "activist"
-  - "candidate"
-  - "party member"
+  - "Activist"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "activist"
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.phillyburbs.com/story/news/politics/2023/12/28/clarice-schillinger-conservative-pa-schools-activist-charged-with-assault-bucks-county-pac-lt-gov/72038859007/"

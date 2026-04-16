@@ -2,11 +2,10 @@
 name: "Jeffrey Duncan"
 slug: "jeffrey-duncan"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://omaha.com/news/local/crime-courts/former-omaha-pastor-sentenced-for-third-degree-sexual-assault-of-child/article_c6d8d876-ec39-11ee-9cec-f7dcacf8e0bd.html"
 ---

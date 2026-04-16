@@ -5,9 +5,7 @@ positions:
   - "Party Official"
   - "State Legislator"
 crimes: []
-tags:
-  - "Party Official"
-  - "State Legislator"
+tags: []
 sources:
   - "https://www.thedailybeast.com/new-hampshire-state-rep-who-created-reddits-red-pill-site-and-harassed-women/"
 ---

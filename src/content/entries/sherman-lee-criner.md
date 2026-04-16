@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Candidate"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.wect.com/story/4679177/state-senate-candidate-becomes-center-of-child-molestation-investigation"
 ---

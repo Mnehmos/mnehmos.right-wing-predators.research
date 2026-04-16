@@ -2,12 +2,11 @@
 name: "Rene Pedrosa"
 slug: "rene-pedrosa"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child exploitation"
-  - "sexual assault"
+  - "Child Exploitation"
+  - "Sexual Assault"
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://www.miamiherald.com/news/local/community/miami-dade/article240069403.html"

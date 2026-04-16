@@ -2,16 +2,14 @@
 name: "Dr. W. David Hager"
 slug: "dr-w-david-hager"
 positions:
-  - "Government official"
-  - "Medical professional"
+  - "Government Official"
+  - "Medical Professional"
 crimes:
-  - "Sexual assault"
-  - "Marital rape"
+  - "Sexual Assault"
+  - "Marital Rape"
   - "Sodomy"
 tags:
-  - "Government official"
-  - "Medical professional"
-  - "Bush administration"
+  - "bush administration"
 sources:
   - "https://www.thenation.com/article/archive/dr-hagers-family-values/"
 ---

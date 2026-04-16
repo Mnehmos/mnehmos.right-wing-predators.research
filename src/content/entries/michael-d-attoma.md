@@ -2,10 +2,10 @@
 name: "Michael D'Attoma"
 slug: "michael-d-attoma"
 positions:
-  - "youth pastor"
-  - "Southern Baptist"
+  - "Youth Pastor"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse allegations"
+  - "Sexual Abuse Allegations"
 tags:
   - "church abuse"
   - "child abuse"

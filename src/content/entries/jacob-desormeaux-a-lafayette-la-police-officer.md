@@ -2,11 +2,10 @@
 name: "Jacob Desormeaux, a Lafayette, LA, police officer"
 slug: "jacob-desormeaux-a-lafayette-la-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.kadn.com/news/lafayette-police-officer-arrested-for-alleged-obscenity-with-children/article_bda4e6c8-e0be-11ed-9533-3302f635da7e.html"
 ---

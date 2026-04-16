@@ -2,10 +2,9 @@
 name: "Alexander Roesly, youth pastor at Praise Chapel"
 slug: "alexander-roesly-youth-pastor-at-praise-chapel"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.wishtv.com/news/youth-pastor-arrested-for-child-solicitation-in-randolph-county/"
 ---

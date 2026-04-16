@@ -3,7 +3,7 @@ name: "Andrew Hazelton, neo-Nazi from Portland, Maine"
 slug: "andrew-hazelton-neo-nazi-from-portland-maine"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.pressherald.com/2022/01/28/portland-man-sentenced-to-5-years-in-child-porn-case/"

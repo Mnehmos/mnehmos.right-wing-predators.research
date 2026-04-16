@@ -2,13 +2,12 @@
 name: "Committeeman John R. Curtin"
 slug: "committeeman-john-r-curtin"
 positions:
-  - "Party member"
+  - "Party Member"
 crimes:
-  - "Child molestation"
-  - "Unlawful sexual contact with a minor"
+  - "Child Molestation"
+  - "Unlawful Sexual Contact With A Minor"
 tags:
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.mcall.com/2007/06/19/ex-committeeman-gets-up-to-18-months-in-sex-assault/"
 ---

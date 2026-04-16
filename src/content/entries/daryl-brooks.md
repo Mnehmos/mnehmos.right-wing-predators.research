@@ -2,12 +2,10 @@
 name: "Daryl Brooks"
 slug: "daryl-brooks"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes: []
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.politico.com/states/new-jersey/story/2020/11/09/man-featured-at-giuliani-press-conference-is-a-sex-offender-1335241"

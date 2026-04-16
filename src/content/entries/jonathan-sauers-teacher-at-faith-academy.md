@@ -2,11 +2,10 @@
 name: "Jonathan Sauers, teacher at Faith Academy"
 slug: "jonathan-sauers-teacher-at-faith-academy"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wsaz.com/2023/03/17/teacher-christian-school-alabama-accused-having-sex-with-underage-student/"
 ---

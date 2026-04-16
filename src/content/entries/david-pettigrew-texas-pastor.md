@@ -2,11 +2,10 @@
 name: "David Pettigrew, Texas pastor"
 slug: "david-pettigrew-texas-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child exploitation"
-tags:
-  - "religious leader"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.justice.gov/usao-edtx/pr/grayson-county-pastor-sentenced-30-years-federal-prison-child-pornography-violations"
 ---

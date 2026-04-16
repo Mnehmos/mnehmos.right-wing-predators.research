@@ -2,11 +2,10 @@
 name: "Stewart Ruch, one of the leaders who left the Episcopal church"
 slug: "stewart-ruch-one-of-the-leaders-who-left-the-episcopal-church"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://julieroys.com/acna-bishops-leaders-weigh-in-on-turbulent-stewart-ruch-trial/"
 ---

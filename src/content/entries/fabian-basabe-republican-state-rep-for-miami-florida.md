@@ -2,11 +2,10 @@
 name: "Fabian Basabe, Republican state rep for Miami, Florida"
 slug: "fabian-basabe-republican-state-rep-for-miami-florida"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://politicalwire.com/2023/04/14/gop-lawmaker-accused-of-slapping-aide/"

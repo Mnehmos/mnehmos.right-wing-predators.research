@@ -3,7 +3,7 @@ name: "Robert George Bierer Proud Boy/3% Robert George Bierer"
 slug: "robert-george-bierer-proud-boy-3-robert-george-bierer"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.homefacts.com/offender-detail/MO75938537/Robert-George-Bierer-3rd.html"

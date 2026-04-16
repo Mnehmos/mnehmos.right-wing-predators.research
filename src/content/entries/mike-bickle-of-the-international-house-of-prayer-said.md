@@ -2,7 +2,7 @@
 name: "Mike Bickle of the International House of Prayer, said"
 slug: "mike-bickle-of-the-international-house-of-prayer-said"
 positions:
-  - "congress"
+  - "US Representative"
 crimes: []
 tags:
   - "congress"

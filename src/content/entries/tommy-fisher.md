@@ -2,12 +2,11 @@
 name: "Tommy Fisher"
 slug: "tommy-fisher"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
-  - "child pornography"
+  - "Sexual Harassment"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
   - "maga"
 sources:

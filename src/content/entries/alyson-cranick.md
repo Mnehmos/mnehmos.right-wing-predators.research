@@ -3,7 +3,7 @@ name: "Alyson Cranick"
 slug: "alyson-cranick"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.insideedition.com/alyson-cranick-rape-student-arrest-connecticut"

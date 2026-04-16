@@ -2,13 +2,11 @@
 name: "Shae Sortwell"
 slug: "shae-sortwell"
 positions:
-  - "law enforcement"
-  - "local official"
+  - "Law Enforcement"
+  - "Local Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
-  - "local official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.rawstory.com/shae-sortwell-2655479138/"
 ---

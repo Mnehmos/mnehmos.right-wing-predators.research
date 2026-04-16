@@ -2,13 +2,11 @@
 name: "Eric Firkel"
 slug: "eric-firkel"
 positions:
-  - "candidate"
-  - "local official"
+  - "Candidate"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "local official"
   - "republican"
 sources:
   - "http://www.oleantimesherald.com/olean/cattaraugus-county-lawmakers-refer-misconduct-probe-of-two-former-officials/article_ca322b70-c00e-5d7b-9b4e-d86304047595.html"

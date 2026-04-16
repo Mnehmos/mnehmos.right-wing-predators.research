@@ -2,14 +2,12 @@
 name: "Anthony Moore"
 slug: "anthony-moore"
 positions:
-  - "religious leader"
-  - "educator"
+  - "Religious Leader"
+  - "Educator"
 crimes:
-  - "sexual harassment"
-  - "child exploitation"
+  - "Sexual Harassment"
+  - "Child Exploitation"
 tags:
-  - "religious leader"
-  - "educator"
   - "republican"
 sources:
   - "https://www.christianpost.com/news/cedarville-university-fires-professor-with-history-of-sex-abuse-president-apologizes.html"

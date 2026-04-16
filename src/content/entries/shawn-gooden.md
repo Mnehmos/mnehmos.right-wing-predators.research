@@ -2,15 +2,13 @@
 name: "Shawn Gooden"
 slug: "shawn-gooden"
 positions:
-  - "lobbyist"
-  - "party official"
+  - "Lobbyist"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "rape"
-  - "sexual abuse"
-tags:
-  - "lobbyist"
-  - "party official"
+  - "Assault"
+  - "Rape"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.abc27.com/local-news/former-lebanon-county-lds-church-scout-leader-facing-rape-charges/"
 ---

@@ -2,10 +2,9 @@
 name: "Daniel Gilbert Franklin, track coach at North Bay Haven High School"
 slug: "daniel-gilbert-franklin-track-coach-at-north-bay-haven-high-school"
 positions:
-  - "coach"
+  - "Coach"
 crimes: []
-tags:
-  - "coach"
+tags: []
 sources:
   - "https://www.mypanhandle.com/news/local-news/high-school-coach-accused-of-secretly-recording-teen/"
 ---

@@ -2,11 +2,10 @@
 name: "Valentino DiGiorgio III"
 slug: "valentino-digiorgio-iii"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://shareblue.com/pennsylvania-val-digiorgio-gop-chair-resign-explicit-photos/"

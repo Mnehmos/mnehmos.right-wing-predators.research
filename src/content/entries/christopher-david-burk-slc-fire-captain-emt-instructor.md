@@ -3,7 +3,7 @@ name: "Christopher David Burk, SLC Fire Captain, EMT instructor"
 slug: "christopher-david-burk-slc-fire-captain-emt-instructor"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.fox13now.com/news/local-news/salt-lake-city-fire-captain-faces-new-charges-after-more-victims-come-forward"

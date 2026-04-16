@@ -2,10 +2,9 @@
 name: "Matthew Leveridge (R) while state's attorney had sex with"
 slug: "matthew-leveridge-r-while-state-s-attorney-had-sex-with"
 positions:
-  - "judge"
+  - "Judge"
 crimes: []
-tags:
-  - "judge"
+tags: []
 sources:
   - "https://www.thedailybeast.com/matthew-leveridge-kentucky-prosecutor-who-got-defendant-pregnant-and-had-affair-with-juror-running-for-judge?ref=home"
 ---

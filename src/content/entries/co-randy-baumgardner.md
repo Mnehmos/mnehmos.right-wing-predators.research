@@ -6,11 +6,10 @@ positions:
   - "State Legislator"
 crimes: []
 tags:
-  - "Party Member"
-  - "Republican"
-  - "State Legislator"
+  - "republican"
 sources:
   - "http://www.kunc.org/post/new-investigation-concludes-sen-baumgardner-created-offensive-work-environment-capitol"
+  - "http://www.kunc.org/post/new-investigation-concludes-sen-baumgardner-created-offensive-work-environment-capitol/"
 ---
 
 ## Overview

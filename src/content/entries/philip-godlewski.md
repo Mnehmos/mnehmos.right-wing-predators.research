@@ -2,10 +2,9 @@
 name: "Philip Godlewski"
 slug: "philip-godlewski"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
-tags:
-  - "party official"
+tags: []
 sources:
   - "https://www.thedailybeast.com/qanon-conspiracy-theorist-admitted-to-corrupting-minor?ref=home"
   - "https://www.thedailybeast.com/qanon-leader-phil-godlewski-has-sordid-past-of-his-ownincluding-a-conviction-for-corrupting-a-minor?ref=home"

@@ -2,15 +2,13 @@
 name: "Rep. Robert Forsythe"
 slug: "rep-robert-forsythe"
 positions:
-  - "party member"
-  - "state legislator"
+  - "Party Member"
+  - "State Legislator"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "party member"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.concordmonitor.com/NH-state-representative-Robert-Forsythe-domestic-violence-case-Boscawen-35924576"
 ---

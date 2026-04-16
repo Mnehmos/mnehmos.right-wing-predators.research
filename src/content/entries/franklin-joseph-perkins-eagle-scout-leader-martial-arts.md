@@ -2,14 +2,12 @@
 name: "Franklin Joseph Perkins, Eagle Scout leader, Martial Arts"
 slug: "franklin-joseph-perkins-eagle-scout-leader-martial-arts"
 positions:
-  - "coach"
-  - "party official"
+  - "Coach"
+  - "Party Official"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "coach"
-  - "party official"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.click2houston.com/news/local/2023/08/24/alvin-"
 ---

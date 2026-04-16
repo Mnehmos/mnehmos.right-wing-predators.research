@@ -2,15 +2,12 @@
 name: "Gregory J. Nies"
 slug: "gregory-j-nies"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.bishop-accountability.org/news2009/05_06/2009_05_29_Kelley_DetailsEmerge.htm"

@@ -2,14 +2,11 @@
 name: "Ed Gray"
 slug: "ed-gray"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.pnj.com/story/news/crime/2021/08/10/ed-gray-gulf-breeze-mayor-accused-recording-teen-boys-shower-avoid-prison/5539965001/"

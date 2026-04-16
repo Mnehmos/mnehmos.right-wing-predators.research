@@ -2,14 +2,12 @@
 name: "As Attorney General, Republican Eric Schmitt"
 slug: "as-attorney-general-republican-eric-schmitt"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "rape"
-  - "sexual trafficking"
+  - "Rape"
+  - "Sexual Trafficking"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://twitter.com/ericgarland/status/1565783544005332993?s=20&t=NldDEelFHIKgr_G739RJvw"

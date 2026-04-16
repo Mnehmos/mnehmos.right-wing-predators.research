@@ -2,11 +2,10 @@
 name: "Rep. Mike Kingsley"
 slug: "rep-mike-kingsley"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://mobile.twitter.com/Cajsa/status/1387486444550168577"

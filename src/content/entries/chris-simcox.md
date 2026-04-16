@@ -2,11 +2,10 @@
 name: "Chris Simcox"
 slug: "chris-simcox"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.azcentral.com/story/news/local/phoenix/2016/07/11/chris-simcox-sentenced-child-sex-abuse/86948200/"
 ---

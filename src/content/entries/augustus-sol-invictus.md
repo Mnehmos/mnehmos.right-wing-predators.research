@@ -2,12 +2,10 @@
 name: "Augustus Sol Invictus"
 slug: "augustus-sol-invictus"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.informant.news/p/invictus-free-again"

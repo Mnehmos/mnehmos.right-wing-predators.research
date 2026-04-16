@@ -2,11 +2,10 @@
 name: "Michael Queensland, Chief Clerk of WI Senate, who also"
 slug: "michael-queensland-chief-clerk-of-wi-senate-who-also"
 positions:
-  - "clerk"
+  - "Clerk"
 crimes:
-  - "sexual harassment"
-tags:
-  - "clerk"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.cbsnews.com/minnesota/news/former-wisconsin-senate-clerk-resigned-amid-sexual-misconduct-investigation-report-shows/"
 ---

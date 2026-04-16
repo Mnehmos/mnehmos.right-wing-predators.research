@@ -2,12 +2,10 @@
 name: "Jonathan Young"
 slug: "jonathan-young"
 positions:
-  - "judge"
-  - "party member"
+  - "Judge"
+  - "Party Member"
 crimes: []
 tags:
-  - "judge"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wbir.com/article/news/local/judge-rebuked-for-sending-inappropriate-messages-to-women-via-social-media/51-37da05a6-fc91-4101-8d30-3ca1abcdb5b1"

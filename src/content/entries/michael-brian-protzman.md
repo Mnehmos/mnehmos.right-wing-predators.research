@@ -2,12 +2,11 @@
 name: "Michael Brian Protzman"
 slug: "michael-brian-protzman"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
-tags:
-  - "party official"
+  - "Domestic Violence"
+  - "Violence"
+tags: []
 sources:
   - "https://www.rawstory.com/qanon-leader-was-accused-by-wife-of-blind-rage-in-domestic-violence-arrest-report-2655844013/"
 ---

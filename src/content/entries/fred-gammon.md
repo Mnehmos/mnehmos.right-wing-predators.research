@@ -2,11 +2,10 @@
 name: "Fred Gammon"
 slug: "fred-gammon"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.christianpost.com/news/pastor-charged-for-allegedly-texting-minor-about-smelling-underwear.htmlAnd"
   - "https://www.fourstateshomepage.com/news/crime/former-wyandotte-pastor-convicted-of-sexually-abusing-teen/"

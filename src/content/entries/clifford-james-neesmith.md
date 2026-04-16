@@ -2,11 +2,10 @@
 name: "Clifford James Neesmith"
 slug: "clifford-james-neesmith"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child pornography"
-tags:
-  - "party official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://news.yahoo.com/port-wentworth-planning-commission-chairman-182522594.html"
 ---

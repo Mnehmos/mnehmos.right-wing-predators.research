@@ -2,11 +2,10 @@
 name: "Erickson Lee, law enforcement officer and youth pastor"
 slug: "erickson-lee-law-enforcement-officer-and-youth-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child exploitation"
-tags:
-  - "religious leader"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.wsoctv.com/news/local/warrants-officer-arrested-child-sex-crimes-allegedly-committed-them-church-leader/KMD7SQZAYJEJFMYHZD5ANJYTF4/"
 ---

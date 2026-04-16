@@ -2,11 +2,10 @@
 name: "Ryan C. Capps, a former middle school teacher in Durant, OK"
 slug: "ryan-c-capps-a-former-middle-school-teacher-in-durant-ok"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "child exploitation"
-tags:
-  - "educator"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://x.com/antifaoperative/status/1787580716206760060"
   - "https://www.justice.gov/usao-edok/pr/calera-resident-sentenced-25-years-child-exploitation-crimes"

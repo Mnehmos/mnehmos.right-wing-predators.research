@@ -2,11 +2,10 @@
 name: "Nathaniel Jon Pineda"
 slug: "nathaniel-jon-pineda"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.12news.com/article/news/crime/valley-church-teacher-arrested-on-charges-of-sexual-abuse-of-a-minor/75-"
 ---

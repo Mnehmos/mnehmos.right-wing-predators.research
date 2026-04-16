@@ -2,11 +2,10 @@
 name: "Neil Gardner"
 slug: "neil-gardner"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.timesunion.com/state/article/Ex-Stephentown-highway-chief-settles-child-sex-16990013.php"

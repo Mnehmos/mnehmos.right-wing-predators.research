@@ -2,15 +2,13 @@
 name: "Ben Gibson"
 slug: "ben-gibson"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://wgno.com/yleh/bafb-airman-unsuccessful-gop-challenger-in-la-dist-4-race-charged-with-child-pornography/"

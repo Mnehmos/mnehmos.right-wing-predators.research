@@ -2,14 +2,12 @@
 name: "John Gosek"
 slug: "john-gosek"
 positions:
-  - "Local official"
-  - "Party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
   - "Prostitution"
 tags:
-  - "Local official"
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://blog.syracuse.com/indepth/2009/05/john-gosek-the-man-oswego-has.html"
 ---

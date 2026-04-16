@@ -2,11 +2,10 @@
 name: "Ohio Attorney General Dave Yost, Republican"
 slug: "ohio-attorney-general-dave-yost-republican"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.yahoo.com/news/top-republican-cast-doubt-rape-203112978.html"

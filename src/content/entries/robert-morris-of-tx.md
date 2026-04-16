@@ -2,13 +2,12 @@
 name: "Robert Morris of TX"
 slug: "robert-morris-of-tx"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "rape"
+  - "Child Molestation"
+  - "Rape"
 tags:
   - "maga"
-  - "religious leader"
 sources:
   - "https://www.christianpost.com/news/pastor-robert-morris-confesses-to-moral-failure.html"
 ---

@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Rape"
 tags:
-  - "Educator"
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.sfgate.com/news/article/John-G-Schmitz-Former-Congressman-From-Orange-2965698.php"
 ---

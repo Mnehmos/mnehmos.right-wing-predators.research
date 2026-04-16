@@ -2,12 +2,11 @@
 name: "Andrew John Jones"
 slug: "andrew-john-jones"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "rape"
-  - "sexual abuse"
-tags:
-  - "candidate"
+  - "Rape"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.orlandosentinel.com/news/breaking-news/os-ne-attorney-andrew-jones-rape-plea-20210603-wva2n4obezcmbp75ujyj3yn27u-story.html"
 ---

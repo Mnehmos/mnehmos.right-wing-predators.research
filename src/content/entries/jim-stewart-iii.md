@@ -2,11 +2,10 @@
 name: "Jim Stewart III"
 slug: "jim-stewart-iii"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.courier-journal.com/story/news/politics/2018/03/16/memo-details-allegations-jim-stewart-iii-sexually-harassed-staffer-2015/431989002/"

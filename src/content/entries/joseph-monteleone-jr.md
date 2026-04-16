@@ -8,9 +8,8 @@ crimes:
   - "Sexual Imposition"
   - "Child Molestation"
 tags:
-  - "Government Official"
-  - "Republican"
-  - "Ohio"
+  - "republican"
+  - "ohio"
 sources:
   - "https://t.co/9BDj1kBpQA"
 ---

@@ -2,12 +2,11 @@
 name: "Lauren Boebart"
 slug: "lauren-boebart"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://annelandmanblog.com/2020/10/republican-cd-3-candidate-lauren-boeberts-husband-arrested-in-04-for-indecent-exposurColorado"

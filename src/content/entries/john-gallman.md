@@ -2,14 +2,12 @@
 name: "John Gallman"
 slug: "john-gallman"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.myrtlebeachonline.com/news/local/article243552472.html"

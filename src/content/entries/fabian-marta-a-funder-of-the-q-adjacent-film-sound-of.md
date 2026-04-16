@@ -2,11 +2,10 @@
 name: "Fabian Marta, a funder of the Q-adjacent film Sound of"
 slug: "fabian-marta-a-funder-of-the-q-adjacent-film-sound-of"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "kidnapping"
-tags:
-  - "candidate"
+  - "Kidnapping"
+tags: []
 sources:
   - "https://www.riverfronttimes.com/news/hartmann-st-louis-sugar-daddy-fabian-martas-kidnapping-arrest-draws-attention-40616554"
 ---

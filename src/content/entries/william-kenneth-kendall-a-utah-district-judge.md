@@ -2,12 +2,11 @@
 name: "William Kenneth Kendall, a Utah district judge"
 slug: "william-kenneth-kendall-a-utah-district-judge"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "judge"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.fox13now.com/news/local-news/salt-lake-city-judge-charged-with-forcible-sexual-abuse"
 ---

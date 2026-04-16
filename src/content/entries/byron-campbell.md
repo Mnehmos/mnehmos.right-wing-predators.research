@@ -2,13 +2,11 @@
 name: "Byron Campbell"
 slug: "byron-campbell"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.sfgate.com/news/article/1-3-Million-Sex-Harass-Case-Award-Concord-2985999.php"

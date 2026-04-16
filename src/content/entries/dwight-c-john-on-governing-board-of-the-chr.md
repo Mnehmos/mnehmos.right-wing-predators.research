@@ -3,7 +3,7 @@ name: "Dwight C. John, on governing board of the Chr"
 slug: "dwight-c-john-on-governing-board-of-the-chr"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://julieroys.com/alaska-church-leader-tied-chi-alpha-sex-abuse-scandal-charged-17-counts-child-sex-abuse/"

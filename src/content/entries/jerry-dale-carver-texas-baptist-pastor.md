@@ -2,11 +2,10 @@
 name: "Jerry Dale Carver, Texas Baptist pastor"
 slug: "jerry-dale-carver-texas-baptist-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.myplainview.com/news/article/Church-minister-charged-with-assaulting-teenager-8621883.php"
 ---

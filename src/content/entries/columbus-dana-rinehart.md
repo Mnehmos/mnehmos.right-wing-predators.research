@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Local Official"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://apnews.com/bb1e45a9bcbb482b768bc3f4cfd5f6c6"
 ---

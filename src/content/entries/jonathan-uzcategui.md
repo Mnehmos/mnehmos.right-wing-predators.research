@@ -2,18 +2,14 @@
 name: "Jonathan Uzcategui"
 slug: "jonathan-uzcategui"
 positions:
-  - "activist"
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Activist"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "activist"
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.whqr.org/local/2021-10-28/wilmington-city-council-candidate-jonathan-uzcategui-responds-to-domestic-violence-allegations"

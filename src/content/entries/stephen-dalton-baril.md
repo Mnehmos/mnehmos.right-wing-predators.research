@@ -5,8 +5,7 @@ positions:
   - "Governor"
 crimes:
   - "Rape"
-tags:
-  - "Governor"
+tags: []
 sources:
   - "https://wjla.com/news/crime/no-prison-grandson-republican-virginia-governor-rape"
 ---

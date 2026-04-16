@@ -2,11 +2,10 @@
 name: "Monte LaVelle Chitty"
 slug: "monte-lavelle-chitty"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.christianpost.com/news/pastor-accused-of-raping-impaired-teen-now-on-the-run.html"
 ---

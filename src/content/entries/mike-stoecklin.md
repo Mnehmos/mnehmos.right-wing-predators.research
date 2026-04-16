@@ -2,11 +2,10 @@
 name: "Mike Stoecklin"
 slug: "mike-stoecklin"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wspynews.com/news/wcsjnews/former-saunemin-mayor-and-grade-school-coach-pleads-guilty-to-possession-of-child-pornography/article_e1ec8347-8153-5eda-9357-52a4bbbea0fd.html"
 ---

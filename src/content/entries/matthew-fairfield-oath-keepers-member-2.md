@@ -3,8 +3,8 @@ name: "Matthew Fairfield, Oath Keepers member"
 slug: "matthew-fairfield-oath-keepers-member-2"
 positions: []
 crimes:
-  - "child exploitation"
-  - "child pornography"
+  - "Child Exploitation"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.akronlegalnews.com/editorial/10997"

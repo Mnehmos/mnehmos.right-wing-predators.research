@@ -3,7 +3,7 @@ name: "Tammy Tyner, former"
 slug: "tammy-tyner-former"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.mydailyrecord.com/news/former-cape-fear-christian-sex-offender-gets-probation/article_061f61fc-737d-11ee-8434-ff89f3ded6ad.html"

@@ -3,15 +3,13 @@ name: "Randal David Ankeney"
 slug: "randal-david-ankeney"
 positions:
   - "Activist"
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Child sexual abuse"
-  - "Sexual exploitation of minor"
-  - "Attempted sexual assault"
+  - "Child Sexual Abuse"
+  - "Sexual Exploitation Of Minor"
+  - "Attempted Sexual Assault"
 tags:
-  - "Party official"
-  - "Activist"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.coloradoindependent.com/2008/01/28/onetime-rising-gop-star-back-to-prison-for-sex-assaults-on-14-year-old-girl/"
 ---

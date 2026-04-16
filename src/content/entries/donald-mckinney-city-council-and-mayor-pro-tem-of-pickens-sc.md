@@ -2,11 +2,10 @@
 name: "Donald McKinney, City Council and Mayor Pro Tem of Pickens, SC"
 slug: "donald-mckinney-city-council-and-mayor-pro-tem-of-pickens-sc"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wmbfnews.com/2022/10/07/pickens-city-council-member-accused-sexually-abusing-teen/"
 ---

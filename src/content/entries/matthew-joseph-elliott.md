@@ -2,15 +2,13 @@
 name: "Matthew Joseph Elliott"
 slug: "matthew-joseph-elliott"
 positions:
-  - "Party official"
+  - "Party Official"
   - "Candidate"
 crimes:
-  - "Child exploitation"
-  - "Sexual abuse"
+  - "Child Exploitation"
+  - "Sexual Abuse"
 tags:
-  - "Party official"
-  - "Candidate"
-  - "Republican"
+  - "republican"
 sources:
   - "http://ssristories.net/archive/show0d92.html?item=2504"
 ---

@@ -3,8 +3,8 @@ name: "Michael Tait, the DC evangelical singer"
 slug: "michael-tait-the-dc-evangelical-singer"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
   - "maga"
   - "republican"

@@ -2,15 +2,12 @@
 name: "Joseph Saggese, Republican"
 slug: "joseph-saggese-republican"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://nj1015.com/nj-gop-candidate-charged-with-strangling-domestic-violence-victim/"

@@ -2,11 +2,10 @@
 name: "Gary Caplinger"
 slug: "gary-caplinger"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://starlocalmedia.com/allenamerican/allen-mayor-pro-tem-gary-caplinger-resigns-amid-child-pornography-allegations/article_f292fec4-7216-11eb-bff4-9b7cf1cc4306.html"
 ---

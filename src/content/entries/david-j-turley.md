@@ -2,12 +2,11 @@
 name: "David J. Turley"
 slug: "david-j-turley"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.cbsnews.com/colorado/news/woodland-park-mayor-sex-assault-accusations-include-hot-tub-incident/"
 ---

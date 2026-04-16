@@ -2,11 +2,10 @@
 name: "Doug Wilson, leader of Christ Church"
 slug: "doug-wilson-leader-of-christ-church"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "rape"
-tags:
-  - "party official"
+  - "Rape"
+tags: []
 sources:
   - "https://www.vice.com/en/article/m7ezwx/inside-the-church-that-preaches-wives-need-to-be-led-with-a-firm-hand"
 ---

@@ -2,12 +2,11 @@
 name: "Judge Napolitano"
 slug: "judge-napolitano"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "judge"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.northjersey.com/story/news/bergen/2020/09/28/andrew-napolitano-former-judge-sued-second-man-sexual-assault/3562759001/"
 ---

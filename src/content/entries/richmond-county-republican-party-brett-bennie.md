@@ -6,9 +6,9 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources: []
+needs_research: true
 ---
 
 ## Overview

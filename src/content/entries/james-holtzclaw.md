@@ -2,11 +2,10 @@
 name: "James Holtzclaw"
 slug: "james-holtzclaw"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.idahostatesman.com/news/politics-government/state-politics/article189466574.html"

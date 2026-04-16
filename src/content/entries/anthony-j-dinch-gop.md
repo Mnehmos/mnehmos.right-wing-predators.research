@@ -2,13 +2,11 @@
 name: "Anthony J. Dinch, GOP"
 slug: "anthony-j-dinch-gop"
 positions:
-  - "local official"
-  - "party official"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://www.wtae.com/article/east-washington-borough-candidate-sexual-assault/45383780"

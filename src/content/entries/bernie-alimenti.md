@@ -2,15 +2,12 @@
 name: "Bernie Alimenti"
 slug: "bernie-alimenti"
 positions:
-  - "local official"
-  - "party member"
-  - "party official"
+  - "Local Official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.tampabay.com/archive/1996/04/07/city-council-member-arrested-on-sex-charge/"

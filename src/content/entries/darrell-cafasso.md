@@ -2,11 +2,10 @@
 name: "Darrell Cafasso"
 slug: "darrell-cafasso"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://news.bloomberglaw.com/business-and-practice/goldmans-top-lawyers-accused-of-covering-up-sexual-harassment"

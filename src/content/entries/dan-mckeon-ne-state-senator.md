@@ -2,10 +2,9 @@
 name: "Dan McKeon, NE state senator"
 slug: "dan-mckeon-ne-state-senator"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes: []
-tags:
-  - "state legislator"
+tags: []
 sources:
   - "https://nebraskapublicmedia.org/en/news/news-articles/senator-accused-of-public-indecency-says-he-wont-resign/"
 ---

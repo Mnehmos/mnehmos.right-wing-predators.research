@@ -2,14 +2,14 @@
 name: "Joseph M. McDade"
 slug: "joseph-m-mcdade"
 positions:
-  - "Congressman (PA-10)"
+  - "US Representative"
 crimes:
-  - "Indecent exposure"
-  - "Public lewdness"
+  - "Indecent Exposure"
+  - "Public Lewdness"
 tags:
-  - "Congress"
-  - "Republican"
-  - "Florida"
+  - "congress"
+  - "republican"
+  - "florida"
 sources:
   - "https://t.co/DcVOhWWe0P"
 ---

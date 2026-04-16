@@ -2,7 +2,7 @@
 name: "John Diehl"
 slug: "john-diehl"
 positions:
-  - "congress"
+  - "US Representative"
 crimes: []
 tags:
   - "congress"

@@ -3,9 +3,9 @@ name: "Jeremy Francis Plonski"
 slug: "jeremy-francis-plonski"
 positions: []
 crimes:
-  - "child pornography"
-  - "rape"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Rape"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.justice.gov/usao-mn/pr/minnesota-state-trooper-charged-production-child-pornography"

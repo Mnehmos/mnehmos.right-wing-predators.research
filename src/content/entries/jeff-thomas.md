@@ -2,12 +2,11 @@
 name: "Jeff Thomas"
 slug: "jeff-thomas"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.cbsnews.com/pittsburgh/news/suspended-somerset-county-district-attorney-sentenced-assault-strangulation-charges/"

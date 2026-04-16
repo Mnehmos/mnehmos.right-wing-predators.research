@@ -2,7 +2,10 @@
 name: "Elected @GOP state leg"
 slug: "elected-gop-state-leg"
 positions: []
-crimes: []
+crimes:
+  - "Assault"
+  - "Sexual Exploitation"
+  - "Child Molestation"
 tags: []
 sources:
   - "https://verdict.justia.com/2017/01/05/republican-fail-sex-assault-child-sex-abuse/"

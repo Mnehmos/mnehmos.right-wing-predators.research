@@ -2,11 +2,10 @@
 name: "Anthony Iglesias"
 slug: "anthony-iglesias"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.spokesman.com/stories/2011/apr/16/churches-protected-predator-suit-says/"
 ---

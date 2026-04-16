@@ -2,15 +2,13 @@
 name: "Peter Dibble"
 slug: "peter-dibble"
 positions:
-  - "Local official"
-  - "State legislator"
+  - "Local Official"
+  - "State Legislator"
 crimes:
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Local official"
-  - "State legislator"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.nytimes.com/2004/04/18/nyregion/embroiled-first-selectman-takes-leave.html"
 ---

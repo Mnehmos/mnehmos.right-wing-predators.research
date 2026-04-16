@@ -3,7 +3,7 @@ name: "Joseph Brody, volunteer coordinator for Glenn Youngkin"
 slug: "joseph-brody-volunteer-coordinator-for-glenn-youngkin"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://twitter.com/AnonCommieStan/status/1575533886402019328?"

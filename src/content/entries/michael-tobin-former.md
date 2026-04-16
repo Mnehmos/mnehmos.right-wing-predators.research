@@ -2,11 +2,10 @@
 name: "Michael Tobin, former"
 slug: "michael-tobin-former"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child exploitation"
-tags:
-  - "law enforcement"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.kwwl.com/news/crime-courts/former-clarksville-police-officer-convicted-of-sexual-exploitation-of-a-minor/article_11ad17fa-6d13-11ee-b5b9-9b5fde48a9db.html"
 ---

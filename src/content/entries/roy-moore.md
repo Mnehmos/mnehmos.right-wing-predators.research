@@ -6,11 +6,9 @@ positions:
   - "Candidate"
 crimes:
   - "Assault"
-  - "Sexual assault"
+  - "Sexual Assault"
 tags:
-  - "Judge"
-  - "Candidate"
-  - "Republican"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Roy_Moore_sexual_misconduct_allegation"
 ---

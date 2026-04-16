@@ -2,11 +2,10 @@
 name: "Anti-gay bigot Bishop Thomas Tobin"
 slug: "anti-gay-bigot-bishop-thomas-tobin"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://turnto10.com/news/local/bishop-tobin-says-he-was-aware-of-abuse-in-pennsylvania-but-didnt-report-it"
   - "https://www.catholicnewsagency.com/news/43567/after-priest-says-pedophilia-doesnt-kill-anyone-bishop-tobin-responds"

@@ -3,9 +3,9 @@ name: "Denn"
 slug: "denn"
 positions: []
 crimes:
-  - "assault"
-  - "rape"
-  - "sexual assault"
+  - "Assault"
+  - "Rape"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://townhall.com/columnists/dennisprager/2008/12/23/when_a_woman_isnt_in_the_mood_part_i-n1055719"

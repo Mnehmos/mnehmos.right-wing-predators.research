@@ -2,10 +2,10 @@
 name: "Matt Gaetz"
 slug: "matt-gaetz"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual trafficking"
-  - "child exploitation"
+  - "Sexual Trafficking"
+  - "Child Exploitation"
 tags:
   - "congress"
   - "republican"

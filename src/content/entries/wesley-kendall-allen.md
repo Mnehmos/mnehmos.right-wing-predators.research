@@ -3,8 +3,8 @@ name: "Wesley Kendall Allen"
 slug: "wesley-kendall-allen"
 positions: []
 crimes:
-  - "rape"
-  - "sexual abuse"
+  - "Rape"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.cachevalleydaily.com/news/archive/2023/01/27/staff-member-at-cv-youth-center-arrested-for-allegedly-engaging-in-sexual-relationship-with-inmate/"

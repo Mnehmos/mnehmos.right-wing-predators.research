@@ -2,11 +2,10 @@
 name: "Trammell Crow"
 slug: "trammell-crow"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://dallasexpress.com/national/trammell-crow-jr-named-in-human-trafficking-case/"

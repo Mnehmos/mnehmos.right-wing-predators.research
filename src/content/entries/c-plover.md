@@ -2,13 +2,11 @@
 name: "C. Plover"
 slug: "c-plover"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.thejoltnews.com/stories/candidate-for-county-commissioner-accused-of-sexual-harassment"

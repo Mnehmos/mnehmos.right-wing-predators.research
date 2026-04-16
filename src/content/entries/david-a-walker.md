@@ -2,11 +2,10 @@
 name: "David A. Walker"
 slug: "david-a-walker"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.cleveland.com/court-justice/2022/05/ex-north-olmsted-youth-pastor-who-sexually-abused-teenage-girl-gasps-as-judge-sentences-him-to-prison.html"
 ---

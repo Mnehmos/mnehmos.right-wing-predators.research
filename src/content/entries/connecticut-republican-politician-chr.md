@@ -7,8 +7,7 @@ crimes:
   - "Assault"
   - "Sexual Assault"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "http://time.com/4635835/christopher-von-keyserling-sexual-assault/"
 ---

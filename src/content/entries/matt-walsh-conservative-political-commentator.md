@@ -3,7 +3,7 @@ name: "Matt Walsh, conservative political commentator"
 slug: "matt-walsh-conservative-political-commentator"
 positions: []
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags: []
 sources:
   - "https://www.mediamatters.org/matt-walsh/deleted-matt-walsh-blog-post-calls-concept-adolescence-modern-plague"

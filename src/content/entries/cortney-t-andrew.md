@@ -2,10 +2,9 @@
 name: "Cortney T. Andrew"
 slug: "cortney-t-andrew"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
-tags:
-  - "party official"
+tags: []
 sources:
   - "https://www.cachevalleydaily.com/news/archive/2024/01/23/former-lds-leader-in-trenton-sentenced-to-jail-for-enticing-teen-girl-from-congregation/"
 ---

@@ -2,14 +2,14 @@
 name: "Donald Trump"
 slug: "donald-trump"
 positions:
-  - "President (45th)"
-  - "Businessman"
+  - "President"
+  - "Business Owner"
 crimes:
   - "Assault"
   - "Rape"
-  - "Sexual assault"
+  - "Sexual Assault"
 tags:
-  - "Maga"
+  - "maga"
 sources:
   - "https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations"
   - "https://www.gzeromedia.com/in-60-seconds/world/trump-sexual-abuse-verdict-wont-hurt-him-with-gop"

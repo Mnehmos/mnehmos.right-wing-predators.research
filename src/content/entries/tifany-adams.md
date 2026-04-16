@@ -2,13 +2,11 @@
 name: "Tifany Adams"
 slug: "tifany-adams"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "kidnapping"
+  - "Kidnapping"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.msn.com/en-us/news/crime/oklahoma-county-gop-chair-arrested-in-alleged-murder-kidnap-plot/ar-BB1lNSA0"

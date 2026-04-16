@@ -3,7 +3,7 @@ name: "Jon Reep, anti-woke, pro-MAGA comedian"
 slug: "jon-reep-anti-woke-pro-maga-comedian"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags:
   - "republican"
 sources:

@@ -7,8 +7,7 @@ crimes:
   - "Domestic Violence"
   - "Violence"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www2.philly.com/philly/news/politics/state/rep-nick-miccarelli-allegations-sex-abuse-complaint-ridley-delaware-county-20180228.html"
 ---

@@ -2,12 +2,11 @@
 name: "Jose Saez Jr"
 slug: "jose-saez-jr"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.fbi.gov/contact-us/field-offices/newyork/news/fbi-new-york-arrests-long-island-pastor-for-production-of-child-pornography"
   - "https://www.longislandpress.com/2023/12/06/pastor-brentwood-charged-abuse-1223/"

@@ -2,12 +2,11 @@
 name: "Dan Clark"
 slug: "dan-clark"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
+  - "Child Molestation"
+  - "Sexual Abuse"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://mavenroundtable.io/theintellectualist/news/washington-state-republicans-elect-alleged-child-predator-as-committee-chairman"

@@ -2,11 +2,10 @@
 name: "John W Adams"
 slug: "john-w-adams"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.10tv.com/article/news/ex-pastor-pleads-guilty-pandering-child-porn/530-6b6ffa3d-681c-4c46-8987-fcbec425a451"
 ---

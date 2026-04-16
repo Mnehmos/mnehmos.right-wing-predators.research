@@ -2,11 +2,10 @@
 name: "Matthew Huttle, Indiana insurrectionist pardoned by Trump"
 slug: "matthew-huttle-indiana-insurrectionist-pardoned-by-trump"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "law enforcement"
   - "maga"
 sources:
   - "https://www.indystar.com/story/news/crime/2025/01/28/matthew-huttle-jan-6-defendant-shot-by-deputy-had-lengthy-criminal-history/77992827007/"

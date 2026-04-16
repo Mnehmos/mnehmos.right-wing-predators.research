@@ -2,16 +2,14 @@
 name: "Stephen David Rambler"
 slug: "stephen-david-rambler"
 positions:
-  - "Religious leader"
+  - "Religious Leader"
   - "Pastor"
 crimes:
-  - "Child sexual abuse"
+  - "Child Sexual Abuse"
   - "Extortion"
   - "Blackmail"
 tags:
-  - "Religious leader"
-  - "Pastor"
-  - "Pennsylvania"
+  - "pennsylvania"
 sources:
   - "https://lancasteronline.com/news/sex-crimes-figure-in-wrightsville-mayor-race/article_7aef2162-c8e8-55ac-9cf2-1ee14c5c2211.html"
 ---

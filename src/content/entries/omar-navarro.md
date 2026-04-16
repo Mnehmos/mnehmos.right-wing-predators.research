@@ -2,11 +2,10 @@
 name: "Omar Navarro"
 slug: "omar-navarro"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/did-a-far-right-star-recruit-jacob-wohl-to-terrorize-women?ref=home"

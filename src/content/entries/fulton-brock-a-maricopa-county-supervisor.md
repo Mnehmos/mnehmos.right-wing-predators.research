@@ -2,11 +2,10 @@
 name: "Fulton Brock, a Maricopa County Supervisor"
 slug: "fulton-brock-a-maricopa-county-supervisor"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.phoenixnewtimes.com/news/brocked-up-supervisor-fulton-brock-attempted-to-cover-up-the-sexual-liaisons-between-his-wife-daughter-and-a-teenage-boy-6450425"
 ---

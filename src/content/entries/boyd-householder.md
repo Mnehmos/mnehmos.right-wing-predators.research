@@ -2,10 +2,10 @@
 name: "Boyd Householder"
 slug: "boyd-householder"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "child molestation"
-  - "sodomy"
+  - "Child Molestation"
+  - "Sodomy"
 tags:
   - "congress"
 sources:

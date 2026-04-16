@@ -3,7 +3,7 @@ name: "Lawrence Taylor, NFL player"
 slug: "lawrence-taylor-nfl-player"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.espn.com/new-york/nfl/news/story?id=6018722"

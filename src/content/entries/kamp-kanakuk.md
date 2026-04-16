@@ -2,11 +2,10 @@
 name: "Kamp Kanakuk"
 slug: "kamp-kanakuk"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://factsaboutkanakuk.com/known-abusers/"

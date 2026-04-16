@@ -2,12 +2,11 @@
 name: "Antonio Capilupi, a"
 slug: "antonio-capilupi-a"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wpbf.com/article/florida-former-martin-county-teacher-held-on-stuart-1-million-bail/44912968"
 ---

@@ -2,12 +2,11 @@
 name: "David Whitmire, Liberty County Commissioner (TX)"
 slug: "david-whitmire-liberty-county-commissioner-tx"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://abc13.com/post/liberty-county-commissioner-david-whitmire-accused-sexual-assault-alleged-child-support-scheme/16242110/"
 ---

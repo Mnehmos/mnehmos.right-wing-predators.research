@@ -2,12 +2,11 @@
 name: "Justin Eichorn"
 slug: "justin-eichorn"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags:
   - "maga"
-  - "state legislator"
 sources:
   - "https://apnews.com/article/minnesota-senator-justin-eichorn-charged-minor-prostitution-0ce2378cd2ac172387fd5b5a58351a31"
 ---

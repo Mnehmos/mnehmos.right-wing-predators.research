@@ -2,11 +2,10 @@
 name: "Lillie Bowman"
 slug: "lillie-bowman"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://omaha.com/news/state-regional/crime-courts/norris-teacher-lillie-bowman-sexual-abuse/article_9833bb6a-ecd2-53ec-987d-7d7fd92e0cbf.html"
 ---

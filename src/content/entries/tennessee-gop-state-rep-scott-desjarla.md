@@ -5,8 +5,7 @@ positions:
   - "Party Official"
 crimes: []
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.timesfreepress.com/news/news/story/2012/nov/15/scott-desjarlais-supported-abortions-slept-patients/92972/"
 ---

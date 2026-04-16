@@ -3,14 +3,12 @@ name: "Jeffrey Claude Bartleson"
 slug: "jeffrey-claude-bartleson"
 positions:
   - "Activist"
-  - "Campaign official"
+  - "Campaign Official"
 crimes:
-  - "Child sexual abuse"
-  - "Child molestation"
+  - "Child Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Activist"
-  - "Campaign official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.denverpost.com/2009/02/05/molestation-allegations-against-well-regarded-puebloan/"
   - "https://www.chieftain.com/story/news/2009/07/30/political-consultant-pleads-to-sexual/8418923007/"

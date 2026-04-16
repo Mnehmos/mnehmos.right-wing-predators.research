@@ -2,10 +2,9 @@
 name: "Donald H. Briggs"
 slug: "donald-h-briggs"
 positions:
-  - "local official"
+  - "Local Official"
 crimes: []
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://www.poughkeepsiejournal.com/story/news/crime/2016/12/13/donald-briggs-millbrook-sex-charge/95368026/"

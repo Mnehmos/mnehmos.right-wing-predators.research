@@ -2,10 +2,9 @@
 name: "Brad Parscale"
 slug: "brad-parscale"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.sun-sentinel.com/local/broward/fort-lauderdale/fl-ne-brad-parscale-suicide-attempt-saved-by-cop-friend-20200928-irc2wvhvczblhakhnsdnfeppme-story.html"
 ---

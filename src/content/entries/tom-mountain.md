@@ -2,10 +2,9 @@
 name: "Tom Mountain"
 slug: "tom-mountain"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.wbur.org/news/2021/07/20/tom-mountain-resignation-massachusetts-gop-turmoil"

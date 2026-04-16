@@ -2,7 +2,7 @@
 name: "Conner Jesse Penny"
 slug: "conner-jesse-penny"
 positions:
-  - "youth pastor"
+  - "Youth Pastor"
 crimes: []
 tags:
   - "church abuse"

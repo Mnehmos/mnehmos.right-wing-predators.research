@@ -2,12 +2,11 @@
 name: "Aaron von Ehlinger"
 slug: "aaron-von-ehlinger"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
-  - "sexual harassment"
+  - "Rape"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.washingtonpost.com/nation/2021/04/28/idaho-aaron-von-ehlinger-rape/"

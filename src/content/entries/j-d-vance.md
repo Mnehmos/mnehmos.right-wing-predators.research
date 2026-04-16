@@ -2,11 +2,10 @@
 name: "J.D. Vance"
 slug: "j-d-vance"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/jd-vance-defends-texas-abortion-ban-calls-rape-inconvenient?ref=homeMore"

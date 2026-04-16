@@ -2,11 +2,10 @@
 name: "Stephen Bojekian, retired chief of Bergen County Sheriff's Dept"
 slug: "stephen-bojekian-retired-chief-of-bergen-county-sheriff-s-dept"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.northjersey.com/story/news/crime/2024/10/19/stephen-bojekian-arrested-on-child-pornography-charges/75755982007/"
 ---

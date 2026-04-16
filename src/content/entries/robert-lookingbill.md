@@ -2,10 +2,9 @@
 name: "Robert Lookingbill"
 slug: "robert-lookingbill"
 positions:
-  - "local official"
+  - "Local Official"
 crimes: []
-tags:
-  - "local official"
+tags: []
 sources:
   - "https://www.wfmd.com/2024/04/19/thurmont-town-commissioner-arrested-for-sex-abuse-of-a-minor/"
 ---

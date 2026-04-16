@@ -2,14 +2,12 @@
 name: "John Justin McCall"
 slug: "john-justin-mccall"
 positions:
-  - "party official"
-  - "religious leader"
+  - "Party Official"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "party official"
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.waff.com/2023/10/26/former-worship-leader-jailed-again-faces-child-pornography-charges/"
   - "https://www.waff.com/2023/10/12/man-arrested-accused-trying-convince-child-have-sex/"

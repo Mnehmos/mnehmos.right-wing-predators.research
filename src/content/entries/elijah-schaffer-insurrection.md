@@ -3,8 +3,8 @@ name: "Elijah Schaffer, insurrection"
 slug: "elijah-schaffer-insurrection"
 positions: []
 crimes:
-  - "assault"
-  - "sexual harassment"
+  - "Assault"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.thedailybeast.com/conservative-pundit-elijah-schaffer-fired-from-the-blaze-after-sexual-assault-accusation"

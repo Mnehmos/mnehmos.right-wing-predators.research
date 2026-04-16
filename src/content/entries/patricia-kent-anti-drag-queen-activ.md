@@ -2,10 +2,9 @@
 name: "Patricia Kent, anti-drag queen activ"
 slug: "patricia-kent-anti-drag-queen-activ"
 positions:
-  - "activist"
+  - "Activist"
 crimes: []
-tags:
-  - "activist"
+tags: []
 sources:
   - "https://tarrant.tx.networkofcare.org/dv/news-article-detail.aspx?id=104465"
   - "https://t.co/heJpUK6Q5i"

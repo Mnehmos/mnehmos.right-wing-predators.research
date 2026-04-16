@@ -2,11 +2,10 @@
 name: "Richard Fritz, the elected Republican state's attorney (DA)"
 slug: "richard-fritz-the-elected-republican-state-s-attorney-da"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://defector.com/meet-richard-fritz-americas-most-unelectable-elected-official/"

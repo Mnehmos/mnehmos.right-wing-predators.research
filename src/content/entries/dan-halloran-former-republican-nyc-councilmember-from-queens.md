@@ -2,14 +2,12 @@
 name: "Dan Halloran, former Republican NYC councilmember from Queens"
 slug: "dan-halloran-former-republican-nyc-councilmember-from-queens"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.nbcmiami.com/news/local/ex-nyc-councilman-arrested-on-child-porn-charges-at-miami-international-airport/3581269/"

@@ -2,11 +2,10 @@
 name: "Peter Bardunias, VP of Community Engagement at Clifton Park NY Chamber"
 slug: "peter-bardunias-vp-of-community-engagement-at-clifton-park-ny-chamber"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "prostitution"
-tags:
-  - "law enforcement"
+  - "Prostitution"
+tags: []
 sources:
   - "https://www.timesunion.com/news/article/clifton-park-vp-arrested-allegedly-attempting-21089156.php"
 ---

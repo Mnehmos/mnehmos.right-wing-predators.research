@@ -2,14 +2,12 @@
 name: "Douglas Perlitz"
 slug: "douglas-perlitz"
 positions:
-  - "religious leader"
-  - "activist"
+  - "Religious Leader"
+  - "Activist"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
+  - "Child Molestation"
+  - "Sexual Abuse"
 tags:
-  - "religious leader"
-  - "activist"
   - "republican"
 sources:
   - "http://www.cnn.com/2009/CRIME/09/17/us.haiti.sex.abuse.charge/"

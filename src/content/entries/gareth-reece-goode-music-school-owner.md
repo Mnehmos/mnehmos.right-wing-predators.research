@@ -3,9 +3,9 @@ name: "Gareth Reece Goode, music school owner"
 slug: "gareth-reece-goode-music-school-owner"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
-  - "sexual harassment"
+  - "Assault"
+  - "Sexual Assault"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.ksat.com/news/local/2023/01/26/boerne-area-music-school-owner-tutor-arrested-on-child-sex-crime-charges-records-show/"

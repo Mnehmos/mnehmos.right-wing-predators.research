@@ -3,15 +3,13 @@ name: "Mark A. Grethen"
 slug: "mark-a-grethen"
 positions:
   - "Activist"
-  - "Party member"
+  - "Party Member"
 crimes:
   - "Rape"
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Activist"
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.pilotonline.com/news/crime/vp-nw-mark-grethen-lawrenceville-correctional-20210806-dmjuk7zwgnfxvigjnjmy3257vy.html"
 ---

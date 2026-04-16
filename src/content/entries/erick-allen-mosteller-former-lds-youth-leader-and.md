@@ -2,14 +2,13 @@
 name: "Erick Allen Mosteller, former LDS youth leader and"
 slug: "erick-allen-mosteller-former-lds-youth-leader-and"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child pornography"
-  - "rape"
-  - "sexual abuse"
-  - "sodomy"
-tags:
-  - "party official"
+  - "Child Pornography"
+  - "Rape"
+  - "Sexual Abuse"
+  - "Sodomy"
+tags: []
 sources:
   - "https://www.abc4.com/news/local-news/tim-ballard-supporter-former-lds-youth-leader-sentenced-for-possessing-child-porn/"
 ---

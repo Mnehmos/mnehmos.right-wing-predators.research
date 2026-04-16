@@ -2,16 +2,14 @@
 name: "William Henry Randall"
 slug: "william-henry-randall"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "child exploitation"
+  - "Assault"
+  - "Child Exploitation"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.jacksonville.com/story/news/crime/2021/03/18/former-orange-park-minister-pleads-guilty-child-sexual-battery/4746388001/"

@@ -2,14 +2,13 @@
 name: "Phillip Gunn, Speaker of the House in Mississippi"
 slug: "phillip-gunn-speaker-of-the-house-in-mississippi"
 positions:
-  - "congress"
-  - "religious leader"
+  - "US Representative"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "rape"
+  - "Child Molestation"
+  - "Rape"
 tags:
   - "congress"
-  - "religious leader"
 sources:
   - "https://mississippitoday.org/2022/05/24/philip-gunn-southern-baptist-convention-scandal/"
 ---

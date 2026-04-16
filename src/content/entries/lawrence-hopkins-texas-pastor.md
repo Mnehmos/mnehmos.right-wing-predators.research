@@ -2,10 +2,9 @@
 name: "Lawrence Hopkins, Texas pastor"
 slug: "lawrence-hopkins-texas-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://abc13.com/baytown-pastor-arrested-clayton-lawrence-hopkins-rollingbrook-fellowship-online-solicitation-minor/12028065/"
 ---

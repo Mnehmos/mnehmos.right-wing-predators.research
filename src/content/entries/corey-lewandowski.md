@@ -2,13 +2,12 @@
 name: "Corey Lewandowski"
 slug: "corey-lewandowski"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-  - "sexual harassment"
+  - "Assault"
+  - "Sexual Assault"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
   - "maga"
 sources:

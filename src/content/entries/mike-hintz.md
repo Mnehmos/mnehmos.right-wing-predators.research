@@ -2,15 +2,13 @@
 name: "Mike Hintz"
 slug: "mike-hintz"
 positions:
-  - "Religious leader"
+  - "Religious Leader"
   - "Pastor"
 crimes:
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Religious leader"
-  - "Pastor"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.washingtonpost.com/archive/politics/2004/12/10/example-goes-from-good-to-bad/e73a7b08-5fb8-412a-ba7f-8fb473543e83/"
 ---

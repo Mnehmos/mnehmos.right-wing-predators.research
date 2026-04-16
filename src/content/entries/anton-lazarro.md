@@ -2,11 +2,10 @@
 name: "Anton Lazarro"
 slug: "anton-lazarro"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/gop-strategist-anton-lazzaro-arrested-for-underage-sex-trafficking"

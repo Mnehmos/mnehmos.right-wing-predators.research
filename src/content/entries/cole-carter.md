@@ -3,8 +3,8 @@ name: "Cole Carter"
 slug: "cole-carter"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.wsfa.com/2024/01/23/former-wetumpka-firefighter-pleads-guilty-sex-crimes/"

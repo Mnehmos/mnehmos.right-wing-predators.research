@@ -2,13 +2,11 @@
 name: "Scott Miller"
 slug: "scott-miller"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://apnews.com/article/salt-lake-city-utah-ffaf7ea6d273772ad9e4e45b4c5a127a"

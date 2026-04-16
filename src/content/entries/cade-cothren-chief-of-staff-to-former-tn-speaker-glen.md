@@ -3,7 +3,7 @@ name: "Cade Cothren, chief of staff to former TN Speaker Glen"
 slug: "cade-cothren-chief-of-staff-to-former-tn-speaker-glen"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.tba.org/?pg=LawBlog&blAction=showEntry&blogEntry=34423"

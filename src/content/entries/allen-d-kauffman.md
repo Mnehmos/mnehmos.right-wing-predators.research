@@ -5,12 +5,10 @@ positions:
   - "Government Official"
   - "Religious Leader"
 crimes:
-  - "Enticement of a Child"
-  - "Solicitation of a Minor"
+  - "Enticement Of A Child"
+  - "Solicitation Of A Minor"
 tags:
-  - "Government Official"
-  - "Religious Leader"
-  - "Missouri"
+  - "missouri"
 sources:
   - "https://t.co/gDNZVBjzXd"
 ---

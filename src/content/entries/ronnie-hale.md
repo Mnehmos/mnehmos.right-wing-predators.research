@@ -2,11 +2,10 @@
 name: "Ronnie Hale"
 slug: "ronnie-hale"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.commercialappeal.com/story/news/crime/2018/10/17/former-southaven-alderman-sentenced-7-years-child-pornography/1676459002/"

@@ -2,11 +2,10 @@
 name: "Nick Johnson, former coach at anti-gay Huntington University"
 slug: "nick-johnson-former-coach-at-anti-gay-huntington-university"
 positions:
-  - "coach"
+  - "Coach"
 crimes:
-  - "assault"
-tags:
-  - "coach"
+  - "Assault"
+tags: []
 sources:
   - "https://www.indystar.com/story/news/local/indianapolis/2023/03/27/nick-johnson-huntington-university-coach-fired-sexual-battery-charge/70053417007/"
 ---

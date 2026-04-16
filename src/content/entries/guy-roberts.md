@@ -2,11 +2,10 @@
 name: "Guy Roberts"
 slug: "guy-roberts"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.usatoday.com/story/news/politics/2019/12/12/probe-finds-pentagons-nuclear-chief-roberts-sexually-harassed-staff/4407912002/"

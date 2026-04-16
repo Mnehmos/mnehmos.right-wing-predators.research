@@ -2,13 +2,11 @@
 name: "Daniel Montague Acker Jr."
 slug: "daniel-montague-acker-jr"
 positions:
-  - "educator"
-  - "religious leader"
+  - "Educator"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "educator"
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://baptistnews.com/article/former-youth-pastor-teacher-charged-with-molestation/"
 ---

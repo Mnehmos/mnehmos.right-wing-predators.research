@@ -3,7 +3,7 @@ name: "Vernon Jones"
 slug: "vernon-jones"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "maga"
   - "republican"

@@ -2,13 +2,11 @@
 name: "Jimmy Ray Neal"
 slug: "jimmy-ray-neal"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://onthehill.tnjournal.net/putnam-county-commissioner-arrested-on-child-porn-charges/"

@@ -3,8 +3,8 @@ name: "Spencer Greendyke"
 slug: "spencer-greendyke"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://cdapress.com/news/2024/apr/05/surgeon-charged-with-sexual-exploitation-voyeurism/"

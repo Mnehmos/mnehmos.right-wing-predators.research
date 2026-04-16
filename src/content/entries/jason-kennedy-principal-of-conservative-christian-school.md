@@ -2,11 +2,10 @@
 name: "Jason Kennedy, principal of conservative Christian school"
 slug: "jason-kennedy-principal-of-conservative-christian-school"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://newschannel9.com/news/local/school-principal-secretary-in-mcminn-co-charged-with-improper-sexual-behavior-with-teen-jason-kennedy-brittney-branham-liberty-christian-academy"
 ---

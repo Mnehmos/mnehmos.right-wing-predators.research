@@ -2,12 +2,12 @@
 name: "Dennis Hastert"
 slug: "dennis-hastert"
 positions:
-  - "Congressman (IL-14)"
+  - "US Representative"
   - "Coach"
 crimes:
-  - "Sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "Congress"
+  - "congress"
 sources:
   - "https://www.nytimes.com/2016/04/28/us/dennis-hastert-sentencing.html"
 ---

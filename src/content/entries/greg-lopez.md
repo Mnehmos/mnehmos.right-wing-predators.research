@@ -2,15 +2,12 @@
 name: "Greg Lopez"
 slug: "greg-lopez"
 positions:
-  - "candidate"
-  - "governor"
-  - "party official"
+  - "Candidate"
+  - "Governor"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "candidate"
-  - "governor"
-  - "party official"
   - "republican"
 sources:
   - "https://www.coloradopols.com/diary/103382/domestic-violence-alcohol-and-running-for-governor"

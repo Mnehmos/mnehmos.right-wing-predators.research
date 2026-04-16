@@ -2,14 +2,12 @@
 name: "Harry Jackson, Fairfax VA school board candidate"
 slug: "harry-jackson-fairfax-va-school-board-candidate"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://wjla.com/news/crisis-in-the-classrooms/harry-jackson-fairfax-county-school-board-race-election-2023-gop-republicans-endorse-assault-and-battery-wives-student-with-autism-national-anthem-arlington"

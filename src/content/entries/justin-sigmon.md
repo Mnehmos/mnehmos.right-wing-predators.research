@@ -2,11 +2,10 @@
 name: "Justin Sigmon"
 slug: "justin-sigmon"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.sportskeeda.com/pop-culture/news-the-fact-anyone-actually-donated-beyond-disgusting-justin-sigmon-gofundme-sparks-outrage-good-christian-claim"
   - "https://www.wdbj7.com/2023/11/20/former-franklin-county-sheriffs-office-employee-found-guilty-child-sex-abuse-case/"

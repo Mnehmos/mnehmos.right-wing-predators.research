@@ -3,7 +3,7 @@ name: "David DePape, QAnon conspirac"
 slug: "david-depape-qanon-conspirac"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://nypost.com/2022/10/29/paul-pelosi-attacker-david-depape-sexually-abused-his-kids-stepdaughter/0"

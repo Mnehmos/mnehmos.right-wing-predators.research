@@ -2,12 +2,10 @@
 name: "James Clendenin"
 slug: "james-clendenin"
 positions:
-  - "candidate"
-  - "local official"
+  - "Candidate"
+  - "Local Official"
 crimes: []
-tags:
-  - "candidate"
-  - "local official"
+tags: []
 sources:
   - "https://www.kansas.com/news/local/crime/article246445800.html"
 ---

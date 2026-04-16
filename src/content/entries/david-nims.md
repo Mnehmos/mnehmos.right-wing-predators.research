@@ -2,11 +2,10 @@
 name: "David Nims"
 slug: "david-nims"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://weartv.com/news/local/following-pensacola-child-directors-3rd-arrest-sheriff-says-more-victims-possibleArrested"

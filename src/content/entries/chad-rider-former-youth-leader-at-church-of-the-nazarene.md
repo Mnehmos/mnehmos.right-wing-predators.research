@@ -2,13 +2,11 @@
 name: "Chad Rider, former youth leader at Church of the Nazarene"
 slug: "chad-rider-former-youth-leader-at-church-of-the-nazarene"
 positions:
-  - "party official"
-  - "religious leader"
+  - "Party Official"
+  - "Religious Leader"
 crimes:
-  - "child exploitation"
-tags:
-  - "party official"
-  - "religious leader"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.kxii.com/2023/02/17/former-denison-youth-pastor-given-maximum-sentence-child-porn-production/"
 ---

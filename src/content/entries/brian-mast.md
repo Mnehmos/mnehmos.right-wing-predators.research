@@ -2,11 +2,10 @@
 name: "Brian Mast"
 slug: "brian-mast"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://floridapolitics.com/archives/361943-mast-apologizes-joking-rape"

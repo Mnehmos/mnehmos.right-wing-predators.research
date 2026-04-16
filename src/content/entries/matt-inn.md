@@ -2,14 +2,12 @@
 name: "Matt Inn"
 slug: "matt-inn"
 positions:
-  - "law enforcement"
-  - "party official"
+  - "Law Enforcement"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "law enforcement"
-  - "party official"
   - "republican"
 sources:
   - "https://www.1011now.com/2023/10/03/chair-lancaster-county-gop-accused-abuse-petition-protection-order/"

@@ -2,12 +2,11 @@
 name: "Cory Green"
 slug: "cory-green"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "sexual assault"
-  - "sexual battery"
+  - "Sexual Assault"
+  - "Sexual Battery"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.sltrib.com/news/politics/2019/09/18/utah-congressional/"

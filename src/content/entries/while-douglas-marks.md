@@ -2,16 +2,14 @@
 name: "While Douglas Marks"
 slug: "while-douglas-marks"
 positions:
-  - "Congress"
+  - "US Representative"
   - "Educator"
   - "Party Member"
 crimes:
   - "Sexual Abuse"
 tags:
-  - "Congress"
-  - "Educator"
-  - "Party Member"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "http://articles.latimes.com/1990-11-25/news/mn-7142_1_school-board"
 ---

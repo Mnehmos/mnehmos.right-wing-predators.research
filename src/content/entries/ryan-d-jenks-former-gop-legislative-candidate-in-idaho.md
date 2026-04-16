@@ -2,13 +2,11 @@
 name: "Ryan D. Jenks, former GOP legislative candidate in Idaho"
 slug: "ryan-d-jenks-former-gop-legislative-candidate-in-idaho"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.ktvb.com/article/news/local/former-legislative-candidate-and-mental-health-clinic-co-owner-charged-with-child-sex-crimes-idaho/277-6b47283d-5ef4-4ab7-87eb-d6568c9be41a"

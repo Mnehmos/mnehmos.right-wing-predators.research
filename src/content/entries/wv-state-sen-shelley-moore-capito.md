@@ -7,10 +7,9 @@ positions:
 crimes:
   - "Rape"
   - "Sexual Abuse"
+  - "Assault"
 tags:
-  - "Party Official"
-  - "State Legislator"
-  - "Republican"
+  - "republican"
 sources:
   - "https://verdict.justia.com/2017/01/05/republican-fail-sex-assault-child-sex-abuse/"
 ---

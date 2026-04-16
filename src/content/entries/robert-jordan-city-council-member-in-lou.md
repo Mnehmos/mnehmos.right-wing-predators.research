@@ -2,11 +2,10 @@
 name: "Robert Jordan, City Council member in Lou"
 slug: "robert-jordan-city-council-member-in-lou"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://khqa.com/news/local/louisiana-city-council-member-arrested-for-sexual-misconduct"
 ---

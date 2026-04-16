@@ -8,9 +8,7 @@ crimes:
   - "Rape"
   - "Sexual Assault"
 tags:
-  - "Judge"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.abc57.com/news/ten-women-suing-berrien-county-jail-deputies/"
 ---

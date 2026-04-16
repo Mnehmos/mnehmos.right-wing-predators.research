@@ -2,11 +2,10 @@
 name: "Solomon Peña"
 slug: "solomon-pena"
 positions:
-  - "candidate"
-  - "congress"
+  - "Candidate"
+  - "US Representative"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
 sources:
   - "https://nmpoliticalreport.com/news/ex-gop-candidate-allegedly-hired-people-to-kill-witnesses-in-shootings-of-homes-of-democratix-politicians/"

@@ -2,12 +2,11 @@
 name: "Betsy DeVos"
 slug: "betsy-devos"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual assault"
-  - "sexual harassment"
+  - "Sexual Assault"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
   - "maga"
 sources:

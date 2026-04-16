@@ -3,8 +3,8 @@ name: "Jerry Dan Heflin, a Deacon at Unity Baptist Church"
 slug: "jerry-dan-heflin-a-deacon-at-unity-baptist-church"
 positions: []
 crimes:
-  - "child molestation"
-  - "sodomy"
+  - "Child Molestation"
+  - "Sodomy"
 tags: []
 sources:
   - "https://www.albanyherald.com/news/sylvester-shaken-by-arrest-of-church-deacon-on-child-molestation-incest-charges/article_e80e59cc-0e39-11ef-be32-8bdc79ac2b54.html"

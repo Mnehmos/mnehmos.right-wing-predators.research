@@ -2,13 +2,11 @@
 name: "Jack Shay"
 slug: "jack-shay"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.upi.com/Top_News/US/2011/11/08/Former-mayor-charged-with-child-porn/24371320764398/"

@@ -3,7 +3,7 @@ name: "Miracle Meadows in W. Virginia, founded by Susan Gayle"
 slug: "miracle-meadows-in-w-virginia-founded-by-susan-gayle"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.insideedition.com/record-100-million-settlement-reached-in-lawsuits-alleging-torture-rape-starvation-at-christian?amp="

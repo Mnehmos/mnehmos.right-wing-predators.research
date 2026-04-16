@@ -2,11 +2,10 @@
 name: "Rep. Vito Barbieri"
 slug: "rep-vito-barbieri"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://mobile.twitter.com/Cajsa/status/1387486444550168577"

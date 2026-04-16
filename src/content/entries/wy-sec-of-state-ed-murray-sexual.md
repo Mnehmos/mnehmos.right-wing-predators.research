@@ -5,8 +5,7 @@ positions:
   - "Party Member"
 crimes: []
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-secretary-of-state-ed-murray-resigns-move-caps-dramatic/article_bedfdade-a590-5442-ada2-57879cdea5ba.html"
 ---

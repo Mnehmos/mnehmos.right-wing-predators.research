@@ -2,10 +2,9 @@
 name: "Andrew Lynn Overheul, Jacksonville, FL, softball coach"
 slug: "andrew-lynn-overheul-jacksonville-fl-softball-coach"
 positions:
-  - "coach"
+  - "Coach"
 crimes: []
-tags:
-  - "coach"
+tags: []
 sources:
   - "https://www.actionnewsjax.com/news/local/former-clay-county-softball-coach-sentenced-20-years-prison-producing-child-pornography/P3N3PII65NAZVDSSEGDXAWIMAM/"
 ---

@@ -2,11 +2,10 @@
 name: "Bernadette Comfort"
 slug: "bernadette-comfort"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.usnews.com/news/best-states/pennsylvania/articles/2019-07-11/sexual-harassment-allegations-shadow-race-for-gop-chair"

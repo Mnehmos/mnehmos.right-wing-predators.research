@@ -2,10 +2,9 @@
 name: "Joseph C. Roberts, a member of the San Franc"
 slug: "joseph-c-roberts-a-member-of-the-san-franc"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://sfstandard.com/2023/09/29/san-francisco-elected-republican-official-arrested-dismembered-body/"

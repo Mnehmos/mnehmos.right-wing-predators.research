@@ -2,15 +2,12 @@
 name: "Alexander Bebris"
 slug: "alexander-bebris"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://madison.com/wsj/news/local/crime-and-courts/ex-officer-candidate-for-outagamie-county-sheriff-again-faces-child-porn-charge/article_4fab169f-7679-5842-9006-875bb685a7e5.html"

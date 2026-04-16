@@ -2,11 +2,10 @@
 name: "Jack Tomczak"
 slug: "jack-tomczak"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://minnesotareformer.com/2020/08/26/judge-grants-temporary-restraining-order-to-ex-wife-of-minnesota-gop-communications-director/"

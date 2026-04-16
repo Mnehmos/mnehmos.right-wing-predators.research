@@ -2,13 +2,12 @@
 name: "David Helbling"
 slug: "david-helbling"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "kidnapping"
-  - "rape"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Kidnapping"
+  - "Rape"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.themirror.com/news/us-news/anti-lgbtq-writer-who-accused-966788"
 ---

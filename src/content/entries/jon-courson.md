@@ -2,10 +2,10 @@
 name: "Jon Courson"
 slug: "jon-courson"
 positions:
-  - "pastor"
-  - "founder"
+  - "Pastor"
+  - "Founder"
 crimes:
-  - "sexual misconduct allegations"
+  - "Sexual Misconduct Allegations"
 tags:
   - "church abuse"
   - "allegations"

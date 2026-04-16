@@ -3,7 +3,7 @@ name: "Jack Murphy, founder of The Liminal Order"
 slug: "jack-murphy-founder-of-the-liminal-order"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://crooksandliars.com/2018/01/dc-charter-school-board-official-exposed"

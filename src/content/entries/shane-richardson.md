@@ -2,11 +2,10 @@
 name: "Shane Richardson"
 slug: "shane-richardson"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.pennlive.com/news/2022/06/former-youth-pastor-convicted-of-child-sex-abuse-charges-da.html"
 ---

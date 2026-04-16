@@ -2,12 +2,11 @@
 name: "William C. Robinson, pastor in Corpus Christi"
 slug: "william-c-robinson-pastor-in-corpus-christi"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.kristv.com/pastor-arrested-on-allegations-of-continuous-sexual-assault-of-a-minor"
 ---

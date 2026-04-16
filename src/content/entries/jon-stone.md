@@ -2,16 +2,13 @@
 name: "Jon Stone"
 slug: "jon-stone"
 positions:
-  - "law enforcement"
-  - "party official"
-  - "state legislator"
+  - "Law Enforcement"
+  - "Party Official"
+  - "State Legislator"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "law enforcement"
-  - "party official"
   - "republican"
-  - "state legislator"
 sources:
   - "https://indepthnh.org/2024/04/05/documents-rep-jon-stone-threatened-mass-shooting-and-rape-after-investigation/"
 ---

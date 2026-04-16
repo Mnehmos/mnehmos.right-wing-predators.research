@@ -2,11 +2,10 @@
 name: "Lou Nakapalau"
 slug: "lou-nakapalau"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.yaktrinews.com/town-rallies-support-for-lgbtq-community-following-councilmans-anti-gay-comments/"
   - "https://www.yaktrinews.com/echo-councilman-criticized-for-gay-slur-child-porn-resigns/"

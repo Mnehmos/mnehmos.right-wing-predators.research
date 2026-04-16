@@ -2,12 +2,10 @@
 name: "Andrew Bradshaw"
 slug: "andrew-bradshaw"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes: []
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.nbcnews.com/news/us-news/maryland-mayor-charged-50-counts-distributing-revenge-porn-rcna5645"

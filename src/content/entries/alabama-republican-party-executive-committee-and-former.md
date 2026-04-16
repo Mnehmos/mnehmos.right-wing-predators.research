@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Sexual Abuse"
 tags:
-  - "Party Member"
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.cullmantimes.com/news/graves-pleads-guilty-to-sexual-abuse/article_545ac020-94e7-11e8-802c-3370c57746d1.html"
 ---

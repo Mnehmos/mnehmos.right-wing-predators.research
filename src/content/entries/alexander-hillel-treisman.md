@@ -3,7 +3,7 @@ name: "Alexander Hillel Treisman"
 slug: "alexander-hillel-treisman"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.wbtv.com/2020/10/22/man-arrested-kannapolis-with-van-full-guns-explosives-researched-killing-joe-biden/"

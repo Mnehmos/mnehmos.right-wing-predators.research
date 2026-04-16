@@ -2,13 +2,12 @@
 name: "Bill Hutchinson"
 slug: "bill-hutchinson"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "rape"
-  - "sexual assault"
+  - "Assault"
+  - "Rape"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.latimes.com/california/story/2021-07-09/marrying-millions-hotel-and-development-mogul-bill-hutchinson-charged-with-rape-in-orange-county"

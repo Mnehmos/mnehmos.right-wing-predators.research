@@ -2,12 +2,10 @@
 name: "Steven Smith"
 slug: "steven-smith"
 positions:
-  - "law enforcement"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "law enforcement"
-  - "religious leader"
+tags: []
 sources:
   - "https://www.washingtonpost.com/religion/2023/12/21/arkansas-pastor-sexual-abuse/"
 ---

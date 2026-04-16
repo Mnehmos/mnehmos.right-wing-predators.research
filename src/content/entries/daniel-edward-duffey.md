@@ -2,14 +2,12 @@
 name: "Daniel Edward Duffey"
 slug: "daniel-edward-duffey"
 positions:
-  - "governor"
-  - "party official"
+  - "Governor"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "governor"
-  - "party official"
   - "republican"
 sources:
   - "https://flatheadbeacon.com/2024/02/23/gop-political-strategist-pleads-not-guilty-to-stalking-charges/"

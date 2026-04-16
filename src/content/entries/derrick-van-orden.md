@@ -2,15 +2,13 @@
 name: "Derrick van Orden"
 slug: "derrick-van-orden"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.wispolitics.com/2020/wisdems-derrick-van-orden-sexually-harassed-two-female-officers-during-military-service/"

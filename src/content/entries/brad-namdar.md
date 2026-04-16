@@ -2,15 +2,13 @@
 name: "Brad Namdar"
 slug: "brad-namdar"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.dallasnews.com/news/investigations/2022/02/12/dallas-gop-congressional-candidate-brad-namdar-accused-of-soliciting-sex-from-escort/"

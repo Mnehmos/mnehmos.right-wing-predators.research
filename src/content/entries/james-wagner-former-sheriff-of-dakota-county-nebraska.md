@@ -2,12 +2,11 @@
 name: "James Wagner, former Sheriff of Dakota County, Nebraska"
 slug: "james-wagner-former-sheriff-of-dakota-county-nebraska"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.siouxlandproud.com/news/local-news/former-dakota-county-sheriff-arrested-for-minor-sex-abuse-case/?nxsparam=1"
 ---

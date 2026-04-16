@@ -2,12 +2,11 @@
 name: "Grant Hill, who was recently released from prison for two sex offenses"
 slug: "grant-hill-who-was-recently-released-from-prison-for-two-sex-offenses"
 positions:
-  - "congress"
-  - "party official"
+  - "US Representative"
+  - "Party Official"
 crimes: []
 tags:
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.thepeopleshill.com/"

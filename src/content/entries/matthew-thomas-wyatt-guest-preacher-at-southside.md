@@ -3,7 +3,7 @@ name: "Matthew Thomas Wyatt, guest preacher at Southside"
 slug: "matthew-thomas-wyatt-guest-preacher-at-southside"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://myfox8.com/news/north-carolina/piedmont-triad/yadkinville-man-charged-with-child-sex-crimes-voted-out-of-church/"

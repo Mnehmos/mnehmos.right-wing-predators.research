@@ -2,14 +2,12 @@
 name: "Brandon Beckham"
 slug: "brandon-beckham"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.sltrib.com/news/politics/2022/03/08/republican-candidate-utah/.At"

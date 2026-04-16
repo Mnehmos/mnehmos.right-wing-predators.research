@@ -2,11 +2,10 @@
 name: "Winnebago County Republican Central Committee"
 slug: "winnebago-county-republican-central-committee"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.wifr.com/2022/10/03/former-winnebago-county-republican-committee-chairman-arrested-felony-charges/"

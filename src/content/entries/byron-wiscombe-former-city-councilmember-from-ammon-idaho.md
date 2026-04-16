@@ -2,11 +2,10 @@
 name: "Byron Wiscombe, former City Councilmember from Ammon, Idaho"
 slug: "byron-wiscombe-former-city-councilmember-from-ammon-idaho"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "rape"
-tags:
-  - "local official"
+  - "Rape"
+tags: []
 sources:
   - "https://www.postregister.com/news/crime_courts/former-ammon-city-councilman-gets-prison-for-years-of-child-rape/article_e474dd90-c2ae-11ed-a6ab-17a8f0fad8e7.html"
 ---

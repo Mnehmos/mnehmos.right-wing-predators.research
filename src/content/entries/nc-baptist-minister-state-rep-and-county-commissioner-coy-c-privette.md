@@ -7,12 +7,10 @@ positions:
   - "Religious Leader"
 crimes:
   - "Prostitution"
-tags:
-  - "Local Official"
-  - "Party Member"
-  - "Religious Leader"
+tags: []
 sources:
   - "https://www.wral.com/news/local/story/161812/\""
+  - "https://www.wral.com/news/local/story/161812/"
 ---
 
 ## Overview

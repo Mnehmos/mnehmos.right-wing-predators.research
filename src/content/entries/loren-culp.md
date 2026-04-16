@@ -2,13 +2,11 @@
 name: "Loren Culp"
 slug: "loren-culp"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.seattletimes.com/seattle-news/politics/lawsuit-accuses-gop-gubernatorial-candidate-loren-culp-of-mishandling-child-sex-abuse-investigation/"

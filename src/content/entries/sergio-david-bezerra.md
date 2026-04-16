@@ -2,14 +2,14 @@
 name: "Sergio David Bezerra"
 slug: "sergio-david-bezerra"
 positions:
-  - "teacher"
-  - "piano instructor"
+  - "Educator"
+  - "Piano Instructor"
 crimes:
-  - "indecency with child"
+  - "Indecency With Child"
 tags:
   - "school predator"
   - "child abuse"
-  - "Baptist school"
+  - "baptist school"
 sources:
   - "https://www.mysanantonio.com/news/local/article/Former-Texas-teacher-sentenced-to-80-years-for-5962976.php"
 ---

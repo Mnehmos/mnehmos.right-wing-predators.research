@@ -2,15 +2,13 @@
 name: "Cardinal Bernard Francis Law"
 slug: "cardinal-bernard-francis-law"
 positions:
-  - "Church official"
-  - "Religious leader"
+  - "Religious Leader"
 crimes:
-  - "Child abuse enablement"
-  - "Obstruction of justice"
-  - "Conspiracy to cover up sexual abuse"
+  - "Child Abuse Enablement"
+  - "Obstruction Of Justice"
+  - "Conspiracy To Cover Up Sexual Abuse"
 tags:
-  - "Church official"
-  - "Religious leader"
+  - "church official"
 sources:
   - "https://t.co/QmVRTkK45w"
 ---

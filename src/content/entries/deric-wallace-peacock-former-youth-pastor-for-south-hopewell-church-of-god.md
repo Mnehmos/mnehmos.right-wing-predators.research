@@ -2,11 +2,10 @@
 name: "Deric Wallace Peacock, former youth pastor for South Hopewell Church of God"
 slug: "deric-wallace-peacock-former-youth-pastor-for-south-hopewell-church-of-god"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://dailyvoice.com/virginia/arlington/news/former-youth-pastor-out-on-probation-in-va-for-sex-offenses-gets-20-years-for-child-porn/854995/"
 ---

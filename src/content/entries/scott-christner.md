@@ -2,11 +2,10 @@
 name: "Scott Christner"
 slug: "scott-christner"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://ministrywatch.com/former-indiana-youth-pastor-sentenced-to-20-years-in-prison-for-child-molestation/"
 ---

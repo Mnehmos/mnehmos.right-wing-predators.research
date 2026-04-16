@@ -2,12 +2,10 @@
 name: "Randy Kaufman, Republican"
 slug: "randy-kaufman-republican"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.12news.com/article/news/crime/gop-candidate-maricopa-college-board-arrested-charge-of-public-sexual-indecency-randy-kaufman/75-add261c3-7948-4503-ab42-7351c5c283cd"

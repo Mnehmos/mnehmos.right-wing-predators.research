@@ -2,11 +2,10 @@
 name: "Carter Clinton Ballman"
 slug: "carter-clinton-ballman"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.komu.com/news/former-gop-legislative-aide-"

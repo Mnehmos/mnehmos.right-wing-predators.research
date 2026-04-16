@@ -3,8 +3,8 @@ name: "Shawn Brooks"
 slug: "shawn-brooks"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "maga"
 sources:

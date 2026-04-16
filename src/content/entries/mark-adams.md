@@ -2,13 +2,11 @@
 name: "Mark Adams"
 slug: "mark-adams"
 positions:
-  - "local official"
-  - "party official"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://www.daytondailynews.com/news/local/township-"

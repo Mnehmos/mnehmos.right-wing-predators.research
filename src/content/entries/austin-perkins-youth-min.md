@@ -2,13 +2,12 @@
 name: "Austin Perkins, youth min"
 slug: "austin-perkins-youth-min"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://news.yahoo.com/former-georgia-youth-minister-pleads-111713442.html"
 ---

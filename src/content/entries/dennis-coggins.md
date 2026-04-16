@@ -2,13 +2,12 @@
 name: "Dennis Coggins"
 slug: "dennis-coggins"
 positions:
-  - "congress"
-  - "local official"
+  - "US Representative"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "congress"
-  - "local official"
 sources:
   - "https://www.kait8.com/2024/03/15/lawsuit-claims-hoxie-mayor-sexually-harassed-tenant/"
 ---

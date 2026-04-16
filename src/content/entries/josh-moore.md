@@ -2,10 +2,9 @@
 name: "Josh Moore"
 slug: "josh-moore"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.cnn.com/2015/12/31/politics/new-hampshire-bill-breastfeeding-nipples-comments/index.html"

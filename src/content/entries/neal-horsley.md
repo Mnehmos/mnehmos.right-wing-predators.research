@@ -5,13 +5,12 @@ positions:
   - "Activist"
 crimes:
   - "Bestiality"
-  - "Drug trafficking"
+  - "Drug Trafficking"
   - "Harassment"
-  - "Incitement to violence"
+  - "Incitement To Violence"
 tags:
-  - "Activist"
-  - "Anti-abortion extremist"
-  - "Extremist"
+  - "anti-abortion extremist"
+  - "extremist"
 sources:
   - "https://www.esquire.com/news-politics/a1696/esq0299-feb-vollcorbett/"
   - "https://www.esquire.com/news/politics/a1696/esq0299-feb-vollcorbett/"

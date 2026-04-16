@@ -3,7 +3,7 @@ name: "Charles Sutherland, a former librarian in Prince George's Co, Maryland"
 slug: "charles-sutherland-a-former-librarian-in-prince-george-s-co-maryland"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://wtop.com/prince-georges-county/2023/03/former-prince-georges-co-schools-librarian-faces-child-porn-charges/"

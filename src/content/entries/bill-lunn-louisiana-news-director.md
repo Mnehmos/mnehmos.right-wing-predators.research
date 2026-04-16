@@ -3,7 +3,7 @@ name: "Bill Lunn, Louisiana News Director"
 slug: "bill-lunn-louisiana-news-director"
 positions: []
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags: []
 sources:
   - "https://x.com/antifaoperative/status/1798114156593271230"

@@ -2,10 +2,9 @@
 name: "Tyler Selby, Music Min"
 slug: "tyler-selby-music-min"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.wxxv25.com/church-worship-leader-charged-with-producing-child-porn/"
   - "https://www.wxxv25.com/former-worship-leader-intends-to-change-plea-to-guilty-to-child-porn-charges/"

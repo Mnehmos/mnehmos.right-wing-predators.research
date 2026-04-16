@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.indystar.com/story/news/politics/2018/07/03/curtis-\""
 ---

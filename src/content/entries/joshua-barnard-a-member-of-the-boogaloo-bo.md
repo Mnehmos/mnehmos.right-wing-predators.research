@@ -3,7 +3,7 @@ name: "Joshua Barnard, a member of the Boogaloo Bo"
 slug: "joshua-barnard-a-member-of-the-boogaloo-bo"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.rcsd.net/tag/extremists/"

@@ -27,14 +27,18 @@ const textColorClasses = {
 };
 ---
 
-<div class={`rounded-xl border p-6 text-center transition-all hover:scale-[1.02] ${colorClasses[color]}`}>
+<div
+  class={`rounded-xl border p-6 text-center transition-all hover:scale-[1.02] ${colorClasses[color]}`}
+  role="group"
+  aria-label={`${typeof value === 'number' ? value.toLocaleString() : value} ${label}`}
+>
   {icon && (
-    <div class="text-3xl mb-2">{icon}</div>
+    <div class="text-3xl mb-2" aria-hidden="true">{icon}</div>
   )}
   <div class={`text-4xl md:text-5xl font-bold font-display ${textColorClasses[color]}`}>
     {typeof value === 'number' ? value.toLocaleString() : value}
   </div>
-  <div class="text-stone-600 dark:text-stone-400 mt-2 text-sm md:text-base font-medium uppercase tracking-wide">
+  <div class="text-stone-700 dark:text-stone-300 mt-2 text-sm md:text-base font-medium uppercase tracking-wide">
     {label}
   </div>
 </div>

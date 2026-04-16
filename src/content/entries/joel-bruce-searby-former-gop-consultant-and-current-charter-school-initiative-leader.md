@@ -2,11 +2,10 @@
 name: "Joel Bruce Searby, former GOP consultant and current charter school initiative leader"
 slug: "joel-bruce-searby-former-gop-consultant-and-current-charter-school-initiative-leader"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.msn.com/en-us/news/crime/leader-of-newberry-charter-school-initiative-charged-with-inviting-a-15-year-old-boy-to-his-home-for-sex/ar-BB1oBnYP"

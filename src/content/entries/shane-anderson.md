@@ -2,16 +2,13 @@
 name: "Shane Anderson"
 slug: "shane-anderson"
 positions:
-  - "party member"
-  - "party official"
-  - "state legislator"
+  - "Party Member"
+  - "Party Official"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.thedickinsonpress.com/news/government-and-politics/7118693-Conservative-group-aims-to-recall-Valley-City-rep-after-vote-to-expel-accused-sexual-harasser"
 ---

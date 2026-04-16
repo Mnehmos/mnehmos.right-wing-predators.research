@@ -3,7 +3,7 @@ name: "Michael Scott Geiger, white national"
 slug: "michael-scott-geiger-white-national"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://lawandcrime.com/crime/prosecutors-seek-death-penalty-for-aryan-brotherhood-member-accused-of-raping-2-year-old-and-throwing-her-into-motel-pool-to-die/"

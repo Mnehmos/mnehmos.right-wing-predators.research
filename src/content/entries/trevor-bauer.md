@@ -3,9 +3,9 @@ name: "Trevor Bauer"
 slug: "trevor-bauer"
 positions: []
 crimes:
-  - "domestic violence"
-  - "sexual abuse"
-  - "violence"
+  - "Domestic Violence"
+  - "Sexual Abuse"
+  - "Violence"
 tags: []
 sources:
   - "https://www.washingtonpost.com/sports/2022/04/29/trevor-bauer-abuse-accusations"

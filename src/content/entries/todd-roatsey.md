@@ -3,7 +3,7 @@ name: "Todd Roatsey"
 slug: "todd-roatsey"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
   - "maga"
 sources:

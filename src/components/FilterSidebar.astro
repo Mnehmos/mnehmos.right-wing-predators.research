@@ -3,271 +3,165 @@ interface Props {
   crimes: string[];
   positions: string[];
   tags: string[];
+  variant?: 'desktop' | 'mobile';
 }
 
-const { crimes, positions, tags } = Astro.props;
+const { crimes, positions, tags, variant = 'desktop' } = Astro.props;
 
-// Sort and limit for display
-const topCrimes = crimes.slice(0, 15);
-const topPositions = positions.slice(0, 15);
-const topTags = tags.slice(0, 10);
+// Top facets: the client engine filters the full dataset, but we display the
+// most common values in the sidebar to keep the UI scannable.
+const topCrimes = crimes.slice(0, 20);
+const topPositions = positions.slice(0, 20);
+const topTags = tags.slice(0, 15);
+
+const idPrefix = variant === 'mobile' ? 'm-' : '';
 ---
 
-<aside id="filter-sidebar" class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-5 sticky top-4">
+<aside
+  id={`${idPrefix}filter-sidebar`}
+  class:list={[
+    'filter-sidebar bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-5',
+    variant === 'desktop' ? 'sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto' : '',
+  ]}
+  aria-labelledby={`${idPrefix}filter-heading`}
+>
   <div class="flex items-center justify-between mb-4">
-    <h2 class="text-lg font-bold text-stone-800 dark:text-stone-100 font-display">Filters</h2>
-    <button 
-      id="clear-filters"
-      class="text-xs text-stone-500 dark:text-stone-400 hover:text-copper transition-colors hidden"
+    <h2 id={`${idPrefix}filter-heading`} class="text-lg font-bold text-stone-800 dark:text-stone-100 font-display">Filters</h2>
+    <button
+      id={`${idPrefix === '' ? 'clear-filters' : idPrefix + 'clear-filters'}`}
+      class="text-xs text-stone-500 dark:text-stone-400 hover:text-copper focus:outline-none focus:ring-2 focus:ring-copper focus:ring-offset-2 focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800 rounded px-1 transition-colors"
+      type="button"
     >
-      Clear All
+      Clear all
     </button>
-  </div>
-
-  <!-- Active Filters Display -->
-  <div id="active-filters" class="hidden mb-4 pb-4 border-b border-stone-200 dark:border-stone-700">
-    <div class="text-xs text-stone-500 dark:text-stone-400 mb-2">Active filters:</div>
-    <div id="active-filter-badges" class="flex flex-wrap gap-1"></div>
   </div>
 
   <!-- Crime Type Filter -->
-  <div class="mb-6">
-    <button 
-      class="filter-section-toggle flex items-center justify-between w-full text-left mb-3"
-      data-section="crimes"
-    >
-      <span class="text-sm font-semibold text-stone-600 dark:text-stone-300 uppercase tracking-wide">Crime Type</span>
-      <svg class="w-4 h-4 text-stone-400 dark:text-stone-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-      </svg>
-    </button>
-    <div id="crimes-section" class="space-y-1.5 max-h-48 overflow-y-auto scrollbar-thin">
+  <fieldset class="mb-6">
+    <legend class="w-full">
+      <button
+        class="filter-section-toggle flex items-center justify-between w-full text-left mb-3"
+        data-section={`${idPrefix}crimes`}
+        aria-expanded="true"
+        aria-controls={`${idPrefix}crimes-section`}
+        type="button"
+      >
+        <span class="text-sm font-semibold text-stone-700 dark:text-stone-200 uppercase tracking-wide">Crime Type</span>
+        <svg class="w-4 h-4 text-stone-400 dark:text-stone-500 transition-transform" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+    </legend>
+    <div id={`${idPrefix}crimes-section`} class="space-y-1.5 max-h-64 overflow-y-auto scrollbar-thin">
       {topCrimes.map((crime) => (
-        <label class="flex items-center gap-2 cursor-pointer group">
-          <input 
-            type="checkbox" 
+        <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]">
+          <input
+            type="checkbox"
             name="crime"
             value={crime}
-            class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
+            class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-2 focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
           />
-          <span class="text-sm text-stone-600 dark:text-stone-400 group-hover:text-stone-800 dark:group-hover:text-stone-300 transition-colors truncate">
+          <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate">
             {crime}
           </span>
         </label>
       ))}
     </div>
-  </div>
+  </fieldset>
 
   <!-- Position Filter -->
-  <div class="mb-6">
-    <button 
-      class="filter-section-toggle flex items-center justify-between w-full text-left mb-3"
-      data-section="positions"
-    >
-      <span class="text-sm font-semibold text-stone-600 dark:text-stone-300 uppercase tracking-wide">Position</span>
-      <svg class="w-4 h-4 text-stone-400 dark:text-stone-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-      </svg>
-    </button>
-    <div id="positions-section" class="space-y-1.5 max-h-48 overflow-y-auto scrollbar-thin">
+  <fieldset class="mb-6">
+    <legend class="w-full">
+      <button
+        class="filter-section-toggle flex items-center justify-between w-full text-left mb-3"
+        data-section={`${idPrefix}positions`}
+        aria-expanded="true"
+        aria-controls={`${idPrefix}positions-section`}
+        type="button"
+      >
+        <span class="text-sm font-semibold text-stone-700 dark:text-stone-200 uppercase tracking-wide">Position</span>
+        <svg class="w-4 h-4 text-stone-400 dark:text-stone-500 transition-transform" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+    </legend>
+    <div id={`${idPrefix}positions-section`} class="space-y-1.5 max-h-64 overflow-y-auto scrollbar-thin">
       {topPositions.map((position) => (
-        <label class="flex items-center gap-2 cursor-pointer group">
-          <input 
-            type="checkbox" 
+        <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]">
+          <input
+            type="checkbox"
             name="position"
             value={position}
-            class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
+            class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-2 focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
           />
-          <span class="text-sm text-stone-600 dark:text-stone-400 group-hover:text-stone-800 dark:group-hover:text-stone-300 transition-colors truncate">
-            {position.length > 35 ? position.substring(0, 35) + '...' : position}
+          <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate" title={position}>
+            {position.length > 40 ? position.substring(0, 40) + '…' : position}
           </span>
         </label>
       ))}
     </div>
-  </div>
+  </fieldset>
 
   <!-- Tag Filter -->
   {topTags.length > 0 && (
-    <div class="mb-6">
-      <button 
-        class="filter-section-toggle flex items-center justify-between w-full text-left mb-3"
-        data-section="tags"
-      >
-        <span class="text-sm font-semibold text-stone-600 dark:text-stone-300 uppercase tracking-wide">Tags</span>
-        <svg class="w-4 h-4 text-stone-400 dark:text-stone-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-      <div id="tags-section" class="space-y-1.5 max-h-36 overflow-y-auto scrollbar-thin">
+    <fieldset class="mb-2">
+      <legend class="w-full">
+        <button
+          class="filter-section-toggle flex items-center justify-between w-full text-left mb-3"
+          data-section={`${idPrefix}tags`}
+          aria-expanded="true"
+          aria-controls={`${idPrefix}tags-section`}
+          type="button"
+        >
+          <span class="text-sm font-semibold text-stone-700 dark:text-stone-200 uppercase tracking-wide">Tags</span>
+          <svg class="w-4 h-4 text-stone-400 dark:text-stone-500 transition-transform" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </legend>
+      <div id={`${idPrefix}tags-section`} class="space-y-1.5 max-h-48 overflow-y-auto scrollbar-thin">
         {topTags.map((tag) => (
-          <label class="flex items-center gap-2 cursor-pointer group">
-            <input 
-              type="checkbox" 
+          <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]">
+            <input
+              type="checkbox"
               name="tag"
               value={tag}
-              class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
+              class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-2 focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
             />
-            <span class="text-sm text-stone-600 dark:text-stone-400 group-hover:text-stone-800 dark:group-hover:text-stone-300 transition-colors">
+            <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate" title={tag}>
               {tag}
             </span>
           </label>
         ))}
       </div>
-    </div>
+    </fieldset>
   )}
-
-  <!-- Filter Stats -->
-  <div id="filter-stats" class="pt-4 border-t border-stone-200 dark:border-stone-700 text-sm text-stone-500">
-    Showing <span id="showing-count" class="text-stone-800 dark:text-stone-100 font-medium">all</span> entries
-  </div>
 </aside>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const sidebar = document.getElementById('filter-sidebar');
-    const clearBtn = document.getElementById('clear-filters');
-    const activeFiltersDiv = document.getElementById('active-filters');
-    const activeBadgesDiv = document.getElementById('active-filter-badges');
-    const showingCount = document.getElementById('showing-count');
-    const checkboxes = document.querySelectorAll<HTMLInputElement>('.filter-checkbox');
-    const entryCards = document.querySelectorAll<HTMLElement>('[data-entry-card]');
-    
-    // Store filter state
-    const filters: { crimes: string[]; positions: string[]; tags: string[] } = {
-      crimes: [],
-      positions: [],
-      tags: []
-    };
-    
-    // Update filter display
-    function updateFilterDisplay() {
-      const hasFilters = filters.crimes.length + filters.positions.length + filters.tags.length > 0;
-      
-      if (clearBtn) clearBtn.classList.toggle('hidden', !hasFilters);
-      if (activeFiltersDiv) activeFiltersDiv.classList.toggle('hidden', !hasFilters);
-      
-      if (activeBadgesDiv && hasFilters) {
-        activeBadgesDiv.innerHTML = '';
-        
-        const allFilters = [
-          ...filters.crimes.map(f => ({ type: 'crime', value: f })),
-          ...filters.positions.map(f => ({ type: 'position', value: f })),
-          ...filters.tags.map(f => ({ type: 'tag', value: f }))
-        ];
-        
-        allFilters.forEach(({ type, value }) => {
-          const badge = document.createElement('button');
-          badge.className = 'inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs bg-copper/20 text-copper hover:bg-copper/30 transition-colors';
-          badge.innerHTML = `${value.length > 20 ? value.substring(0, 20) + '...' : value} <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>`;
-          badge.addEventListener('click', () => removeFilter(type, value));
-          activeBadgesDiv.appendChild(badge);
-        });
-      }
-    }
-    
-    // Remove single filter
-    function removeFilter(type: string, value: string) {
-      const filterKey = `${type}s` as keyof typeof filters;
-      filters[filterKey] = filters[filterKey].filter(f => f !== value);
-      
-      // Uncheck the corresponding checkbox
-      const checkbox = document.querySelector<HTMLInputElement>(`input[name="${type}"][value="${value}"]`);
-      if (checkbox) checkbox.checked = false;
-      
-      applyFilters();
-    }
-    
-    // Apply filters to entries
-    function applyFilters() {
-      let visibleCount = 0;
-      const hasFilters = filters.crimes.length + filters.positions.length + filters.tags.length > 0;
-      
-      entryCards.forEach(card => {
-        if (!hasFilters) {
-          card.style.display = '';
-          visibleCount++;
-          return;
-        }
-        
-        const cardCrimes = (card.dataset.crimes || '').split(',').filter(Boolean);
-        const cardPositions = (card.dataset.positions || '').split(',').filter(Boolean);
-        const cardTags = (card.dataset.tags || '').split(',').filter(Boolean);
-        
-        const matchesCrime = filters.crimes.length === 0 || 
-          filters.crimes.some(f => cardCrimes.includes(f));
-        const matchesPosition = filters.positions.length === 0 || 
-          filters.positions.some(f => cardPositions.includes(f));
-        const matchesTag = filters.tags.length === 0 || 
-          filters.tags.some(f => cardTags.includes(f));
-        
-        const visible = matchesCrime && matchesPosition && matchesTag;
-        card.style.display = visible ? '' : 'none';
-        if (visible) visibleCount++;
-      });
-      
-      if (showingCount) {
-        showingCount.textContent = hasFilters ? visibleCount.toString() : 'all';
-      }
-      
-      updateFilterDisplay();
-    }
-    
-    // Handle checkbox changes
-    checkboxes.forEach(checkbox => {
-      checkbox.addEventListener('change', () => {
-        const type = checkbox.name;
-        const value = checkbox.value;
-        const filterKey = `${type}s` as keyof typeof filters;
-        
-        if (checkbox.checked) {
-          if (!filters[filterKey].includes(value)) {
-            filters[filterKey].push(value);
-          }
-        } else {
-          filters[filterKey] = filters[filterKey].filter(f => f !== value);
-        }
-        
-        applyFilters();
-      });
-    });
-    
-    // Clear all filters
-    clearBtn?.addEventListener('click', () => {
-      filters.crimes = [];
-      filters.positions = [];
-      filters.tags = [];
-      checkboxes.forEach(cb => cb.checked = false);
-      applyFilters();
-    });
-    
-    // Section toggles
-    document.querySelectorAll('.filter-section-toggle').forEach(btn => {
+  // Section collapse/expand with proper ARIA.
+  // Only runs once per page — guard against double-binding when the mobile
+  // sheet re-mounts the sidebar inside its drawer.
+  function bindSectionToggles() {
+    document.querySelectorAll<HTMLButtonElement>('.filter-section-toggle').forEach((btn) => {
+      if (btn.dataset.bound === '1') return;
+      btn.dataset.bound = '1';
       btn.addEventListener('click', () => {
         const section = btn.getAttribute('data-section');
+        if (!section) return;
         const sectionDiv = document.getElementById(`${section}-section`);
         const arrow = btn.querySelector('svg');
-        
-        if (sectionDiv) {
-          sectionDiv.classList.toggle('hidden');
-          arrow?.classList.toggle('rotate-180');
-        }
+        if (!sectionDiv) return;
+        const isOpen = !sectionDiv.classList.contains('hidden');
+        sectionDiv.classList.toggle('hidden');
+        arrow?.classList.toggle('rotate-180');
+        btn.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
       });
     });
-  });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindSectionToggles);
+  } else {
+    bindSectionToggles();
+  }
 </script>
-
-<style>
-  .scrollbar-thin::-webkit-scrollbar {
-    width: 4px;
-  }
-  .scrollbar-thin::-webkit-scrollbar-track {
-    background: transparent;
-  }
-  .scrollbar-thin::-webkit-scrollbar-thumb {
-    background: #a8a29e;
-    border-radius: 2px;
-  }
-  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
-    background: #78716c;
-  }
-</style>

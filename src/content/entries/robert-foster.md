@@ -2,11 +2,10 @@
 name: "Robert Foster"
 slug: "robert-foster"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.theguardian.com/us-news/2019/jul/10/female-journalist-told-she-needs-male-chaperone-to-cover-politicians-campaign"

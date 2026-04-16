@@ -3,7 +3,7 @@ name: "Jeffrey Bedwell"
 slug: "jeffrey-bedwell"
 positions: []
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags: []
 sources:
   - "https://www.firstcoastnews.com/amp/article/news/crime/jacksonville-pastor-plea-deal-in-sex-crimes-case/77-5edc1200-aeaa-4722-8552-9f365932b08d"

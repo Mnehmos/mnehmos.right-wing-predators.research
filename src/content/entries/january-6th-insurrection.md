@@ -3,7 +3,7 @@ name: "January 6th insurrection"
 slug: "january-6th-insurrection"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://journalstar.com/news/local/crime-and-courts/judge-gives-lincoln-man-probation-for-sex-offense/article_4580a21f-d8e7-5e8f-a648-adcd7cc04224.html"

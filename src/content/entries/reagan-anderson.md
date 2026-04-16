@@ -2,11 +2,10 @@
 name: "Reagan Anderson"
 slug: "reagan-anderson"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "assault"
-tags:
-  - "educator"
+  - "Assault"
+tags: []
 sources:
   - "https://lawandcrime.com/crime/this-predator-has-robbed-him-mom-calls-out-private-school-teacher-charged-with-sexually-battering-her-son-in-pizza-hut-parking-lot/"
 ---

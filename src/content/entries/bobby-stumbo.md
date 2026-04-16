@@ -2,13 +2,12 @@
 name: "Bobby Stumbo"
 slug: "bobby-stumbo"
 positions:
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Party official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://web.archive.org/web/20051211093004/http"
 ---

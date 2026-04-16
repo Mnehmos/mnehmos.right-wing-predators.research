@@ -2,10 +2,9 @@
 name: "Lyndon J McLeod"
 slug: "lyndon-j-mcleod"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/sixth-person-dies-after-deadly-denver-killing-spree-police-say"

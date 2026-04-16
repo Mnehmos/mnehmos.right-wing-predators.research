@@ -6,9 +6,8 @@ positions:
 crimes:
   - "Child Sexual Abuse"
 tags:
-  - "State Legislator"
-  - "Republican"
-  - "Idaho"
+  - "republican"
+  - "idaho"
 sources:
   - "https://www.nbcnews.com/storyline/sexual-misconduct/idaho-politician-who-resigned-following-sexual-assault-allegations-found-dead-n836211"
 ---

@@ -2,14 +2,12 @@
 name: "David Dewhurst"
 slug: "david-dewhurst"
 positions:
-  - "governor"
-  - "party member"
+  - "Governor"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "governor"
-  - "party member"
   - "republican"
 sources:
   - "https://www.kcbd.com/2021/04/14/former-texas-lt-gov-david-dewhurst-arrested-domestic-violence-charge/"

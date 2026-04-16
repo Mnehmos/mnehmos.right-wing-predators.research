@@ -2,15 +2,13 @@
 name: "CT GOP Congressional Thomas Gilmer"
 slug: "ct-gop-congressional-thomas-gilmer"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.ctpost.com/politics/article/GOP-candidate-for-Congress-arrested-bows-out-on-15475171.php"

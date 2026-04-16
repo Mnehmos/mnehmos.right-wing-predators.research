@@ -3,16 +3,15 @@ name: "Frederick Eugene Wall"
 slug: "frederick-eugene-wall"
 positions:
   - "Candidate"
-  - "Congress"
+  - "US Representative"
   - "Party Member"
 crimes:
   - "Child Exploitation"
   - "Child Pornography"
 tags:
-  - "Candidate"
-  - "Congress"
-  - "Party Official"
-  - "Republican"
+  - "congress"
+  - "party official"
+  - "republican"
 sources:
   - "https://wlos.com/news/local/report-south-carolina-candidate-apparently-facing-child-porn-charges/"
 ---

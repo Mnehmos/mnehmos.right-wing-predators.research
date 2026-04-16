@@ -2,10 +2,9 @@
 name: "Gregg Hayden, Sheriff's lieutenant, school safety supervisor in Anderson County, SC"
 slug: "gregg-hayden-sheriff-s-lieutenant-school-safety-supervisor-in-anderson-county-sc"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.wyff4.com/article/gregg-hayden-arrest-school-board-anderson/65624428"
 ---

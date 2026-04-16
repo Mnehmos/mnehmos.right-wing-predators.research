@@ -2,12 +2,11 @@
 name: "Matthew T. Travis"
 slug: "matthew-t-travis"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.kagstv.com/article/news/crime/leon-county-arrests-feb-22-2023/499-442447b3-2dd0-4a10-873d-a4be9ae908de"
 ---

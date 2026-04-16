@@ -3,9 +3,9 @@ name: "Ryan Samsel"
 slug: "ryan-samsel"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
-  - "violence"
+  - "Assault"
+  - "Sexual Assault"
+  - "Violence"
 tags: []
 sources:
   - "https://www.thedailybeast.com/ryan-samsel-rioter-who-gave-capitol-cop-a-concussion-has-horrific-history-of-beating-women?ref=home"

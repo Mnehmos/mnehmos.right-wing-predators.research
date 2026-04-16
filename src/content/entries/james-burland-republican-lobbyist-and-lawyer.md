@@ -2,14 +2,12 @@
 name: "James Burland, Republican lobbyist and lawyer"
 slug: "james-burland-republican-lobbyist-and-lawyer"
 positions:
-  - "lobbyist"
-  - "party member"
+  - "Lobbyist"
+  - "Party Member"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags:
-  - "lobbyist"
-  - "party member"
   - "republican"
 sources:
   - "https://www.justice.gov/usao-mdla/pr/baton-rouge-man-charged-possession-child-pornography"

@@ -2,12 +2,10 @@
 name: "Kenneth Daniel"
 slug: "kenneth-daniel"
 positions:
-  - "law enforcement"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "law enforcement"
-  - "religious leader"
+tags: []
 sources:
   - "https://thealabamabaptist.org/pastors-recent-arrest-reminder-for-churches-to-protect-the-vulnerable/"
 ---

@@ -2,14 +2,13 @@
 name: "Ronnie Floyd"
 slug: "ronnie-floyd"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "child molestation"
-  - "sexual assault"
+  - "Assault"
+  - "Child Molestation"
+  - "Sexual Assault"
 tags:
   - "maga"
-  - "religious leader"
 sources:
   - "https://www.baptiststandard.com/news/baptists/ronnie-floyd-resigns-as-sbc-executive-committee-chief/"
 ---

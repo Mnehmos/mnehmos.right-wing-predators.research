@@ -3,8 +3,8 @@ name: "Jacob Lewis"
 slug: "jacob-lewis"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags: []
 sources:
   - "https://www.vvdailypress.com/story/opinion/columns/2020/06/21/opinion-two-viruses-in-our-community/42183097/"

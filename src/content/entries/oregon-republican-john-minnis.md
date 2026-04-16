@@ -2,11 +2,10 @@
 name: "Oregon Republican John Minnis"
 slug: "oregon-republican-john-minnis"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.oregonlive.com/politics/2009/12/public_safety_chief_john_minni.html"

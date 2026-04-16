@@ -2,11 +2,10 @@
 name: "Russell Jon Tusing, Sovereign Grace pastor"
 slug: "russell-jon-tusing-sovereign-grace-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://ministrywatch.com/georgia-sgc-pastor-charged-with-sex-abuse-of-minor/"
 ---

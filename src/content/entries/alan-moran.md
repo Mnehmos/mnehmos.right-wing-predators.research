@@ -2,12 +2,10 @@
 name: "Alan Moran"
 slug: "alan-moran"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes: []
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.sunherald.com/news/local/crime/article258968863.html"

@@ -3,7 +3,7 @@ name: "Kasey Hopkins, Kansas insurrectionist pardoned by Trump"
 slug: "kasey-hopkins-kansas-insurrectionist-pardoned-by-trump"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "maga"
 sources:

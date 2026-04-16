@@ -2,11 +2,10 @@
 name: "Bobby Leonard"
 slug: "bobby-leonard"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.wbtv.com/2024/02/22/union-co-pastor-faces-backlash-after-blaming-rape-victims-attire/"
 ---

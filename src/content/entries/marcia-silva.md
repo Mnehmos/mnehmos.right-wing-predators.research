@@ -2,11 +2,10 @@
 name: "Marcia Silva"
 slug: "marcia-silva"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
-  - "judge"
   - "republican"
 sources:
   - "http://newjersey.news12.com/story/40756242/judge-faces-backlash-for-saying-12yearold-rape-victim-didnt-suffer"

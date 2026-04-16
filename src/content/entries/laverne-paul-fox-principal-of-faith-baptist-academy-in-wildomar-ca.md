@@ -2,11 +2,10 @@
 name: "Laverne Paul Fox, principal of Faith Baptist Academy in Wildomar, CA"
 slug: "laverne-paul-fox-principal-of-faith-baptist-academy-in-wildomar-ca"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "child molestation"
-tags:
-  - "educator"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.pressenterprise.com/2021/09/15/former-baptist-school-principal-gets-two-years-in-prison-for-sexually-assaulting-student"
 ---

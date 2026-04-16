@@ -2,9 +2,9 @@
 name: "Larry Householder"
 slug: "larry-householder"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "congress"
 sources:

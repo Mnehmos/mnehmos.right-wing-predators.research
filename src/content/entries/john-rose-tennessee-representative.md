@@ -2,10 +2,9 @@
 name: "John Rose, Tennessee representative"
 slug: "john-rose-tennessee-representative"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes: []
-tags:
-  - "state legislator"
+tags: []
 sources:
   - "https://prospect.org/politics/how-republican-rep-john-rose-found-his-wife/"
 ---

@@ -2,12 +2,11 @@
 name: "Edward Burgess"
 slug: "edward-burgess"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.fox19.com/story/5307800/former-councilman-indicted-for-sex-charges/"
 ---

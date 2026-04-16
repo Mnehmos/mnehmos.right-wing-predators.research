@@ -2,15 +2,12 @@
 name: "Michael O'Donnell"
 slug: "michael-o-donnell"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.kansas.com/news/politics-government/article246669242.html"

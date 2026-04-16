@@ -2,10 +2,9 @@
 name: "Garrett Soldano"
 slug: "garrett-soldano"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes: []
-tags:
-  - "candidate"
+tags: []
 sources:
   - "https://talkingpointsmemo.com/morning-memo/gop-candidate-argues-pregnant-rape-survivors-should-be-inspired-by-situation-god-put-them-in"
 ---

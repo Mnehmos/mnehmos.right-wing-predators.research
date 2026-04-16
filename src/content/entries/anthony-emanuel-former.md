@@ -2,15 +2,12 @@
 name: "Anthony Emanuel, former"
 slug: "anthony-emanuel-former"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://newschannel9.com/news/local/former-trenton-mayor-charged-with-child-molestation-anthony-emanuel-dade-county"

@@ -2,16 +2,15 @@
 name: "Carey Lee Cramer"
 slug: "carey-lee-cramer"
 positions:
-  - "Party member"
+  - "Party Member"
 crimes:
-  - "Sexual assault"
-  - "Sexual abuse"
-  - "Child molestation"
-  - "Indecency with a child by contact"
-  - "Indecency with a child by exposure"
+  - "Sexual Assault"
+  - "Sexual Abuse"
+  - "Child Molestation"
+  - "Indecency With A Child By Contact"
+  - "Indecency With A Child By Exposure"
 tags:
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://tucson.com/news/political-consultant-from-tucson-convicted-of-child-sex-assault-in/article_d8ef6399-4082-595a-8693-ea30dda123fe.html"
 ---

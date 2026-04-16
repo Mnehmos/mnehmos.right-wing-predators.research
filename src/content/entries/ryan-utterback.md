@@ -3,7 +3,7 @@ name: "Ryan Utterback"
 slug: "ryan-utterback"
 positions: []
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags: []
 sources:
   - "https://www.kansascity.com/news/local/crime/article257921913.htmlIn"

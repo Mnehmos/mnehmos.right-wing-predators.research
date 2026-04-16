@@ -2,13 +2,11 @@
 name: "Michael McGuire"
 slug: "michael-mcguire"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://buffalonews.com/news/local/crime-and-courts/ex-blasdell-mayor-accused-of-sexually-abusing-3-students-at-catholic-school/article_894fda17-cc13-54e1-bb95-b62dfd30473e.html"

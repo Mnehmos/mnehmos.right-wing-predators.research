@@ -1,0 +1,195 @@
+---
+import FilterSidebar from './FilterSidebar.astro';
+
+interface Props {
+  crimes: string[];
+  positions: string[];
+  tags: string[];
+}
+
+const { crimes, positions, tags } = Astro.props;
+---
+
+<!-- Sticky bottom action bar (mobile only) -->
+<div
+  id="mobile-filter-bar"
+  class="lg:hidden fixed bottom-0 inset-x-0 z-30 bg-stone-50/95 dark:bg-stone-950/95 backdrop-blur-md border-t border-stone-200 dark:border-stone-800 px-4 py-3 flex items-center gap-3 shadow-lg"
+>
+  <button
+    id="mobile-filter-open"
+    type="button"
+    class="flex-1 inline-flex items-center justify-center gap-2 min-h-[44px] px-4 rounded-lg bg-copper hover:bg-copper-light text-white font-medium shadow-sm transition-colors focus:outline-none focus:ring-2 focus:ring-copper focus:ring-offset-2 focus:ring-offset-stone-50 dark:focus:ring-offset-stone-950"
+    aria-controls="mobile-filter-sheet"
+    aria-expanded="false"
+  >
+    <svg class="w-5 h-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+    </svg>
+    <span>Filters</span>
+    <span id="mobile-filter-count" class="hidden ml-1 inline-flex items-center justify-center min-w-[1.5rem] h-6 px-1.5 rounded-full bg-white/25 text-xs font-bold">0</span>
+  </button>
+</div>
+
+<!-- Spacer so content isn't hidden behind the fixed bar -->
+<div class="lg:hidden h-20" aria-hidden="true"></div>
+
+<!-- Bottom-sheet drawer -->
+<div
+  id="mobile-filter-sheet"
+  class="lg:hidden fixed inset-0 z-50 hidden"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="m-filter-heading"
+>
+  <!-- Backdrop -->
+  <div id="mobile-filter-backdrop" class="absolute inset-0 bg-black/50 backdrop-blur-sm opacity-0 transition-opacity duration-200"></div>
+
+  <!-- Panel -->
+  <div
+    id="mobile-filter-panel"
+    class="absolute inset-x-0 bottom-0 max-h-[85vh] bg-stone-50 dark:bg-stone-950 rounded-t-2xl shadow-2xl flex flex-col translate-y-full transition-transform duration-200 ease-out"
+  >
+    <!-- Handle + header -->
+    <div class="flex-shrink-0 px-4 pt-3 pb-2 border-b border-stone-200 dark:border-stone-800">
+      <div class="mx-auto w-12 h-1.5 rounded-full bg-stone-300 dark:bg-stone-700 mb-3" aria-hidden="true"></div>
+      <div class="flex items-center justify-between">
+        <h2 class="text-lg font-bold text-stone-800 dark:text-stone-100 font-display">Filter Entries</h2>
+        <button
+          id="mobile-filter-close"
+          type="button"
+          class="min-w-[44px] min-h-[44px] flex items-center justify-center rounded-lg text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-200 dark:hover:bg-stone-800 transition-colors focus:outline-none focus:ring-2 focus:ring-copper"
+          aria-label="Close filters"
+        >
+          <svg class="w-6 h-6" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Scrollable body -->
+    <div class="flex-1 overflow-y-auto px-4 py-4">
+      <FilterSidebar crimes={crimes} positions={positions} tags={tags} variant="mobile" />
+    </div>
+
+    <!-- Sticky footer action -->
+    <div class="flex-shrink-0 px-4 py-3 border-t border-stone-200 dark:border-stone-800 bg-stone-50 dark:bg-stone-950">
+      <button
+        id="mobile-filter-apply"
+        type="button"
+        class="w-full min-h-[44px] inline-flex items-center justify-center gap-2 rounded-lg bg-copper hover:bg-copper-light text-white font-medium shadow-sm transition-colors focus:outline-none focus:ring-2 focus:ring-copper focus:ring-offset-2"
+      >
+        <span id="mobile-filter-apply-label">Show all entries</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const openBtn = document.getElementById('mobile-filter-open');
+    const closeBtn = document.getElementById('mobile-filter-close');
+    const applyBtn = document.getElementById('mobile-filter-apply');
+    const applyLabel = document.getElementById('mobile-filter-apply-label');
+    const sheet = document.getElementById('mobile-filter-sheet');
+    const panel = document.getElementById('mobile-filter-panel');
+    const backdrop = document.getElementById('mobile-filter-backdrop');
+    const countBadge = document.getElementById('mobile-filter-count');
+
+    if (!sheet || !panel || !backdrop || !openBtn) return;
+
+    let lastFocused: HTMLElement | null = null;
+
+    const getFocusable = (): HTMLElement[] => {
+      const els = panel.querySelectorAll<HTMLElement>(
+        'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])'
+      );
+      return Array.from(els).filter((el) => el.offsetParent !== null);
+    };
+
+    const trapFocus = (e: KeyboardEvent) => {
+      if (e.key !== 'Tab') return;
+      const focusable = getFocusable();
+      if (!focusable.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    };
+
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') close();
+      else trapFocus(e);
+    };
+
+    const open = () => {
+      lastFocused = document.activeElement as HTMLElement;
+      sheet.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+      openBtn.setAttribute('aria-expanded', 'true');
+      requestAnimationFrame(() => {
+        backdrop.classList.remove('opacity-0');
+        backdrop.classList.add('opacity-100');
+        panel.classList.remove('translate-y-full');
+      });
+      const focusable = getFocusable();
+      focusable[0]?.focus();
+      document.addEventListener('keydown', onKey);
+    };
+
+    const close = () => {
+      backdrop.classList.remove('opacity-100');
+      backdrop.classList.add('opacity-0');
+      panel.classList.add('translate-y-full');
+      openBtn.setAttribute('aria-expanded', 'false');
+      document.removeEventListener('keydown', onKey);
+      setTimeout(() => {
+        sheet.classList.add('hidden');
+        document.body.style.overflow = '';
+        lastFocused?.focus();
+      }, 200);
+    };
+
+    openBtn.addEventListener('click', open);
+    closeBtn?.addEventListener('click', close);
+    backdrop.addEventListener('click', close);
+    applyBtn?.addEventListener('click', close);
+
+    // Count active filters and update badge + button text
+    const updateCount = () => {
+      const boxes = document.querySelectorAll<HTMLInputElement>('#m-filter-sidebar .filter-checkbox:checked, #filter-sidebar .filter-checkbox:checked');
+      const unique = new Set<string>();
+      boxes.forEach((cb) => unique.add(`${cb.name}:${cb.value}`));
+      const count = unique.size;
+      if (!countBadge) return;
+      if (count === 0) {
+        countBadge.classList.add('hidden');
+        if (applyLabel) applyLabel.textContent = 'Show all entries';
+      } else {
+        countBadge.classList.remove('hidden');
+        countBadge.textContent = String(count);
+        if (applyLabel) applyLabel.textContent = `Apply (${count} filter${count === 1 ? '' : 's'})`;
+      }
+    };
+    document.addEventListener('change', (e) => {
+      const t = e.target as HTMLElement | null;
+      if (t && t instanceof HTMLInputElement && t.classList.contains('filter-checkbox')) {
+        updateCount();
+      }
+    });
+    // Also update on clear-all clicks
+    document.addEventListener('click', (e) => {
+      const t = e.target as HTMLElement | null;
+      if (t && (t.id === 'clear-filters' || t.id === 'm-clear-filters' || t.closest('.chip'))) {
+        // defer to let state settle
+        setTimeout(updateCount, 50);
+      }
+    });
+    updateCount();
+  });
+</script>

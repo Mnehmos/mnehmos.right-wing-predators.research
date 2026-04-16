@@ -2,12 +2,11 @@
 name: "John Giarrusso III., a New Hampshire police officer"
 slug: "john-giarrusso-iii-a-new-hampshire-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.seacoastonline.com/story/news/local/2025/03/06/seabrook-police-officer-allegedly-shared-child-sex-abuse-images/81795069007/"
 ---

@@ -2,11 +2,10 @@
 name: "August Kreis"
 slug: "august-kreis"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child molestation"
-tags:
-  - "party official"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://idavox.com/index.php/2015/11/08/former-aryan-nations-leader-gets-50-years-for-child-molestation/"
 ---

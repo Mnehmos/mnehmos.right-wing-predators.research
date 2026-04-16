@@ -3,7 +3,7 @@ name: "Linda McMahon, Trump's Education Secretary"
 slug: "linda-mcmahon-trump-s-education-secretary"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "maga"
 sources:

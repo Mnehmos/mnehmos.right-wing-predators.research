@@ -2,10 +2,9 @@
 name: "David Wakefield"
 slug: "david-wakefield"
 positions:
-  - "educator"
+  - "Educator"
 crimes: []
-tags:
-  - "educator"
+tags: []
 sources:
   - "https://www.kptv.com/2024/03/01/former-damascus-christian-school-principal-coach-his-wife-indicted-sexually-abusing-student/"
 ---

@@ -3,8 +3,8 @@ name: "Ben Martin"
 slug: "ben-martin"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags: []
 sources:
   - "https://abc30.com/masks-mask-protest-fresno/10036249/"

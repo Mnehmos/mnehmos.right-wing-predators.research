@@ -2,14 +2,11 @@
 name: "April Grace"
 slug: "april-grace"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.oklahoman.com/story/news/2021/08/22/state-superintendent-candidate-april-grace-responds-insinuations-shawnee-ron-arthur/8228237002/"

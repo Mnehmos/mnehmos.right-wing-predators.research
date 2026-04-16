@@ -6,9 +6,7 @@ positions:
   - "Law Enforcement"
 crimes:
   - "Sexual Harassment"
-tags:
-  - "Candidate"
-  - "Law Enforcement"
+tags: []
 sources:
   - "https://t.co/jd9TAdofzb"
 ---

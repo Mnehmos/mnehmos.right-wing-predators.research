@@ -2,11 +2,10 @@
 name: "Jamie Berryhill"
 slug: "jamie-berryhill"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.mrt.com/news/article/Congressional-candidate-Jamie-Berryhill-compares-15068947.php"

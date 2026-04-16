@@ -2,10 +2,9 @@
 name: "Will Gardner, ND Sec. of State candidate"
 slug: "will-gardner-nd-sec-of-state-candidate"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes: []
-tags:
-  - "candidate"
+tags: []
 sources:
   - "https://www.mprnews.org/story/2018/05/20/north-dakota-politician-accused-in-peeping-incident-ends-run-for-office"
 ---

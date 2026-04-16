@@ -2,15 +2,12 @@
 name: "Matthew Reilly, a Rhode Island Republican Councilman and local Party Chair"
 slug: "matthew-reilly-a-rhode-island-republican-councilman-and-local-party-chair"
 positions:
-  - "local official"
-  - "party member"
-  - "party official"
+  - "Local Official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "local official"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://themessenger.com/news/rhode-island-councilman-arrested-with-crackpipe-in-hand-now-charged-with-child-molestation"

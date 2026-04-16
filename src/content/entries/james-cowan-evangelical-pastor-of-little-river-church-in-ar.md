@@ -2,11 +2,10 @@
 name: "James Cowan, evangelical pastor of Little River church in AR"
 slug: "james-cowan-evangelical-pastor-of-little-river-church-in-ar"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://southwestarkansasradio.com/james-edwin-cowan-pleads-guilty-to-three-counts-of-rape-sentenced-to-50-years-in-prison/"
 ---

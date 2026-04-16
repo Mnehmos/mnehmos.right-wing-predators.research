@@ -2,11 +2,10 @@
 name: "Thomas Wall"
 slug: "thomas-wall"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.lex18.com/news/crime/garrard-county-pastor-pleads-guilty-to-one-count-of-sexual-abuse"
 ---

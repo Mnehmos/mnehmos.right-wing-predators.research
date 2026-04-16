@@ -3,9 +3,9 @@ name: "Ricci Wynne (Raw Ricci) who rose to fame as a MAGA influencer"
 slug: "ricci-wynne-raw-ricci-who-rose-to-fame-as-a-maga-influencer"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-  - "sexual trafficking"
+  - "Child Pornography"
+  - "Sexual Abuse"
+  - "Sexual Trafficking"
 tags:
   - "republican"
 sources:

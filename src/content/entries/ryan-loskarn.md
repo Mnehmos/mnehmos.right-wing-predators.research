@@ -2,13 +2,12 @@
 name: "Ryan Loskarn"
 slug: "ryan-loskarn"
 positions:
-  - "Government official"
-  - "Senate aide"
+  - "Government Official"
+  - "Senate Aide"
 crimes:
-  - "Child pornography"
+  - "Child Pornography"
 tags:
-  - "Government official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.politico.com/story/2014/01/ryan-loskarn-letter-102716"
   - "https://www.theguardian.com/world/2014/jan/24/former-senate-staffer-child-porn-charges-suicide"

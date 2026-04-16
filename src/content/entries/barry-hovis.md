@@ -2,11 +2,10 @@
 name: "Barry Hovis"
 slug: "barry-hovis"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://thehill.com/homenews/state-watch/444351-gop-lawmaker-says-he-misspoke-when-he-talked-of-consensual-rape"

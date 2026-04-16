@@ -2,11 +2,10 @@
 name: "Reginald 'Reggie' Loper, a member of the Effingham County Board of Commissioners"
 slug: "reginald-reggie-loper-a-member-of-the-effingham-county-board-of-commissioners"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child molestation"
-tags:
-  - "local official"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.wjcl.com/article/effingham-county-reggie-loper-child-molestation/43920373"
 ---

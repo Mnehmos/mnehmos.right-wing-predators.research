@@ -2,10 +2,9 @@
 name: "Michael Scott Langton, Ferndale, WA"
 slug: "michael-scott-langton-ferndale-wa"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.bellinghamherald.com/news/local/crime/article263979811.html"
 ---

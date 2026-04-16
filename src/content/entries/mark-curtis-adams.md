@@ -2,12 +2,11 @@
 name: "Mark Curtis Adams"
 slug: "mark-curtis-adams"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "child pornography"
-  - "rape"
-tags:
-  - "educator"
+  - "Child Pornography"
+  - "Rape"
+tags: []
 sources:
   - "https://www.timesnews.net/news/crime/explicit-chats-with-minors-lead-to-10-year-sentence-for-hawkins-man/article_e1db51e7-17dc-586c-8342-f689cac75269.html"
 ---

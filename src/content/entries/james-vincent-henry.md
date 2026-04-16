@@ -2,12 +2,11 @@
 name: "James Vincent Henry"
 slug: "james-vincent-henry"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.thv11.com/article/news/crime/arkansas-pastor-sentenced-child-sexual-abuse-material-possession/91-f14b711d-9e01-4cc1-a1d3-8aff5fdec2d4"
 ---

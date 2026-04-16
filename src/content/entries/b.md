@@ -4,8 +4,7 @@ slug: "b"
 positions:
   - "Religious Leader"
 crimes: []
-tags:
-  - "Religious Leader"
+tags: []
 sources:
   - "http://news.stlpublicradio.org/post/commentary/why-has-st-louis-archbishop-not-acted-against-pedophile-priests"
 ---

@@ -2,11 +2,10 @@
 name: "Anthony Bouchard"
 slug: "anthony-bouchard"
 positions:
-  - "candidate"
-  - "congress"
+  - "Candidate"
+  - "US Representative"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
 sources:
   - "https://trib.com/news/state-and-regional/govt-and-politics/us-house-candidate-bouchard-says-he-impregnated-14-year-old-when-he-was-18/article_c3996062-e6ad-5027-96a9-1bcd0f832eda.html"

@@ -2,15 +2,14 @@
 name: "Larry Dale Floyd"
 slug: "larry-dale-floyd"
 positions:
-  - "Law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "Child exploitation"
-  - "Sexual abuse"
-  - "Soliciting child prostitution"
-  - "Attempted sexual assault"
+  - "Child Exploitation"
+  - "Sexual Abuse"
+  - "Soliciting Child Prostitution"
+  - "Attempted Sexual Assault"
 tags:
-  - "Law enforcement"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.myplainview.com/news/article/Former-Denton-County-constable-sentenced-in-sex-crimes-against-minor/8506421.php"
 ---

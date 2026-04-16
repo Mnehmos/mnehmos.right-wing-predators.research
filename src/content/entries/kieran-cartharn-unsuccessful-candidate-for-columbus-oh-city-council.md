@@ -2,14 +2,12 @@
 name: "Kieran Cartharn, unsuccessful candidate for Columbus OH city council"
 slug: "kieran-cartharn-unsuccessful-candidate-for-columbus-oh-city-council"
 positions:
-  - "candidate"
-  - "local official"
+  - "Candidate"
+  - "Local Official"
 crimes:
-  - "domestic violence"
-  - "violence"
-tags:
-  - "candidate"
-  - "local official"
+  - "Domestic Violence"
+  - "Violence"
+tags: []
 sources:
   - "https://www.thesussireport.com/post/former-city-council-candidate-sent-to-prison-for-sexual-assault"
 ---

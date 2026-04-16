@@ -2,11 +2,10 @@
 name: "Peter O'Rourke"
 slug: "peter-o-rourke"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.politico.com/states/florida/story/2019/10/24/florida-gop-official-accused-of-misdeeds-and-retaliation-while-at-va-1225979?src=ilaw"

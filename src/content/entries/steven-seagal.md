@@ -2,14 +2,12 @@
 name: "Steven Seagal"
 slug: "steven-seagal"
 positions:
-  - "activist"
-  - "party member"
+  - "Activist"
+  - "Party Member"
 crimes:
-  - "rape"
-  - "sexual harassment"
+  - "Rape"
+  - "Sexual Harassment"
 tags:
-  - "activist"
-  - "party member"
   - "republican"
 sources:
   - "https://www.theguardian.com/us-news/2018/jan/26/woman-accuses-film-star-steven-seagal-of-in-1993"

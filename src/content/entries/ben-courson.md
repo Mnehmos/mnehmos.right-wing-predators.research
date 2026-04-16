@@ -2,10 +2,10 @@
 name: "Ben Courson"
 slug: "ben-courson"
 positions:
-  - "pastor"
+  - "Pastor"
 crimes:
-  - "sexual misconduct"
-  - "sexual assault allegations"
+  - "Sexual Misconduct"
+  - "Sexual Assault Allegations"
 tags:
   - "church abuse"
   - "allegations"

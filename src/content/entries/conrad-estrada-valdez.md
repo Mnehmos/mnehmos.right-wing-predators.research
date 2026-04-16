@@ -2,9 +2,9 @@
 name: "Conrad Estrada Valdez"
 slug: "conrad-estrada-valdez"
 positions:
-  - "pastor"
+  - "Pastor"
 crimes:
-  - "sexual assault of child"
+  - "Sexual Assault Of Child"
 tags:
   - "church abuse"
   - "child abuse"

@@ -2,11 +2,10 @@
 name: "John Jones"
 slug: "john-jones"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "law enforcement"
   - "republican"
   - "maga"
 sources:

@@ -3,7 +3,7 @@ name: "Bradley Wayne Dixon"
 slug: "bradley-wayne-dixon"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.chron.com/news/nation-world/article/Dorm-director-found-guilty-of-assaulting-students-13552070.php"

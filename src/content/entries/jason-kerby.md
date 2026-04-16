@@ -3,8 +3,8 @@ name: "Jason Kerby"
 slug: "jason-kerby"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.facebook.com/JasonKerbyMusic"

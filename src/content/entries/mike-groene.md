@@ -2,10 +2,9 @@
 name: "Mike Groene"
 slug: "mike-groene"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes: []
-tags:
-  - "state legislator"
+tags: []
 sources:
   - "https://nebraskaexaminer.com/2022/02/18/groene-denies-accusations-that-he-took-objectifying-photos-of-his-legislative-aide/"
 ---

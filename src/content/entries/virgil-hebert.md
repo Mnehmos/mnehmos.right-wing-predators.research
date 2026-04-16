@@ -2,12 +2,12 @@
 name: "Virgil Hebert"
 slug: "virgil-hebert"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child molestation"
-tags:
-  - "local official"
+  - "Child Molestation"
+tags: []
 sources: []
+needs_research: true
 ---
 
 ## Overview

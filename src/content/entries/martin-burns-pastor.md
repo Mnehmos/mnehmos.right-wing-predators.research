@@ -2,11 +2,10 @@
 name: "Martin Burns, pastor"
 slug: "martin-burns-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.nwitimes.com/news/local/crime-courts/martin-burns-battery-daycare-jesse-harper/article_a8d8c7ea-638c-11ee-9149-77de3abfcee9.html"
 ---

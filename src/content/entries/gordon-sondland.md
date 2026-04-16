@@ -2,12 +2,11 @@
 name: "Gordon Sondland"
 slug: "gordon-sondland"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
-  - "sexual assault"
+  - "Sexual Harassment"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
   - "maga"
 sources:

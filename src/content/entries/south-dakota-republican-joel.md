@@ -2,13 +2,11 @@
 name: "South Dakota Republican Joel"
 slug: "south-dakota-republican-joel"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.keloland.com/news/local-news/south-dakota-senate-candidate-accused-of-child-abuse/"

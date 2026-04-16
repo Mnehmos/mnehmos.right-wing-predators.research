@@ -2,13 +2,11 @@
 name: "David H. Broadbent"
 slug: "david-h-broadbent"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.sltrib.com/news/2022/05/02/there-are-now-women-suing/"

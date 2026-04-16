@@ -5,11 +5,10 @@ positions:
   - "Judge"
 crimes:
   - "Indecent Exposure"
-  - "Lewdness in Court"
+  - "Lewdness In Court"
 tags:
-  - "Judge"
-  - "Oklahoma"
-  - "Republican"
+  - "oklahoma"
+  - "republican"
 sources:
   - "http://www.usatoday.com/news/nation/2006-08-18-judge-sentenced_x.htm"
 ---

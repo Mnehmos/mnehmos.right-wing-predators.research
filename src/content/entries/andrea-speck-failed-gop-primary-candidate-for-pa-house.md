@@ -2,16 +2,14 @@
 name: "Andrea Speck, failed GOP primary candidate for PA House"
 slug: "andrea-speck-failed-gop-primary-candidate-for-pa-house"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual harassment"
+  - "Assault"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.huntingdondailynews.com/news/local/candidate-facing-charges/article_ee343ad9-e2fa-5a2e-90ff-8a9734680769.html"

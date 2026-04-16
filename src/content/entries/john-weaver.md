@@ -3,7 +3,7 @@ name: "John Weaver"
 slug: "john-weaver"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.axios.com/john-weaver-former-mccain-aide-acknowledges-inappropriate-messages-32de0ee5-bf9d-4574-945c-bc0ef4777b81.html"

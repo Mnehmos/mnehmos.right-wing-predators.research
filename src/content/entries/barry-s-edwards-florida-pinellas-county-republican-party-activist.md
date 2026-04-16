@@ -2,12 +2,10 @@
 name: "Barry S. Edwards, Florida Pinellas County Republican Party activist"
 slug: "barry-s-edwards-florida-pinellas-county-republican-party-activist"
 positions:
-  - "activist"
-  - "party member"
+  - "Activist"
+  - "Party Member"
 crimes: []
 tags:
-  - "activist"
-  - "party member"
   - "republican"
 sources:
   - "https://www.huffpost.com/entry/giuliani-event-aide-quits_n_62755"

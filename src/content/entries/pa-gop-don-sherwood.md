@@ -2,13 +2,12 @@
 name: "PA GOP Don Sherwood"
 slug: "pa-gop-don-sherwood"
 positions:
-  - "Congress"
+  - "US Representative"
   - "Party Official"
 crimes: []
 tags:
-  - "Congress"
-  - "Party Official"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "http://www.washingtonpost.com/wp-dyn/content/article/2006/09/28/AR2006092800186_pf.html?noredirect=on"
 ---

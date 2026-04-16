@@ -3,8 +3,8 @@ name: "Christopher Haenel"
 slug: "christopher-haenel"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.cbsnews.com/colorado/news/former-adams-county-deputy-sentenced-child-pornography-christopher-mark-haenel/"

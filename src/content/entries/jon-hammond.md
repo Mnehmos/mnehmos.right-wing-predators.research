@@ -2,14 +2,12 @@
 name: "Jon Hammond"
 slug: "jon-hammond"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "rape"
+  - "Assault"
+  - "Rape"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://newschannel9.com/news/local/hamilton-co-da-pinkston-files-brief-in-hamilton-co-deputys-federal-lawsuit"

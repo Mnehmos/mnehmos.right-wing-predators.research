@@ -2,14 +2,12 @@
 name: "Heather Locklear"
 slug: "heather-locklear"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.thewrap.com/heather-locklear-arrested-for-domestic-violence-battery-on-a-police-officer/"

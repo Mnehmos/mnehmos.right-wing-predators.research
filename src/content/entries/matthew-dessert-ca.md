@@ -2,11 +2,10 @@
 name: "Matthew Dessert, CA"
 slug: "matthew-dessert-ca"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.oakdaleleader.com/news/sheriffs-deputy-arrested-in-sex-crimes-investigation/"
 ---

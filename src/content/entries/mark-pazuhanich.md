@@ -3,13 +3,11 @@ name: "Mark Pazuhanich"
 slug: "mark-pazuhanich"
 positions:
   - "Judge"
-  - "District attorney"
+  - "District Attorney"
 crimes:
-  - "Child sexual abuse"
-  - "Indecent assault"
-tags:
-  - "Judge"
-  - "District attorney"
+  - "Child Sexual Abuse"
+  - "Indecent Assault"
+tags: []
 sources:
   - "https://www.timesleader.com/archive/1063191/indecent-assault-case-judge-pleads-no-contest-mark-pazuhanich-says-he-didnt-want-his-daughter-to-have-to-testify-aboutfondling-incident"
 ---

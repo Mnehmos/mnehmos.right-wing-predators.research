@@ -8,10 +8,8 @@ crimes:
   - "Sexual Assault"
   - "Rape"
 tags:
-  - "Religious Leader"
-  - "Pastor"
-  - "Texas"
-  - "Antigay Activist"
+  - "texas"
+  - "antigay activist"
 sources:
   - "https://t.co/b3F5ziujHa"
 ---

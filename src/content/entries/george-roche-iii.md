@@ -2,13 +2,12 @@
 name: "George Roche III"
 slug: "george-roche-iii"
 positions:
-  - "College president"
+  - "College President"
 crimes:
-  - "Sexual misconduct"
-  - "Alleged affair with family member"
+  - "Sexual Misconduct"
+  - "Alleged Affair With Family Member"
 tags:
-  - "College president"
-  - "Conservative"
+  - "conservative"
 sources:
   - "https://www.salon.com/2000/01/19/hillsdale/"
 ---

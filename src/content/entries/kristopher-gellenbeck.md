@@ -3,9 +3,9 @@ name: "Kristopher Gellenbeck"
 slug: "kristopher-gellenbeck"
 positions: []
 crimes:
-  - "domestic violence"
-  - "sexual abuse"
-  - "violence"
+  - "Domestic Violence"
+  - "Sexual Abuse"
+  - "Violence"
 tags: []
 sources:
   - "https://kfor.com/news/local/okc-police-officer-arrested-for-allegedly-strangling-teen-son-has-been-accused-of-domestic-violence-before/"

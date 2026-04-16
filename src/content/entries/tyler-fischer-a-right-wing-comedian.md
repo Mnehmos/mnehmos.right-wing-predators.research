@@ -3,7 +3,7 @@ name: "Tyler Fischer, a right-wing comedian"
 slug: "tyler-fischer-a-right-wing-comedian"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.thedailybeast.com/fox-news-bans-gutfeld-guest-tyler-fischer-for-harassing-female-staff/"

@@ -2,16 +2,14 @@
 name: "Marcie Adkins"
 slug: "marcie-adkins"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "rape"
-  - "sexual abuse"
+  - "Rape"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://floridapolitics.com/archives/348064-randy-fine-confronts-marcie-adkins-over-campaign-managers-criminal-past"

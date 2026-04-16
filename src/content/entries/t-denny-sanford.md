@@ -2,11 +2,10 @@
 name: "T. Denny Sanford"
 slug: "t-denny-sanford"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.argusleader.com/story/news/2021/11/17/t-denny-sanford-implicated-individual-criminal-investigation-south-dakota-supreme-court/8650803002/"

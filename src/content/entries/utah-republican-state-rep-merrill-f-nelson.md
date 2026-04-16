@@ -2,13 +2,11 @@
 name: "Utah Republican State Rep. Merrill F. Nelson"
 slug: "utah-republican-state-rep-merrill-f-nelson"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://apnews.com/article/religion-lawsuits-utah-sexual-abuse-by-clergy-government-and-politics-9f1607f4d308248ebf12dc32f70376ec"

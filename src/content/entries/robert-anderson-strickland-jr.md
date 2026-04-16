@@ -2,15 +2,13 @@
 name: "Robert Anderson Strickland Jr."
 slug: "robert-anderson-strickland-jr"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "rape"
-  - "violence"
+  - "Domestic Violence"
+  - "Rape"
+  - "Violence"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.thestate.com/news/local/crime/article246664783.html"

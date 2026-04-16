@@ -2,13 +2,11 @@
 name: "Kevin Smith, GOP"
 slug: "kevin-smith-gop"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.huffpost.com/entry/kevin-smith-senate-new-hampshire_n_62c850e2e4b02e0ac913a7cc"

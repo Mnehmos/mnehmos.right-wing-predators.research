@@ -2,16 +2,14 @@
 name: "Robin Vanderwall"
 slug: "robin-vanderwall"
 positions:
-  - "Party official"
+  - "Party Official"
   - "Strategist"
   - "Lobbyist"
 crimes:
-  - "Child sexual exploitation"
-  - "Solicitation of minors"
+  - "Child Sexual Exploitation"
+  - "Solicitation Of Minors"
 tags:
-  - "Party official"
-  - "Republican"
-  - "Lobbyist"
+  - "republican"
 sources:
   - "https://www.washingtonpost.com/wp-dyn/content/article/2005/10/15/AR2005101501539_3.html?noredirect=o"
 ---

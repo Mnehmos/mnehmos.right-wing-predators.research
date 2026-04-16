@@ -2,11 +2,10 @@
 name: "Bill Brough"
 slug: "bill-brough"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.ocregister.com/2019/09/16/orange-county-gop-asks-embattled-assemblyman-bill-brough-to-bow-out-of-2020-election/"

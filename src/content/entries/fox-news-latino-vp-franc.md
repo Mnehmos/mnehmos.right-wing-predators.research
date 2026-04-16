@@ -7,6 +7,8 @@ crimes:
 tags: []
 sources:
   - "https://www.hollywoodreporter.com/business/business-news/fox-beats-48m-lawsuit-claiming-exec-was-made-a-sexual-misconduct-scapegoat-1073342/"
+  - "https://www.hollywoodreporter.com/business/news/fox-beats-48m-lawsuit-claiming-exec-was-made-a-sexual-misconduct-scapegoat-1073342/"
+  - "https://www.hollywoodreporter.com/business/business/news/fox-beats-48m-lawsuit-claiming-exec-was-made-a-sexual-misconduct-scapegoat-1073342/"
 ---
 
 ## Overview

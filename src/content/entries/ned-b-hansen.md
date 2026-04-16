@@ -3,7 +3,7 @@ name: "Ned B. Hansen"
 slug: "ned-b-hansen"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.benewsjournal.com/articles/former-fire-chief-sued-by-relatives-in-civil-court-over-child-molestation/"

@@ -2,11 +2,10 @@
 name: "Kelly Toppin"
 slug: "kelly-toppin"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://www.mytownneo.com/news/20200107/ex-district-official-accuses-stow-school-board-former-president-of-sexual-harassment-retaliation"

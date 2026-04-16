@@ -2,12 +2,10 @@
 name: "Ron Causby, GOP podcaster/influencer and candidate for Tulsa County GOP Chair"
 slug: "ron-causby-gop-podcaster-influencer-and-candidate-for-tulsa-county-gop-chair"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes: []
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.fox23.com/news/local/popular-gop-influencer-school-advocate-arrested-on-burglary-and-stalking-charges/article_516a1b62-f99c-11ed-8b19-67341768ae28.html"

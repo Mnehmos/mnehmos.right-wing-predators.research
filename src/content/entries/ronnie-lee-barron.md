@@ -2,11 +2,11 @@
 name: "Ronnie Lee Barron"
 slug: "ronnie-lee-barron"
 positions:
-  - "youth pastor"
-  - "sports coach"
+  - "Youth Pastor"
+  - "Sports Coach"
 crimes:
-  - "sexual exploitation"
-  - "sexual battery"
+  - "Sexual Exploitation"
+  - "Sexual Battery"
 tags:
   - "church abuse"
   - "child abuse"

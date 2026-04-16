@@ -3,7 +3,7 @@ name: "Rev. Chuck Phelps"
 slug: "rev-chuck-phelps"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://en.wikipedia.org/wiki/Trinity_Baptist_Church_sex_scandal"

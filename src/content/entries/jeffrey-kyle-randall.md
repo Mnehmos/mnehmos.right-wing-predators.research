@@ -6,9 +6,7 @@ positions:
   - "Party Member"
 crimes: []
 tags:
-  - "Local Official"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://t.co/eCcEJJbgN0"
 ---

@@ -2,12 +2,11 @@
 name: "Clayton Sallee, a teacher in Farmington, AR"
 slug: "clayton-sallee-a-teacher-in-farmington-ar"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "educator"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.nwahomepage.com/news/farmington-high-school-teacher-arrested-second-degree-sexual-assault-minor/"
 ---

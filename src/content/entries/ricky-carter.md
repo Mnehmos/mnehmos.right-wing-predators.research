@@ -2,13 +2,11 @@
 name: "Ricky Carter"
 slug: "ricky-carter"
 positions:
-  - "local official"
-  - "party official"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://www.foxcarolina.com/2022/03/20/hart-county-commissioner-son-arrested-saturday-night-after-family-dispute/"

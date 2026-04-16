@@ -2,12 +2,11 @@
 name: "Scott Huse"
 slug: "scott-huse"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.antigojournal.com/news/crime/father-son-face-multiple-child-sexual-assault-charges/article_c8d9984e-e1ec-11ec-a359-67000a3d21da.html"
 ---

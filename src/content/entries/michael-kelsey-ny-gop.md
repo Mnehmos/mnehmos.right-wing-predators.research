@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Sexual Abuse"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.poughkeepsiejournal.com/story/news/local/kelsey-sentenced-7-years-boy-scout-sex-abuse-case/92516600/"
 ---

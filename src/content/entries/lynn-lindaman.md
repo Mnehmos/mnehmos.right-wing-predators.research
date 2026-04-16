@@ -3,7 +3,7 @@ name: "Lynn Lindaman"
 slug: "lynn-lindaman"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://www.desmoinesregister.com/story/news/crime-and-courts/2024/02/16/lynn-lindaman-west-des-moines-doctor-convicted-child-sex-abuse-polk-county/72632246007/"

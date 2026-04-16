@@ -2,12 +2,11 @@
 name: "Richard McIntosh"
 slug: "richard-mcintosh"
 positions:
-  - "lobbyist"
+  - "Lobbyist"
 crimes:
-  - "rape"
-  - "sexual assault"
+  - "Rape"
+  - "Sexual Assault"
 tags:
-  - "lobbyist"
   - "republican"
 sources:
   - "https://www.kansascity.com/news/politics-government/article228733614.html"

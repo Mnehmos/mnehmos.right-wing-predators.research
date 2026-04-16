@@ -3,7 +3,7 @@ name: "Maurizio Miglietta, a NJ doctor"
 slug: "maurizio-miglietta-a-nj-doctor"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.nytimes.com/2025/10/14/nyregion/doctor-ny-nj-rape-charges.html"

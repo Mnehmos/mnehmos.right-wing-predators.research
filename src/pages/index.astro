@@ -3,50 +3,24 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import StatCard from '../components/StatCard.astro';
 import SearchBar from '../components/SearchBar.astro';
 import EntryCard from '../components/EntryCard.astro';
-import { getCollection } from 'astro:content';
+import {
+  getNormalizedEntries,
+  getFacetCounts,
+  getTopByScore,
+} from '../utils/entries-index';
 
-// Base path for all internal links
 const base = import.meta.env.BASE_URL;
 
-const entries = await getCollection('entries');
+const entries = await getNormalizedEntries();
 const totalEntries = entries.length;
+const needsResearchCount = entries.filter((e) => e.needsResearch).length;
 
-// Get unique crimes and positions for stats
-const allCrimes = new Set<string>();
-const allPositions = new Set<string>();
-const allTags = new Set<string>();
+const facets = getFacetCounts(entries);
+const topCrimes = facets.crimes.slice(0, 6);
+const topPositions = facets.positions.slice(0, 5);
 
-entries.forEach(entry => {
-  entry.data.crimes.forEach(crime => allCrimes.add(crime));
-  entry.data.positions.forEach(position => allPositions.add(position));
-  entry.data.tags.forEach(tag => allTags.add(tag));
-});
-
-// Count by crime type for top crimes
-const crimeCounts = new Map<string, number>();
-entries.forEach(entry => {
-  entry.data.crimes.forEach(crime => {
-    crimeCounts.set(crime, (crimeCounts.get(crime) || 0) + 1);
-  });
-});
-const topCrimes = [...crimeCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 6);
-
-// Get recent/notable entries (randomize for variety)
-const shuffled = [...entries].sort(() => Math.random() - 0.5);
-const featuredEntries = shuffled.slice(0, 6);
-
-// Count by position type
-const positionCounts = new Map<string, number>();
-entries.forEach(entry => {
-  entry.data.positions.forEach(pos => {
-    positionCounts.set(pos, (positionCounts.get(pos) || 0) + 1);
-  });
-});
-const topPositions = [...positionCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 5);
+// Featured = most documented (by notability score)
+const featuredEntries = getTopByScore(entries, 6);
 ---
 
 <BaseLayout title="Home">
@@ -57,113 +31,117 @@ const topPositions = [...positionCounts.entries()]
         Republican Misconduct Database
       </h1>
       <p class="text-lg md:text-xl text-stone-600 dark:text-stone-400 max-w-2xl mx-auto mb-8 leading-relaxed">
-        A documented collection of <span class="text-stone-800 dark:text-stone-100 font-semibold">{totalEntries.toLocaleString()}</span> Republican-affiliated 
-        individuals accused of sexual misconduct, with verified sources for each entry.
+        A documented collection of <span class="text-stone-800 dark:text-stone-100 font-semibold">{totalEntries.toLocaleString()}</span>
+        Republican-affiliated individuals accused of sexual misconduct, with verified sources for each entry.
       </p>
-      
-      <!-- Hero Search -->
+
       <div class="max-w-xl mx-auto mb-8">
         <SearchBar placeholder="Search by name, position, or crime..." size="lg" />
       </div>
-      
-      <div class="flex flex-wrap justify-center gap-4">
-        <a href={`${base}entries/`} class="btn btn-primary text-base px-6 py-3 inline-flex items-center gap-2">
-          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href={`${base}entries/`} class="btn btn-primary text-base px-6 py-3 inline-flex items-center gap-2 min-h-[44px]">
+          <svg class="w-5 h-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16" />
           </svg>
           Browse All Entries
+        </a>
+        <a href={`${base}entries/?sort=notability`} class="btn btn-secondary text-base px-6 py-3 inline-flex items-center gap-2 min-h-[44px] no-underline">
+          <svg class="w-5 h-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+          </svg>
+          Most Documented
         </a>
       </div>
     </div>
   </section>
 
   <!-- Statistics Grid -->
-  <section class="py-12">
-    <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Database Statistics</h2>
+  <section class="py-12" aria-labelledby="stats-heading">
+    <h2 id="stats-heading" class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Database Statistics</h2>
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-5xl mx-auto">
       <StatCard value={totalEntries} label="Total Entries" color="copper" icon="📊" />
-      <StatCard value={allCrimes.size} label="Crime Types" color="red" icon="⚠️" />
-      <StatCard value={allPositions.size} label="Position Types" color="green" icon="🏛️" />
-      <StatCard value={allTags.size} label="Tags" color="purple" icon="🏷️" />
+      <StatCard value={facets.crimes.length} label="Crime Types" color="red" icon="⚠️" />
+      <StatCard value={facets.positions.length} label="Position Types" color="green" icon="🏛️" />
+      <StatCard value={needsResearchCount} label="Need Research" color="purple" icon="🔍" />
     </div>
   </section>
 
-  <!-- Top Crime Categories -->
-  <section class="py-12">
-    <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Most Common Allegations</h2>
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
-      {topCrimes.map(([crime, count]) => (
-        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-4 hover:bg-stone-200 dark:hover:bg-stone-800 hover:border-copper transition-colors">
-          <div class="text-2xl font-bold text-red-600 dark:text-red-400">{count}</div>
-          <div class="text-sm text-stone-600 dark:text-stone-400 mt-1">{crime}</div>
+  <!-- Most Documented -->
+  <section class="py-12" aria-labelledby="featured-heading">
+    <div class="flex items-center justify-between mb-8">
+      <h2 id="featured-heading" class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100">Most Documented Cases</h2>
+      <a href={`${base}entries/?sort=notability`} class="text-copper hover:text-copper-light text-sm font-medium no-underline inline-flex items-center gap-1">
+        View all
+        <svg class="w-4 h-4" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
+    <div id="entries-grid" class="entries-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {featuredEntries.map((entry) => (
+        <div class="entry-cell">
+          <EntryCard
+            name={entry.name}
+            slug={entry.slug}
+            positions={entry.positions}
+            crimes={entry.crimes}
+            tags={entry.tags}
+            sourceCount={entry.sourceCount}
+            needsResearch={entry.needsResearch}
+          />
         </div>
       ))}
     </div>
   </section>
 
-  <!-- Featured Entries -->
-  <section class="py-12">
-    <div class="flex items-center justify-between mb-8">
-      <h2 class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100">Sample Entries</h2>
-      <a href={`${base}entries/`} class="text-copper hover:text-copper-light text-sm font-medium no-underline inline-flex items-center gap-1">
-        View all
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-        </svg>
-      </a>
-    </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {featuredEntries.map((entry) => (
-        <EntryCard 
-          name={entry.data.name}
-          slug={entry.slug}
-          positions={entry.data.positions}
-          crimes={entry.data.crimes}
-          tags={entry.data.tags}
-        />
+  <!-- Top Crime Categories -->
+  <section class="py-12" aria-labelledby="crimes-heading">
+    <h2 id="crimes-heading" class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Most Common Allegations</h2>
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+      {topCrimes.map(([crime, count]) => (
+        <a
+          href={`${base}entries/?crimes=${encodeURIComponent(crime)}`}
+          class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-4 hover:bg-stone-200 dark:hover:bg-stone-800 hover:border-copper transition-colors no-underline block focus:outline-none focus:ring-2 focus:ring-copper"
+        >
+          <div class="text-2xl font-bold text-red-700 dark:text-red-400">{count}</div>
+          <div class="text-sm text-stone-700 dark:text-stone-300 mt-1">{crime}</div>
+        </a>
       ))}
     </div>
   </section>
 
   <!-- About Section -->
-  <section class="py-12">
+  <section class="py-12" aria-labelledby="about-heading">
     <div class="max-w-4xl mx-auto">
-      <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">About This Database</h2>
-      
+      <h2 id="about-heading" class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">About This Database</h2>
       <div class="grid md:grid-cols-2 gap-6">
-        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
-          <div class="text-2xl mb-3">📋</div>
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6">
+          <div class="text-2xl mb-3" aria-hidden="true">📋</div>
           <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Comprehensive Documentation</h3>
-          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
-            Each entry includes the individual's name, known positions or affiliations, 
-            the nature of allegations, and links to source documentation.
+          <p class="text-stone-700 dark:text-stone-300 text-sm leading-relaxed">
+            Each entry includes the individual's name, known positions or affiliations, the nature of allegations, and links to source documentation.
           </p>
         </div>
-        
-        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
-          <div class="text-2xl mb-3">🔗</div>
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6">
+          <div class="text-2xl mb-3" aria-hidden="true">🔗</div>
           <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Verified Sources</h3>
-          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
-            All information is sourced from publicly available news reports, court 
-            documents, and official records. Every entry includes citation links.
+          <p class="text-stone-700 dark:text-stone-300 text-sm leading-relaxed">
+            All information is sourced from publicly available news reports, court documents, and official records. Every entry includes citation links.
           </p>
         </div>
-        
-        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
-          <div class="text-2xl mb-3">🔍</div>
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6">
+          <div class="text-2xl mb-3" aria-hidden="true">🔍</div>
           <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Searchable & Filterable</h3>
-          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
-            Use full-text search or filter by crime type, position, and tags to find 
-            specific entries quickly and efficiently.
+          <p class="text-stone-700 dark:text-stone-300 text-sm leading-relaxed">
+            Use full-text search or filter by crime type, position, and tags to find specific entries. Sort by notability to surface the most-documented cases.
           </p>
         </div>
-        
-        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6 hover:border-copper transition-colors">
-          <div class="text-2xl mb-3">⚖️</div>
+        <div class="bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl p-6">
+          <div class="text-2xl mb-3" aria-hidden="true">⚖️</div>
           <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">Important Disclaimer</h3>
-          <p class="text-stone-600 dark:text-stone-400 text-sm leading-relaxed">
-            Inclusion in this database documents allegations, not proven guilt. 
-            Users should verify information through provided sources.
+          <p class="text-stone-700 dark:text-stone-300 text-sm leading-relaxed">
+            Inclusion in this database documents allegations, not proven guilt. Users should verify information through provided sources.
           </p>
         </div>
       </div>
@@ -171,15 +149,30 @@ const topPositions = [...positionCounts.entries()]
   </section>
 
   <!-- Top Positions -->
-  <section class="py-12 border-t border-stone-200 dark:border-stone-800">
-    <h2 class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Most Common Positions</h2>
+  <section class="py-12 border-t border-stone-200 dark:border-stone-800" aria-labelledby="positions-heading">
+    <h2 id="positions-heading" class="text-2xl font-bold text-center mb-8 font-display text-stone-800 dark:text-stone-100">Most Common Positions</h2>
     <div class="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto">
       {topPositions.map(([position, count]) => (
-        <div class="inline-flex items-center gap-2 px-4 py-2 bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-full hover:border-copper transition-colors">
-          <span class="text-stone-700 dark:text-stone-300 text-sm">{position.length > 40 ? position.substring(0, 40) + '...' : position}</span>
-          <span class="text-xs text-stone-500 dark:text-stone-400 bg-stone-200 dark:bg-stone-700/50 px-2 py-0.5 rounded-full">{count}</span>
-        </div>
+        <a
+          href={`${base}entries/?positions=${encodeURIComponent(position)}`}
+          class="inline-flex items-center gap-2 px-4 py-2 bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-full hover:border-copper hover:bg-stone-200 dark:hover:bg-stone-800 transition-colors no-underline focus:outline-none focus:ring-2 focus:ring-copper"
+        >
+          <span class="text-stone-700 dark:text-stone-300 text-sm">{position.length > 40 ? position.substring(0, 40) + '…' : position}</span>
+          <span class="text-xs text-stone-600 dark:text-stone-300 bg-stone-200 dark:bg-stone-700/50 px-2 py-0.5 rounded-full">{count}</span>
+        </a>
       ))}
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .entries-grid {
+    grid-auto-rows: 170px;
+  }
+  .entry-cell {
+    height: 100%;
+  }
+  .entry-cell > * {
+    height: 100%;
+  }
+</style>

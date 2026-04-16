@@ -2,11 +2,10 @@
 name: "John Perry, co-author of books by Mike Huckabee and Roy Moore"
 slug: "john-perry-co-author-of-books-by-mike-huckabee-and-roy-moore"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child molestation"
-tags:
-  - "law enforcement"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.buzzfeednews.com/article/andrewkaczynski/co-author-of-mike-huckabee-books-was-accused-of-child-molest"
 ---

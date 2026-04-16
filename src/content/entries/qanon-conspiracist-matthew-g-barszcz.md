@@ -2,11 +2,10 @@
 name: "QAnon conspiracist Matthew G. Barszcz"
 slug: "qanon-conspiracist-matthew-g-barszcz"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child exploitation"
-tags:
-  - "law enforcement"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.krem.com/article/news/crime/coeur-dalene-man-faces-20-years-prison-child-pornography/293-9611d6f8-268c-4e72-bb3a-2f064acaf0f3"
 ---

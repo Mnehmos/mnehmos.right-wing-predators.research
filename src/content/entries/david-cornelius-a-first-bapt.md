@@ -2,12 +2,11 @@
 name: "David Cornelius, a First Bapt"
 slug: "david-cornelius-a-first-bapt"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-  - "prostitution"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+  - "Prostitution"
+tags: []
 sources:
   - "https://isp.illinois.gov/Sor/Details/X04B0636"
 ---

@@ -2,11 +2,10 @@
 name: "Jesse Law"
 slug: "jesse-law"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.reviewjournal.com/newras/politics-and-government/clark-county/clark-county-gop-chair-jesse-law-arrested-3035851/"

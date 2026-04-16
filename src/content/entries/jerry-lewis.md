@@ -2,14 +2,13 @@
 name: "Jerry Lewis"
 slug: "jerry-lewis"
 positions:
-  - "congress"
-  - "party member"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.mercurynews.com/2020/12/03/former-redlands-congressman-jerry-lewis-charged-with-domestic-violence-against-wife/"

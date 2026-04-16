@@ -2,12 +2,11 @@
 name: "Wendel Nix, youth pastor in Aztec, NM"
 slug: "wendel-nix-youth-pastor-in-aztec-nm"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.abqjournal.com/18746/830am-part-time-youth-pastor-arrested.html"
   - "https://www.abqjournal.com/18800/1110am-new-rape-charges-face-church-bus-driver.html"

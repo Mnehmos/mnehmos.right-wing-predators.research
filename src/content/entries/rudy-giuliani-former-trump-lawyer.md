@@ -3,7 +3,7 @@ name: "Rudy Giuliani, former Trump lawyer"
 slug: "rudy-giuliani-former-trump-lawyer"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

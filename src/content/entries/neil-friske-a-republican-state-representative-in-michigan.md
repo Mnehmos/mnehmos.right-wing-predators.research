@@ -2,15 +2,12 @@
 name: "Neil Friske, a Republican state representative in Michigan"
 slug: "neil-friske-a-republican-state-representative-in-michigan"
 positions:
-  - "law enforcement"
-  - "party member"
-  - "state legislator"
+  - "Law Enforcement"
+  - "Party Member"
+  - "State Legislator"
 crimes: []
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.fox2detroit.com/news/michigan-rep-neil-friske-arrested-lansing-thursday-morning"
   - "https://www.thedailybeast.com/michigan-lawmaker-neil-friske-says-he-was-framed-after-3-am-arrest"

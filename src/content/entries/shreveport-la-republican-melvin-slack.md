@@ -2,15 +2,12 @@
 name: "Shreveport, LA, Republican Melvin Slack"
 slug: "shreveport-la-republican-melvin-slack"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.shreveporttimes.com/story/news/2022/08/22/shreveport-gop-mayoral-candidate-hit-temporary-restraining-order/7870343001/"

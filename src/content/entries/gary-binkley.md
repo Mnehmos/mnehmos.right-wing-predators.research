@@ -2,13 +2,11 @@
 name: "Gary Binkley"
 slug: "gary-binkley"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wkrn.com/news/local-news/cheatham-county-commissioner-indicted-on-rape-charges/"

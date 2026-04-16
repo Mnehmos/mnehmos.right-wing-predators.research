@@ -6,9 +6,7 @@ positions:
   - "Party Member"
 crimes: []
 tags:
-  - "Candidate"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.al.com/news/birmingham/index.ssf/2014/10/former-jefferson_county_judici.html"
 ---

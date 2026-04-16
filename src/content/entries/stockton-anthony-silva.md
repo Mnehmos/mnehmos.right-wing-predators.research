@@ -6,9 +6,7 @@ positions:
   - "Party Official"
 crimes: []
 tags:
-  - "Local Official"
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.abc10.com/article/news/local/former-stockton-mayor-anthony-silva-takes-plea-deal/463696317"
 ---

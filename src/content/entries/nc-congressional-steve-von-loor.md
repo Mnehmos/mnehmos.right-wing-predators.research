@@ -3,14 +3,12 @@ name: "NC Congressional Steve Von Loor"
 slug: "nc-congressional-steve-von-loor"
 positions:
   - "Candidate"
-  - "Congress"
+  - "US Representative"
   - "Party Official"
 crimes: []
 tags:
-  - "Candidate"
-  - "Congress"
-  - "Party Official"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://www.wonkette.com/republican-congressional-candidate-videotapes-people-having-sex"
 ---

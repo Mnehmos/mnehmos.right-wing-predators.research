@@ -2,11 +2,10 @@
 name: "Christopher Hundl, was a pastor at Baylor Chapter of Chi Alpha"
 slug: "christopher-hundl-was-a-pastor-at-baylor-chapter-of-chi-alpha"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://deadstate.org/pastor-at-christian-college-arrested-for-letting-his-spiritual-mentor-sexually-abuse-children/"
 ---

@@ -3,9 +3,9 @@ name: "Ray Holmberg"
 slug: "ray-holmberg"
 positions: []
 crimes:
-  - "assault"
-  - "child pornography"
-  - "sexual assault"
+  - "Assault"
+  - "Child Pornography"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://twitter.com/todd_caton/status/1218793515091726336?s=20&t=FqicarPaWy25xCdZ76YQbA"

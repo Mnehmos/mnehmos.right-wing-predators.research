@@ -2,13 +2,12 @@
 name: "Luis Borunda"
 slug: "luis-borunda"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags:
   - "maga"
-  - "party official"
   - "republican"
 sources:
   - "https://www.capitalgazette.com/2024/03/07/luis-borunda-indictment-child-porn/"

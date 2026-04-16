@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Assault"
   - "Sexual Harassment"
-tags:
-  - "State Legislator"
+tags: []
 sources:
   - "http://www.tampabay.com/florida-politics/buzz/2017/12/19/investigation-concludes-sen-jack-latvalas-conduct-may-be-criminal/He"
   - "https://www.cltampa.com/news/clearwater-republican-and-former-senator-jack-latvala-reaches-ethics-settlement-after-sexual-harassment-allegations-13749796"

@@ -2,11 +2,10 @@
 name: "Jamol Jones"
 slug: "jamol-jones"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
+  - "Rape"
+tags: []
 sources:
   - "https://www.kark.com/news/politics/gov-sanders-board-of-corrections-appointee-fired-for-sexual-misconduct-from-benton-police-department-in-2018/"
 ---

@@ -2,11 +2,10 @@
 name: "Southern Baptist Convention"
 slug: "southern-baptist-convention"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.al.com/news/2021/06/southern-baptist-convention-secret-recordings-reveal-dispute-over-handling-of-sex-abuse.html"
 ---

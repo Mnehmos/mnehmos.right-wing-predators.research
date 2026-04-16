@@ -3,7 +3,7 @@ name: "Bor"
 slug: "bor"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

@@ -3,7 +3,7 @@ name: "Alejandro Richard Velasquez Gomez"
 slug: "alejandro-richard-velasquez-gomez"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.thedailybeast.com/incel-and-nick-fuentes-fan-alejandro-richard-velasquez-gomez-threatened-attack-on-tpusa-event-feds-say"

@@ -2,11 +2,10 @@
 name: "Ronald VanOverloop, former"
 slug: "ronald-vanoverloop-former"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.woodtv.com/news/ottawa-county/former-pastor-jailed-for-abusing-teen-girl/"
 ---

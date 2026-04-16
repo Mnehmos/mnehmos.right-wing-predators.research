@@ -3,7 +3,7 @@ name: "Dustin Ledford"
 slug: "dustin-ledford"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.wbtv.com/2024/02/28/cleveland-co-schools-employee-arrested-accused-sex-crimes-against-child/"

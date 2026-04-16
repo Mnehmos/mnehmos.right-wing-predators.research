@@ -2,13 +2,12 @@
 name: "Les Stapleton"
 slug: "les-stapleton"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-  - "sexual harassment"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.kentucky.com/news/local/crime/article286577465.html"
 ---

@@ -2,9 +2,9 @@
 name: "Steve King"
 slug: "steve-king"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "congress"
   - "republican"

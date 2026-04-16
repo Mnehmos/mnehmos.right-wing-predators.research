@@ -2,12 +2,11 @@
 name: "Scott Saunders, Jr"
 slug: "scott-saunders-jr"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://publicsite.dps.texas.gov/SexOffenderRegistry/Search/Rapsheet?Sid=11127881"
 ---

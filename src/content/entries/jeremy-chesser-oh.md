@@ -3,8 +3,8 @@ name: "Jeremy Chesser, OH"
 slug: "jeremy-chesser-oh"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://twitter.com/antifaoperative/status/1697020547513598099?s=20"

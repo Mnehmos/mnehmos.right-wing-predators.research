@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Local Official"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.theindychannel.com/news/local-news/indianapolis/jeff-miller-accepts-plea-deal-resigns-from-city-county-council"
 ---

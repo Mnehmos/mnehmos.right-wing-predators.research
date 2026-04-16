@@ -2,10 +2,9 @@
 name: "Timothy Ballard, inspiration for Sound of Freedom and"
 slug: "timothy-ballard-inspiration-for-sound-of-freedom-and"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
-tags:
-  - "party official"
+tags: []
 sources:
   - "https://www.sltrib.com/opinion/2023/07/25/robert-gehrke-tim-ballards-story/"
   - "https://www.vice.com/en/article/epvbyz/trafficking-survivors-and-advocates-are-being-harassed-by-sound-of-freedom-fans"

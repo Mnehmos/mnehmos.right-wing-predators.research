@@ -2,10 +2,9 @@
 name: "Shawn Bergstrand, founder of Right-Side Up \"Christian\" fashion"
 slug: "shawn-bergstrand-founder-of-right-side-up-christian-fashion"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.rollingstone.com/politics/politics-features/charlie-kirk-tpusa-registered-sex-offender-1234743149/"
 ---

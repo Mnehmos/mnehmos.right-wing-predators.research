@@ -2,16 +2,14 @@
 name: "Eric Carlson, Republican"
 slug: "eric-carlson-republican"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://patch.com/illinois/lemont/lemont-man-running-congress-has-1995-sexual-assault-conviction"

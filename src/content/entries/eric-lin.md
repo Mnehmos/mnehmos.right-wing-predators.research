@@ -2,12 +2,11 @@
 name: "Eric Lin"
 slug: "eric-lin"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "kidnapping"
-  - "violence"
+  - "Kidnapping"
+  - "Violence"
 tags:
-  - "activist"
   - "republican"
   - "maga"
 sources:

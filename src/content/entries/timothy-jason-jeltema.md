@@ -2,12 +2,11 @@
 name: "Timothy Jason Jeltema"
 slug: "timothy-jason-jeltema"
 positions:
-  - "student minister"
-  - "Baptist"
+  - "Religious Leader"
 crimes:
-  - "online solicitation of minor"
-  - "indecency with child"
-  - "sexual performance by child"
+  - "Online Solicitation Of Minor"
+  - "Indecency With Child"
+  - "Sexual Performance By Child"
 tags:
   - "church abuse"
   - "child abuse"

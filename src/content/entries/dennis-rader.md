@@ -2,12 +2,11 @@
 name: "Dennis Rader"
 slug: "dennis-rader"
 positions:
-  - "Local official"
+  - "Local Official"
 crimes:
   - "Violence"
 tags:
-  - "Local official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.nndb.com/people/612/000091339/"
 ---

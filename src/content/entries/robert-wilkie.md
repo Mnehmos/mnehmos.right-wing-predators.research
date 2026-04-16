@@ -2,12 +2,11 @@
 name: "Robert Wilkie"
 slug: "robert-wilkie"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
-  - "sexual assault"
+  - "Sexual Harassment"
+  - "Sexual Assault"
 tags:
-  - "party official"
   - "republican"
   - "maga"
 sources:

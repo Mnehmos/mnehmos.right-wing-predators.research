@@ -2,14 +2,12 @@
 name: "Doug Pitassi, CEO of Pacific Office Automation, OR's largest employer"
 slug: "doug-pitassi-ceo-of-pacific-office-automation-or-s-largest-employer"
 positions:
-  - "educator"
-  - "party official"
+  - "Educator"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "educator"
   - "maga"
-  - "party official"
   - "republican"
 sources:
   - "https://www.oregonlive.com/business/2024/09/paid-to-shut-my-mouth-oregon-ceo-a-convicted-sex-offender-settled-with-employees-amid-abuse-accusations.html"

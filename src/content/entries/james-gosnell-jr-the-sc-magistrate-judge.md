@@ -2,12 +2,11 @@
 name: "James Gosnell Jr, the SC Magistrate Judge"
 slug: "james-gosnell-jr-the-sc-magistrate-judge"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "judge"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.postandcourier.com/news/crime/magistrate-judge-gosnell-court-child-porn/article_3d71d787-d904-48a8-a8c0-57351a5be4ef.html"
 ---

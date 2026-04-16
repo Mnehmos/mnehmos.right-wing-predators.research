@@ -3,8 +3,8 @@ name: "Tristan Tate"
 slug: "tristan-tate"
 positions: []
 crimes:
-  - "rape"
-  - "sexual trafficking"
+  - "Rape"
+  - "Sexual Trafficking"
 tags:
   - "republican"
 sources:

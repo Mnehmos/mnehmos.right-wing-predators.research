@@ -2,13 +2,11 @@
 name: "Gisela Castro Medina"
 slug: "gisela-castro-medina"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.startribune.com/st-thomas-u-s-gop-chair-arrested-in-florida-on-sex-trafficking-allegation/600087883/"

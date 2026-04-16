@@ -2,12 +2,11 @@
 name: "Eric Dudley"
 slug: "eric-dudley"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual harassment"
-  - "sexual abuse"
+  - "Sexual Harassment"
+  - "Sexual Abuse"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://static1.squarespace.com/static/56b8d736c6fc088f59ae8925/t/5ddd59e1238a18316c4ce188/1574787555381/GRASPC"

@@ -3,8 +3,8 @@ name: "Michael Alan Jones, Patriot Front member in NC"
 slug: "michael-alan-jones-patriot-front-member-in-nc"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://myfox8.com/news/alamance-county-deputies-charge-man-with-three-counts-of-statutory-sex-offense/"

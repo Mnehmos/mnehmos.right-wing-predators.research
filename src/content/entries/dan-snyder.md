@@ -2,12 +2,11 @@
 name: "Dan Snyder"
 slug: "dan-snyder"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
-  - "party official"
 sources:
   - "https://bleacherreport.com/articles/2906323-dan-snyder-accused-of-propositioning-cheerleader-treating-women-like-servants"
 ---

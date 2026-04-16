@@ -2,14 +2,11 @@
 name: "Matthew Chappell"
 slug: "matthew-chappell"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.nbcwashington.com/news/local/virginia-congressional-candidate-denies-sexual-misconduct-allegations/3045003/"

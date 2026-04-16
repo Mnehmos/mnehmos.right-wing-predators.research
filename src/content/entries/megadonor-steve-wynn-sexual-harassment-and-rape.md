@@ -7,8 +7,7 @@ crimes:
   - "Rape"
   - "Sexual Harassment"
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.nytimes.com/2018/01/26/business/steve-wynn-sexual-misconduct-claims.html"
   - "https://www.npr.org/2020/10/21/925827821/gop-welcomes-steve-wynns-millions-despite-rape-and-harassment-allegations"

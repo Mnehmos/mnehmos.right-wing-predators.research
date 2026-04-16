@@ -2,14 +2,13 @@
 name: "Richard A. Dasen Sr."
 slug: "richard-a-dasen-sr"
 positions:
-  - "Party member"
+  - "Party Member"
 crimes:
-  - "Sexual abuse"
-  - "Child exploitation"
+  - "Sexual Abuse"
+  - "Child Exploitation"
   - "Prostitution"
 tags:
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://missoulian.com/news/kalispell-businessman-richard-dasen-charged-with-prostitution-related-crimes/article_f04ce8a9-fa02-54fa-addd-267d2357a4a9.html"
 ---

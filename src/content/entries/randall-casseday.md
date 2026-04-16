@@ -2,13 +2,12 @@
 name: "Randall Casseday"
 slug: "randall-casseday"
 positions:
-  - "Party member"
+  - "Party Member"
 crimes:
-  - "Child exploitation"
-  - "Sexual abuse"
+  - "Child Exploitation"
+  - "Sexual Abuse"
 tags:
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.huffpost.com/entry/how-an-accused-child-sex_b_30501"
 ---

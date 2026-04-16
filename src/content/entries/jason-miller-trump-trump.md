@@ -4,7 +4,7 @@ slug: "jason-miller-trump-trump"
 positions: []
 crimes: []
 tags:
-  - "MAGA"
+  - "maga"
 sources:
   - "https://www.thewrap.com/cnn-jason-miller-pressure-drop-abortion-pill-accusations/"
 ---

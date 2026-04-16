@@ -2,12 +2,11 @@
 name: "Jon Sheptock, Christian musician and former pastor"
 slug: "jon-sheptock-christian-musician-and-former-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "maga"
-  - "religious leader"
 sources:
   - "https://consequence.net/2025/10/christian-musician-trump-rally-arrested-child-pornography/"
 ---

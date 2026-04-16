@@ -2,11 +2,10 @@
 name: "Ronnie Allen Killingsworth, a far-right Christian pastor"
 slug: "ronnie-allen-killingsworth-a-far-right-christian-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.texomashomepage.com/news/local-news/rephidim-church-pastor-ron-killingsworth-formally-sentenced"
 ---

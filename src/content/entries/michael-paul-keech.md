@@ -2,14 +2,14 @@
 name: "Michael Paul Keech"
 slug: "michael-paul-keech"
 positions:
-  - "youth pastor"
-  - "Southern Baptist"
+  - "Youth Pastor"
+  - "Religious Leader"
 crimes:
-  - "criminal sexual conduct with minor"
+  - "Criminal Sexual Conduct With Minor"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Baptist"
+  - "baptist"
   - "sexual abuse"
 sources:
   - "https://www.baptistpress.com/resource-library/news/former-south-carolina-youth-pastor-charged-with-criminal-sexual-conduct-of-minor/"

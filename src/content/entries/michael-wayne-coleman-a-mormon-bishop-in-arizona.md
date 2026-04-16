@@ -2,11 +2,10 @@
 name: "Michael Wayne Coleman, a Mormon bishop in Arizona"
 slug: "michael-wayne-coleman-a-mormon-bishop-in-arizona"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "prostitution"
-tags:
-  - "religious leader"
+  - "Prostitution"
+tags: []
 sources:
   - "https://floodlit.org/a/a069/"
   - "https://www.usatoday.com/story/news/nation/2014/01/24/mormon-bishop-sex-crime/4829127/"

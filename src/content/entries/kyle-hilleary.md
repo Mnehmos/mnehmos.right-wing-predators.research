@@ -2,11 +2,10 @@
 name: "Kyle Hilleary"
 slug: "kyle-hilleary"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child exploitation"
-tags:
-  - "religious leader"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://darkhorsepressnow.com/former-olive-branch-pastor-teacher-charged-with-child-exploitation/"
 ---

@@ -2,10 +2,9 @@
 name: "Gerald Ackerman"
 slug: "gerald-ackerman"
 positions:
-  - "local official"
+  - "Local Official"
 crimes: []
-tags:
-  - "local official"
+tags: []
 sources:
   - "https://www.thetimesherald.com/picture-gallery/news/2019/11/08/rise-and-fall-gerald-ajax-ackerman/2529262001/"
 ---

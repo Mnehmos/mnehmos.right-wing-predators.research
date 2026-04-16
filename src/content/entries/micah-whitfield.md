@@ -3,8 +3,8 @@ name: "Micah Whitfield"
 slug: "micah-whitfield"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://www.5newsonline.com/article/news/crime/bentonville-schools-employee-arrested-sexual-assault-charges/527-87af070e-d8ce-4268-abe7-559652c39b18"

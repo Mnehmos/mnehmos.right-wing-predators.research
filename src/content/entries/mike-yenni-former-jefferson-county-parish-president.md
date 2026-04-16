@@ -3,7 +3,7 @@ name: "Mike Yenni, former Jefferson County Parish president"
 slug: "mike-yenni-former-jefferson-county-parish-president"
 positions: []
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags: []
 sources:
   - "https://www.wwltv.com/article/news/investigations/fbi-looks-into-jp-president-mike-yennis-allegedly-explicit-texts-to-young-man/289-327862974"

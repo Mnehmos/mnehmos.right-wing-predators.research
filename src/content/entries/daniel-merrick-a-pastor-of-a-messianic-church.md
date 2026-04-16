@@ -2,12 +2,11 @@
 name: "Daniel Merrick, a pastor of a messianic church"
 slug: "daniel-merrick-a-pastor-of-a-messianic-church"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.bradfordera.com/2023/02/25/merrick-jailed-on-over-880-felony-counts-of-child-pornography/"
 ---

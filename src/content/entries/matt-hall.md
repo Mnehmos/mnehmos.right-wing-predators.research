@@ -2,16 +2,14 @@
 name: "Matt Hall"
 slug: "matt-hall"
 positions:
-  - "congress"
-  - "party member"
-  - "party official"
+  - "US Representative"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "congress"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/maga-michigan-lawmaker-matt-hall-was-investigated-by-police-for-domestic-violence"

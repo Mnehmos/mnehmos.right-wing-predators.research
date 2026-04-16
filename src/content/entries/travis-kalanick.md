@@ -2,11 +2,10 @@
 name: "Travis Kalanick"
 slug: "travis-kalanick"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
   - "maga"
 sources:

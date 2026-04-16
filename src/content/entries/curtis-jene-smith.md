@@ -3,7 +3,7 @@ name: "Curtis Jene Smith"
 slug: "curtis-jene-smith"
 positions: []
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags: []
 sources:
   - "http://stopbaptistpredators.org/article/curtis_jene_smith.html"

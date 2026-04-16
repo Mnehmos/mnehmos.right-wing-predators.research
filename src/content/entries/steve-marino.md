@@ -2,14 +2,12 @@
 name: "Steve Marino"
 slug: "steve-marino"
 positions:
-  - "party member"
-  - "state legislator"
+  - "Party Member"
+  - "State Legislator"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.fox2detroit.com/news/claim-made-of-domestic-abuse-by-state-rep-steve-marino-from-fellow-lawmaker.amp"
 ---

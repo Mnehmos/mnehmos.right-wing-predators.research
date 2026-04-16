@@ -2,10 +2,9 @@
 name: "Joshua Kindred, a Trump-appointed federal judge"
 slug: "joshua-kindred-a-trump-appointed-federal-judge"
 positions:
-  - "judge"
+  - "Judge"
 crimes: []
 tags:
-  - "judge"
   - "maga"
 sources:
   - "https://media.alaskapublic.org/wp-content/uploads/2024/07/22-90121-News-Release-Order-and-Certification.pdf"

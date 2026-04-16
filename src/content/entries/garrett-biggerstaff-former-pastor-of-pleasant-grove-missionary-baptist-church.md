@@ -2,10 +2,9 @@
 name: "Garrett Biggerstaff, former pastor of Pleasant Grove Missionary Baptist Church"
 slug: "garrett-biggerstaff-former-pastor-of-pleasant-grove-missionary-baptist-church"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.kfvs12.com/2023/01/05/man-arrested-jefferson-county-grooming-children/"
 ---

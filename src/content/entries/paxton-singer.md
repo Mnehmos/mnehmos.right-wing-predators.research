@@ -2,11 +2,10 @@
 name: "Paxton Singer"
 slug: "paxton-singer"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.newsweek.com/pastor-gay-paxton-singer-harvest-bible-chapel-1454872"

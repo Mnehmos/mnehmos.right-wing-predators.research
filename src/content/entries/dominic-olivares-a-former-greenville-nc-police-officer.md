@@ -2,11 +2,10 @@
 name: "Dominic Olivares, a former Greenville, NC, police officer"
 slug: "dominic-olivares-a-former-greenville-nc-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child exploitation"
-tags:
-  - "law enforcement"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.reflector.com/apgstate/ex-greenville-police-officer-charged-with-juvenile-sex-crimes/article_bd262b71-bde1-5081-87fa-71ea1b22c270.html"
 ---

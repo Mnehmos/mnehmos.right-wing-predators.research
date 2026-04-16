@@ -3,7 +3,7 @@ name: "Paul Rytting"
 slug: "paul-rytting"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://apnews.com/article/mormon-church-investigation-child-sex-abuse-9c301f750725c0f06344f948690caf16"

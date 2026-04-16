@@ -3,7 +3,7 @@ name: "Robert Stahn, a counselor for survivors of child sexual"
 slug: "robert-stahn-a-counselor-for-survivors-of-child-sexual"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.eastidahonews.com/2023/10/local-therapist-accused-of-sexually-abusing-a-vulnerable-adult-admits-guilt/"

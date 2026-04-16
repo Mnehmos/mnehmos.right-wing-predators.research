@@ -2,11 +2,10 @@
 name: "David Lloyd Walther"
 slug: "david-lloyd-walther"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.justice.gov/usao-wdtx/pr/fbi-arrests-round-rock-pastor-child-pornography"
   - "https://cbsaustin.com/news/local/round-rock-pastor-pleads-guilty-to-child-pornography-charge"

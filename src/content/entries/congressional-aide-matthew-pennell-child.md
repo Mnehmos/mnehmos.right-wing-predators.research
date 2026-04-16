@@ -2,14 +2,13 @@
 name: "Congressional Aide Matthew Pennell - Child"
 slug: "congressional-aide-matthew-pennell-child"
 positions:
-  - "Congress"
+  - "US Representative"
   - "Party Official"
 crimes:
   - "Child Molestation"
 tags:
-  - "Congress"
-  - "Party Official"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://www.ksn.com/news/local/kansas-congressional-staffer-sentenced-for-child-sex-charges/1023951394"
 ---

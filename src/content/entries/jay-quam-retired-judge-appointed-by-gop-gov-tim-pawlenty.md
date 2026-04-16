@@ -2,13 +2,11 @@
 name: "Jay Quam, retired judge appointed by GOP Gov. Tim Pawlenty"
 slug: "jay-quam-retired-judge-appointed-by-gop-gov-tim-pawlenty"
 positions:
-  - "judge"
-  - "party official"
+  - "Judge"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "judge"
-  - "party official"
   - "republican"
 sources:
   - "https://www.startribune.com/former-hennepin-county-judge-reprimanded-for-pattern-of-sexual-harassment-relationship-with-clerk/601339238?utm_source=newsletter&utm_medium=email&utm_campaign=newsalert"

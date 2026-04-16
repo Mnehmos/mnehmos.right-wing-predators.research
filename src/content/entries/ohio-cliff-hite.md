@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Party Member"
-  - "Republican"
-  - "State Legislator"
+  - "republican"
 sources:
   - "https://www.cleveland.com/open/2017/10/new_documents_allege_former_oh.html"
 ---

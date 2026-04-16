@@ -2,10 +2,10 @@
 name: "Kevin Etherington"
 slug: "kevin-etherington"
 positions:
-  - "assistant district attorney"
+  - "Assistant District Attorney"
 crimes:
-  - "child pornography"
-  - "voyeurism"
+  - "Child Pornography"
+  - "Voyeurism"
 tags:
   - "government official"
   - "child abuse"

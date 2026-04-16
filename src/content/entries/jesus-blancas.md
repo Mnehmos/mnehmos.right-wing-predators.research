@@ -3,7 +3,7 @@ name: "Jesus Blancas"
 slug: "jesus-blancas"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
   - "maga"
 sources:

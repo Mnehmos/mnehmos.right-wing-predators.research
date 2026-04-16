@@ -3,7 +3,7 @@ name: "Texas AG Ken Paxton"
 slug: "texas-ag-ken-paxton"
 positions: []
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags: []
 sources:
   - "https://www.houstonchronicle.com/opinion/editorials/article/Editorial-Hey-QAnon-Texas-had-an-actual-17492470.php"

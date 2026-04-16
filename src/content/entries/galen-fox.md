@@ -7,10 +7,9 @@ crimes:
   - "Sexual Assault"
   - "Indecent Assault"
 tags:
-  - "State Legislator"
-  - "Republican"
-  - "Hawaii"
-  - "Registered Sex Offender"
+  - "republican"
+  - "hawaii"
+  - "registered sex offender"
 sources:
   - "https://t.co/Y83V89qrF7"
 ---

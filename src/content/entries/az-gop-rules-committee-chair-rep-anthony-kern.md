@@ -2,11 +2,10 @@
 name: "AZ GOP Rules Committee Chair Rep. Anthony Kern"
 slug: "az-gop-rules-committee-chair-rep-anthony-kern"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.phoenixnewtimes.com/news/republicans-block-survivor-testimony-on-arizona-child-sex-abuse-bill-11298548"

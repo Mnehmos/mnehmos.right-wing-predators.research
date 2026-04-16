@@ -2,12 +2,11 @@
 name: "Brian Mackenzie"
 slug: "brian-mackenzie"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://apnews.com/article/arrests-colorado-sexual-assault-5801aa6fcaa65bc80aaed58597449973"
 ---

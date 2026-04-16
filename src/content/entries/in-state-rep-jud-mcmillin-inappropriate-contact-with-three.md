@@ -4,7 +4,7 @@ slug: "in-state-rep-jud-mcmillin-inappropriate-contact-with-three"
 positions: []
 crimes: []
 tags:
-  - "Party Official"
+  - "party official"
 sources:
   - "https://www.indystar.com/story/news/politics/2018/07/03/curtis-\""
 ---

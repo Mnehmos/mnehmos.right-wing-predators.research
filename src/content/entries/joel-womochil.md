@@ -2,11 +2,10 @@
 name: "Joel Womochil"
 slug: "joel-womochil"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.kansas.com/news/local/crime/article303120899.html"
   - "https://amp.kansas.com/news/local/crime/article278337259.html"

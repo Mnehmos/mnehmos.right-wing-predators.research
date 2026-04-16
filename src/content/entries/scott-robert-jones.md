@@ -2,13 +2,11 @@
 name: "Scott Robert Jones"
 slug: "scott-robert-jones"
 positions:
-  - "law enforcement"
-  - "candidate"
+  - "Law Enforcement"
+  - "Candidate"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "law enforcement"
-  - "candidate"
   - "republican"
 sources:
   - "https://www.sacbee.com/news/local/article230987608.html"

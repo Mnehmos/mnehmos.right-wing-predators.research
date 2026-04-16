@@ -2,11 +2,10 @@
 name: "Anastasia Dawson"
 slug: "anastasia-dawson"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.kmzu.com/news/church-leader-from-hamilton-charged-with-child-sex-crimes/article_e27959fa-ae43-11ed-a682-4f79d09eaa28.html"
 ---

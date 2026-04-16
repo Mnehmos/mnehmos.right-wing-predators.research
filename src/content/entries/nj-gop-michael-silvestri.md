@@ -6,11 +6,10 @@ positions:
   - "Party Official"
 crimes: []
 tags:
-  - "Candidate"
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.insideedition.com/headlines/18512/local-gop-candidate-quits-race-after-allegedly-sending-rape-messages-to-female-reporter/"
+  - "https://www.insideedition.com/headlines/18512/local/gop-candidate-quits-race-after-allegedly-sending-rape-messages-to-female-reporter/"
 ---
 
 ## Overview

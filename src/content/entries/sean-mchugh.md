@@ -2,11 +2,10 @@
 name: "Sean McHugh"
 slug: "sean-mchugh"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
+  - "Rape"
+tags: []
 sources:
   - "https://news.yahoo.com/accused-capitol-rioter-yelled-police-"
 ---

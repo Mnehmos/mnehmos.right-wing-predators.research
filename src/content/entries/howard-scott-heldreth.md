@@ -5,11 +5,10 @@ positions:
   - "Activist"
 crimes:
   - "Rape"
-  - "Sexual abuse"
+  - "Sexual Abuse"
   - "Kidnapping"
 tags:
-  - "Activist"
-  - "Republican"
+  - "republican"
 sources:
   - "https://web.archive.org/web/20230601212352/https"
 ---

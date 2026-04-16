@@ -2,13 +2,11 @@
 name: "Paul Dyal"
 slug: "paul-dyal"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.jacksonville.com/story/news/crime/2022/03/10/jacksonville-florida-church-pastor-arrested-child-sexual-battery-charge/6990823001/"

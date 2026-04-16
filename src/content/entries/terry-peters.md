@@ -2,11 +2,10 @@
 name: "Terry Peters"
 slug: "terry-peters"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.phoenixnewtimes.com/news/terry-peters-husband-of-ex-bush-official-mary-peters-given-14-years-for-child-rape-6642230"

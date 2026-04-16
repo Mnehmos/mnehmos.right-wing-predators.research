@@ -2,11 +2,10 @@
 name: "Charles Jandris"
 slug: "charles-jandris"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://patch.com/new-jersey/mahwah/former-mahwah-councilman-dodges-prison-child-porn-charges"
 ---

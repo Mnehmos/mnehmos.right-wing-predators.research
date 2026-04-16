@@ -2,14 +2,12 @@
 name: "Steven Bradley Coward, Latta, SC, City"
 slug: "steven-bradley-coward-latta-sc-city"
 positions:
-  - "governor"
-  - "local official"
+  - "Governor"
+  - "Local Official"
 crimes:
-  - "domestic violence"
-  - "violence"
-tags:
-  - "governor"
-  - "local official"
+  - "Domestic Violence"
+  - "Violence"
+tags: []
 sources:
   - "https://www.wistv.com/2023/08/03/gov-mcmaster-suspends-latta-council-member-after-domestic-violence-indictment/"
 ---

@@ -2,14 +2,13 @@
 name: "Tom Garrett"
 slug: "tom-garrett"
 positions:
-  - "congress"
-  - "party official"
+  - "US Representative"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://dailyprogress.com/news/local/government-politics/ex-congressman-tom-garrett-accused-of-abuse-in-bitter-divorce-proceedings/article_089acc92-3597-11ee-a6cc-ab651913520c.html"

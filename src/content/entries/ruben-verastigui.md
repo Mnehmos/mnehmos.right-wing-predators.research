@@ -2,11 +2,10 @@
 name: "Ruben Verastigui"
 slug: "ruben-verastigui"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://mobile.twitter.com/jaredlholt/status/1357910884757221377This"

@@ -2,11 +2,10 @@
 name: "Donald Sanborn"
 slug: "donald-sanborn"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://web.archive.org/web/20191203040636/https"

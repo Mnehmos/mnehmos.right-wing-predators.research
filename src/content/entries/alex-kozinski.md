@@ -3,13 +3,11 @@ name: "Alex Kozinski"
 slug: "alex-kozinski"
 positions:
   - "Judge"
-  - "Party member"
+  - "Party Member"
 crimes:
-  - "Sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "Judge"
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Alex_Kozinski"
 ---

@@ -3,8 +3,8 @@ name: "Brian Heck, Belgrade school trustee, who campaigned"
 slug: "brian-heck-belgrade-school-trustee-who-campaigned"
 positions: []
 crimes:
-  - "child exploitation"
-  - "sexual trafficking"
+  - "Child Exploitation"
+  - "Sexual Trafficking"
 tags: []
 sources:
   - "https://www.belgrade-news.com/townnews/school/brian-heck/article_95e5d16d-db5a-5dab-8e46-d3a08f4f2886.html"

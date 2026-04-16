@@ -2,12 +2,11 @@
 name: "David Prince"
 slug: "david-prince"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.kjrh.com/news/local-news/mcalester-pastor-charged-with-possession-of-child-sexual-abuse-material"
 ---

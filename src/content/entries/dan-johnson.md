@@ -6,11 +6,10 @@ positions:
   - "Religious Leader"
 crimes:
   - "Sexual Assault"
-  - "Assault of Minor"
+  - "Assault Of Minor"
 tags:
-  - "State Legislator"
-  - "Republican"
-  - "Kentucky"
+  - "republican"
+  - "kentucky"
 sources:
   - "http://www.wdrb.com/story/37062873/rep-dan-johnson-commits-suicide-on-bridge-in-mt-washington"
 ---

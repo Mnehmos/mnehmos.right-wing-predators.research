@@ -2,11 +2,10 @@
 name: "Amanda Chase"
 slug: "amanda-chase"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.chesterfieldobserver.com/articles/chase-takes-heat-for-rape-comment/"

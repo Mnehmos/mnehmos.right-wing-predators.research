@@ -8,9 +8,8 @@ crimes:
   - "Sexual Abuse"
   - "Witness Tampering"
 tags:
-  - "State Legislator"
-  - "Republican"
-  - "South Dakota"
+  - "republican"
+  - "south dakota"
 sources:
   - "https://en.wikipedia.org/wiki/Ted_Klaudt"
 ---

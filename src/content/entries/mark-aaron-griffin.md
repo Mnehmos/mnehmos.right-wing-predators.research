@@ -3,8 +3,8 @@ name: "Mark Aaron Griffin"
 slug: "mark-aaron-griffin"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://www.nbcdfw.com/news/local/north-texas-rabbi-accused-of-sexual-assault-in-synagogue/2597431/"

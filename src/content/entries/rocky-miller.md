@@ -2,9 +2,9 @@
 name: "Rocky Miller"
 slug: "rocky-miller"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "congress"
 sources:

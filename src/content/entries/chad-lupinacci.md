@@ -2,13 +2,11 @@
 name: "Chad Lupinacci"
 slug: "chad-lupinacci"
 positions:
-  - "local official"
-  - "state legislator"
+  - "Local Official"
+  - "State Legislator"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
-  - "local official"
-  - "state legislator"
   - "republican"
 sources:
   - "https://patch.com/new-york/huntington/former-staffer-accuses-chad-lupinacci-sexual-assault"

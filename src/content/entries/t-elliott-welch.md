@@ -2,11 +2,10 @@
 name: "T. Elliott Welch"
 slug: "t-elliott-welch"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.wxii12.com/article/forsyth-county-minister-child-pornography-arrest-charges/36268831"
 ---

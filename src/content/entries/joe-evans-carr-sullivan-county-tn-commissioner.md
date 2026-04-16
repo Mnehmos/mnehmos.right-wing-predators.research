@@ -2,11 +2,10 @@
 name: "Joe Evans Carr, Sullivan County (TN) Commissioner"
 slug: "joe-evans-carr-sullivan-county-tn-commissioner"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
-tags:
-  - "local official"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://wcyb.com/news/local/man-charged-with-sexual-battery-after-fight-on-woodfin-street"
 ---

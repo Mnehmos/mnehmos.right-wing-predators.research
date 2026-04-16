@@ -3,7 +3,7 @@ name: "Antonio Brown, former NFL player who endorsed Trump"
 slug: "antonio-brown-former-nfl-player-who-endorsed-trump"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "maga"
 sources:

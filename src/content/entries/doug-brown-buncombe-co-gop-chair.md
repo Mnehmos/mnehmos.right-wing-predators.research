@@ -2,11 +2,10 @@
 name: "Doug Brown, Buncombe Co GOP Chair"
 slug: "doug-brown-buncombe-co-gop-chair"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.citizen-times.com/story/news/local/2024/07/09/county-gop-chair-guilty-of-assault-on-female-school-board-member/74329590007/"

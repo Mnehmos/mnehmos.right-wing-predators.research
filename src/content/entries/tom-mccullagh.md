@@ -2,11 +2,10 @@
 name: "Tom McCullagh"
 slug: "tom-mccullagh"
 positions:
-  - "candidate"
-  - "congress"
+  - "Candidate"
+  - "US Representative"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
 sources:
   - "https://www.shawlocal.com/news/election/2022/04/06/mccullagh-drops-out-of-state-race-after-grooming-accusation-surfaces/"

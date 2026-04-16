@@ -2,13 +2,11 @@
 name: "Donald Marceau McLeod"
 slug: "donald-marceau-mcleod"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://kdvr.com/news/local/former-severance-mayor-charged-with-child-prostitution/amp/?fr=operanews"

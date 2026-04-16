@@ -2,11 +2,10 @@
 name: "NH Rep. Howard Pearl"
 slug: "nh-rep-howard-pearl"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "assault"
-tags:
-  - "judge"
+  - "Assault"
+tags: []
 sources:
   - "https://www.concordmonitor.com/Howard-Pearl-State-Rep-Run-Loudon-NH-4559590"
 ---

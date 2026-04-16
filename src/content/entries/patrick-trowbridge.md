@@ -2,11 +2,10 @@
 name: "Patrick Trowbridge"
 slug: "patrick-trowbridge"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://therockwalltimes.com/news/2022/05/23/former-rockwall-city-councilman-sentenced-to-120-months-on-child-pornography-charge/"
 ---

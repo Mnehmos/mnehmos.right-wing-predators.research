@@ -2,11 +2,10 @@
 name: "Kyle Nelson Robinson, First Bapt"
 slug: "kyle-nelson-robinson-first-bapt"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://thespacecoastrocket.com/local-pastor-of-first-baptist-church-of-indialantic-arrested-on-child-molestation-charges/"
 ---

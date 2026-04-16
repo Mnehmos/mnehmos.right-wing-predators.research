@@ -7,9 +7,8 @@ crimes:
   - "Domestic Violence"
   - "Violence"
 tags:
-  - "Party Official"
-  - "Republican"
-  - "MAGA"
+  - "republican"
+  - "maga"
 sources:
   - "https://www.reviewjournal.com/news/politics-and-government/nevada/charges-filed-against-gop-consultant-who-made-woman-his-sex-slave/"
 ---

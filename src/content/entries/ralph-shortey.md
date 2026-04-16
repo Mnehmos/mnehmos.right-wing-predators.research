@@ -2,16 +2,14 @@
 name: "Ralph Shortey"
 slug: "ralph-shortey"
 positions:
-  - "State legislator"
-  - "Party official"
+  - "State Legislator"
+  - "Party Official"
 crimes:
-  - "Child exploitation"
-  - "Sexual trafficking"
+  - "Child Exploitation"
+  - "Sexual Trafficking"
 tags:
-  - "State legislator"
-  - "Party official"
-  - "Republican"
-  - "Maga"
+  - "republican"
+  - "maga"
 sources:
   - "https://www.washingtonpost.com/news/post-nation/wp/2017/11/20/former-oklahoma-state-senator-admits-to-child-sex-trafficking-while-in-office/"
 ---

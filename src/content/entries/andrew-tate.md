@@ -3,7 +3,7 @@ name: "Andrew Tate"
 slug: "andrew-tate"
 positions: []
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
   - "maga"
 sources:

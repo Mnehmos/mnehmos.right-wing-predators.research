@@ -2,11 +2,10 @@
 name: "David Bernard"
 slug: "david-bernard"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://cowboystatedaily.com/2022/02/08/greybull-town-councilman-arrested-charged-with-child-porn-possession-distribution/"
 ---

@@ -2,11 +2,10 @@
 name: "Brian Hawkins, San"
 slug: "brian-hawkins-san"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-tags:
-  - "local official"
+  - "Assault"
+tags: []
 sources:
   - "https://www.riversidesheriff.org/CivicAlerts.aspx?aid=4634&utm_source=dlvr.it&utm_medium=twitter"
   - "https://www.pressenterprise.com/2023/07/03/brian-hawkins-san-jacinto-city-councilmember-arrested-in-assault-case/"

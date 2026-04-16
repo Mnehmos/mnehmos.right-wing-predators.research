@@ -2,10 +2,9 @@
 name: "Andrew Chesney"
 slug: "andrew-chesney"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.newsweek.com/gop-lawmaker-likens-sex-education-porn-blames-lack-independent-legislative-maps-1596145"

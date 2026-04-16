@@ -2,14 +2,12 @@
 name: "Jeremy Filbert"
 slug: "jeremy-filbert"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "rape"
-  - "sodomy"
+  - "Rape"
+  - "Sodomy"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.kshb.com/news/local-news/investigations/former-iowa-mayor-faces-rape-and-sodomy-charges"

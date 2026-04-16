@@ -4,11 +4,10 @@ slug: "brent-schepp"
 positions:
   - "Candidate"
 crimes:
-  - "Child sexual abuse"
-  - "Child molestation"
+  - "Child Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Candidate"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.chicagotribune.com/2006/10/18/candidate-dies-in-crash/"
 ---

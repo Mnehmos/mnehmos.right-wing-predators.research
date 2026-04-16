@@ -2,12 +2,11 @@
 name: "Todd Poole"
 slug: "todd-poole"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "domestic violence"
+  - "Assault"
+  - "Domestic Violence"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.journalnow.com/news/local/davie-county-man-a-prominent-gop-figure-loses-budd-job/article_00c86bc2-9ede-5e66-b0f8-92cbf1e89a60.html"

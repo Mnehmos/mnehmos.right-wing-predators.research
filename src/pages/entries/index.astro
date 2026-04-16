@@ -2,268 +2,144 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import EntryCard from '../../components/EntryCard.astro';
 import FilterSidebar from '../../components/FilterSidebar.astro';
-import Pagination from '../../components/Pagination.astro';
+import MobileFilterSheet from '../../components/MobileFilterSheet.astro';
 import SearchBar from '../../components/SearchBar.astro';
 import AlphabetNav from '../../components/AlphabetNav.astro';
-import { getCollection } from 'astro:content';
+import {
+  getNormalizedEntries,
+  getLettersWithEntries,
+  getFacetCounts,
+  getTopByScore,
+} from '../../utils/entries-index';
 
-// Base path for all internal links
 const base = import.meta.env.BASE_URL;
 
-// Page 1 is always handled by this route
-// Pages 2+ are handled by /entries/page/[page].astro
-const ENTRIES_PER_PAGE = 48;
-const currentPage = 1;
+const entries = await getNormalizedEntries();
+const lettersWithEntries = getLettersWithEntries(entries);
+const facets = getFacetCounts(entries);
+const crimes = facets.crimes.map(([name]) => name);
+const positions = facets.positions.map(([name]) => name);
+const tags = facets.tags.map(([name]) => name);
 
-const entries = await getCollection('entries');
+// SSR shell: default view is "Notability" sort, first 48 entries.
+// Client engine takes over on mount and handles all filtering/pagination.
+const initialEntries = getTopByScore(entries, 48);
+const totalEntries = entries.length;
+const needsResearchCount = entries.filter((e) => e.needsResearch).length;
 
-// Calculate which letters have entries
-const lettersWithEntries = new Set<string>();
-entries.forEach(entry => {
-  // Get first letter of the name (trim whitespace first)
-  const firstLetter = entry.data.name.trim().charAt(0).toUpperCase();
-  if (/[A-Z]/.test(firstLetter)) {
-    lettersWithEntries.add(firstLetter);
-  }
-});
-
-// Sort alphabetically by name (trim whitespace for consistent ordering)
-const sortedEntries = entries.sort((a, b) =>
-  a.data.name.trim().localeCompare(b.data.name.trim())
-);
-
-// Calculate pagination - this is always page 1
-const totalEntries = sortedEntries.length;
-const totalPages = Math.ceil(totalEntries / ENTRIES_PER_PAGE);
-const startIndex = 0;
-const endIndex = ENTRIES_PER_PAGE;
-const paginatedEntries = sortedEntries.slice(startIndex, endIndex);
-
-// Get all unique filter options with counts (from all entries, not filtered)
-const crimeCounts = new Map<string, number>();
-const positionCounts = new Map<string, number>();
-const tagCounts = new Map<string, number>();
-
-entries.forEach(entry => {
-  entry.data.crimes.forEach(crime => {
-    crimeCounts.set(crime, (crimeCounts.get(crime) || 0) + 1);
-  });
-  entry.data.positions.forEach(pos => {
-    positionCounts.set(pos, (positionCounts.get(pos) || 0) + 1);
-  });
-  entry.data.tags.forEach(tag => {
-    tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
-  });
-});
-
-// Sort by count (descending) and get arrays
-const crimes = [...crimeCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .map(([name]) => name);
-
-const positions = [...positionCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .map(([name]) => name);
-
-const tags = [...tagCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .map(([name]) => name);
-
-// Page title
 const pageTitle = 'Browse All Entries';
 ---
 
 <BaseLayout title={pageTitle}>
   <!-- Page Header -->
-  <div class="mb-8">
+  <div class="mb-6">
     <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-4">
       <div>
         <h1 class="text-3xl md:text-4xl font-bold mb-2 font-display text-stone-800 dark:text-stone-100">
           Browse Entries
         </h1>
         <p class="text-stone-600 dark:text-stone-400">
-          <span class="text-stone-800 dark:text-stone-100 font-medium">{totalEntries.toLocaleString()}</span> 
+          <span class="text-stone-800 dark:text-stone-100 font-medium">{totalEntries.toLocaleString()}</span>
           documented entries
+          {needsResearchCount > 0 && (
+            <span class="ml-2 text-sm inline-flex items-center gap-1">
+              <span aria-hidden="true">·</span>
+              <span>{needsResearchCount.toLocaleString()} need research</span>
+            </span>
+          )}
         </p>
       </div>
-      
-      <!-- Sort Options (future enhancement placeholder) -->
+
       <div class="flex items-center gap-3">
-        <label class="text-sm text-stone-600 dark:text-stone-400">Sort:</label>
-        <select 
+        <label for="sort-select" class="text-sm text-stone-600 dark:text-stone-400">Sort:</label>
+        <select
           id="sort-select"
-          class="bg-stone-100 dark:bg-stone-800 border border-stone-300 dark:border-stone-700 rounded-lg px-3 py-2 text-sm text-stone-700 dark:text-stone-300 focus:outline-none focus:border-copper"
+          class="bg-stone-100 dark:bg-stone-800 border border-stone-300 dark:border-stone-700 rounded-lg px-3 py-2 text-sm text-stone-800 dark:text-stone-100 focus:outline-none focus:ring-2 focus:ring-copper focus:border-copper min-h-[44px]"
         >
-          <option value="name-asc">Name (A-Z)</option>
-          <option value="name-desc">Name (Z-A)</option>
+          <option value="notability">Notability (most documented)</option>
+          <option value="name-asc">Name (A–Z)</option>
+          <option value="name-desc">Name (Z–A)</option>
+          <option value="needs-research">Needs research first</option>
         </select>
       </div>
     </div>
-    
-    <!-- Alphabet Navigation -->
+
     <div class="mb-4">
-      <AlphabetNav
-        lettersWithEntries={lettersWithEntries}
-        baseUrl={`${base}entries`}
-      />
+      <AlphabetNav lettersWithEntries={lettersWithEntries} baseUrl={`${base}entries`} />
     </div>
-    
-    <!-- Search Bar for Browse Page -->
-    <div class="lg:hidden mb-6">
+
+    <div class="lg:hidden mb-4">
       <SearchBar placeholder="Search entries..." size="md" />
     </div>
   </div>
 
+  <!-- Active filter chips -->
+  <div id="active-filter-bar" class="hidden flex flex-wrap gap-2 mb-4" role="region" aria-label="Active filters"></div>
+
   <!-- Main Content with Sidebar -->
   <div class="flex flex-col lg:flex-row gap-6 lg:gap-8">
-    <!-- Filter Sidebar (Desktop) -->
+    <!-- Filter Sidebar (Desktop only) -->
     <div class="hidden lg:block lg:w-72 flex-shrink-0">
-      <FilterSidebar 
-        crimes={crimes}
-        positions={positions}
-        tags={tags}
-      />
-    </div>
-
-    <!-- Mobile Filter Toggle -->
-    <div class="lg:hidden">
-      <button 
-        id="mobile-filter-toggle"
-        class="w-full flex items-center justify-center gap-2 py-3 bg-stone-200 dark:bg-stone-800 border border-stone-300 dark:border-stone-700 rounded-lg text-stone-700 dark:text-stone-300 hover:bg-stone-300 dark:hover:bg-stone-700 hover:text-copper transition-colors"
-      >
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
-        </svg>
-        Filters
-      </button>
-      
-      <!-- Mobile Filter Panel -->
-      <div id="mobile-filter-panel" class="hidden mt-4">
-        <FilterSidebar 
-          crimes={crimes}
-          positions={positions}
-          tags={tags}
-        />
-      </div>
+      <FilterSidebar crimes={crimes} positions={positions} tags={tags} />
     </div>
 
     <!-- Entry Grid -->
     <div class="flex-1 min-w-0">
-      <!-- Results Info -->
-      <div class="flex items-center justify-between mb-4 text-sm text-stone-600 dark:text-stone-400">
-        <span>
-          {totalEntries > 0 ? (
-            <>Showing {startIndex + 1}–{Math.min(endIndex, totalEntries)} of {totalEntries.toLocaleString()}</>
-          ) : (
-            <>No entries found</>
-          )}
-        </span>
-        {totalPages > 0 && (
-          <span>
-            Page {currentPage} of {totalPages}
-          </span>
-        )}
+      <div
+        id="entries-meta"
+        class="mb-4 text-sm text-stone-600 dark:text-stone-400"
+        aria-live="polite"
+        aria-atomic="true"
+      >
+        Showing {initialEntries.length} of {totalEntries.toLocaleString()} entries
       </div>
 
-      <!-- Entry Cards Grid - Uniform cell sizing -->
       <div
         id="entries-grid"
         class="entries-grid grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4"
       >
-        {paginatedEntries.map((entry) => (
+        {initialEntries.map((entry) => (
           <div
             class="entry-cell"
             data-entry-card
-            data-crimes={entry.data.crimes.join(',')}
-            data-positions={entry.data.positions.join(',')}
-            data-tags={entry.data.tags.join(',')}
+            data-crimes={entry.crimes.join(',')}
+            data-positions={entry.positions.join(',')}
+            data-tags={entry.tags.join(',')}
           >
             <EntryCard
-              name={entry.data.name}
+              name={entry.name}
               slug={entry.slug}
-              positions={entry.data.positions}
-              crimes={entry.data.crimes}
-              tags={entry.data.tags}
+              positions={entry.positions}
+              crimes={entry.crimes}
+              tags={entry.tags}
+              sourceCount={entry.sourceCount}
+              needsResearch={entry.needsResearch}
             />
           </div>
         ))}
       </div>
 
-      <!-- Empty State (shown when filters result in no entries) -->
-      {paginatedEntries.length === 0 && (
-        <div class="text-center py-12">
-          <div class="text-4xl mb-4">🔍</div>
-          <h3 class="text-lg font-semibold text-stone-800 dark:text-stone-100 mb-2">
-            No entries match your filters
-          </h3>
-          <p class="text-stone-600 dark:text-stone-400 text-sm mb-4">
-            Try adjusting your filter criteria
-          </p>
-        </div>
-      )}
-
-      <!-- Pagination -->
-      {totalPages > 1 && (
-        <Pagination
-          currentPage={currentPage}
-          totalPages={totalPages}
-          baseUrl={`${base}entries`}
-        />
-      )}
+      <!-- Pagination rendered by client engine -->
+      <div id="page-controls"></div>
     </div>
   </div>
+
+  <!-- Mobile filter sheet (sticky bar + drawer) -->
+  <MobileFilterSheet crimes={crimes} positions={positions} tags={tags} />
 </BaseLayout>
 
 <script>
-  // Mobile filter toggle
-  const filterToggle = document.getElementById('mobile-filter-toggle');
-  const filterPanel = document.getElementById('mobile-filter-panel');
-  
-  filterToggle?.addEventListener('click', () => {
-    filterPanel?.classList.toggle('hidden');
-    const isOpen = !filterPanel?.classList.contains('hidden');
-    filterToggle.innerHTML = isOpen 
-      ? `<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg> Hide Filters`
-      : `<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" /></svg> Filters`;
-  });
-
-  // Sort functionality
-  const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
-  const grid = document.getElementById('entries-grid');
-  
-  sortSelect?.addEventListener('change', () => {
-    const cards = Array.from(grid?.querySelectorAll('[data-entry-card]') || []);
-    const sortValue = sortSelect.value;
-    
-    cards.sort((a, b) => {
-      const nameA = a.querySelector('h2')?.textContent || '';
-      const nameB = b.querySelector('h2')?.textContent || '';
-      
-      if (sortValue === 'name-asc') {
-        return nameA.localeCompare(nameB);
-      } else {
-        return nameB.localeCompare(nameA);
-      }
-    });
-    
-    cards.forEach(card => grid?.appendChild(card));
-  });
+  import '../../scripts/browse-client';
 </script>
 
 <style>
-  /* Uniform grid cells - ensures all cells are same height */
   .entries-grid {
-    /* Auto-fit rows with consistent row height */
-    grid-auto-rows: 152px;
+    grid-auto-rows: 170px;
   }
-
   .entry-cell {
-    /* Ensure cell contents fill the grid cell */
     height: 100%;
   }
-
   .entry-cell > * {
-    /* EntryCard fills the cell */
     height: 100%;
   }
 </style>

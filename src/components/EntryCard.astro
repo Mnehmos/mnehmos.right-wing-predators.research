@@ -5,38 +5,67 @@ interface Props {
   positions?: string[];
   crimes?: string[];
   tags?: string[];
+  sourceCount?: number;
+  needsResearch?: boolean;
 }
 
-// Base path for all internal links
 const base = import.meta.env.BASE_URL;
 
-const { name, slug, positions = [], crimes = [], tags = [] } = Astro.props;
+const {
+  name,
+  slug,
+  positions = [],
+  crimes = [],
+  tags = [],
+  sourceCount = 0,
+  needsResearch = false,
+} = Astro.props;
 
-// Get first 2 crimes for display (more consistent layout)
 const displayCrimes = crimes.slice(0, 2);
 const remainingCrimes = crimes.length - displayCrimes.length;
 
-// Get first 2 positions for display
 const displayPositions = positions.slice(0, 2);
 const remainingPositions = positions.length - displayPositions.length;
 
-// Truncate position text for badge display
 const truncatePosition = (text: string, maxLen: number = 25) => {
   if (text.length <= maxLen) return text;
   return text.substring(0, maxLen) + '…';
 };
 ---
 
-<article class="entry-card group relative bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl overflow-hidden transition-all duration-300 hover:bg-stone-200 dark:hover:bg-stone-800 hover:border-copper hover:shadow-xl hover:shadow-stone-900/20 dark:hover:shadow-stone-900/50 hover:-translate-y-1">
-  <a href={`${base}entries/${slug}/`} class="card-link block p-5 no-underline h-full">
-    <!-- Name - Fixed height single line with ellipsis -->
+<article class="entry-card group relative bg-stone-100 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/50 rounded-xl overflow-hidden transition-all duration-300 hover:bg-stone-200 dark:hover:bg-stone-800 hover:border-copper hover:shadow-xl hover:shadow-stone-900/20 dark:hover:shadow-stone-900/50 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-copper">
+  <a
+    href={`${base}entries/${slug}/`}
+    class="card-link block p-5 no-underline h-full focus:outline-none"
+    aria-label={`View entry for ${name}`}
+  >
     <div class="card-title-area">
       <h2 class="card-title text-lg font-bold text-stone-800 dark:text-stone-100 group-hover:text-copper transition-colors">
         {name}
       </h2>
     </div>
-    
-    <!-- Positions - Fixed height single row -->
+
+    <!-- Meta row: sources + research flag -->
+    <div class="card-meta-row">
+      {sourceCount > 1 && (
+        <span class="badge badge-sources" title={`${sourceCount} sources`}>
+          <svg class="w-3 h-3" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+          </svg>
+          {sourceCount}
+        </span>
+      )}
+      {needsResearch && (
+        <span class="badge badge-research" title="Sparse entry — needs additional sources">
+          <svg class="w-3 h-3" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          Needs research
+        </span>
+      )}
+    </div>
+
+    <!-- Positions -->
     <div class="card-badges-area positions-area">
       {displayPositions.length > 0 ? (
         <div class="badges-row">
@@ -46,147 +75,35 @@ const truncatePosition = (text: string, maxLen: number = 25) => {
             </span>
           ))}
           {remainingPositions > 0 && (
-            <span class="badge badge-more">
-              +{remainingPositions}
-            </span>
+            <span class="badge badge-more">+{remainingPositions}</span>
           )}
         </div>
       ) : (
         <div class="badge-placeholder">&nbsp;</div>
       )}
     </div>
-    
-    <!-- Crimes - Fixed height single row -->
+
+    <!-- Crimes -->
     <div class="card-badges-area crimes-area">
       {displayCrimes.length > 0 ? (
         <div class="badges-row">
           {displayCrimes.map((crime) => (
-            <span class="badge badge-crime">
-              {crime}
-            </span>
+            <span class="badge badge-crime">{crime}</span>
           ))}
           {remainingCrimes > 0 && (
-            <span class="badge badge-more">
-              +{remainingCrimes}
-            </span>
+            <span class="badge badge-more">+{remainingCrimes}</span>
           )}
         </div>
       ) : (
         <div class="badge-placeholder">&nbsp;</div>
       )}
     </div>
-    
+
     <!-- Arrow indicator -->
-    <div class="absolute top-5 right-4 text-stone-400 dark:text-stone-500 group-hover:text-copper transition-all group-hover:translate-x-1">
+    <div class="absolute top-5 right-4 text-stone-400 dark:text-stone-500 group-hover:text-copper transition-all group-hover:translate-x-1" aria-hidden="true">
       <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
       </svg>
     </div>
   </a>
 </article>
-
-<style>
-  /* Fixed height card for uniform grid */
-  .entry-card {
-    height: 152px; /* Fixed height for all cards */
-  }
-
-  .card-link {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
-
-  /* Title area - fixed height with single line truncation */
-  .card-title-area {
-    height: 32px; /* Fixed height for title */
-    margin-bottom: 12px;
-    padding-right: 24px; /* Space for arrow */
-    overflow: hidden;
-  }
-
-  .card-title {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    line-height: 1.4;
-  }
-
-  /* Badge areas - fixed height */
-  .card-badges-area {
-    height: 28px; /* Fixed height for badge row */
-    overflow: hidden;
-  }
-
-  .positions-area {
-    margin-bottom: 8px;
-  }
-
-  .crimes-area {
-    margin-top: auto; /* Push to bottom if needed */
-  }
-
-  /* Badge row - no wrap, single line */
-  .badges-row {
-    display: flex;
-    flex-wrap: nowrap;
-    gap: 6px;
-    align-items: center;
-    overflow: hidden;
-  }
-
-  /* Badge placeholder for empty rows */
-  .badge-placeholder {
-    height: 24px;
-    opacity: 0;
-  }
-
-  /* Base badge styles */
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    font-weight: 500;
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-
-  /* Position badge styling - copper themed */
-  .badge-position {
-    background-color: rgba(184, 115, 51, 0.15); /* copper/15 */
-    color: #b87333; /* copper */
-    border: 1px solid rgba(184, 115, 51, 0.3);
-  }
-
-  :global(.dark) .badge-position {
-    background-color: rgba(184, 115, 51, 0.2);
-    color: #d4956a; /* copper-light */
-    border-color: rgba(184, 115, 51, 0.4);
-  }
-
-  /* Crime badge styling */
-  .badge-crime {
-    background-color: rgba(239, 68, 68, 0.1); /* red-500/10 */
-    color: rgb(220, 38, 38); /* red-600 */
-    border: 1px solid rgba(239, 68, 68, 0.2);
-  }
-
-  :global(.dark) .badge-crime {
-    background-color: rgba(127, 29, 29, 0.4); /* red-900/40 */
-    color: rgb(252, 165, 165); /* red-300 */
-    border-color: rgba(185, 28, 28, 0.3); /* red-700/30 */
-  }
-
-  /* "More" badge styling */
-  .badge-more {
-    background-color: rgba(120, 113, 108, 0.2); /* stone-500/20 */
-    color: rgb(120, 113, 108); /* stone-500 */
-  }
-
-  :global(.dark) .badge-more {
-    background-color: rgba(68, 64, 60, 0.5); /* stone-700/50 */
-    color: rgb(168, 162, 158); /* stone-400 */
-  }
-</style>

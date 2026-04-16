@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Law Enforcement"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://caselaw.findlaw.com/ga-court-of-appeals/1049420.html"
 ---

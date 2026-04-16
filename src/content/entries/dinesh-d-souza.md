@@ -2,11 +2,10 @@
 name: "Dinesh D'Souza"
 slug: "dinesh-d-souza"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "domestic violence"
+  - "Domestic Violence"
 tags:
-  - "activist"
   - "republican"
   - "maga"
 sources:

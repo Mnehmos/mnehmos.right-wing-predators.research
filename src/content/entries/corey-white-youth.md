@@ -2,12 +2,11 @@
 name: "Corey White, youth"
 slug: "corey-white-youth"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.cbs7.com/2023/10/31/former-midland-youth-minister-faces-10-years-prison-child-pornography-charges/?outputType=amp"
   - "https://goppredators.wordpress.com/2023/11/04/1193-corey-white/"

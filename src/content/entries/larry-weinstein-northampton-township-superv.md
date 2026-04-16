@@ -8,9 +8,7 @@ crimes:
   - "Assault"
   - "Sexual Abuse"
 tags:
-  - "Law Enforcement"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.2.philly.com/philly/news/pennsylvania/spiked-wine-and-spy-glasses-bucks-county-couple-charged-with-secretly-filming-drunken-woman-20181010.html"
 ---

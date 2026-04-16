@@ -2,12 +2,11 @@
 name: "Larry Rendall Brock Jr."
 slug: "larry-rendall-brock-jr"
 positions:
-  - "congress"
-  - "law enforcement"
+  - "US Representative"
+  - "Law Enforcement"
 crimes: []
 tags:
   - "congress"
-  - "law enforcement"
 sources:
   - "https://ca.movies.yahoo.com/amphtml/nine-capitol-rioters-were-charged-143856006.html"
 ---

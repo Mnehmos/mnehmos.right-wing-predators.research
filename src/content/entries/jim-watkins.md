@@ -3,7 +3,7 @@ name: "Jim Watkins"
 slug: "jim-watkins"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.motherjones.com/politics/2020/10/jim-watkins-child-pornography-domains"

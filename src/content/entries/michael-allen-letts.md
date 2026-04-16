@@ -2,12 +2,11 @@
 name: "Michael Allen Letts"
 slug: "michael-allen-letts"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "rape"
-  - "child molestation"
+  - "Rape"
+  - "Child Molestation"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.cbs17.com/news/south/sc-senate-candidate-bulletproof-vest-charity-ceo-charged-with-incest-rape/"

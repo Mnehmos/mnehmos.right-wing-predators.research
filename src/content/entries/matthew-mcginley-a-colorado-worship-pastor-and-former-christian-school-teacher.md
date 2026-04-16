@@ -2,14 +2,12 @@
 name: "Matthew McGinley, a Colorado worship pastor and former Christian school teacher"
 slug: "matthew-mcginley-a-colorado-worship-pastor-and-former-christian-school-teacher"
 positions:
-  - "educator"
-  - "religious leader"
+  - "Educator"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "educator"
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.cbsnews.com/colorado/news/matthew-mcginley-sexual-assault-fort-collins-pastor-teacher/"
   - "https://www.christianpost.com/news/former-texas-megachurch-youth-leader-arrested.html"

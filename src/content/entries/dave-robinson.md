@@ -2,10 +2,9 @@
 name: "Dave Robinson"
 slug: "dave-robinson"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.sltrib.com/news/politics/2021/03/27/republican-women-say-they/"

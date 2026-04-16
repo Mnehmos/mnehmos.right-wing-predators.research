@@ -2,12 +2,11 @@
 name: "Jason Brothers"
 slug: "jason-brothers"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-  - "child molestation"
+  - "Rape"
+  - "Child Molestation"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://people.com/crime/georgia-pastor-avoids-jail-sexually-abused-teen/"

@@ -7,9 +7,9 @@ positions:
 crimes:
   - "Child Sexual Abuse"
 tags:
-  - "Politician"
-  - "Washington"
-  - "Republican"
+  - "politician"
+  - "washington"
+  - "republican"
 sources:
   - "https://t.co/01rIrLsCdj"
 ---

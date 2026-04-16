@@ -2,11 +2,10 @@
 name: "Peter Thiel, huge GOP donor"
 slug: "peter-thiel-huge-gop-donor"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.theguardian.com/technology/2016/oct/21/peter-thiel-support-donald-trump-date-rape-book"

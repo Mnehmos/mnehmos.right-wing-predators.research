@@ -2,11 +2,10 @@
 name: "Wilmer \"Will\" Puello-Mota"
 slug: "wilmer-will-puello-mota"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.gazettenet.com/Holyoke-City-Councilor-Wilmer-Will-Puello-accused-of-child-pornography-possession-held-without-bail-46394975"
   - "https://www.masslive.com/news/2022/09/ward-2-councilor-wilmer-puello-mota-expelled-from-holyoke-city-council.html"

@@ -2,13 +2,13 @@
 name: "Kennesaw Mayor, Leonard Church"
 slug: "kennesaw-mayor-leonard-church"
 positions:
-  - "Congress"
+  - "US Representative"
   - "Local Official"
 crimes:
   - "Child Molestation"
 tags:
-  - "Congress"
-  - "Local Official"
+  - "congress"
+  - "party member"
 sources:
   - "https://www.ajc.com/news/local/govt--politics/kennesaw-councilman-pleads-guilty-child-molestation/jwGeJPz88s9xZdutAcZjGM/"
 ---

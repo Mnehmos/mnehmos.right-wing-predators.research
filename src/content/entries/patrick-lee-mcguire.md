@@ -5,11 +5,10 @@ positions:
   - "Government Official"
 crimes:
   - "Child Sexual Abuse"
-  - "Molestation of Adopted Children"
+  - "Molestation Of Adopted Children"
 tags:
-  - "Government Official"
-  - "Republican"
-  - "Florida"
+  - "republican"
+  - "florida"
 sources:
   - "https://t.co/osEUFN3FxK"
 ---

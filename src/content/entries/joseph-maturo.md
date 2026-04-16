@@ -2,11 +2,10 @@
 name: "Joseph Maturo"
 slug: "joseph-maturo"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://www.ctnewsjunkie.com/archives/entry/20180912_east_haven_settles_sexual_harassment_case_against_mayor/"

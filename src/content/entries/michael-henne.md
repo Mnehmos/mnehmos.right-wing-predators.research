@@ -2,11 +2,10 @@
 name: "Michael Henne"
 slug: "michael-henne"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.cleveland.com/open/2017/11/state_rep_michael_henne_was_or.html"

@@ -8,8 +8,7 @@ crimes:
   - "Kidnapping"
   - "Rape"
   - "Sexual Abuse"
-tags:
-  - "Party Member"
+tags: []
 sources:
   - "https://www.deseret.com/2012/11/24/20510270/rape-suspect-greg-peterson-unapologetic-in-suicide-note"
 ---

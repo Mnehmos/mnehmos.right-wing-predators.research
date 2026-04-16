@@ -7,8 +7,7 @@ crimes:
   - "Kidnapping"
   - "Rape"
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Ted_Bundy"
 ---

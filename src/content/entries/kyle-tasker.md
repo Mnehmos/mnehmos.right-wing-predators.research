@@ -2,10 +2,9 @@
 name: "Kyle Tasker"
 slug: "kyle-tasker"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.concordmonitor.com/Kyle-Tasker-pleads-guilty-to-drugs-sex-solicitation-charges-9680339"

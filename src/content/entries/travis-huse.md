@@ -2,12 +2,11 @@
 name: "Travis Huse"
 slug: "travis-huse"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://deadstate.org/father-and-son-christian-pastors-arrested-and-charged-with-sexual-assault-on-a-child/"
 ---

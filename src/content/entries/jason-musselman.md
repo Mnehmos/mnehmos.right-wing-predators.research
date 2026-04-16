@@ -3,8 +3,8 @@ name: "Jason Musselman"
 slug: "jason-musselman"
 positions: []
 crimes:
-  - "child exploitation"
-  - "child pornography"
+  - "Child Exploitation"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://westcentralreporter.com/stories/511109332-toulon-township-2017-consolidated-general-election-results"

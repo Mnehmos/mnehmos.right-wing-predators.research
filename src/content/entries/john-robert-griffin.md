@@ -2,13 +2,11 @@
 name: "John Robert Griffin"
 slug: "john-robert-griffin"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.news-journalonline.com/story/news/courts/2021/08/16/former-erau-professor-pastor-sentenced-20-years-child-porn-case-john-robert-griffin-daytona-beach/8151819002/"

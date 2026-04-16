@@ -3,8 +3,8 @@ name: "Santiago \"Jimmy\" Morales Jr., Baptist Academy dorm director"
 slug: "santiago-jimmy-morales-jr-baptist-academy-dorm-director"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://baptistnews.com/article/academy-employee-charged-with-molesting-student/"

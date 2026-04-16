@@ -2,10 +2,9 @@
 name: "Alejandro Carmona"
 slug: "alejandro-carmona"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.jacksonville.com/story/news/crime/2022/03/16/jacksonville-officer-arrested-snapchat-solicitation-teen-boy/7059276001/"

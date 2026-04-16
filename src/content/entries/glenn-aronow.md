@@ -2,11 +2,10 @@
 name: "Glenn Aronow"
 slug: "glenn-aronow"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.niagara-gazette.com/news/local_news/harassment-suit-settled/article_d40e4c94-b6d4-5b2e-b464-5c75908b2fa8.html"

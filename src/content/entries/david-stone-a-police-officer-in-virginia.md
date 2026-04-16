@@ -2,11 +2,10 @@
 name: "David Stone, a police officer in Virginia"
 slug: "david-stone-a-police-officer-in-virginia"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child exploitation"
-tags:
-  - "law enforcement"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://www.nbc12.com/2023/01/27/richmond-police-officer-charged-with-possession-child-pornography/"
 ---

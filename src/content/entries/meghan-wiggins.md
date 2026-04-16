@@ -2,11 +2,10 @@
 name: "Meghan Wiggins"
 slug: "meghan-wiggins"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags:
-  - "activist"
   - "republican"
 sources:
   - "https://www.burnetbulletin.com/articles/2019/08/22/boys-home-operators-indicted-human-trafficking"

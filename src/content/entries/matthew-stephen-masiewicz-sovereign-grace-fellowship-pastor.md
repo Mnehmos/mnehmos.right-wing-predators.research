@@ -2,12 +2,11 @@
 name: "Matthew Stephen Masiewicz, Sovereign Grace Fellowship pastor"
 slug: "matthew-stephen-masiewicz-sovereign-grace-fellowship-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child exploitation"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Exploitation"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.idahopress.com/news/local/nampa-pastor-arrested-for-alleged-sexual-exploitation-of-a-child/article_0e5cf052-079a-4897-82ca-9248dd27602f.amp.html"
 ---

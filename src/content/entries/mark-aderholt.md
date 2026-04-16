@@ -3,8 +3,8 @@ name: "Mark Aderholt"
 slug: "mark-aderholt"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://www.baptistpress.com/resource-library/news/mark-aderholt-pleads-guilty-in-sex-assault-case/"

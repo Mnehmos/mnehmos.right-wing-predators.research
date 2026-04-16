@@ -4,7 +4,7 @@ slug: "michael-cohen-used-threats-and-money-to-silence-women"
 positions: []
 crimes: []
 tags:
-  - "MAGA"
+  - "maga"
 sources:
   - "http://nymag.com/daily/intelligencer/2018/05/listen-to-michael-cohen-make-unhinged-threats-to-a-reporter.html"
 ---

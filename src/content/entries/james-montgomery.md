@@ -2,12 +2,10 @@
 name: "James Montgomery"
 slug: "james-montgomery"
 positions:
-  - "candidate"
-  - "local official"
+  - "Candidate"
+  - "Local Official"
 crimes: []
-tags:
-  - "candidate"
-  - "local official"
+tags: []
 sources:
   - "https://tylerpaper.com/news/local/athens-mayor-resigns-after-soliciting-minors-arrest/article_3dc8301a-c4df-11eb-9b0a-13054127faca.html"
   - "https://1073kissfmtexas.com/former-mayor-of-athens-tx-guilty-of-federal-child-obscenity-violations/"

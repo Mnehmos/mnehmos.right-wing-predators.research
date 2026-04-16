@@ -3,8 +3,8 @@ name: "James Mason"
 slug: "james-mason"
 positions: []
 crimes:
-  - "child exploitation"
-  - "rape"
+  - "Child Exploitation"
+  - "Rape"
 tags: []
 sources:
   - "https://bridge.georgetown.edu/research/factsheet-james-mason/"

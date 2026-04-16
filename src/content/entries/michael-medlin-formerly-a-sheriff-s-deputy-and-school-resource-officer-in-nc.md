@@ -2,11 +2,10 @@
 name: "Michael Medlin, formerly a sheriff's deputy and school resource officer in NC"
 slug: "michael-medlin-formerly-a-sheriff-s-deputy-and-school-resource-officer-in-nc"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-tags:
-  - "law enforcement"
+  - "Assault"
+tags: []
 sources:
   - "https://www.wral.com/news/local/former-deputy-wife-guilty-grooming-johnston-co-student-august-2025/"
 ---

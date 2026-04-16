@@ -2,13 +2,12 @@
 name: "Christopher Schroder, Cincinnati police officer"
 slug: "christopher-schroder-cincinnati-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-  - "rape"
-  - "sexual assault"
-tags:
-  - "law enforcement"
+  - "Assault"
+  - "Rape"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.wcpo.com/news/local-news/i-team/ex-cincinnati-officer-pleads-guilty-to-dereliction-of-duty-for-failing-to-properly-investigate-sex-crimes"
 ---

@@ -2,11 +2,10 @@
 name: "Donald Lee Flanery, Jamie Flanery's"
 slug: "donald-lee-flanery-jamie-flanery-s"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://caselaw.findlaw.com/court/ar-supreme-court/1477019.html"
 ---

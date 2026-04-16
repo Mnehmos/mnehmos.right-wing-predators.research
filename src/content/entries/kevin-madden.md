@@ -2,10 +2,9 @@
 name: "Kevin Madden"
 slug: "kevin-madden"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.riverfronttimes.com/news/when-federal-investigators-busted-jeffrey-greenwell-outside-st-louis-they-"
 ---

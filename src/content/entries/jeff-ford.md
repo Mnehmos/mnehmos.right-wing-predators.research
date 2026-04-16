@@ -3,7 +3,7 @@ name: "Jeff Ford"
 slug: "jeff-ford"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://religionnews.com/2022/04/04/willy-rice-sbc-pastor-says-it-was-a-mistake-to-ordain-deacon-turned-desantis-faith-advisor-with-abuse-history/"

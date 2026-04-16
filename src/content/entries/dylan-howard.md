@@ -2,11 +2,10 @@
 name: "Dylan Howard"
 slug: "dylan-howard"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "activist"
   - "republican"
 sources:
   - "https://www.hollywoodreporter.com/news/national-enquirer-editor-dylan-howard-accused-harassment-sexual-misconduct-1064604"

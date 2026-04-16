@@ -2,12 +2,10 @@
 name: "Mike Maroney, W VA"
 slug: "mike-maroney-w-va"
 positions:
-  - "judge"
-  - "state legislator"
+  - "Judge"
+  - "State Legislator"
 crimes: []
-tags:
-  - "judge"
-  - "state legislator"
+tags: []
 sources:
   - "https://www.theintelligencer.net/znewsletter-sunday/2025/03/magistrate-rejects-plea-agreement-in-case-of-former-state-sen-dr-mike-maroney-2/"
 ---

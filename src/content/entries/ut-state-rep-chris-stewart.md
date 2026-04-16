@@ -5,9 +5,7 @@ positions:
   - "Party Official"
   - "State Legislator"
 crimes: []
-tags:
-  - "Party Official"
-  - "State Legislator"
+tags: []
 sources:
   - "http://www.kunt.com/post/new/senator-chris-stewart-inappropriate-comments-about-teenagers/"
 ---

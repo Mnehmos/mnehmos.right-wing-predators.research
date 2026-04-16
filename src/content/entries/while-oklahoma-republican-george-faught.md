@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Rape"
 tags:
-  - "Party Member"
-  - "Republican"
-  - "State Legislator"
+  - "republican"
 sources:
   - "https://www.independent.co.uk/news/world/americas/republican-george-faught-rape-incest-gods-will-oklahoma-house-representatives-lord-circumstances-a7645061.html"
 ---

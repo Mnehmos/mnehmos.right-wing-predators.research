@@ -6,9 +6,7 @@ positions:
   - "State Legislator"
 crimes:
   - "Sexual Harassment"
-tags:
-  - "Party Official"
-  - "State Legislator"
+tags: []
 sources:
   - "https://www.ksfy.com/content/news/South-Dakota-State-Representative-Mathew-Wollmann-resigns-411526955.html"
 ---

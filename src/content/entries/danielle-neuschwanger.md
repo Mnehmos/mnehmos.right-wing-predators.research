@@ -2,19 +2,15 @@
 name: "Danielle Neuschwanger"
 slug: "danielle-neuschwanger"
 positions:
-  - "candidate"
-  - "governor"
-  - "law enforcement"
-  - "party official"
+  - "Candidate"
+  - "Governor"
+  - "Law Enforcement"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "sexual abuse"
-  - "violence"
+  - "Domestic Violence"
+  - "Sexual Abuse"
+  - "Violence"
 tags:
-  - "candidate"
-  - "governor"
-  - "law enforcement"
-  - "party official"
   - "republican"
 sources:
   - "https://coloradosun.com/2022/03/31/danielle-neuschwanger-arrest-record-details"

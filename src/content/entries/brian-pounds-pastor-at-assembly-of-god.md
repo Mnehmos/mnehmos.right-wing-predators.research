@@ -2,11 +2,10 @@
 name: "Brian Pounds, pastor at Assembly of God"
 slug: "brian-pounds-pastor-at-assembly-of-god"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.star-telegram.com/news/nation-world/national/article252907653.html"
 ---

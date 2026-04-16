@@ -2,11 +2,10 @@
 name: "Luke Bowen of Texas Right-to-Life"
 slug: "luke-bowen-of-texas-right-to-life"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://jessica.substack.com/p/anti-choice-leader-arrested-for-solicitation"

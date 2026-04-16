@@ -2,12 +2,11 @@
 name: "Mark Rivera"
 slug: "mark-rivera"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://religionnews.com/2023/04/12/mark-rivera-pleads-guilty-to-felony-sexual-assault-sentenced-to-6-more-years/"
 ---

@@ -2,20 +2,17 @@
 name: "Kevin Coan"
 slug: "kevin-coan"
 positions:
-  - "Election board official"
-  - "Government official"
-  - "Party member"
+  - "Election Board Official"
+  - "Government Official"
+  - "Party Member"
 crimes:
-  - "Child sexual exploitation"
-  - "Internet solicitation of a minor"
+  - "Child Sexual Exploitation"
+  - "Internet Solicitation Of A Minor"
 tags:
-  - "Election board official"
-  - "Government official"
-  - "Party member"
-  - "Republican"
-  - "St. Louis"
+  - "republican"
+  - "st. louis"
   - "2004"
-  - "Internet predation"
+  - "internet predation"
 sources:
   - "https://news.stlpublicradio.org/other/2004-07-19/former-st-louis-election-official-pleads-guilty-in-sex-case"
   - "https://www.stltoday.com/news/archives"

@@ -2,13 +2,13 @@
 name: "Robert Bauman"
 slug: "robert-bauman"
 positions:
-  - "Congressman (MD-1)"
+  - "US Representative"
 crimes:
-  - "Sexual abuse"
-  - "Child exploitation"
+  - "Sexual Abuse"
+  - "Child Exploitation"
 tags:
-  - "Congress"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Robert_Bauman"
 ---

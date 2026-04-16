@@ -2,14 +2,12 @@
 name: "Dan Rodimer"
 slug: "dan-rodimer"
 positions:
-  - "candidate"
-  - "congress"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Official"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://www.nytimes.com/2024/03/08/us/politics/ex-gop-candidate-dan-rodimer-murder.html"

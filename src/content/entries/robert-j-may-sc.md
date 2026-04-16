@@ -2,12 +2,11 @@
 name: "Robert J. May, SC"
 slug: "robert-j-may-sc"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "state legislator"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://apnews.com/article/sex-crimes-south-carolina-lawmaker-rj-may-81901be6f700f24a99ba3346086f8b61"
 ---

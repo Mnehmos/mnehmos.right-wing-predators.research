@@ -2,15 +2,13 @@
 name: "Jonathan Newell"
 slug: "jonathan-newell"
 positions:
-  - "congress"
-  - "judge"
-  - "party member"
+  - "US Representative"
+  - "Judge"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
   - "congress"
-  - "judge"
-  - "party member"
   - "republican"
 sources:
   - "https://www.baltimoresun.com/news/crime/bs-md-cr-judge-newell-caroline-county-20210910-i45tq5k6hjawfmcrjne3hiv4ry-story.html"

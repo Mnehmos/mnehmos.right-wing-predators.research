@@ -3,7 +3,7 @@ name: "Col Allan"
 slug: "col-allan"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.thedailybeast.com/ex-editor-michelle-gotthelf-sues-new-york-post-for-years-of-sex-based-harassment-and-abuse?ref=home"

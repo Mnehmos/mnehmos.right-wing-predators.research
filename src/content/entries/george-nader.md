@@ -3,7 +3,7 @@ name: "George Nader"
 slug: "george-nader"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
   - "maga"
 sources:

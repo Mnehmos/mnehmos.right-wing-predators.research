@@ -2,17 +2,16 @@
 name: "Jarl Judson Rockhill"
 slug: "jarl-judson-rockhill"
 positions:
-  - "neo-Nazi"
-  - "extremist"
+  - "White Nationalist"
+  - "Extremist"
 crimes:
-  - "sexual abuse"
-  - "felon in possession of weapon"
-  - "hate crime"
+  - "Sexual Abuse"
+  - "Felon In Possession Of Weapon"
+  - "Hate Crime"
 tags:
   - "white supremacist"
   - "hate crime"
   - "sex offender"
-  - "extremist"
 sources:
   - "https://pamplinmedia.com/lor/48-news/990-police-blotter"
   - "https://www.mcda.us/index.php/news/da-mike-schmidt-announces-arraignment-of-jarl-rockhill-for-second-degree-bias"

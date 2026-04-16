@@ -2,15 +2,12 @@
 name: "Hamilton Police Chief Tony Yocham"
 slug: "hamilton-police-chief-tony-yocham"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.star-telegram.com/news/local/crime/article245757045.html"

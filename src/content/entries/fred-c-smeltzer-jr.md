@@ -2,16 +2,15 @@
 name: "Fred C. Smeltzer, Jr."
 slug: "fred-c-smeltzer-jr"
 positions:
-  - "Government official"
-  - "Fire chief"
+  - "Government Official"
+  - "Fire Chief"
 crimes:
   - "Rape"
-  - "Sexual assault"
-  - "Contributing to delinquency of minor"
+  - "Sexual Assault"
+  - "Contributing To Delinquency Of Minor"
 tags:
-  - "Government official"
-  - "Republican"
-  - "Delaware"
+  - "republican"
+  - "delaware"
 sources:
   - "https://www.wgal.com/article/council-accepts-resignation-of-member-imprisoned-for-rape/6189408"
 ---

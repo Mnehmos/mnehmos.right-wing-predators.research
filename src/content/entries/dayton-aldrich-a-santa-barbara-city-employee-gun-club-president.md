@@ -2,11 +2,10 @@
 name: "Dayton Aldrich, a Santa Barbara city employee, gun club president"
 slug: "dayton-aldrich-a-santa-barbara-city-employee-gun-club-president"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.independent.com/2025/08/20/santa-barbara-city-employee-arrested-on-drug-gun-and-child-pornography-charges/"
 ---

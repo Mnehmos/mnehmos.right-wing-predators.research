@@ -3,8 +3,8 @@ name: "Nick Fountain, MontCo. township supervisor and day care operator"
 slug: "nick-fountain-montco-township-supervisor-and-day-care-operator"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/montco-township-supervisor-arrested-for-soliciting-child-pornography-sexual-solicitation-of-a-minor/article_19ed0804-31fc-4073-845d-9501dc43d213.html"

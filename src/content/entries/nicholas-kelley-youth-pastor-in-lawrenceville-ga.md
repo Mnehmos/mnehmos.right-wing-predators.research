@@ -2,11 +2,10 @@
 name: "Nicholas Kelley, youth pastor in Lawrenceville GA"
 slug: "nicholas-kelley-youth-pastor-in-lawrenceville-ga"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.11alive.com/article/news/crime/youth-pastor-admits-to-inappropriate-physical-interactions-with-14-year-old-girl/85-379637889"
 ---

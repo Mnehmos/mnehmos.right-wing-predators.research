@@ -2,11 +2,10 @@
 name: "Dick Donovan"
 slug: "dick-donovan"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.usnews.com/news/best-states/georgia/articles/2021-02-17/da-indicted-for-bribery-linked-to-sexual-harassment-claims"

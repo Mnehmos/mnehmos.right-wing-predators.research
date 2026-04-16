@@ -2,9 +2,9 @@
 name: "NC Greg Murphy"
 slug: "nc-greg-murphy"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "congress"
 sources:

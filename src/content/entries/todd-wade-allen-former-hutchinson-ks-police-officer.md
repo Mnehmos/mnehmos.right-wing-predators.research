@@ -2,10 +2,9 @@
 name: "Todd Wade Allen, former Hutchinson, KS, police officer"
 slug: "todd-wade-allen-former-hutchinson-ks-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.hutchnews.com/story/news/crime/2023/04/10/former-hutchinson-police-officer-pleads-guilty-to-sex-crimes-in-court/70096601007/"
 ---

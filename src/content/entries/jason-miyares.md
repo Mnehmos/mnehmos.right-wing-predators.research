@@ -2,10 +2,9 @@
 name: "Jason Miyares"
 slug: "jason-miyares"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://americanindependent.com/jason-miyares-virginia-attorney-general-dustin-amos-plea-deal/"

@@ -2,12 +2,11 @@
 name: "John Fickas"
 slug: "john-fickas"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "rape"
-  - "child molestation"
+  - "Rape"
+  - "Child Molestation"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://voicesofmontereybay.org/2019/07/25/salinas-rape-case-spills-over-into-politics/"

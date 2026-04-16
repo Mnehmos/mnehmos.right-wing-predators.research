@@ -3,7 +3,7 @@ name: "Felicia Killings"
 slug: "felicia-killings"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://patch.com/california/suisuncity/former-teacher-get-30-days-for-sex-with-student"

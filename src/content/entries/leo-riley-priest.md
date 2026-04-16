@@ -2,11 +2,10 @@
 name: "Leo Riley, priest"
 slug: "leo-riley-priest"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.kcrg.com/2024/05/21/former-dubuque-priest-accused-sexual-abuse-bonds-out-jail/"
   - "https://www.mysuncoast.com/2024/05/21/suncoast-priest-bonds-out-iowa-jail/"

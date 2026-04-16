@@ -2,13 +2,11 @@
 name: "Fabian Shepard"
 slug: "fabian-shepard"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.kansascity.com/news/politics-government/article254832752.html"

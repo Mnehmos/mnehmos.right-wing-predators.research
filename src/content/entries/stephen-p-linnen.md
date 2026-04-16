@@ -9,10 +9,8 @@ crimes:
   - "Sexual Imposition"
   - "Public Indecency"
 tags:
-  - "Government Official"
-  - "Attorney"
-  - "Republican"
-  - "Ohio"
+  - "republican"
+  - "ohio"
 sources:
   - "https://t.co/Q5JCjHkBYh"
 ---

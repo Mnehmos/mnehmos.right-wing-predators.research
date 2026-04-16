@@ -2,14 +2,12 @@
 name: "Matthew Smith"
 slug: "matthew-smith"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
-  - "violence"
+  - "Sexual Harassment"
+  - "Violence"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://detroit.cbslocal.com/2021/11/22/genesee-county-republican-party-chairman-pleads-guilty-to-harassing-call/"

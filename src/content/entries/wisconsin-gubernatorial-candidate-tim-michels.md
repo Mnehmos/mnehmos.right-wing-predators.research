@@ -2,13 +2,12 @@
 name: "Wisconsin gubernatorial candidate Tim Michels"
 slug: "wisconsin-gubernatorial-candidate-tim-michels"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "assault"
-  - "sexual assault"
-  - "sexual harassment"
-tags:
-  - "candidate"
+  - "Assault"
+  - "Sexual Assault"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.cbs58.com/news/gop-governor-candidate-michels-construction-company-faced-series-of-sexual-harassment-racial-discrimination-allegations"
 ---

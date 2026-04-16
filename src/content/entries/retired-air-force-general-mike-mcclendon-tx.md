@@ -3,7 +3,7 @@ name: "Retired Air Force General Mike McClendon (TX)"
 slug: "retired-air-force-general-mike-mcclendon-tx"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.yahoo.com/news/former-us-air-force-general-charged-continuous-rape-child-14-000000000.html"

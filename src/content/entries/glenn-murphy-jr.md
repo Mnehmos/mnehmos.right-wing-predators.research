@@ -6,9 +6,8 @@ positions:
 crimes:
   - "Sexual Assault"
 tags:
-  - "Party Official"
-  - "Republican"
-  - "Registered Sex Offender"
+  - "republican"
+  - "registered sex offender"
 sources:
   - "https://t.co/orCe48HdFe"
 ---

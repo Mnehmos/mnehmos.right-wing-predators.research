@@ -5,8 +5,7 @@ positions:
   - "Party Official"
 crimes:
   - "Sexual Harassment"
-tags:
-  - "Party Official"
+tags: []
 sources:
   - "https://www.standard.co.uk/news/crime/former-us-republican-party-consultant-groped-woman-on-plane-to-heathrow-her/"
 ---

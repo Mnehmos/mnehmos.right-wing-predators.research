@@ -5,11 +5,10 @@ positions:
   - "Business Owner"
 crimes:
   - "Child Sexual Exploitation"
-  - "Prostitution of Minors"
+  - "Prostitution Of Minors"
   - "Statutory Rape"
 tags:
-  - "Business Owner"
-  - "Child Exploitation"
+  - "child exploitation"
 sources:
   - "https://consumerist.com/2008/01/31/family-friendly-movie-censors-were-running-porn-business/"
 ---

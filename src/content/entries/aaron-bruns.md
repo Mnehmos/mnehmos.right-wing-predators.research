@@ -3,7 +3,7 @@ name: "Aaron Bruns"
 slug: "aaron-bruns"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.washingtonexaminer.com/fox-news-producer-gets-10-years-for-child-porn"

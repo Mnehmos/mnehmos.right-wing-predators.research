@@ -2,15 +2,13 @@
 name: "Carl DeMaio, San Diego city council member"
 slug: "carl-demaio-san-diego-city-council-member"
 positions:
-  - "candidate"
-  - "congress"
-  - "local official"
+  - "Candidate"
+  - "US Representative"
+  - "Local Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "congress"
-  - "local official"
 sources:
   - "https://slate.com/news-and-politics/2014/11/carl-demaio-sexual-harassment-second-former-staffer-makes-allegations.html"
 ---

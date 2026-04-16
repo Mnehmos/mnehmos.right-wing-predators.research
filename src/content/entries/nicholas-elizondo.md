@@ -2,13 +2,12 @@
 name: "Nicholas Elizondo"
 slug: "nicholas-elizondo"
 positions:
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Child sexual abuse"
-  - "Child molestation"
+  - "Child Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Party official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://kfor.com/news/convicted-sex-offender-gets-sole-custody-of-6-year-old-daughter/"
 ---

@@ -2,12 +2,10 @@
 name: "Barry Fike, Christian school teacher and former pastor"
 slug: "barry-fike-christian-school-teacher-and-former-pastor"
 positions:
-  - "educator"
-  - "religious leader"
+  - "Educator"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "educator"
-  - "religious leader"
+tags: []
 sources:
   - "https://www.cbsnews.com/losangeles/news/ventura-county-minister-pleads-guilty-to-online-sex-crimes-with-a-child/"
 ---

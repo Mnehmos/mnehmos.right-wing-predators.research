@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Judge"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Alex_Kozinski"
 ---

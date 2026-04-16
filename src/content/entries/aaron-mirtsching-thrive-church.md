@@ -2,14 +2,12 @@
 name: "Aaron Mirtsching, Thrive Church"
 slug: "aaron-mirtsching-thrive-church"
 positions:
-  - "educator"
-  - "religious leader"
+  - "Educator"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "educator"
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://local12.com/news/nation-world/kindergarten-teacher-youth-pastor-arrested-twice-child-sex-crimes-aaron-mirtsching-church-sexual-exploitation-minor-abuse-child-pornography-indecent-liberties-burke-county-north-carolinaAnd"
   - "https://whky.com/suspect-facing-numerous-sex-related-charges-indicted-on-additional-count/Some"

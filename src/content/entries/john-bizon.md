@@ -2,11 +2,10 @@
 name: "John Bizon"
 slug: "john-bizon"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.lansingstatejournal.com/story/news/2021/11/15/mi-sen-john-bizon-facing-assault-charges-after-incident-nurse/6344182001/"

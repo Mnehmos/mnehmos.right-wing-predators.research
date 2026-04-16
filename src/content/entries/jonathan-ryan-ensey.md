@@ -2,11 +2,10 @@
 name: "Jonathan Ryan Ensey"
 slug: "jonathan-ryan-ensey"
 positions:
-  - "music director"
-  - "church leader"
+  - "Religious Leader"
 crimes:
-  - "child sexual abuse"
-  - "online solicitation"
+  - "Child Sexual Abuse"
+  - "Online Solicitation"
 tags:
   - "church abuse"
   - "child abuse"

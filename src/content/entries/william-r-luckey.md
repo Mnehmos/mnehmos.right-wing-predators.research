@@ -3,7 +3,7 @@ name: "William R. Luckey"
 slug: "william-r-luckey"
 positions: []
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags: []
 sources:
   - "https://royalexaminer.com/christendom-college-professor-emeritus-arrested-on-child-sex-abuse-charges/"

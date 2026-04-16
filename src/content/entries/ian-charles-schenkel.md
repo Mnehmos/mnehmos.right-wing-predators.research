@@ -3,8 +3,8 @@ name: "Ian Charles Schenkel"
 slug: "ian-charles-schenkel"
 positions: []
 crimes:
-  - "prostitution"
-  - "rape"
+  - "Prostitution"
+  - "Rape"
 tags:
   - "maga"
 sources:

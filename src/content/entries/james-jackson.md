@@ -2,11 +2,10 @@
 name: "James Jackson"
 slug: "james-jackson"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.registercitizen.com/news/article/Affidavit-Priest-possessed-hundreds-of-child-16591921.php"
   - "https://www.bostonglobe.com/2023/06/08/metro/ri-priest-pleads-guilty-charge-receipt-child-pornography/"

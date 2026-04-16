@@ -8,10 +8,10 @@ crimes:
   - "Sexual Assault"
   - "Rape"
 tags:
-  - "Party Official"
-  - "State Legislator"
+  - "state legislator"
 sources:
   - "https://www.ctpost.com/local/article/State-GOP-treasurer-resigns-over-child-7213551.php"
+  - "https://www.ctpost.com/local/article/State-GOP-treasurer-resigns-over-child-721351.php"
 ---
 
 ## Overview

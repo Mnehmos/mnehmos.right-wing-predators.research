@@ -2,11 +2,10 @@
 name: "Gail Priest, co-founder of 99+1 Foundation, an OK foster care advocacy organization"
 slug: "gail-priest-co-founder-of-99-1-foundation-an-ok-foster-care-advocacy-organization"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://ktul.com/news/local/foster-care-advocate-arrested-on-charges-of-child-abuse-and-neglect-osbi-investigates-oklahoma-ada-foundation-99-1-website-human-services-rosario-chico-gail-priest"
 ---

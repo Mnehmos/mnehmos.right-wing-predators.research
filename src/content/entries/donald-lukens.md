@@ -2,13 +2,13 @@
 name: "Donald Lukens"
 slug: "donald-lukens"
 positions:
-  - "Congressman (OH-8)"
+  - "US Representative"
 crimes:
-  - "Sexual abuse"
-  - "Child exploitation"
+  - "Sexual Abuse"
+  - "Child Exploitation"
 tags:
-  - "Congress"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://www.npr.org/sections/politicaljunkie/2009/05/on_this_day_in_1989_buz_lukens.html"
 ---

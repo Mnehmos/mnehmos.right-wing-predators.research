@@ -2,13 +2,11 @@
 name: "Aaron Craig Gleason, hatemongering writer for The Federalist"
 slug: "aaron-craig-gleason-hatemongering-writer-for-the-federalist"
 positions:
-  - "coach"
-  - "educator"
+  - "Coach"
+  - "Educator"
 crimes:
-  - "prostitution"
-tags:
-  - "coach"
-  - "educator"
+  - "Prostitution"
+tags: []
 sources:
   - "https://www.lgbtqnation.com/2025/02/conservative-writer-who-accused-drag-queens-of-grooming-kids-arrested-for-child-molestation/"
 ---

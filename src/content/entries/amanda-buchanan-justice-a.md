@@ -2,11 +2,10 @@
 name: "Amanda Buchanan Justice, a"
 slug: "amanda-buchanan-justice-a"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.yahoo.com/lifestyle/35-old-former-church-youth-"
 ---

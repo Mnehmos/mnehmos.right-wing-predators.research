@@ -2,14 +2,12 @@
 name: "Harry Thomas"
 slug: "harry-thomas"
 positions:
-  - "religious leader"
-  - "activist"
+  - "Religious Leader"
+  - "Activist"
 crimes:
-  - "rape"
-  - "child molestation"
+  - "Rape"
+  - "Child Molestation"
 tags:
-  - "religious leader"
-  - "activist"
   - "republican"
 sources:
   - "https://www.christianpost.com/amp/creation-festival-co-founder-sentenced-to-18-years-for-child-sex-abuse-i-deserve-to-be-cast-into-sea-226484/"

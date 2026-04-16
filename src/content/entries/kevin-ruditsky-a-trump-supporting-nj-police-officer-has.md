@@ -2,10 +2,9 @@
 name: "Kevin Ruditsky, a Trump-supporting NJ police officer, has"
 slug: "kevin-ruditsky-a-trump-supporting-nj-police-officer-has"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
 tags:
-  - "law enforcement"
   - "maga"
 sources:
   - "https://twitter.com/darafaye/status/1697669033691320786?s=20"

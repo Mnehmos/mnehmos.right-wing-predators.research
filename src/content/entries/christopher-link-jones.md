@@ -3,7 +3,7 @@ name: "Christopher Link Jones"
 slug: "christopher-link-jones"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.yahoo.com/lifestyle/creationist-theme-park-pal-charged-213139997.html"

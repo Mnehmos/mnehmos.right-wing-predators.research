@@ -2,12 +2,10 @@
 name: "Kyle Hayden Lewter"
 slug: "kyle-hayden-lewter"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes: []
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.msn.com/en-us/news/crime/gop-political-staffer-allegedly-murdered-family-man-in-altercation-that-ended-in-victims-death/ar-BB1jEBad"

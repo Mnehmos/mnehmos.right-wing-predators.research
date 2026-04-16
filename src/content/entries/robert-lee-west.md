@@ -2,13 +2,13 @@
 name: "Robert Lee West"
 slug: "robert-lee-west"
 positions:
-  - "law enforcement"
-  - "extremist"
+  - "Law Enforcement"
+  - "Extremist"
 crimes:
-  - "rape"
-  - "mayhem"
+  - "Rape"
+  - "Mayhem"
 tags:
-  - "Patriot Prayer"
+  - "patriot prayer"
   - "vigilantism"
   - "doxxing"
 sources:

@@ -2,17 +2,14 @@
 name: "Bud Marty May"
 slug: "bud-marty-may"
 positions:
-  - "candidate"
-  - "congress"
-  - "law enforcement"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Law Enforcement"
+  - "Party Official"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "candidate"
   - "congress"
-  - "law enforcement"
-  - "party official"
   - "republican"
 sources:
   - "https://www.argusleader.com/story/news/crime/2022/11/16/states-attorney-failed-sd-house-candidate-allegedly-raped-woman-in-bar-bathroom/69653519007/Charges"

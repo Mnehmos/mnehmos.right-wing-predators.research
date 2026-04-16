@@ -2,10 +2,9 @@
 name: "Scott Finkbeiner, Hot Springs County Sheriff in Ark."
 slug: "scott-finkbeiner-hot-springs-county-sheriff-in-ark"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://arktimes.com/arkansas-blog/2025/02/14/hot-spring-county-sheriff-pleads-guilty-to-felony-will-resign-from-office"
 ---

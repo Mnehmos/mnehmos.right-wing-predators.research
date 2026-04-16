@@ -2,16 +2,15 @@
 name: "Cory Mills, a Florida Congressman"
 slug: "cory-mills-a-florida-congressman"
 positions:
-  - "congress"
-  - "law enforcement"
+  - "US Representative"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-  - "domestic violence"
-  - "sexual harassment"
-  - "violence"
+  - "Assault"
+  - "Domestic Violence"
+  - "Sexual Harassment"
+  - "Violence"
 tags:
   - "congress"
-  - "law enforcement"
 sources:
   - "https://www.dropsitenews.com/p/miss-united-states-lindsey-langston-files-restraining-order-rep-cory-mills"
 ---

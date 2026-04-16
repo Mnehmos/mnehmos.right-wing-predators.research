@@ -2,12 +2,11 @@
 name: "James Manning"
 slug: "james-manning"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "child abuse"
+  - "Assault"
+  - "Child Abuse"
 tags:
-  - "religious leader"
   - "republican"
   - "maga"
 sources:

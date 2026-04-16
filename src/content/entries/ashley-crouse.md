@@ -2,11 +2,10 @@
 name: "Ashley Crouse"
 slug: "ashley-crouse"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wsoctv.com/news/local/caldwell-county-pastor-charged-with-sex-crimes-against-children-deputies-say/2NXRB6VE7RAMJFF4AWMPHIUX4I/"
 ---

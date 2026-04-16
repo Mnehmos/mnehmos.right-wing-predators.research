@@ -2,11 +2,10 @@
 name: "Robert Murray"
 slug: "robert-murray"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://youtu.be/UN8bJb8biZU"

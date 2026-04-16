@@ -2,15 +2,12 @@
 name: "Christian Ziegler"
 slug: "christian-ziegler"
 positions:
-  - "law enforcement"
-  - "party member"
-  - "party official"
+  - "Law Enforcement"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "law enforcement"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.nbcnews.com/politics/2024-election/police-wont-charge-ex-florida-gop-chair-sexual-battery-forward-voyeuri-rcna134819"

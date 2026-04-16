@@ -2,11 +2,10 @@
 name: "Daniel Savala, former"
 slug: "daniel-savala-former"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.click2houston.com/news/local/2023/07/03/2-ministers-one-with-ties-to-baylor-university-accused-of-forcing-kids-to-perform-sex-acts-in-sauna-at-houston-home/"
   - "https://ministrywatch.com/leader-of-church-connected-to-chi-alpha-scandal-charged-with-abusing-minor/"

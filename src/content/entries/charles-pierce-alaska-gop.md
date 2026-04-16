@@ -2,17 +2,13 @@
 name: "Charles Pierce, Alaska GOP"
 slug: "charles-pierce-alaska-gop"
 positions:
-  - "candidate"
-  - "governor"
-  - "local official"
-  - "party official"
+  - "Candidate"
+  - "Governor"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "governor"
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://www.adn.com/politics/2022/10/21/in-lawsuit-former-assistant-accuses-alaska-governor-candidate-charlie-pierce-of-sexual-harassment/"

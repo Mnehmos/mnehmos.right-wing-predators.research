@@ -2,10 +2,9 @@
 name: "Matthew Porter, former youth pastor at Bethel Baptist Church in Bradenton, FL"
 slug: "matthew-porter-former-youth-pastor-at-bethel-baptist-church-in-bradenton-fl"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.heraldtribune.com/story/news/2008/08/22/ex-pastor-given-jail-for-videos/28656404007/"
 ---

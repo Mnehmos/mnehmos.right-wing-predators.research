@@ -2,11 +2,10 @@
 name: "John Lowe"
 slug: "john-lowe"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://onlysky.media/hemant-mehta/church-embraces-pastor-who-admits-to-affair-despite-victim-saying-she-was-16/"
 ---

@@ -2,11 +2,10 @@
 name: "David Wayne Pendley, a Las Vegas religious private school"
 slug: "david-wayne-pendley-a-las-vegas-religious-private-school"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "assault"
-tags:
-  - "educator"
+  - "Assault"
+tags: []
 sources:
   - "https://www.8newsnow.com/news/local-news/ex-las-vegas-school-teacher-accused-of-sexually-assaulting-student-said-"
 ---

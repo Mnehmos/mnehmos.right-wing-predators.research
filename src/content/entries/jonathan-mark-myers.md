@@ -2,10 +2,10 @@
 name: "Jonathan Mark Myers"
 slug: "jonathan-mark-myers"
 positions:
-  - "youth pastor"
+  - "Youth Pastor"
 crimes:
-  - "sexual misconduct with minor"
-  - "child seduction"
+  - "Sexual Misconduct With Minor"
+  - "Child Seduction"
 tags:
   - "church abuse"
   - "child abuse"

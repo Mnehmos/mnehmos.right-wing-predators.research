@@ -2,12 +2,11 @@
 name: "Zachary Joseph Radcliff, CPAC worship leader and Michigan Christian musician"
 slug: "zachary-joseph-radcliff-cpac-worship-leader-and-michigan-christian-musician"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-  - "child exploitation"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+  - "Child Exploitation"
+tags: []
 sources:
   - "https://thesalinepost.com/g/saline-mi/n/276659/local-worship-director-christian-musician-faces-sex-crime-charges"
 ---

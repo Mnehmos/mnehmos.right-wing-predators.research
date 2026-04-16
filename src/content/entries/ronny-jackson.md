@@ -2,9 +2,9 @@
 name: "Ronny Jackson"
 slug: "ronny-jackson"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "congress"
   - "republican"

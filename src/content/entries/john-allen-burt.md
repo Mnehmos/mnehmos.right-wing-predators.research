@@ -3,14 +3,12 @@ name: "John Allen Burt"
 slug: "john-allen-burt"
 positions:
   - "Activist"
-  - "Religious leader"
+  - "Religious Leader"
 crimes:
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Activist"
-  - "Religious leader"
-  - "Republican"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/John_Burt_"
 ---

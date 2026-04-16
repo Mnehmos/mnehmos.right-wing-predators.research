@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "http://articles.latimes.com/1987-10-01/news/mn-11523_1_sexual-harassment"
 ---

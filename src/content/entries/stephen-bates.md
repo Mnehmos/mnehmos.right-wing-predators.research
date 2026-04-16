@@ -2,11 +2,10 @@
 name: "Stephen Bates"
 slug: "stephen-bates"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.nbcboston.com/news/local/nh-pastor-faces-new-charges-investigation-dates-back-over-5-years/2672043/"
 ---

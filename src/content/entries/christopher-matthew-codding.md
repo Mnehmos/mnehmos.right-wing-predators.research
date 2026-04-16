@@ -2,13 +2,12 @@
 name: "Christopher Matthew Codding"
 slug: "christopher-matthew-codding"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
-  - "sodomy"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+  - "Sexual Abuse"
+  - "Sodomy"
+tags: []
 sources:
   - "https://www.northwestgeorgianews.com/rome/news/local/sophisticated-predator-cartersville-youth-pastor-pleads-guilty-to-child-molestation-and-sodomy-charges/article_296bbc8a-0326-11ef-87ee-3f8ebd5f282e.html"
 ---

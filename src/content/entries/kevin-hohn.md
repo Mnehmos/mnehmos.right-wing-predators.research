@@ -2,15 +2,12 @@
 name: "Kevin Hohn"
 slug: "kevin-hohn"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.hernandosun.com/article/kevin-hohn-former-mayor-brooksville-charged-child-exploitationKevin"

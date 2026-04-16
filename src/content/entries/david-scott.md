@@ -3,8 +3,8 @@ name: "David Scott"
 slug: "david-scott"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://www.reuters.com/world/us/head-exxons-shale-oil-business-faces-sexual-assault-charge-texas-2023-10-08/"

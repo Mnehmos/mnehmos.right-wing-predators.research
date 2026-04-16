@@ -2,14 +2,12 @@
 name: "Republicans got rid of Victim's Advocate Jen Storm"
 slug: "republicans-got-rid-of-victim-s-advocate-jen-storm"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-  - "sexual harassment"
+  - "Sexual Abuse"
+  - "Sexual Harassment"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.spotlightpa.org/news/2020/11/pennsylvania-victim-advocate-jennifer-storm-senate-republicans-rejected/"

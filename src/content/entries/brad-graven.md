@@ -2,10 +2,9 @@
 name: "Brad Graven"
 slug: "brad-graven"
 positions:
-  - "judge"
+  - "Judge"
 crimes: []
-tags:
-  - "judge"
+tags: []
 sources:
   - "https://www.ksdk.com/article/news/politics/miller-campaign-volunteer-convicted-luring-young-boy-for-sex/63-e90e0853-6329-4749-a45a-78d053326ce8"
 ---

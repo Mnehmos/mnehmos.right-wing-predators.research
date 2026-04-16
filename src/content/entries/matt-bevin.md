@@ -2,11 +2,10 @@
 name: "Matt Bevin"
 slug: "matt-bevin"
 positions:
-  - "governor"
+  - "Governor"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "governor"
   - "republican"
 sources:
   - "https://www.washingtonpost.com/natio"

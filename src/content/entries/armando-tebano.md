@@ -2,15 +2,13 @@
 name: "Armando Tebano"
 slug: "armando-tebano"
 positions:
-  - "Party official"
-  - "Local official"
-  - "Elections commissioner"
+  - "Party Official"
+  - "Local Official"
+  - "Elections Commissioner"
 crimes:
-  - "Sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "Party official"
-  - "Local official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.bishop-accountability.org/news2008/01_02/Stanforth_SexAbuse.htm"
 ---

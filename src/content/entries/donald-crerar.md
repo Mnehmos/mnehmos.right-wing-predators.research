@@ -3,7 +3,7 @@ name: "Donald Crerar"
 slug: "donald-crerar"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://kgab.com/tags/donald-crerar/"

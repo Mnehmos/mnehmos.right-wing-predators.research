@@ -2,12 +2,11 @@
 name: "Brad Nash"
 slug: "brad-nash"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child molestation"
-  - "sodomy"
-tags:
-  - "local official"
+  - "Child Molestation"
+  - "Sodomy"
+tags: []
 sources:
   - "https://www.ky3.com/2023/12/29/former-salem-mayor-dent-county-fire-chief-emergency-manager-charged-with-sodomy-molestation/"
 ---

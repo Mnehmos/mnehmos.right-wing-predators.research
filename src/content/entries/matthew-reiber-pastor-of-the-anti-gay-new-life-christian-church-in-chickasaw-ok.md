@@ -2,10 +2,9 @@
 name: "Matthew Reiber, pastor of the anti-gay New Life Christian Church in Chickasaw, OK"
 slug: "matthew-reiber-pastor-of-the-anti-gay-new-life-christian-church-in-chickasaw-ok"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://kfor.com/news/local/chickasha-pastor-arrested/"
 ---

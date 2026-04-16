@@ -3,9 +3,9 @@ name: "Ty Burns, OK state rep"
 slug: "ty-burns-ok-state-rep"
 positions: []
 crimes:
-  - "assault"
-  - "sexual abuse"
-  - "violence"
+  - "Assault"
+  - "Sexual Abuse"
+  - "Violence"
 tags: []
 sources:
   - "https://nondoc.com/2025/08/30/rep-ty-burns-resigning-48-hours-after-guilty-pleas/"

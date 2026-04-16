@@ -2,11 +2,10 @@
 name: "Matthew Palmer"
 slug: "matthew-palmer"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.baltimoresun.com/politics/bs-md-pol-mathew-palmer-sentenced-20210511-rgmvvu66nrfitpybisxpleasai-story.html"

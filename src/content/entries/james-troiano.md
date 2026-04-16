@@ -2,11 +2,10 @@
 name: "James Troiano"
 slug: "james-troiano"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
-  - "judge"
   - "republican"
 sources:
   - "https://www.cnn.com/2019/07/03/us/new-jersey-rape-minor-teen-judge-case-trnd/index.html"

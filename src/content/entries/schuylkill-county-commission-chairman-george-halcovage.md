@@ -2,14 +2,12 @@
 name: "Schuylkill County commission Chairman George Halcovage"
 slug: "schuylkill-county-commission-chairman-george-halcovage"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-  - "sexual harassment"
+  - "Sexual Abuse"
+  - "Sexual Harassment"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.pennlive.com/crime/2020/07/pa-county-commissioner-sexually-harassed-and-discriminated-against-employees-internal-probe-finds.html"

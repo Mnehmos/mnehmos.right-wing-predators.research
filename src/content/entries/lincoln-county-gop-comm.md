@@ -7,10 +7,7 @@ positions:
   - "Party Member"
 crimes:
   - "Child Molestation"
-tags:
-  - "Clerk"
-  - "Local Official"
-  - "Party Member"
+tags: []
 sources:
   - "https://www.providencejournal.com/story/news/2019/08/01/new-evidence-causes-ri-to-drop-sex-extortion-charges-against-former-sen-kettle/4538973007/"
 ---

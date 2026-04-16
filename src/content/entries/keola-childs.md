@@ -2,13 +2,12 @@
 name: "Keola Childs"
 slug: "keola-childs"
 positions:
-  - "Local official"
+  - "Local Official"
 crimes:
-  - "Sexual assault"
-  - "Child molestation"
+  - "Sexual Assault"
+  - "Child Molestation"
 tags:
-  - "Local official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://archives.starbulletin.com/2000/07/20/news/briefs.html"
 ---

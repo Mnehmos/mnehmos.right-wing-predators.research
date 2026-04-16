@@ -2,12 +2,11 @@
 name: "Randy Saylor, Associate Pastor at Living Word church"
 slug: "randy-saylor-associate-pastor-at-living-word-church"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.ourmidland.com/news/police_and_courts/article/randy-saylor-scheduled-sex-assault-charges-19467947.php"
 ---

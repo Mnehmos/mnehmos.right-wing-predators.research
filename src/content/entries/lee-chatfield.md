@@ -2,13 +2,12 @@
 name: "Lee Chatfield"
 slug: "lee-chatfield"
 positions:
-  - "congress"
-  - "party member"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.lansingcitypulse.com/stories/chatfield-headline"

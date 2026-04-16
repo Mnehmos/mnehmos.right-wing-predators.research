@@ -2,14 +2,12 @@
 name: "John Randall Hammock"
 slug: "john-randall-hammock"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.alexcityoutlook.com/news/tallassee-mayor-arrested-in-orange-beach/article_8c5910d2-16c7-5296-918b-35c34f7bb525.html"

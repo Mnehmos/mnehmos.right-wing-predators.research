@@ -2,11 +2,10 @@
 name: "Gavin McInnes"
 slug: "gavin-mcinnes"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "activist"
   - "republican"
 sources:
   - "https://www.mediamatters.org/maga-trolls/gavin-mcinnes-women-reporting-sexual-harassment-are-proof-women-dont-belong-workforce"

@@ -2,11 +2,10 @@
 name: "Lawrence Fourkiller, a teacher in Stillwell, OK"
 slug: "lawrence-fourkiller-a-teacher-in-stillwell-ok"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.stilwelldemocrat.com/news/former-stilwell-teacher-indicted-on-federal-child-sexual-abuse-charges/article_ba54ed4c-1c1e-11ee-9ac7-4bd6fe2a23a4.html"
 ---

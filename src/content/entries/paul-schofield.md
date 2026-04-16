@@ -3,7 +3,7 @@ name: "Paul Schofield"
 slug: "paul-schofield"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.justice.gov/usao-wdmo/pr/former-jail-corrections-officer-wife-plead-guilty-child-pornography"

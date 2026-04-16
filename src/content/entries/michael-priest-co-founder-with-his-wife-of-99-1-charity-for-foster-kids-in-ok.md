@@ -2,11 +2,10 @@
 name: "Michael Priest, co-founder with his wife of 99+1 charity for foster kids in OK"
 slug: "michael-priest-co-founder-with-his-wife-of-99-1-charity-for-foster-kids-in-ok"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.msn.com/en-us/news/crime/foster-organization-founder-charged-with-sexual-abuse-of-child/ar-BB1qQGuL"
 ---

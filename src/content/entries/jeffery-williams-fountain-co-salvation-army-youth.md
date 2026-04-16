@@ -2,10 +2,9 @@
 name: "Jeffery Williams = Fountain, CO Salvation Army youth"
 slug: "jeffery-williams-fountain-co-salvation-army-youth"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://krdo.com/news/2022/11/10/fountain-police-arrest-former-youth-pastor-on-unlawful-sexual-communication-charge/Convicted"
   - "https://www.kktv.com/2023/10/18/former-pikes-peak-region-youth-pastor-convicted-sexually-exploiting-child/"

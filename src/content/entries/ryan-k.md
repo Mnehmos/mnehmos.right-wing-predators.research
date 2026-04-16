@@ -2,13 +2,11 @@
 name: "Ryan K"
 slug: "ryan-k"
 positions:
-  - "coach"
-  - "educator"
+  - "Coach"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "coach"
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.swiowanewssource.com/atlantic/news/article_e0bb099a-3d38-11ee-bab4-d3bb6a403a35.html"
 ---

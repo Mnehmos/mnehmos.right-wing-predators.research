@@ -3,7 +3,7 @@ name: "Ryan Fournier"
 slug: "ryan-fournier"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags:
   - "maga"
 sources:

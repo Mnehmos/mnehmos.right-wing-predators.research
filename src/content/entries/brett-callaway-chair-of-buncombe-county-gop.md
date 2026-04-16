@@ -2,13 +2,11 @@
 name: "Brett Callaway, Chair of Buncombe County GOP"
 slug: "brett-callaway-chair-of-buncombe-county-gop"
 positions:
-  - "judge"
-  - "party official"
+  - "Judge"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "judge"
-  - "party official"
   - "republican"
 sources:
   - "http://ashevilledailyplanet.com/news/6694-bcgop-chair-found-guilty-of-assault-on-a-female-school-board-member-no-punishment-meted-out-by-court"

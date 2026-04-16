@@ -2,12 +2,11 @@
 name: "Mike Folmer"
 slug: "mike-folmer"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "child pornography"
-  - "child exploitation"
+  - "Child Pornography"
+  - "Child Exploitation"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.pennlive.com/news/2019/09/pa-senator-resigns-day-after-being-charged-with-possession-child-pornography.html"

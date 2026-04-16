@@ -2,15 +2,13 @@
 name: "Bishop Daniel Paprocki"
 slug: "bishop-daniel-paprocki"
 positions:
-  - "Religious leader"
-  - "Church official"
+  - "Religious Leader"
 crimes:
-  - "Child abuse enablement"
-  - "Obstruction of justice"
-  - "Conspiracy to cover up sexual abuse"
+  - "Child Abuse Enablement"
+  - "Obstruction Of Justice"
+  - "Conspiracy To Cover Up Sexual Abuse"
 tags:
-  - "Religious leader"
-  - "Church official"
+  - "church official"
 sources:
   - "https://www.bishop-accountability.org/news2015/03_04/John_Community_Predator_priests.htm"
 ---

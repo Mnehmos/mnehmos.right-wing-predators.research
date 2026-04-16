@@ -3,16 +3,14 @@ name: "Schaeffer Cox"
 slug: "schaeffer-cox"
 positions:
   - "Candidate"
-  - "Congress"
+  - "US Representative"
   - "Party Official"
 crimes:
   - "Sexual Abuse"
   - "Also Soliciting Murder"
   - "Terrorism"
 tags:
-  - "Candidate"
-  - "Congress"
-  - "Party Official"
+  - "congress"
 sources:
   - "https://psmag.com/environment/the-peacemaker-schaeffer-cox-plot-mass-murder-alaska-77139/"
 ---

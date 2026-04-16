@@ -2,13 +2,11 @@
 name: "Bernd Niels \"Dutch\" Deblouw, a Republican who ran for City Council in Longview, TX"
 slug: "bernd-niels-dutch-deblouw-a-republican-who-ran-for-city-council-in-longview-tx"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.news-journal.com/news/local/former-longview-city-council-candidate-arrested-again/article_1a20ddb0-de28-11ed-8306-937b965cc594.html"

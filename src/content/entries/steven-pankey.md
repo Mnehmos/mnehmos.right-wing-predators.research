@@ -2,13 +2,12 @@
 name: "Steven Pankey"
 slug: "steven-pankey"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "kidnapping"
-  - "murder"
-  - "rape"
+  - "Kidnapping"
+  - "Murder"
+  - "Rape"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://gazette.com/news/courts/steven-pankey-convicted-of-kidnapping-felony-murder-in-jonelle-matthews-1984-disappearance/article_83be8fd8-5055-5b66-859d-3b31713bdcf2.html"

@@ -2,13 +2,12 @@
 name: "Thomas Bruce"
 slug: "thomas-bruce"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "murder"
-  - "rape"
-  - "sexual assault"
+  - "Murder"
+  - "Rape"
+  - "Sexual Assault"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://washingtonpress.com/2018/11/23/a-trump-obsessed-pastor-just-shot-a-woman-dead-and-sodomized-two-others-in-horrific-sex-assault/"

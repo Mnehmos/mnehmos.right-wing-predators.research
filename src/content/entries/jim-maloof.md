@@ -2,13 +2,11 @@
 name: "Jim Maloof"
 slug: "jim-maloof"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.chicagotribune.com/news/ct-xpm-1997-05-28-9705280271-story.html"

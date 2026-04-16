@@ -2,17 +2,13 @@
 name: "Larry Wilcoxson, aide to GOP state Rep. Byron Donalds"
 slug: "larry-wilcoxson-aide-to-gop-state-rep-byron-donalds"
 positions:
-  - "candidate"
-  - "clerk"
-  - "party member"
-  - "party official"
+  - "Candidate"
+  - "Clerk"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "candidate"
-  - "clerk"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://flcga.org/controversy-surrounds-gop-star-rep-byron-donalds-over-heated-confrontations-and-top-advisors-disturbing-arrest-history/"

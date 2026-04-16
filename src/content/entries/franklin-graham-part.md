@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "MAGA"
-  - "Party Official"
+  - "maga"
 sources:
   - "https://www1.cbn.com/cbnnews/2018/september/franklin-graham-on-judge-kavanaugh-accusation-not-relevant"
 ---

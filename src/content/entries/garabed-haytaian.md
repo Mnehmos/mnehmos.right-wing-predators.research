@@ -3,8 +3,8 @@ name: "Garabed Haytaian"
 slug: "garabed-haytaian"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags: []
 sources:
   - "https://www.nj.com/news/2012/09/nj_pays_millions_in_sex_harass.html"

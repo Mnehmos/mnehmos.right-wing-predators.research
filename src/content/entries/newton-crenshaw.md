@@ -2,11 +2,10 @@
 name: "Newton Crenshaw"
 slug: "newton-crenshaw"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://gazette.com/news/more-young-life-victims-allege-sexual-misconduct-involving-colorado-springs-based-christian-ministry/article_96b435b0-4276-11ec-8464-ab500b142c75.html"
 ---

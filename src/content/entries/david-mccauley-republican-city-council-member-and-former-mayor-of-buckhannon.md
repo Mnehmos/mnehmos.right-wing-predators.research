@@ -2,14 +2,12 @@
 name: "David McCauley, Republican city council member and former mayor of Buckhannon"
 slug: "david-mccauley-republican-city-council-member-and-former-mayor-of-buckhannon"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wboy.com/news/crime/former-buckhannon-mayor-indicted-on-federal-child-porn-charges/"

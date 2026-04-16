@@ -2,10 +2,10 @@
 name: "Ricky Schroder"
 slug: "ricky-schroder"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "congress"
 sources:

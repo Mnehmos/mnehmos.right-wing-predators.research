@@ -2,11 +2,10 @@
 name: "Vance Peronto, a state trooper in Alaska"
 slug: "vance-peronto-a-state-trooper-in-alaska"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.webcenterfairbanks.com/2023/03/25/former-alaska-state-trooper-convicted-attempted-abuse-minor/"
 ---

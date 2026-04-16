@@ -2,11 +2,10 @@
 name: "Stephen Arthur Morris"
 slug: "stephen-arthur-morris"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://jocoreport.com/convicted-sex-offender-former-pastor-facing-new-charges/"
 ---

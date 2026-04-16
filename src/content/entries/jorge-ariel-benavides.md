@@ -2,11 +2,10 @@
 name: "Jorge Ariel Benavides"
 slug: "jorge-ariel-benavides"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://lawandcrime.com/crime/texas-pastor-raped-special-needs-woman-on-church-property-threatened-to-have-her-placed-in-a-mental-institution-sheriff/"
   - "https://www.youtube.com/watch?v=iZ4C-Sfv7mE-"

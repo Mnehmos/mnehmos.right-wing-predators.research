@@ -2,11 +2,10 @@
 name: "Randall Hunt"
 slug: "randall-hunt"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "domestic violence"
+  - "Domestic Violence"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.orlandosentinel.com/news/os-ne-randall-hunt-ron-desantis-domestic-violence-20200127-o5mqlyc3kvbohcqkudurkwkjam-story.html"

@@ -2,18 +2,18 @@
 name: "Sean M. Higgins"
 slug: "sean-m-higgins"
 positions:
-  - "youth pastor"
-  - "teacher"
-  - "Baptist"
+  - "Youth Pastor"
+  - "Educator"
+  - "Religious Leader"
 crimes:
-  - "online sexual exploitation of minors"
-  - "endangering welfare of child"
-  - "blackmail"
+  - "Online Sexual Exploitation Of Minors"
+  - "Endangering Welfare Of Child"
+  - "Blackmail"
 tags:
   - "church abuse"
   - "child abuse"
   - "online grooming"
-  - "Baptist"
+  - "baptist"
 sources:
   - "https://6abc.com/new-jersey-youth-pastor-online-sexual-exploitation-sean-higgins-harbor-baptist-church/12144153/"
 ---

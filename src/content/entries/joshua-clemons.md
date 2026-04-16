@@ -2,11 +2,10 @@
 name: "Joshua Clemons"
 slug: "joshua-clemons"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://kdvr.com/news/local/former-youth-pastor-in-parker-charged-with-sexual-abuse-of-3-underage-girls/"
 ---

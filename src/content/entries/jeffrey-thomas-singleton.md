@@ -3,9 +3,9 @@ name: "Jeffrey Thomas Singleton"
 slug: "jeffrey-thomas-singleton"
 positions: []
 crimes:
-  - "child pornography"
-  - "rape"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Rape"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.abcactionnews.com/news/local-news/i-team-investigates/florida-code-enforcement-officer-facing-charges-of-child-porn-and-other-sex-crimes"

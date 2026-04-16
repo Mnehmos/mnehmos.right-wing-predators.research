@@ -2,10 +2,9 @@
 name: "Paul Humphrey"
 slug: "paul-humphrey"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.wthr.com/article/news/crime/impd-officer-charged-sexual-misconduct-with-minor-child-seduction-paul-humphrey-indianapolis/531-749ca8bb-67b9-4fb9-a0e4-4f1b0f7070ab"
 ---

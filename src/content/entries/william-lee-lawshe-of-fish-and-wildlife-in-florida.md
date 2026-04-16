@@ -3,7 +3,7 @@ name: "William Lee Lawshe of Fish and Wildlife in Florida"
 slug: "william-lee-lawshe-of-fish-and-wildlife-in-florida"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.news4jax.com/news/local/2023/04/13/fwc-officer-facing-child-porn-charges-in-st-johns-county/"

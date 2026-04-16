@@ -2,14 +2,13 @@
 name: "Christopher J. Ballard"
 slug: "christopher-j-ballard"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "assault"
-  - "child pornography"
-  - "sexual abuse"
-  - "sexual assault"
-tags:
-  - "educator"
+  - "Assault"
+  - "Child Pornography"
+  - "Sexual Abuse"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.denver7.com/news/crime/former-teacher-at-centennial-christian-school-made-students-record-child-abuse-sex-material-affidavit-says"
   - "https://www.denver7.com/news/local-news/lakewood-man-who-worked-at-centennial-school-arrested-for-sexual-assault-on-a-child"

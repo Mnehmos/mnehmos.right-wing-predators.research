@@ -2,12 +2,10 @@
 name: "Joshua Hageman, a"
 slug: "joshua-hageman-a"
 positions:
-  - "judge"
-  - "law enforcement"
+  - "Judge"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "judge"
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.kake.com/story/49545582/former-wichita-police-officer-pleads-guilty-to-battery-charges-gets-probation"
 ---

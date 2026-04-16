@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.nytimes.com/2017/12/07/us/politics/trent-franks-house-member-resigns.html"
 ---

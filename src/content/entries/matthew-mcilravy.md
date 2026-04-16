@@ -2,13 +2,11 @@
 name: "Matthew McIlravy"
 slug: "matthew-mcilravy"
 positions:
-  - "local official"
-  - "party official"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "prostitution"
-tags:
-  - "local official"
-  - "party official"
+  - "Prostitution"
+tags: []
 sources:
   - "https://amp.star-telegram.com/news/local/crime/article262846268.html"
 ---

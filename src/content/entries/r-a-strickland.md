@@ -2,12 +2,11 @@
 name: "R. A. Strickland"
 slug: "r-a-strickland"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-  - "domestic violence"
+  - "Assault"
+  - "Domestic Violence"
 tags:
-  - "law enforcement"
   - "republican"
 sources:
   - "https://www.postandcourier.com/news/colleton-county-sheriff-arrested-on-domestic-violence-charge/article_535e9d30-0332-11ea-9874-8be1f8832886.html"

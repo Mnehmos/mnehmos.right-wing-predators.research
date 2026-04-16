@@ -2,11 +2,10 @@
 name: "Bradley Putnam, Freedom Fellowship"
 slug: "bradley-putnam-freedom-fellowship"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.joemygod.com/2022/11/or-pastor-sentenced-to-27-years-for-child-rape/"
 ---

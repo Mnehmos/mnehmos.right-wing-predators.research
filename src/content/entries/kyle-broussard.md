@@ -2,11 +2,11 @@
 name: "Kyle Broussard"
 slug: "kyle-broussard"
 positions:
-  - "extremist"
+  - "Extremist"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "Patriot Prayer"
+  - "patriot prayer"
   - "white supremacist"
 sources:
   - "https://twitter.com/WANaziWatch/status/1423033600233152517?"

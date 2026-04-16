@@ -3,7 +3,7 @@ name: "Pete Newman"
 slug: "pete-newman"
 positions: []
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags: []
 sources:
   - "https://www.news-leader.com/story/news/local/missouri/2021/04/20/former-kanakuk-counselor-peter-newman-named-new-sex-abuse-lawsuit/7292935002/"

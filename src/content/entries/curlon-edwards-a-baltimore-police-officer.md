@@ -2,11 +2,10 @@
 name: "Curlon Edwards, a Baltimore police officer"
 slug: "curlon-edwards-a-baltimore-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
+  - "Rape"
+tags: []
 sources:
   - "https://www.cbsnews.com/baltimore/news/baltimore-police-officer-raping-16-year-old-girlfriend-charging-documents/"
 ---

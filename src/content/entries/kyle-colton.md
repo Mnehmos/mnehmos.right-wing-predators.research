@@ -3,8 +3,8 @@ name: "Kyle Colton"
 slug: "kyle-colton"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.sacbee.com/news/local/crime/article285704241.html"

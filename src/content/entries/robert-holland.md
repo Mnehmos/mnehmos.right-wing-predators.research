@@ -7,11 +7,10 @@ positions:
 crimes:
   - "Sexual Assault"
   - "Institutional Sexual Abuse"
-  - "Abuse of Elderly Person"
+  - "Abuse Of Elderly Person"
 tags:
-  - "Government Official"
-  - "Republican"
-  - "Pennsylvania"
+  - "republican"
+  - "pennsylvania"
 sources:
   - "http://findarticles.eom/p/articles/mi_kmtpi/is_200703/ai_nl8699927"
 ---

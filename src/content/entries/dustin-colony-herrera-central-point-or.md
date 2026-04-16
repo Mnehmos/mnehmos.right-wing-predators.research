@@ -2,13 +2,11 @@
 name: "Dustin Colony-Herrera, Central Point, OR"
 slug: "dustin-colony-herrera-central-point-or"
 positions:
-  - "judge"
-  - "religious leader"
+  - "Judge"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "judge"
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.desertsun.com/story/news/crime_courts/2019/04/11/california-pastor-dustin-herrera-evaded-child-sex-abuse-charges-across-county-lines-oregon/3438152002/"
 ---

@@ -2,10 +2,9 @@
 name: "members of the Texas Board of Education"
 slug: "members-of-the-texas-board-of-education"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.texastribune.org/2020/11/18/Texas-sex-education-LGBTQ/"

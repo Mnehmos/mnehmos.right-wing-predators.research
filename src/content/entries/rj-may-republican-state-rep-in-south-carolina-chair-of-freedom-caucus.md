@@ -2,13 +2,11 @@
 name: "RJ May, Republican State Rep in South Carolina, Chair of Freedom Caucus"
 slug: "rj-may-republican-state-rep-in-south-carolina-chair-of-freedom-caucus"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.mediaite.com/trump/republican-officials-bemoan-trumps-public-nervous-breakdown-in-new-race-against-harris-a-total-lack-of-focus/"

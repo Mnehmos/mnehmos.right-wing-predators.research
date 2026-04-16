@@ -2,11 +2,10 @@
 name: "Matthew Brewer"
 slug: "matthew-brewer"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual trafficking"
-tags:
-  - "religious leader"
+  - "Sexual Trafficking"
+tags: []
 sources:
   - "https://www.wsav.com/crime-safety/tennessee-youth-pastor-among-18-arrested-in-sex-sting/"
 ---

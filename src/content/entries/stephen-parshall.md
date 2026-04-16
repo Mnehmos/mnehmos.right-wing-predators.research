@@ -2,14 +2,14 @@
 name: "Stephen Parshall"
 slug: "stephen-parshall"
 positions:
-  - "extremist/militia"
+  - "Extremist"
 crimes:
-  - "terrorism"
-  - "explosives"
-  - "child sexual exploitation"
-  - "child pornography"
+  - "Terrorism"
+  - "Explosives"
+  - "Child Sexual Exploitation"
+  - "Child Pornography"
 tags:
-  - "Boogaloo Boys"
+  - "boogaloo boys"
   - "domestic terrorism"
   - "child abuse"
   - "gun violence"

@@ -2,11 +2,10 @@
 name: "Dennis Nielsen"
 slug: "dennis-nielsen"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "domestic violence"
+  - "Domestic Violence"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.newsobserver.com/news/politics-government/election/article23962211"

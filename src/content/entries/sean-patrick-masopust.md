@@ -2,9 +2,9 @@
 name: "Sean Patrick Masopust"
 slug: "sean-patrick-masopust"
 positions:
-  - "youth pastor"
+  - "Youth Pastor"
 crimes:
-  - "criminal sexual conduct"
+  - "Criminal Sexual Conduct"
 tags:
   - "church abuse"
   - "child abuse"

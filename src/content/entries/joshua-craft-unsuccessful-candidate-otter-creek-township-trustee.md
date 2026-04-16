@@ -2,11 +2,10 @@
 name: "Joshua Craft, unsuccessful candidate Otter Creek Township Trustee"
 slug: "joshua-craft-unsuccessful-candidate-otter-creek-township-trustee"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "child pornography"
-tags:
-  - "candidate"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.wane.com/news/crime/court-docs-terre-haute-man-arrested-after-fbi-child-porn-tip/"
 ---

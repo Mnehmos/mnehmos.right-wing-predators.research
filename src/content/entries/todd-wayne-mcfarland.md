@@ -2,11 +2,10 @@
 name: "Todd Wayne McFarland"
 slug: "todd-wayne-mcfarland"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-tags:
-  - "local official"
+  - "Assault"
+tags: []
 sources:
   - "https://www.oklahoman.com/article/2916724/depew-ex-mayor-convicted-of-sexual-assault"
 ---

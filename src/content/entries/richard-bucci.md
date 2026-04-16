@@ -2,11 +2,10 @@
 name: "Richard Bucci"
 slug: "richard-bucci"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.theguardian.com/us-news/2020/feb/11/rhode-island-richard-bucci-priest-abortion"

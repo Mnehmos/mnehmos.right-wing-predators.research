@@ -2,19 +2,16 @@
 name: "Tom Randall"
 slug: "tom-randall"
 positions:
-  - "Campaign worker"
-  - "Petition drive manager"
-  - "Party member"
+  - "Campaign Worker"
+  - "Petition Drive Manager"
+  - "Party Member"
 crimes:
-  - "Child molestation"
-  - "Sexual abuse of minors"
+  - "Child Molestation"
+  - "Sexual Abuse Of Minors"
 tags:
-  - "Campaign worker"
-  - "Petition drive manager"
-  - "Party member"
-  - "Republican"
+  - "republican"
   - "2006"
-  - "Child sexual abuse"
+  - "child sexual abuse"
 sources:
   - "https://www.ocregister.com/2006/05/27/premium-on-information/"
   - "https://www.timesonline.com/news/crime"

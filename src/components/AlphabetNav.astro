@@ -50,6 +50,8 @@ const isActive = (letter: string) => currentLetter?.toUpperCase() === letter;
           <span
             class="letter-item px-1.5 py-0.5 text-xs font-mono text-stone-400 dark:text-stone-600 cursor-default select-none"
             title={`No entries starting with ${letter}`}
+            aria-disabled="true"
+            aria-label={`${letter}, no entries`}
           >
             {letter}
           </span>
@@ -101,15 +103,29 @@ const isActive = (letter: string) => currentLetter?.toUpperCase() === letter;
     line-height: 1.5;
   }
   
-  /* Responsive - stack on very small screens */
+  /* Larger touch targets on mobile */
+  @media (max-width: 640px) {
+    .alphabet-nav a.letter-item,
+    .alphabet-nav span.letter-item {
+      min-width: 1.75rem;
+      min-height: 1.75rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.25rem 0.375rem;
+    }
+  }
+
+  /* Extra-small phones — shrink slightly but keep tappable */
   @media (max-width: 400px) {
     .alphabet-nav {
       padding: 0.375rem 0.5rem;
     }
-    
-    .letter-item {
-      font-size: 0.65rem;
-      padding: 0.125rem 0.25rem;
+    .alphabet-nav a.letter-item,
+    .alphabet-nav span.letter-item {
+      font-size: 0.7rem;
+      min-width: 1.5rem;
+      min-height: 1.5rem;
     }
   }
 </style>

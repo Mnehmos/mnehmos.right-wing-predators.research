@@ -6,8 +6,7 @@ positions:
   - "Party Member"
 crimes:
   - "Rape"
-tags:
-  - "Party Member"
+tags: []
 sources:
   - "https://www.jstor.org/stable/25560439?seq=1"
 ---

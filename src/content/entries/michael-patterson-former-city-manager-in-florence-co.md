@@ -3,7 +3,7 @@ name: "Michael Patterson, former city manager in Florence CO"
 slug: "michael-patterson-former-city-manager-in-florence-co"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.fox21news.com/news/crime/no-jail-time-for-florence-city-manager-accused-of-sexual-assault/"

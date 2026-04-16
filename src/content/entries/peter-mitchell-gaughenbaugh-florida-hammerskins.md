@@ -3,7 +3,7 @@ name: "Peter Mitchell Gaughenbaugh, Florida Hammerskins"
 slug: "peter-mitchell-gaughenbaugh-florida-hammerskins"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://web.archive.org/web/20191108063512/https"

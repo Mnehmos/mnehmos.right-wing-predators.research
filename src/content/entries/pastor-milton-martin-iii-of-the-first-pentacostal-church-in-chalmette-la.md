@@ -2,11 +2,10 @@
 name: "Pastor Milton Martin III, of the First Pentacostal Church in Chalmette, LA"
 slug: "pastor-milton-martin-iii-of-the-first-pentacostal-church-in-chalmette-la"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.nola.com/news/crime_police/milton-martin-otto-church-pastor-arrested/article_1e1bd542-bdde-11ed-84ab-af9303b6679f.html"
   - "https://www.wwltv.com/article/news/local/st-bernard/chalmette-pastor-charge-second-victim/289-a3b29e2a-16e4-45ac-a056-5d0a5929e25f"

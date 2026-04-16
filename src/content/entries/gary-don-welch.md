@@ -2,14 +2,14 @@
 name: "Gary Don Welch"
 slug: "gary-don-welch"
 positions:
-  - "youth minister"
+  - "Youth Minister"
 crimes:
-  - "sexual assault"
-  - "indecency with child"
+  - "Sexual Assault"
+  - "Indecency With Child"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Baptist"
+  - "baptist"
 sources:
   - "https://www.corsicanadailysun.com/news/local_news/welch-pleas-gets-55-years/article_648c9a01-fbd3-5af3-a7f0-58864a0763e9.html"
 ---

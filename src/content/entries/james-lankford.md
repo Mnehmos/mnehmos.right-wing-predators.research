@@ -2,10 +2,9 @@
 name: "James Lankford"
 slug: "james-lankford"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes: []
-tags:
-  - "state legislator"
+tags: []
 sources:
   - "https://apnews.com/article/2022-midterm-elections-sexual-abuse-by-clergy-oklahoma-city-7c198e08793337f620e26f2cfcbb7c0f"
 ---

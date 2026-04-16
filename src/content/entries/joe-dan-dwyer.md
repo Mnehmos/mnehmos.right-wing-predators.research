@@ -2,12 +2,11 @@
 name: "Joe Dan Dwyer"
 slug: "joe-dan-dwyer"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "local official"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.missourinet.com/2000/04/13/former-reeds-spring-mayor-ordered-to-prison/"
 ---

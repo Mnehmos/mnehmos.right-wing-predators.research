@@ -3,7 +3,7 @@ name: "Adam Hageman"
 slug: "adam-hageman"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
   - "maga"
 sources:

@@ -2,11 +2,10 @@
 name: "Leslie Shawn Brock, Lockland city councilman"
 slug: "leslie-shawn-brock-lockland-city-councilman"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-tags:
-  - "local official"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.cincinnati.com/story/news/crime/2023/03/22/ex-lockland-councilman-sentenced-to-3-years-in-prison-for-child-porn/70038216007/"
 ---

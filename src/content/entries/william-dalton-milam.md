@@ -2,13 +2,11 @@
 name: "William Dalton Milam"
 slug: "william-dalton-milam"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.fdle.state.fl.us/News/2020/December/FDLE-arrests-Milton-man-for-child-pornography"

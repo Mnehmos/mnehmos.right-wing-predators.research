@@ -2,12 +2,11 @@
 name: "Stephen Kamnik, a PA State Police Corporal"
 slug: "stephen-kamnik-a-pa-state-police-corporal"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://meidasnews.com/news/pennsylvania-state-police-corporal-charged-with-ai-generated-child-porn-is-registered-republican"
 ---

@@ -2,7 +2,7 @@
 name: "Justin Hicks"
 slug: "justin-hicks"
 positions:
-  - "congress"
+  - "US Representative"
 crimes: []
 tags:
   - "congress"

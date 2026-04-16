@@ -6,8 +6,7 @@ positions:
   - "Party Member"
 crimes:
   - "Rape"
-tags:
-  - "Local Official"
+tags: []
 sources:
   - "http://www.foxnews.com/story/2008/04/10/cops-ex-pennsylvania-official-used-hidden-cameras-to-tape-sex-trysts.html"
 ---

@@ -2,11 +2,10 @@
 name: "Bart Jetton, Mayor of Reno, Texas"
 slug: "bart-jetton-mayor-of-reno-texas"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "assault"
-tags:
-  - "local official"
+  - "Assault"
+tags: []
 sources:
   - "https://eparisextra.com/featured/criminal-charges-filed-against-reno-mayor-bart-jetton/"
 ---

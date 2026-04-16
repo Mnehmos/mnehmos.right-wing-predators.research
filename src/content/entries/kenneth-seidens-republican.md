@@ -2,13 +2,11 @@
 name: "Kenneth Seidens, Republican"
 slug: "kenneth-seidens-republican"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://1350kman.com/2023/08/alta-vista-city-councilman-arrested-for-sex-crimes/"

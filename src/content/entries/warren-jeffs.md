@@ -3,7 +3,7 @@ name: "Warren Jeffs"
 slug: "warren-jeffs"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://abcnews.go.com/US/warren-jeffs-guilty-child-rape/story?id=14228198"

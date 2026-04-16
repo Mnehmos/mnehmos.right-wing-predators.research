@@ -3,16 +3,14 @@ name: "Tim Nolan"
 slug: "tim-nolan"
 positions:
   - "Judge"
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Sexual trafficking"
-  - "Child exploitation"
-  - "Sexual abuse"
+  - "Sexual Trafficking"
+  - "Child Exploitation"
+  - "Sexual Abuse"
 tags:
-  - "Judge"
-  - "Party official"
-  - "Republican"
-  - "Maga"
+  - "republican"
+  - "maga"
 sources:
   - "https://www.cincinnati.com/story/news/local/kentucky/former-judge-tim-nolan-conservative-activist-tim-nolan-human-trafficker/400004002/"
 ---

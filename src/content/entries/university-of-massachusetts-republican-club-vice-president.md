@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Domestic Violence"
   - "Violence"
-tags:
-  - "Party Member"
+tags: []
 sources:
   - "https://dailycollegian.com/2009/04/republican-club-vice-president-arrested-banned-from-offices/"
 ---

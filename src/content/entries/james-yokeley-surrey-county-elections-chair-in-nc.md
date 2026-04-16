@@ -2,11 +2,10 @@
 name: "James Yokeley, Surrey County Elections Chair in NC"
 slug: "james-yokeley-surrey-county-elections-chair-in-nc"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wral.com/news/local/surry-board-elections-drug-ice-cream-wilmington-august-2025/"
 ---

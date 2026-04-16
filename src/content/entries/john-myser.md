@@ -2,13 +2,11 @@
 name: "John Myser"
 slug: "john-myser"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.swnewsmedia.com/prior_lake_american/news/former-gop-candidate-accused-of-domestic-assault/article_034f9693-9965-54e7-985a-"

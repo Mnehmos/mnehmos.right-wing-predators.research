@@ -3,7 +3,7 @@ name: "Richard Renno, Benton County, Missouri, Treasurer"
 slug: "richard-renno-benton-county-missouri-treasurer"
 positions: []
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags: []
 sources:
   - "https://www.komu.com/news/midmissourinews/benton-county-treasurer-charged-with-enticement-of-a-child/article_2f735142-ab71-49a4-a6c0-bab1d9ad3b24.html"

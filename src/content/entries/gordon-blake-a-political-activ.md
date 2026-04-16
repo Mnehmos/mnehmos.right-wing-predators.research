@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Activist"
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.mercurynews.com/2014/07/15/brentwood-man-sentenced-to-194-years-to-life-for-molestation/"
 ---

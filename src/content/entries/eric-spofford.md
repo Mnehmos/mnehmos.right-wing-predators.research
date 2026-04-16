@@ -2,11 +2,10 @@
 name: "Eric Spofford"
 slug: "eric-spofford"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.nytimes.com/2023/06/06/business/media/eric-spofford-new-hampshire-public-radio.html"

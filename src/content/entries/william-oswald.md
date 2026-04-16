@@ -2,13 +2,11 @@
 name: "William Oswald"
 slug: "william-oswald"
 positions:
-  - "candidate"
-  - "religious leader"
+  - "Candidate"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "candidate"
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://x.com/antifaoperative/status/1732053963967492590?s=20"
   - "https://www.thestate.com/news/local/crime/article282667878.html"

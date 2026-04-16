@@ -3,7 +3,7 @@ name: "Mark Samsel"
 slug: "mark-samsel"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://www.kansascity.com/news/politics-government/article251069219.html"

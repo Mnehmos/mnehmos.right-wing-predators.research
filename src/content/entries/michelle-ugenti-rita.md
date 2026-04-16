@@ -2,11 +2,10 @@
 name: "Michelle Ugenti-Rita"
 slug: "michelle-ugenti-rita"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.abc15.com/news/region-northeast-valley/scottsdale/dems-call-for-investigation-of-rep-senator-michelle-ugenti-rita-in-sexual-harassment-allegation"

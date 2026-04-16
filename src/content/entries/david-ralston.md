@@ -2,13 +2,11 @@
 name: "David Ralston"
 slug: "david-ralston"
 positions:
-  - "state legislator"
-  - "party official"
+  - "State Legislator"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "state legislator"
-  - "party official"
   - "republican"
 sources:
   - "https://medium.com/"

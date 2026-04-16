@@ -2,13 +2,11 @@
 name: "Paul Mumford"
 slug: "paul-mumford"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.tampabay.com/news/crime/2022/03/30/watch-live-former-tampa-police-officer-arrested-chief-mary-oconnor-says/"

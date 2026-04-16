@@ -2,15 +2,12 @@
 name: "David Finkel, School Board VP and former Republican primary mayoral candidate"
 slug: "david-finkel-school-board-vp-and-former-republican-primary-mayoral-candidate"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://fox59.com/news/indycrime/sources-fbi-agents-served-warrant-at-home-of-strand-theatre-owner-as-part-of-child-porn-investigation/"

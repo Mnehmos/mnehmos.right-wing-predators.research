@@ -2,12 +2,11 @@
 name: "Bob Young, GOP state rep in Ohio"
 slug: "bob-young-gop-state-rep-in-ohio"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://ohiocapitaljournal.com/2023/07/19/i-acted-poorly-ohio-rep-bob-young-indicted-by-grand-jury-on-domestic-violence-charges/"

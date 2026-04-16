@@ -2,11 +2,10 @@
 name: "Andrew Knarr"
 slug: "andrew-knarr"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.denverpost.com/2018/03/22/jim-smallwood-aide-fired-sexual-harassment/"

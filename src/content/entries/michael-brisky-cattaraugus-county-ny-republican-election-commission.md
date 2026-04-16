@@ -2,11 +2,10 @@
 name: "Michael Brisky, Cattaraugus County NY Republican Election Commission"
 slug: "michael-brisky-cattaraugus-county-ny-republican-election-commission"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://wesb.com/catt-county-candidates-under-investigation/"

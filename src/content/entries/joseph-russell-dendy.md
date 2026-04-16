@@ -2,14 +2,13 @@
 name: "Joseph Russell Dendy"
 slug: "joseph-russell-dendy"
 positions:
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Child molestation"
-  - "Enticing a child for indecent purposes"
-  - "Aggravated sexual battery"
+  - "Child Molestation"
+  - "Enticing A Child For Indecent Purposes"
+  - "Aggravated Sexual Battery"
 tags:
-  - "Party official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.ajc.com/news/crime--law/cobb-gop-chairman-dendy-indicted-molestation-charges/Ajxs2SiORqMCCdVZpGqj1M/"
   - "https://www.ajc.com/news/local-govt--politics/former-cobb-gop-leader-pleads-guilty-child-molestation-gets-life-sentence/JnEAITpb5Oy9iZ9RtsVvnI/"

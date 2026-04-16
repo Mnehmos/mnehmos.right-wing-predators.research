@@ -3,7 +3,7 @@ name: "Michael Caputo"
 slug: "michael-caputo"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "maga"
 sources:

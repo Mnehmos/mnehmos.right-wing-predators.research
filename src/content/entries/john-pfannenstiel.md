@@ -2,10 +2,9 @@
 name: "John Pfannenstiel"
 slug: "john-pfannenstiel"
 positions:
-  - "local official"
+  - "Local Official"
 crimes: []
-tags:
-  - "local official"
+tags: []
 sources:
   - "http://www.basehorinfo.com/news/2001/jul/18/pfannenstiel_receives_probation/"
 ---

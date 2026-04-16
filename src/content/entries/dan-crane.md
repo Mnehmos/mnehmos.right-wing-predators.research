@@ -2,12 +2,12 @@
 name: "Dan Crane"
 slug: "dan-crane"
 positions:
-  - "Congressman (IL-19)"
+  - "US Representative"
 crimes:
-  - "Sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "Congress"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/1983_congressional_page_sex_scandal"
 ---

@@ -3,8 +3,8 @@ name: "Ted Suhl"
 slug: "ted-suhl"
 positions: []
 crimes:
-  - "rape"
-  - "sexual abuse"
+  - "Rape"
+  - "Sexual Abuse"
 tags:
   - "maga"
 sources:

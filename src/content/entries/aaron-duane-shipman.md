@@ -2,13 +2,13 @@
 name: "Aaron Duane Shipman"
 slug: "aaron-duane-shipman"
 positions:
-  - "pastor"
+  - "Pastor"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Baptist"
+  - "baptist"
 sources:
   - "https://lawandcrime.com/crime/texas-pastor-arrested-accused-of-sexually-assaulting-teen-girl-multiple-times-over-two-year-period/"
 ---

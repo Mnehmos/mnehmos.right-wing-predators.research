@@ -2,13 +2,11 @@
 name: "John Valdivia"
 slug: "john-valdivia"
 positions:
-  - "local official"
-  - "candidate"
+  - "Local Official"
+  - "Candidate"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "candidate"
   - "republican"
 sources:
   - "https://thehill.com/homenews/media/482170-two-women-accuse-california-mayor-of-sexual-harassment"

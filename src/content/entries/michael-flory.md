@@ -5,10 +5,9 @@ positions:
   - "Activist"
 crimes:
   - "Rape"
-  - "Sexual assault"
+  - "Sexual Assault"
 tags:
-  - "Activist"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.cleveland.com/metro/2007/07/michigan-young-republican_plea.htmlMichael"
   - "http://www.cleveland19.com/2019/03/25/former-teenage-republicans-chairman-convicted-sex-case-indicted-new-rape-charges/"

@@ -3,8 +3,8 @@ name: "Kenneth M. Richens"
 slug: "kenneth-m-richens"
 positions: []
 crimes:
-  - "child exploitation"
-  - "child pornography"
+  - "Child Exploitation"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.ksl.com/article/50642045/head-of-utah-charity-organization-accused-of-participating-in-sex-tourism"

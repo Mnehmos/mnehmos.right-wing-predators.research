@@ -2,12 +2,11 @@
 name: "Bradley Douglas Quillen, a middle school teacher in Arkansas"
 slug: "bradley-douglas-quillen-a-middle-school-teacher-in-arkansas"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "child exploitation"
-  - "child pornography"
-tags:
-  - "educator"
+  - "Child Exploitation"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.4029tv.com/article/bradley-quillen-fbi/63108347"
 ---

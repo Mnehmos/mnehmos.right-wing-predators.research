@@ -2,11 +2,10 @@
 name: "David Wayne Farren"
 slug: "david-wayne-farren"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://txktoday.com/arkansas-news/pastor-sentenced-15-years-sexual-abuse-teen-girls/"
 ---

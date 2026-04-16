@@ -2,13 +2,12 @@
 name: "Elliot \"Alu\" Axelman, a former Republican for the NH state house"
 slug: "elliot-alu-axelman-a-former-republican-for-the-nh-state-house"
 positions:
-  - "congress"
-  - "party member"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.nbcboston.com/news/local/nh-political-activist-accused-of-sexually-assaulting-teen-at-libertarian-festival/3357724/"

@@ -2,10 +2,9 @@
 name: "Kelly Garrett Ivey, a"
 slug: "kelly-garrett-ivey-a"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.atlantanewsfirst.com/2023/08/21/central-ga-man-indicted-trying-sell-16-year-old-girl-dark-web/"
 ---

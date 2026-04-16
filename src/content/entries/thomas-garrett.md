@@ -2,13 +2,12 @@
 name: "Thomas Garrett"
 slug: "thomas-garrett"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-  - "domestic violence"
-  - "violence"
-tags:
-  - "law enforcement"
+  - "Assault"
+  - "Domestic Violence"
+  - "Violence"
+tags: []
 sources:
   - "https://www.oregonlive.com/clackamascounty/2010/02/milwaukie_detective_accused_of.html"
 ---

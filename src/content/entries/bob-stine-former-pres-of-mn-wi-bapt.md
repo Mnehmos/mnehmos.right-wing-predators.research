@@ -2,11 +2,10 @@
 name: "Bob Stine, former pres of MN/WI Bapt"
 slug: "bob-stine-former-pres-of-mn-wi-bapt"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.channel3000.com/news/she-thought-it-had-been-her-fault-madison-pastor-charged-with-sexually-assaulting-young-girl/article_5d6fddde-3d49-11ee-a71b-f332c6de0680.html"
 ---

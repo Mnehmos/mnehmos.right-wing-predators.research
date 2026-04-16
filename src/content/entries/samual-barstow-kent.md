@@ -7,9 +7,7 @@ positions:
 crimes:
   - "Rape"
 tags:
-  - "Law Enforcement"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://magicvalley.com/news/crime/sex-crimes/alleged-indicted-serial-killer/"
 ---

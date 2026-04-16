@@ -2,12 +2,11 @@
 name: "Kevin Menon, a Las Vegas police sergeant"
 slug: "kevin-menon-a-las-vegas-police-sergeant"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.8newsnow.com/investigators/police-find-child-pornography-on-las-vegas-sergeants-laptops-amid-unrelated-investigation-docs/"
 ---

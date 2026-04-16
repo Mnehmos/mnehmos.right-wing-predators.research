@@ -2,10 +2,9 @@
 name: "Michael Jafferakos, a Brooklyn NY basketball coach"
 slug: "michael-jafferakos-a-brooklyn-ny-basketball-coach"
 positions:
-  - "coach"
+  - "Coach"
 crimes: []
-tags:
-  - "coach"
+tags: []
 sources:
   - "https://www.amny.com/new-york/brooklyn/brooklyn-basketball-coach-arrested-for-allegedly-paying-minors-to-make-sexual-videos/"
 ---

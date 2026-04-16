@@ -2,11 +2,10 @@
 name: "Jordan J. Williams, teen ministry leader at VineLife Church"
 slug: "jordan-j-williams-teen-ministry-leader-at-vinelife-church"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.fox13news.com/news/brooksville-church-youth-leader-arrested-multiple-child-pornography-charges"
 ---

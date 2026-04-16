@@ -3,7 +3,7 @@ name: "Michael Chayton Bullard, firefighter"
 slug: "michael-chayton-bullard-firefighter"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.wwaytv3.com/whiteville-man-arrested-on-charges-of-child-rape/"

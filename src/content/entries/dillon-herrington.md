@@ -3,7 +3,7 @@ name: "Dillon Herrington"
 slug: "dillon-herrington"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "republican"
 sources:

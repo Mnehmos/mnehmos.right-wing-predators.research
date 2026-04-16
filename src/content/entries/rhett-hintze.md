@@ -2,10 +2,9 @@
 name: "Rhett Hintze"
 slug: "rhett-hintze"
 positions:
-  - "lobbyist"
+  - "Lobbyist"
 crimes: []
-tags:
-  - "lobbyist"
+tags: []
 sources:
   - "https://www.abc27.com/local-news/harrisburg-lobbyist-lds-church-leader-charged-with-not-reporting-child-rape-allegations/"
 ---

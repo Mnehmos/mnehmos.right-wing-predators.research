@@ -3,7 +3,7 @@ name: "Christopher Fourcade"
 slug: "christopher-fourcade"
 positions: []
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags: []
 sources:
   - "https://okcfox.com/news/local/norman-police-department-npd-arrest-man-after-he-allegedly-molested-4-children-glade-court-cleveland-county-detention-center-ccdc-lewd-acts-with-a-child-possession-of-child-pornography-christopher-fourcade-caregiver-investigation-crime-oklahoma"

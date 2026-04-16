@@ -2,12 +2,11 @@
 name: "Jonathan Murray"
 slug: "jonathan-murray"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
-  - "child molestation"
+  - "Rape"
+  - "Child Molestation"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://wvrecord.com/stories/512778896-son-of-murray-energy-ceo-accused-of-sexual-contact-with-his-adopted-daughter"

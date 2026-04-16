@@ -3,7 +3,7 @@ name: "Jonathan High, deacon of the Antioch Revival Church in Perry, FL"
 slug: "jonathan-high-deacon-of-the-antioch-revival-church-in-perry-fl"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://lawandcrime.com/crime/florida-deacon-convicted-of-producing-child-porn-inside-church-bathroom-sentenced-to-over-2-decades-in-prison/"

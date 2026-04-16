@@ -2,12 +2,10 @@
 name: "Kenneth Lewis Barrett"
 slug: "kenneth-lewis-barrett"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes: []
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://kcby.com/news/local/winston-mayor-arrested-in-online-sex-sting-along-with-3-others"

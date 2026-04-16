@@ -2,13 +2,11 @@
 name: "John Moorlach"
 slug: "john-moorlach"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://voiceofoc.org/2021/01/alleged-rape-victim-claims-smear-campaign-by-high-profile-oc-supervisor-candidate/"

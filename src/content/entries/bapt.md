@@ -4,8 +4,7 @@ slug: "bapt"
 positions:
   - "Religious Leader"
 crimes: []
-tags:
-  - "Religious Leader"
+tags: []
 sources:
   - "https://baptistnews.com/article/man-confesses-to-child-porn-church-disciplines-his-wife/"
 ---

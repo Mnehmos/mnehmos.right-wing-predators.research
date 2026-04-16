@@ -5,7 +5,7 @@ positions: []
 crimes:
   - "Child Pornography"
 tags:
-  - "MAGA"
+  - "maga"
 sources:
   - "https://www.propublica.org/article/conflict-mounts-inside-voting-fraud-commission-in-the-wake-of-child-porn-arrest/"
 ---

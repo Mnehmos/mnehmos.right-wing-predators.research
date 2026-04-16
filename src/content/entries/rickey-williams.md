@@ -3,7 +3,7 @@ name: "Rickey Williams"
 slug: "rickey-williams"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.abc27.com/news/local/dauphin-county-security-officer-facing-charges-related-to-child-pornography/"

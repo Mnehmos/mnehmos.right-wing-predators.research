@@ -2,13 +2,12 @@
 name: "John Martin"
 slug: "john-martin"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-  - "child molestation"
-  - "sexual abuse"
+  - "Rape"
+  - "Child Molestation"
+  - "Sexual Abuse"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.nydailynews.com/news/crime/ny-alabama-anti-gay-pastor-sexually-abusing-boys-john-martin-20190703-iz2kejvf3fcszpnfhnsewt7rsa-story.html"

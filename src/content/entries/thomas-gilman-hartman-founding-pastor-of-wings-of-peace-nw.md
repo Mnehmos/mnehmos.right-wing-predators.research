@@ -2,12 +2,11 @@
 name: "Thomas Gilman Hartman, founding pastor of Wings of Peace NW"
 slug: "thomas-gilman-hartman-founding-pastor-of-wings-of-peace-nw"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.4029tv.com/amp/article/thomas-gilman-hartman-pastor-accused/42691019"
 ---

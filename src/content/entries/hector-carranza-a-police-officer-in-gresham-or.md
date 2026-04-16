@@ -2,13 +2,12 @@
 name: "Hector Carranza, a police officer in Gresham, OR"
 slug: "hector-carranza-a-police-officer-in-gresham-or"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "rape"
-  - "sexual abuse"
-  - "sodomy"
-tags:
-  - "law enforcement"
+  - "Rape"
+  - "Sexual Abuse"
+  - "Sodomy"
+tags: []
 sources:
   - "https://www.koin.com/local/multnomah-county/gresham-police-officer-facing-dozens-child-sex-abuse-charges-07312025/"
 ---

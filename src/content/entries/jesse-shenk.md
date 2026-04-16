@@ -2,14 +2,14 @@
 name: "Jesse Shenk"
 slug: "jesse-shenk"
 positions:
-  - "white nationalist"
+  - "White Nationalist"
 crimes:
-  - "child endangerment"
-  - "sexual exploitation"
+  - "Child Endangerment"
+  - "Sexual Exploitation"
 tags:
-  - "neo-Nazi"
+  - "neo-nazi"
   - "antisemitic"
-  - "Goyim Defense League"
+  - "goyim defense league"
   - "child abuse"
   - "pedophile"
 sources:

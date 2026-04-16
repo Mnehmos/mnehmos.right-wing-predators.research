@@ -2,14 +2,13 @@
 name: "Don Haidl"
 slug: "don-haidl"
 positions:
-  - "Law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "Aiding and abetting sexual assault"
-  - "Obstruction of justice"
-  - "Abuse of power"
+  - "Aiding And Abetting Sexual Assault"
+  - "Obstruction Of Justice"
+  - "Abuse Of Power"
 tags:
-  - "Law enforcement"
-  - "California"
+  - "california"
 sources:
   - "https://patch.com/california/newportbeach/victim-of-notorious-haidl-gang-rape-breaks-silence-patch.com"
 ---

@@ -2,11 +2,10 @@
 name: "Scott Soucek, child protection activist who campaigned for Trump's fight against child predators"
 slug: "scott-soucek-child-protection-activist-who-campaigned-for-trump-s-fight-against-child-predators"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "activist"
   - "maga"
 sources:
   - "https://www.yahoo.com/news/articles/maga-champion-said-trump-fight-200336610.html"

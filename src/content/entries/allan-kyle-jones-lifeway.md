@@ -2,12 +2,11 @@
 name: "Allan Kyle Jones Lifeway"
 slug: "allan-kyle-jones-lifeway"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://mynbc15.com/news/local/loxley-pastor-arrested-on-child-porn-charge"
 ---

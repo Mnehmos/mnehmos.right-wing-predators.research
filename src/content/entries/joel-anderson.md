@@ -2,11 +2,10 @@
 name: "Joel Anderson"
 slug: "joel-anderson"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.sandiegouniontribune.com/news/politics/sd-me-anderson-reprimand-20180925-story.html"

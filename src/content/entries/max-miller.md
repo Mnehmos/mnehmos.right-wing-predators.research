@@ -3,8 +3,8 @@ name: "Max Miller"
 slug: "max-miller"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "maga"
 sources:

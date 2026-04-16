@@ -2,11 +2,10 @@
 name: "John Flores"
 slug: "john-flores"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.latimes.com/archives/la-xpm-2003-aug-22-me-ocbriefs22.4-story.html"
   - "https://www.christianitytoday.com/ct/2007/march/7.53.html"

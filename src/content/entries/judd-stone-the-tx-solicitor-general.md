@@ -2,14 +2,12 @@
 name: "Judd Stone, the TX Solicitor General"
 slug: "judd-stone-the-tx-solicitor-general"
 positions:
-  - "governor"
-  - "judge"
+  - "Governor"
+  - "Judge"
 crimes:
-  - "rape"
-  - "sexual harassment"
-tags:
-  - "governor"
-  - "judge"
+  - "Rape"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.404media.co/texas-solicitor-general-judd-stone-resigned/"
 ---

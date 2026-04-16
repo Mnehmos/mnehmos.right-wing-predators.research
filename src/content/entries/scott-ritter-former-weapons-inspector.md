@@ -2,10 +2,9 @@
 name: "Scott Ritter, former weapons inspector"
 slug: "scott-ritter-former-weapons-inspector"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.theguardian.com/world/2011/apr/15/former-un-weapons-inspector-online-sex"

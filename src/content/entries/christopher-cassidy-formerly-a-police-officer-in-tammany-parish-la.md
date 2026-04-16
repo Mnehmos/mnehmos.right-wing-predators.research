@@ -2,12 +2,11 @@
 name: "Christopher Cassidy, formerly a police officer in Tammany Parish, LA"
 slug: "christopher-cassidy-formerly-a-police-officer-in-tammany-parish-la"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.mthermonwebtv.com/2024/06/former-st-tammany-parish-police-officer.html"
 ---

@@ -2,11 +2,10 @@
 name: "David Smock"
 slug: "david-smock"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.ky3.com/2021/12/29/greene-countys-prosecutor-addresses-arrest-stockton-mo-doctor-wanted-sex-crimes/"

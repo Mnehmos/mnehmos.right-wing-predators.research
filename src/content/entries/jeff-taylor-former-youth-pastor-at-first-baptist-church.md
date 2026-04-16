@@ -2,12 +2,11 @@
 name: "Jeff Taylor, former youth pastor at First Baptist Church"
 slug: "jeff-taylor-former-youth-pastor-at-first-baptist-church"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "rape"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+  - "Rape"
+tags: []
 sources:
   - "https://www.ozarksfirst.com/crime/former-youth-pastor-sentenced-to-9-years-for-statutory-sodomy-rape/"
 ---

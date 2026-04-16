@@ -2,12 +2,11 @@
 name: "Greg Locke"
 slug: "greg-locke"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "maga"
-  - "religious leader"
 sources:
   - "https://blackchristiannews.com/2018/03/ex-wife-of-popular-christian-internet-pastor-greg-locke-says-he-spit-on-her-and-hit-her-shares-text-messages-he-sent-cursing-her/"
 ---

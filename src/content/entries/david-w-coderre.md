@@ -8,9 +8,7 @@ crimes:
   - "Rape"
   - "Sexual Assault"
 tags:
-  - "Judge"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.courant.com/news/connecticut/hc-news/coderre-domestic-violence-flexer-20181025-story.html"
 ---

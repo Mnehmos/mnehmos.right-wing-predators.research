@@ -2,10 +2,9 @@
 name: "Timothy Wade Owen, former police officer in Edmond, OK"
 slug: "timothy-wade-owen-former-police-officer-in-edmond-ok"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://kfor.com/news/local/former-edmond-police-officer-accused-of-inappropriate-relationship-with-14-year-old/"
 ---

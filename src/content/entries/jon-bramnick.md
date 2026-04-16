@@ -2,11 +2,10 @@
 name: "Jon Bramnick"
 slug: "jon-bramnick"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual assault"
+  - "Sexual Assault"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.politico.com/states/new-jersey/story/2019/10/10/bramnick-strategy-to-discredit-sexual-assault-accusers-disgusting-murphy-says-1225532"

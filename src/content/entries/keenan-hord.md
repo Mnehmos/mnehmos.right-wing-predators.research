@@ -2,13 +2,12 @@
 name: "Keenan Hord"
 slug: "keenan-hord"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "child exploitation"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Child Exploitation"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.4029tv.com/article/keenan-hord-former-youth-pastor-arrested/41002109"
 ---

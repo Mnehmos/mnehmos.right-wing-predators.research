@@ -2,10 +2,9 @@
 name: "Angela Leigh Stewart, teacher at a private Chr"
 slug: "angela-leigh-stewart-teacher-at-a-private-chr"
 positions:
-  - "educator"
+  - "Educator"
 crimes: []
-tags:
-  - "educator"
+tags: []
 sources:
   - "https://www.advocate.com/crime/christian-schools-arrest-sex-crimes"
 ---

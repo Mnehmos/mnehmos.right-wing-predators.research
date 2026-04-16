@@ -4,8 +4,7 @@ slug: "wa-gop-state-rep-matt-manweller"
 positions:
   - "Party Official"
 crimes: []
-tags:
-  - "Party Official"
+tags: []
 sources:
   - "https://www.seattletimes.com/seattle-news/politics/timeline-a-summary-of-sexual-misconduct-allegations-against-rep-matt-manweller/"
 ---

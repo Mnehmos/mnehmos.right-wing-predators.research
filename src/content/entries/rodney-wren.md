@@ -2,16 +2,13 @@
 name: "Rodney Wren"
 slug: "rodney-wren"
 positions:
-  - "candidate"
-  - "congress"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Local Official"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.ksn.com/news/crime/wichita-collegiate-teacher-arrested-on-suspicion-of-sexual-relations-with-a-student/"

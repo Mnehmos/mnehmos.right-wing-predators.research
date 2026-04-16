@@ -2,10 +2,9 @@
 name: "Archbishop Cordileone"
 slug: "archbishop-cordileone"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://www.andersonadvocates.com/press-event/survivors-and-advocates-blast-archbishop-for-his-refusal-to-disclose-dozens-of-predator-priests-2/"
 ---

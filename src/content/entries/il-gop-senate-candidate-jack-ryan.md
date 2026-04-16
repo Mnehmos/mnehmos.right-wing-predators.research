@@ -5,9 +5,7 @@ positions:
   - "Candidate"
   - "Party Member"
 crimes: []
-tags:
-  - "Candidate"
-  - "Party Member"
+tags: []
 sources:
   - "https://www.thesmokinggun.com/documents/crime/senate-race-sex-scandal/"
 ---

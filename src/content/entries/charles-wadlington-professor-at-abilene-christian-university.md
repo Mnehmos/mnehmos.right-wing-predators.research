@@ -3,7 +3,7 @@ name: "Charles Wadlington, professor at Abilene Christian University"
 slug: "charles-wadlington-professor-at-abilene-christian-university"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.bigcountryhomepage.com/news/abilene-news/abilene-christian-university-professor-arrested-accused-of-sexually-abusing-adopted-children/"

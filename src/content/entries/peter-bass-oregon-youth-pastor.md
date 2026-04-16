@@ -2,11 +2,10 @@
 name: "Peter Bass, Oregon youth pastor"
 slug: "peter-bass-oregon-youth-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.statesmanjournal.com/story/news/2015/05/04/brooks-youth-pastor-sentenced-years-prison/26893243/"
 ---

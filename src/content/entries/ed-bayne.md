@@ -2,13 +2,11 @@
 name: "Ed Bayne"
 slug: "ed-bayne"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wpxi.com/news/local/police-child-porn-found-computer-inside-seven-fiel/289555592/"

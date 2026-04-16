@@ -2,16 +2,16 @@
 name: "Thomas James Brackett"
 slug: "thomas-james-brackett"
 positions:
-  - "youth pastor"
-  - "teacher"
+  - "Youth Pastor"
+  - "Educator"
 crimes:
-  - "criminal sexual conduct with minors"
-  - "child abuse"
-  - "sexual abuse"
+  - "Criminal Sexual Conduct With Minors"
+  - "Child Abuse"
+  - "Sexual Abuse"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Pentecostal"
+  - "pentecostal"
 sources:
   - "https://dailyvoice.com/maryland/baltimore/police-fire/baltimore-youth-pastor-arrested-in-south-carolina-for-child-sex-abuse-in-1980s-authorities/847263/"
 ---

@@ -2,10 +2,10 @@
 name: "Donald Courtney Biggs"
 slug: "donald-courtney-biggs"
 positions:
-  - "youth pastor"
+  - "Youth Pastor"
 crimes:
-  - "child pornography"
-  - "secret recording of minors"
+  - "Child Pornography"
+  - "Secret Recording Of Minors"
 tags:
   - "church abuse"
   - "child abuse"

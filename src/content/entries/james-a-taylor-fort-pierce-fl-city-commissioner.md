@@ -2,11 +2,10 @@
 name: "James A. Taylor, Fort Pierce (FL) City Commissioner"
 slug: "james-a-taylor-fort-pierce-fl-city-commissioner"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "prostitution"
-tags:
-  - "local official"
+  - "Prostitution"
+tags: []
 sources:
   - "https://www.wptv.com/news/region-st-lucie-county/fort-"
 ---

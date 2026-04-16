@@ -3,7 +3,7 @@ name: "Calvin Weber"
 slug: "calvin-weber"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://westerniowatoday.com/2023/12/20/dr-calvin-weber-found-guilty-of-assault-on-patient/"

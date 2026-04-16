@@ -2,11 +2,10 @@
 name: "Jacob Woods, a youth pastor at Rutherford County Baptist Church in Smyrna, TN"
 slug: "jacob-woods-a-youth-pastor-at-rutherford-county-baptist-church-in-smyrna-tn"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-tags:
-  - "religious leader"
+  - "Rape"
+tags: []
 sources:
   - "https://www.wkrn.com/news/local-news/its-disgusting-family-reacts-to-rutherford-county-youth-pastor-sex-charges/"
 ---

@@ -2,12 +2,11 @@
 name: "Benjamin Damron, North Carolina youth pastor"
 slug: "benjamin-damron-north-carolina-youth-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.wsoctv.com/news/local/cmpd-youth-leader-charged-with-sex-crimes-involving-kids-he-met-churches/JW6ACKIS7RB2PP233MB7KEVXAQ/"
 ---

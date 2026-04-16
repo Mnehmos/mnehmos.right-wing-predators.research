@@ -2,16 +2,14 @@
 name: "Jaron Rosien"
 slug: "jaron-rosien"
 positions:
-  - "congress"
-  - "local official"
-  - "party official"
+  - "US Representative"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
   - "congress"
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://www.press-citizen.com/story/news/2023/01/25/washington-iowa-mayor-jaron-rosien-charged-sexual-assault-bar-patron/69838334007/"

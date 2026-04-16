@@ -2,14 +2,12 @@
 name: "Dale Berry"
 slug: "dale-berry"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wdam.com/2022/08/06/magee-mayor-arrested-bonds-out-after-wife-files-assault-charges/"

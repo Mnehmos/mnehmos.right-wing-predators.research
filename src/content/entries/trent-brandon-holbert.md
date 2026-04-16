@@ -2,13 +2,11 @@
 name: "Trent Brandon Holbert"
 slug: "trent-brandon-holbert"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.newsobserver.com/news/state/north-carolina/article254857697.html"

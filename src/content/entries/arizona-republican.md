@@ -2,13 +2,11 @@
 name: "Arizona Republican"
 slug: "arizona-republican"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.azfamily.com/2022/08/26/az-head-schools-candidate-defends-disgraced-ex-lawmaker-working-his-campaign/"

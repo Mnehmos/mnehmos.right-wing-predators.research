@@ -3,7 +3,7 @@ name: "Martin Peterson"
 slug: "martin-peterson"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://www.ktvb.com/article/news/crime/marty-martin-peterson-sentencing-child-pornography-charges/277-ac8762af-007f-4794-a7aa-37d229126a4d"

@@ -2,15 +2,13 @@
 name: "Bruce Bickford"
 slug: "bruce-bickford"
 positions:
-  - "party member"
-  - "state legislator"
+  - "Party Member"
+  - "State Legislator"
 crimes:
-  - "rape"
-  - "sexual harassment"
+  - "Rape"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.vice.com/en/article/z3vp9a/republican-legislator-is-very-sorry-about-his-harvey-weinstein-themed-zoom-background"
 ---

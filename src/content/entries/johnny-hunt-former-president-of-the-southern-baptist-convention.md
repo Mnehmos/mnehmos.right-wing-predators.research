@@ -2,14 +2,12 @@
 name: "Johnny Hunt, former president of the Southern Baptist Convention"
 slug: "johnny-hunt-former-president-of-the-southern-baptist-convention"
 positions:
-  - "judge"
-  - "religious leader"
+  - "Judge"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "judge"
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.christianitytoday.com/2025/03/southern-baptist-convention-lawsuit-abuse-report-johnny-hunt/"
 ---

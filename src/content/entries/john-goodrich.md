@@ -2,13 +2,12 @@
 name: "John Goodrich"
 slug: "john-goodrich"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "rape"
-  - "sodomy"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Rape"
+  - "Sodomy"
+tags: []
 sources:
   - "https://www.pilotonline.com/2024/03/14/sexual-assault-allegations-against-former-mormon-bishop-stem-from-field-trip-to-williamsburg-in-1999-prosecutor-says/"
 ---

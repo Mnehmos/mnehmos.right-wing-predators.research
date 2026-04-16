@@ -2,15 +2,13 @@
 name: "Robert Regan"
 slug: "robert-regan"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://fox8.com/news/gop-candidate-says-he-tells-daughters-to-lie-back-and-enjoy-it-if-rape-is-inevitable/"

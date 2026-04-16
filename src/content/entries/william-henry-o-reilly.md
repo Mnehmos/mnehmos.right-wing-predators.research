@@ -2,15 +2,14 @@
 name: "William Henry O'Reilly"
 slug: "william-henry-o-reilly"
 positions:
-  - "Media personality"
-  - "Commentator"
+  - "Media Figure"
 crimes:
-  - "Sexual harassment"
-  - "Quid pro quo harassment"
+  - "Sexual Harassment"
+  - "Quid Pro Quo Harassment"
 tags:
-  - "Media personality"
-  - "Fox News"
-  - "Conservative"
+  - "media personality"
+  - "fox news"
+  - "conservative"
 sources:
   - "https://t.co/aQQufQRZil"
 ---

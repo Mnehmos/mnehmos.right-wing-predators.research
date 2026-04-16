@@ -2,11 +2,10 @@
 name: "John Hiatt"
 slug: "john-hiatt"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://bangordailynews.com/2021/08/04/news/bangor/state-republican-party-calls-on-john-hiatt-to-resign-after-arrest-on-possession-of-child-porn-charge/"

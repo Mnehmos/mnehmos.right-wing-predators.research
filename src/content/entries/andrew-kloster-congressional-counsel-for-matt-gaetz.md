@@ -2,9 +2,9 @@
 name: "Andrew Kloster, congressional counsel for Matt Gaetz"
 slug: "andrew-kloster-congressional-counsel-for-matt-gaetz"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "congress"
 sources:

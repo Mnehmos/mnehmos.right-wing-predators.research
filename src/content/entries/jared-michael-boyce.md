@@ -3,7 +3,7 @@ name: "Jared Michael Boyce"
 slug: "jared-michael-boyce"
 positions: []
 crimes:
-  - "child exploitation"
+  - "Child Exploitation"
 tags: []
 sources:
   - "https://www.fox13now.com/news/crime/patriot-front-member-pleads-guilty-to-child-pornography-charges-in-utah"

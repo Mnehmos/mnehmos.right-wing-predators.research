@@ -2,14 +2,14 @@
 name: "William Frank Brown"
 slug: "william-frank-brown"
 positions:
-  - "pastor"
+  - "Pastor"
 crimes:
-  - "sexual assault"
-  - "indecency with child"
+  - "Sexual Assault"
+  - "Indecency With Child"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Baptist"
+  - "baptist"
 sources:
   - "https://baptistnews.com/article/former-pastor-in-texas-illinois-gets-50-years-for-sexual-assault/"
 ---

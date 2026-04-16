@@ -3,7 +3,7 @@ name: "Brock Fredin"
 slug: "brock-fredin"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

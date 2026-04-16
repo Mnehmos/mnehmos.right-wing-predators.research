@@ -2,14 +2,12 @@
 name: "John Blanchard, pastor of Rock Church Virginia Beach"
 slug: "john-blanchard-pastor-of-rock-church-virginia-beach"
 positions:
-  - "law enforcement"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Religious Leader"
 crimes:
-  - "prostitution"
+  - "Prostitution"
 tags:
-  - "law enforcement"
   - "maga"
-  - "religious leader"
 sources:
   - "https://www.wavy.com/news/investigative/rock-church-pastor-voluntarily-steps-back-from-duties-after-prostitution-charges-withdrawn/amp/"
   - "https://www.13newsnow.com/article/news/crime/chesterfield-county-new-info-john-blanchard-case-special-prosecutor/291-7c1d4385-6651-4de1-81bf-edd69a842a7c"

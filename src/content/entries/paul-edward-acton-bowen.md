@@ -2,12 +2,11 @@
 name: "Paul Edward Acton Bowen"
 slug: "paul-edward-acton-bowen"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-  - "sexual abuse"
+  - "Child Molestation"
+  - "Sexual Abuse"
 tags:
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.al.com/news/birmingham/2019/12/prosecutors-want-evangelist-acton-bowen-declared-a-sexually-violent-predator.html"

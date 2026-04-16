@@ -10,6 +10,7 @@ const entries = defineCollection({
     crimes: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     sources: z.array(z.string()).default([]),
+    needs_research: z.boolean().optional(),
   }),
 });
 

@@ -2,11 +2,10 @@
 name: "Scott Erickson, pastor"
 slug: "scott-erickson-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://nbc-2.com/news/local/inland-counties/2023/07/14/arcadia-pastor-being-investigated-after-child-molestation-allegations/amp/"
 ---

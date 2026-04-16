@@ -2,18 +2,15 @@
 name: "Alex Barron"
 slug: "alex-barron"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "rape"
-  - "sexual abuse"
+  - "Rape"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.krem.com/article/news/local/former-idaho-candidate-charged-with-rape-child-sexual-abuse/293-f39cb8e8-c05b-4adf-b94d-c2247132b1f5"

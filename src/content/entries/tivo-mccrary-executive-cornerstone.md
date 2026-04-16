@@ -2,10 +2,9 @@
 name: "Tivo McCrary, Executive Cornerstone"
 slug: "tivo-mccrary-executive-cornerstone"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://cornerstonechurch.community/content/pdfs/Statement-"
 ---

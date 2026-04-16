@@ -2,11 +2,10 @@
 name: "Dakota Kennermer, a"
 slug: "dakota-kennermer-a"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.idahostatejournal.com/news/crimes_court/former-youth-pastor-charged-with-sexual-battery-for-allegedly-fondling-girl/article_74ec6224-2454-11ee-adf4-4bd871e56050.html"
 ---

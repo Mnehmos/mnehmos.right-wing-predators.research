@@ -2,14 +2,13 @@
 name: "Edison Misla Aldarondo"
 slug: "edison-misla-aldarondo"
 positions:
-  - "State legislator"
+  - "State Legislator"
 crimes:
   - "Rape"
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "State legislator"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.10tv.com/article/news/local/george-bell-sentenced-at-least-15-years-rape-charges/530-9fa4950b-46fa-4454-8f92-04458633e43e/"
 ---

@@ -2,16 +2,13 @@
 name: "Walter Davis Lundy, former advisor to failed GOP congressional candidate"
 slug: "walter-davis-lundy-former-advisor-to-failed-gop-congressional-candidate"
 positions:
-  - "candidate"
-  - "congress"
-  - "local official"
-  - "party official"
+  - "Candidate"
+  - "US Representative"
+  - "Local Official"
+  - "Party Official"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://www.timesfreepress.com/news/2024/apr/12/former-adviser-to-hamilton-county-mayor-allegedly/"

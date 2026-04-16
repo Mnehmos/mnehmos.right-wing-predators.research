@@ -2,12 +2,11 @@
 name: "Bill Post"
 slug: "bill-post"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual assault"
-  - "sexual harassment"
+  - "Sexual Assault"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.portlandmercury.com/blogtown/2018/10/08/23498934/oregon-gop-rep-bill-post-mocks-sexual-assault-victims-on-twitter"

@@ -3,7 +3,7 @@ name: "Visible Music College"
 slug: "visible-music-college"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.thedailybeast.com/student-claims-christian-college-disciplined-her-after-she-reported-her-assault?ref=home"

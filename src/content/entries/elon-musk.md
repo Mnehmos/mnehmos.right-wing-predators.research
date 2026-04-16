@@ -2,10 +2,9 @@
 name: "Elon Musk"
 slug: "elon-musk"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.engadget.com/elon-musk-spacex-sexual-miisconduct-230458875.html"

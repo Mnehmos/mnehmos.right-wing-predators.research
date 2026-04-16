@@ -3,7 +3,7 @@ name: "Richard E. Jacklin, Kankakee County, Illinois"
 slug: "richard-e-jacklin-kankakee-county-illinois"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://www.daily-journal.com/news/crime/jacklin-sentenced-to-18-years-in-sexual-assault-conviction/article_7074974a-9db1-11ed-8fff-7fce2c235490.html"

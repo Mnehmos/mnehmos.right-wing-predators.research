@@ -8,10 +8,7 @@ positions:
 crimes:
   - "Child Molestation"
 tags:
-  - "Judge"
-  - "Local Official"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.wenatcheeworld.com/news/2018/mar/23/51-months-for-mccourt-in-child-molestation-plea/"
 ---

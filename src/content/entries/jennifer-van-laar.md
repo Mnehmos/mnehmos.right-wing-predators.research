@@ -2,12 +2,11 @@
 name: "Jennifer Van Laar"
 slug: "jennifer-van-laar"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child exploitation"
-  - "sexual harassment"
+  - "Child Exploitation"
+  - "Sexual Harassment"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.lamag.com/citythinkblog/katie-hill-jennifer-van-laar/"

@@ -2,13 +2,12 @@
 name: "Robert A. McKee"
 slug: "robert-a-mckee"
 positions:
-  - "State legislator"
+  - "State Legislator"
 crimes:
-  - "Child pornography"
+  - "Child Pornography"
 tags:
-  - "State legislator"
-  - "Maryland"
-  - "Republican"
+  - "maryland"
+  - "republican"
 sources:
   - "https://t.co/Ku0HKFrKMB"
 ---

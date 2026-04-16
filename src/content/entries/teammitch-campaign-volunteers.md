@@ -2,11 +2,10 @@
 name: "TeamMitch Campaign Volunteers"
 slug: "teammitch-campaign-volunteers"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.nydailynews.com/news/politics/ny-ocasio-cortez-mcconnell-cut-out-groping-20190806-ggehtijrhzbj5gj2cndv3b2cye-story.html"

@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Domestic Violence"
   - "Violence"
-tags:
-  - "Party Official"
+tags: []
 sources:
   - "https://www.wistv.com/story/3911359/will-folks-pleads-guilty-to-criminal-domestic-violence/"
 ---

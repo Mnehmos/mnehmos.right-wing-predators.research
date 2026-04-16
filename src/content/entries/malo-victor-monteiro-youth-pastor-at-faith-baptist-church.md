@@ -2,11 +2,10 @@
 name: "Malo \"Victor\" Monteiro, youth pastor at Faith Baptist Church"
 slug: "malo-victor-monteiro-youth-pastor-at-faith-baptist-church"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.pressenterprise.com/2018/11/15/former-wildomar-youth-pastor-pleads-guilty-to-sexually-assaulting-girls/"
   - "https://www.pressenterprise.com/2018/08/10/wildomars-faith-baptist-church-perpetuated-culture-of-secrecy-allowing-sex-abuse-for-decades-alleged-victims-claim"

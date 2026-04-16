@@ -3,7 +3,7 @@ name: "Fran Coombs"
 slug: "fran-coombs"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://www.huffpost.com/entry/resign-mr-editor_b_30894"

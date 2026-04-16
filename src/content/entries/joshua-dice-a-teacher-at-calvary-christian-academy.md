@@ -2,10 +2,9 @@
 name: "Joshua Dice, a teacher at Calvary Christian Academy"
 slug: "joshua-dice-a-teacher-at-calvary-christian-academy"
 positions:
-  - "educator"
+  - "Educator"
 crimes: []
-tags:
-  - "educator"
+tags: []
 sources:
   - "https://www.actionnewsjax.com/news/local/clay-county-teacher-accused-trying-meet-child-sex-school-church-cut-ties-immediately/Z62K4FLAVRCAFB4R75DTJBU7LY/"
   - "https://jaxtoday.org/2025/06/13/middleburg-schoolteacher-accused-of-sexual-conduct-with-child/"

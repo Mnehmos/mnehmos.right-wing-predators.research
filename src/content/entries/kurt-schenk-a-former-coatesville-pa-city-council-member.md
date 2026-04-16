@@ -2,13 +2,11 @@
 name: "Kurt Schenk, a former Coatesville PA City Council member"
 slug: "kurt-schenk-a-former-coatesville-pa-city-council-member"
 positions:
-  - "local official"
-  - "religious leader"
+  - "Local Official"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "local official"
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.inquirer.com/crime/kurt-schenk-sexual-assault-parkesburg-20241212.html"
 ---

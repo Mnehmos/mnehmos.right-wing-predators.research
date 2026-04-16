@@ -2,14 +2,12 @@
 name: "Frequent Republican Billy Oswald"
 slug: "frequent-republican-billy-oswald"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
-  - "sexual harassment"
+  - "Sexual Abuse"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://www.postandcourier.com/columbia/news/midlands-lawyer-harassed-employees-had-sex-with-prostitutes-in-office-lawsuit-alleges/article_be58969c-3375-11ed-a202-73ca65062c0e.html"

@@ -2,14 +2,12 @@
 name: "Chad Perkins"
 slug: "chad-perkins"
 positions:
-  - "party member"
-  - "state legislator"
+  - "Party Member"
+  - "State Legislator"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.stltoday.com/news/local/crime-and-courts/report-alleges-missouri-lawmaker-had-sex-with-teen-when-he-was-a-cop/article_ef1ad1be-704d-5654-a044-c9e6eed7d7ac.html"
 ---

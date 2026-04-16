@@ -2,11 +2,10 @@
 name: "Ami Medlin, a high school teacher in NC"
 slug: "ami-medlin-a-high-school-teacher-in-nc"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.newsobserver.com/news/local/crime/article311690165.html"
 ---

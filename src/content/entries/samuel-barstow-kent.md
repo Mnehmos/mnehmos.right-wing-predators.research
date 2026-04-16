@@ -8,9 +8,7 @@ crimes:
   - "Assault"
   - "Sexual Assault"
 tags:
-  - "Judge"
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.texasmonthly.com/articles/perversion-of-justice/By"
   - "https://www.chron.com/news/houston-texas/article/Former-federal-judge-Kent-calls-prison-unfair-1718673.php"

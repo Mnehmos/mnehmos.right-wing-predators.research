@@ -2,14 +2,12 @@
 name: "John D Jessup, Republican Hancock County Commissioner of Indiana"
 slug: "john-d-jessup-republican-hancock-county-commissioner-of-indiana"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.greenfieldreporter.com/2024/08/06/jessup-sexual-assault-trial-set-for-february-2025/"

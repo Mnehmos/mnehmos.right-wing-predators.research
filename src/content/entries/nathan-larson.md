@@ -3,7 +3,7 @@ name: "Nathan Larson"
 slug: "nathan-larson"
 positions: []
 crimes:
-  - "kidnapping"
+  - "Kidnapping"
 tags: []
 sources:
   - "https://www.fauquier.com/news/nathan-larson-of-catlett-dies-in-federal-custody/article_8b0abf48-516d-11ed-81f1-97b152df73b4.html"

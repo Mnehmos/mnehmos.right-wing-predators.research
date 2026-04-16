@@ -2,19 +2,15 @@
 name: "Charles Herbster"
 slug: "charles-herbster"
 positions:
-  - "candidate"
-  - "party member"
-  - "party official"
-  - "state legislator"
+  - "Candidate"
+  - "Party Member"
+  - "Party Official"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "maga"
-  - "party member"
-  - "party official"
   - "republican"
-  - "state legislator"
 sources:
   - "https://www.ksnblocal4.com/2022/04/14/gop-state-senator-seven-other-women-say-charles-herbster-groped-them-he-denies-allegations/"
 ---

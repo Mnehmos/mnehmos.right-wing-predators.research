@@ -3,7 +3,7 @@ name: "Theodore Middendorf, Illinois insurrectionist pardoned by Trump"
 slug: "theodore-middendorf-illinois-insurrectionist-pardoned-by-trump"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "maga"
 sources:

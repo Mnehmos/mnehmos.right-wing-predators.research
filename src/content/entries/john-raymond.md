@@ -2,12 +2,10 @@
 name: "John Raymond"
 slug: "john-raymond"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes: []
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.nola.com/news/northshore/article_1c46215a-cfe1-11ec-9d49-b3d4039a9e8b.htmlJohn"

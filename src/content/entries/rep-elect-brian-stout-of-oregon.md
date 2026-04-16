@@ -2,12 +2,11 @@
 name: "Rep-elect Brian Stout of Oregon"
 slug: "rep-elect-brian-stout-of-oregon"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "sexual assault"
+  - "Assault"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.wweek.com/news/state/2022/12/02/judge-grants-restraining-order-against-state-rep-elect-brian-stout-after-allegations-of-sexual-assault/"

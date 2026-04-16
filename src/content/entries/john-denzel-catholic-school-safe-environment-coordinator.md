@@ -3,8 +3,8 @@ name: "John Denzel, Catholic school Safe Environment Coordinator"
 slug: "john-denzel-catholic-school-safe-environment-coordinator"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.ncregister.com/cna/cna-20240808-dublin-ohio-arrest?amp"

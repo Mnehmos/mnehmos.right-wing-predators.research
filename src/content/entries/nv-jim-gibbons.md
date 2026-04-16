@@ -5,8 +5,7 @@ positions:
   - "Governor"
 crimes:
   - "Assault"
-tags:
-  - "Governor"
+tags: []
 sources:
   - "https://www.nevadaappeal.com/news/2013/jul/19/ex-cocktail-waitress-settles-rape-threat-lawsuit-a/"
 ---

@@ -3,8 +3,8 @@ name: "Steve Morgan, founder"
 slug: "steve-morgan-founder"
 positions: []
 crimes:
-  - "rape"
-  - "sexual abuse"
+  - "Rape"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://leavingthenetwork.org/"

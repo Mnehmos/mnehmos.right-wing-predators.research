@@ -2,10 +2,9 @@
 name: "Ronald Ilg"
 slug: "ronald-ilg"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes: []
-tags:
-  - "candidate"
+tags: []
 sources:
   - "https://www.thedailybeast.com/the-case-of-dr-ronald-ilg-features-hitmen-bondage-and-bunkers?ref=home"
 ---

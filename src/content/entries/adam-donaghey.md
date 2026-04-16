@@ -3,7 +3,7 @@ name: "Adam Donaghey"
 slug: "adam-donaghey"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags:
   - "maga"
 sources:

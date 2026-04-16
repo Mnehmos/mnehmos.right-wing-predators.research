@@ -3,7 +3,7 @@ name: "Christopher Terranova"
 slug: "christopher-terranova"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.nydailynews.com/2023/12/14/cop-indicted-sexual-abuse-met-victim-on-job/"

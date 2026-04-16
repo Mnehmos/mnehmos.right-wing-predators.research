@@ -2,11 +2,10 @@
 name: "David Farley"
 slug: "david-farley"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
+  - "Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.oregonlive.com/crime/2020/10/west-linn-detective-assigned-to-investigate-sex-abuse-allegations-against-longtime-family-physician.html"

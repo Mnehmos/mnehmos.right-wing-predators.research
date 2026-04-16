@@ -2,10 +2,9 @@
 name: "Donny Raney, pastor of Okeechobee Missionary Baptist"
 slug: "donny-raney-pastor-of-okeechobee-missionary-baptist"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "religious leader"
+tags: []
 sources:
   - "https://cbs12.com/news/local/high-school-pastor-donny-raney-accused-of-romantic-relationship-student-okeechobee-county-high-school-school-board-florida-april-20-2023"
 ---

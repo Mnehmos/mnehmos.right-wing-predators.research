@@ -3,8 +3,8 @@ name: "Aaron Mitchell, former Customs and Border Protection officer"
 slug: "aaron-mitchell-former-customs-and-border-protection-officer"
 positions: []
 crimes:
-  - "assault"
-  - "kidnapping"
+  - "Assault"
+  - "Kidnapping"
 tags: []
 sources:
   - "https://www.justice.gov/opa/pr/former-customs-and-border-protection-agent-indicted-federal-civil-rights-violation-sexually"

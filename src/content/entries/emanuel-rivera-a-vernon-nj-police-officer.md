@@ -2,12 +2,11 @@
 name: "Emanuel Rivera, a Vernon NJ, police officer"
 slug: "emanuel-rivera-a-vernon-nj-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "law enforcement"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://nj1015.com/vernon-police-officer-emanuel-rivera-sexual-advances-while-working/"
 ---

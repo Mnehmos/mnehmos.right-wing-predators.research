@@ -2,12 +2,10 @@
 name: "David G. Landfair"
 slug: "david-g-landfair"
 positions:
-  - "educator"
-  - "local official"
+  - "Educator"
+  - "Local Official"
 crimes: []
-tags:
-  - "educator"
-  - "local official"
+tags: []
 sources:
   - "https://www.pnj.com/story/news/2019/02/02/former-gulf-breeze-mayor-david-landfair-investigated-school-allegedly-paid-woman-nude-dancing/2742037002/"
 ---

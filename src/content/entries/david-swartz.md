@@ -2,15 +2,14 @@
 name: "David Swartz"
 slug: "david-swartz"
 positions:
-  - "Government official"
+  - "Government Official"
   - "Commissioner"
 crimes:
-  - "Sexual battery"
-  - "Child sexual abuse"
+  - "Sexual Battery"
+  - "Child Sexual Abuse"
 tags:
-  - "Government official"
-  - "Republican"
-  - "Ohio"
+  - "republican"
+  - "ohio"
 sources:
   - "http://lanternproject.org.uk/library/child-abuse-arrests-and-court-cases/child-abuse-arrests-trials-and-proceedings/ex-county-commissioner-admits-sexual-abuse-of-girl"
 ---

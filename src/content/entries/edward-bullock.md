@@ -2,13 +2,11 @@
 name: "Edward Bullock"
 slug: "edward-bullock"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://newjersey.news12.com/lawsuit-alleges-warren-county-was-aware-of-allegations-of-sexual-abuse-by-former-sheriff-and-failed-to-act"

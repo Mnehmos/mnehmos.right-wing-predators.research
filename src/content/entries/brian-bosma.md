@@ -2,12 +2,11 @@
 name: "Brian Bosma"
 slug: "brian-bosma"
 positions:
-  - "congress"
-  - "party official"
+  - "US Representative"
+  - "Party Official"
 crimes: []
 tags:
   - "congress"
-  - "party official"
   - "republican"
 sources:
   - "https://nuvo.newsnirvana.com/news/republicans-express-support-for-speaker-brian-bosma-after-recent-allegations/article_9e91cbda-ce34-11e8-8b4d-eff97e5076bc.html"

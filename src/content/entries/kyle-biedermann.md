@@ -2,11 +2,10 @@
 name: "Kyle Biedermann"
 slug: "kyle-biedermann"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "sexual abuse"
-tags:
-  - "judge"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.texasgopvote.com/family/court-documents-say-texas-house-candidate-kyle-biedermann-mentally-abused-his-008828"
   - "https://www.texastribune.org/2016/05/12/runoff-texas-house-seat-turns-ugly-final-days/"

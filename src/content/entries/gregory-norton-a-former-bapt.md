@@ -2,11 +2,10 @@
 name: "Gregory Norton, a former Bapt"
 slug: "gregory-norton-a-former-bapt"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "child molestation"
-tags:
-  - "party official"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://www.news4jax.com/news/local/2023/09/26/jacksonville-church-youth-group-leader-accused-of-8-counts-of-sexual-battery/"
 ---

@@ -2,13 +2,11 @@
 name: "Benjamin \"Ben\" Ignatowicz"
 slug: "benjamin-ben-ignatowicz"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.wistv.com/2022/05/02/chairman-york-co-republicans-arrested-neglect-charges-alleged-abuse-child/"

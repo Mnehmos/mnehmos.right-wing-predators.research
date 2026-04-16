@@ -3,7 +3,7 @@ name: "Jonathan Charles Koch, Iowa white supremacist"
 slug: "jonathan-charles-koch-iowa-white-supremacist"
 positions: []
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags: []
 sources:
   - "https://littlevillagemag.com/ped-mall-sticker-man-id/"

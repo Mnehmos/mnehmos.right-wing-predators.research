@@ -7,8 +7,7 @@ crimes:
   - "Assault"
   - "Sexual Assault"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.providencejournal.com/news/20180219/ri-senator-charged-with-2-counts-of-extorting-sex-from-former-state-house-page"
   - "https://www.providencejournal.com/story/news/2019/08/01/new-evidence-causes-ri-to-drop-sex-extortion-charges-against-former-sen-kettle/4538973007/"

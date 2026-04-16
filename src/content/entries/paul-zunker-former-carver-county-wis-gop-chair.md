@@ -2,11 +2,10 @@
 name: "Paul Zunker, former Carver County Wis. GOP Chair"
 slug: "paul-zunker-former-carver-county-wis-gop-chair"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.bluestemprairie.com/bluestemprairie/2011/09/a-little-more-than-a-hiccup-carver-county-gop-chair-resigns-following-criminal-sex-charges.html"

@@ -2,15 +2,13 @@
 name: "Richard A. Delgaudio"
 slug: "richard-a-delgaudio"
 positions:
-  - "Party official"
+  - "Party Official"
   - "Fundraiser"
 crimes:
-  - "Child pornography"
-  - "Child sexual exploitation"
+  - "Child Pornography"
+  - "Child Sexual Exploitation"
 tags:
-  - "Party official"
-  - "Fundraiser"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.columbiatribune.com/story/news/politics/2014/04/02/bill-targets-missouri-lobbyist-with/21723997007/"
 ---

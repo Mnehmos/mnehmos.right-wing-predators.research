@@ -2,11 +2,10 @@
 name: "Jean Evans"
 slug: "jean-evans"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.kansascity.com/news/politics-government/article250818234.html"

@@ -2,11 +2,10 @@
 name: "John J. Griffin"
 slug: "john-j-griffin"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.justice.gov/usao-vt/pr/connecticut-man-indicted-attempting-induce-minors-engage-unlawful-sexual-activity-ludlow"

@@ -2,11 +2,10 @@
 name: "Jovante Teague, newly elected GOP Party vice-chair in Florida"
 slug: "jovante-teague-newly-elected-gop-party-vice-chair-in-florida"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.miamiherald.com/news/politics-government/state-politics/article305518121.html"

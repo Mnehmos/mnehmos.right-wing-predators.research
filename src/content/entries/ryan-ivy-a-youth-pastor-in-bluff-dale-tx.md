@@ -2,11 +2,10 @@
 name: "Ryan Ivy, a youth pastor in Bluff Dale, TX"
 slug: "ryan-ivy-a-youth-pastor-in-bluff-dale-tx"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual harassment"
-tags:
-  - "religious leader"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.beneaththesurfacenews.com/post/former-bluff-dale-youth-minister-pleads-guilty-to-online-harassment-in-misdemeanor-plea-deal"
 ---

@@ -2,11 +2,10 @@
 name: "Terry Rud"
 slug: "terry-rud"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.wcnc.com/article/news/crime/lincolnton-man-charged/275-7ecb9b7e-3aef-417e-9b48-dde3085ff80e"
 ---

@@ -2,12 +2,11 @@
 name: "Ruben A. Garcia, a Texas Baptist pastor"
 slug: "ruben-a-garcia-a-texas-baptist-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual assault"
-tags:
-  - "religious leader"
+  - "Assault"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.kvue.com/article/news/local/austin-pastor-takes-plea-deal-in-child-sex-assault-case-avoids-prison/269-597622258"
 ---

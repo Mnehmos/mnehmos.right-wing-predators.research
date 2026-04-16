@@ -2,16 +2,13 @@
 name: "Joseph Burkhart, a Republican at-large Bellevue OH City Council member"
 slug: "joseph-burkhart-a-republican-at-large-bellevue-oh-city-council-member"
 positions:
-  - "local official"
-  - "party member"
-  - "party official"
+  - "Local Official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual harassment"
+  - "Assault"
+  - "Sexual Harassment"
 tags:
-  - "local official"
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://www.13abc.com/2025/09/22/bellevue-councilman-arrested-slew-charges/"

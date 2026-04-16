@@ -3,8 +3,8 @@ name: "John Emanuel Banuelos pardoned by Trump"
 slug: "john-emanuel-banuelos-pardoned-by-trump"
 positions: []
 crimes:
-  - "assault"
-  - "kidnapping"
+  - "Assault"
+  - "Kidnapping"
 tags:
   - "maga"
 sources:

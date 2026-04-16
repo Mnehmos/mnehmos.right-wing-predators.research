@@ -2,13 +2,12 @@
 name: "Joseph Ortega"
 slug: "joseph-ortega"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "domestic violence"
-  - "sexual abuse"
-  - "violence"
-tags:
-  - "law enforcement"
+  - "Domestic Violence"
+  - "Sexual Abuse"
+  - "Violence"
+tags: []
 sources:
   - "https://www.ktnv.com/news/crime/las-vegas-police-officer-arrested-for-child-abuse-domestic-assault-with-deadly-weapon"
 ---

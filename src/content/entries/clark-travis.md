@@ -2,15 +2,13 @@
 name: "Clark Travis"
 slug: "clark-travis"
 positions:
-  - "party official"
-  - "religious leader"
+  - "Party Official"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "sexual abuse"
-  - "sexual assault"
-tags:
-  - "party official"
-  - "religious leader"
+  - "Assault"
+  - "Sexual Abuse"
+  - "Sexual Assault"
+tags: []
 sources:
   - "https://www.kbtx.com/2023/02/24/leon-county-brothers-clergy-accused-sexual-assault-multiple-children/"
 ---

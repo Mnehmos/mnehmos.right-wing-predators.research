@@ -3,8 +3,8 @@ name: "NH state Rep James Spillane"
 slug: "nh-state-rep-james-spillane"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags: []
 sources:
   - "https://forumhome.org/reps-legal-troubles-and-why-they-matter-p26221-1.htm"

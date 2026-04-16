@@ -2,11 +2,10 @@
 name: "Michael \"Luke\" Atwell, former Palo Verde teacher"
 slug: "michael-luke-atwell-former-palo-verde-teacher"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.reviewjournal.com/local/local-nevada/ex-palo-verde-coach-faces-new-child-sexual-abuse-charges-more-allegations-3219026/"
 ---

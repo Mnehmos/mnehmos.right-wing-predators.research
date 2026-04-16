@@ -2,9 +2,9 @@
 name: "Scotty Campbell, TN House Rep"
 slug: "scotty-campbell-tn-house-rep"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "congress"
 sources:

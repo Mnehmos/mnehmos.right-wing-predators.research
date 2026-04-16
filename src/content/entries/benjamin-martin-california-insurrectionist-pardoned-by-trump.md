@@ -3,7 +3,7 @@ name: "Benjamin Martin, California insurrectionist pardoned by Trump"
 slug: "benjamin-martin-california-insurrectionist-pardoned-by-trump"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags:
   - "maga"
 sources:

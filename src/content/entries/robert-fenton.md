@@ -2,10 +2,10 @@
 name: "Robert Fenton"
 slug: "robert-fenton"
 positions:
-  - "youth pastor"
+  - "Youth Pastor"
 crimes:
-  - "sexual assault"
-  - "indecent assault"
+  - "Sexual Assault"
+  - "Indecent Assault"
 tags:
   - "church abuse"
   - "child abuse"

@@ -2,11 +2,10 @@
 name: "Aron Peña"
 slug: "aron-pena"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.texastribune.org/2022/09/24/mayra-flores-aron-pena-sexual-harassment/"

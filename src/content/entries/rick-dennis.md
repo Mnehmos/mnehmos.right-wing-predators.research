@@ -2,13 +2,11 @@
 name: "Rick Dennis"
 slug: "rick-dennis"
 positions:
-  - "lobbyist"
-  - "party member"
+  - "Lobbyist"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "lobbyist"
-  - "party member"
   - "republican"
 sources:
   - "https://www.texastribune.org/2021/05/26/texas-lobbyist-rick-dennis-legislature-sexual-harassment/"

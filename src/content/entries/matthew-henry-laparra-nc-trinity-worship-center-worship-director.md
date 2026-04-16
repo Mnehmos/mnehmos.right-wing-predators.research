@@ -3,7 +3,7 @@ name: "Matthew Henry Laparra, NC Trinity Worship Center worship director"
 slug: "matthew-henry-laparra-nc-trinity-worship-center-worship-director"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://myfox8.com/news/north-carolina/piedmont-triad/former-triad-worship-director-charged-with-child-sex-crimes"

@@ -2,13 +2,11 @@
 name: "Jonathan Young, Sunday School teacher and Republican"
 slug: "jonathan-young-sunday-school-teacher-and-republican"
 positions:
-  - "educator"
-  - "party member"
+  - "Educator"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "educator"
-  - "party member"
   - "republican"
 sources:
   - "https://www.wral.com/sunday-school-teacher-found-guilty-raping-girls-benson-church-sentenced-87-years/20439155/"

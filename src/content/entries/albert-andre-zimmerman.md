@@ -8,9 +8,8 @@ crimes:
   - "Child Pornography Production"
   - "Child Sexual Exploitation"
 tags:
-  - "Government Official"
-  - "Florida"
-  - "Child Pornography"
+  - "florida"
+  - "child pornography"
 sources:
   - "http://www.newsweek.com/id/110658"
 ---

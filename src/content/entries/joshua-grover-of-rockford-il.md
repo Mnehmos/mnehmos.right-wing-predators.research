@@ -3,8 +3,8 @@ name: "Joshua Grover of Rockford, IL"
 slug: "joshua-grover-of-rockford-il"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.wifr.com/2023/01/28/ex-rockford-detective-gets-6-months-child-pornography-charges/?outputType=amp"

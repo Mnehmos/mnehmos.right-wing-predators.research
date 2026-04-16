@@ -2,14 +2,12 @@
 name: "CT GOP party Leader J. R. Romano"
 slug: "ct-gop-party-leader-j-r-romano"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "http://onlyinbridgeport.com/wordpress/top-legislative-republican-asserts-gop-party-leader-must-step-down-for-hushing-candidates-domestic-abuse-allegations/"

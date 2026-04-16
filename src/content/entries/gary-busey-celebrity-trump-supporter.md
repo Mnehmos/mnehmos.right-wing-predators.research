@@ -3,7 +3,7 @@ name: "Gary Busey, celebrity Trump-supporter"
 slug: "gary-busey-celebrity-trump-supporter"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

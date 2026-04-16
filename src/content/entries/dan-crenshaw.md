@@ -3,7 +3,7 @@ name: "Dan Crenshaw"
 slug: "dan-crenshaw"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://www.va.gov/oig/pubs/VAOIG-20-01766-36.pdf"

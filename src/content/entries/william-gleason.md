@@ -2,10 +2,9 @@
 name: "William Gleason"
 slug: "william-gleason"
 positions:
-  - "party member"
+  - "Party Member"
 crimes: []
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://patch.com/new-jersey/tomsriver/former-south-toms-river-official-remains-jailed-sex-assault-charges"

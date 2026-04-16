@@ -2,11 +2,10 @@
 name: "Jonathan Shaheen, former evangelical pastor"
 slug: "jonathan-shaheen-former-evangelical-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.kktv.com/2024/06/24/former-colorado-springs-pastor-be-sentenced-monday-child-exploitation/"
 ---

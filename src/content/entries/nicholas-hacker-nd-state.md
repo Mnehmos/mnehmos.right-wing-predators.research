@@ -2,10 +2,9 @@
 name: "Nicholas Hacker, ND State"
 slug: "nicholas-hacker-nd-state"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes: []
-tags:
-  - "state legislator"
+tags: []
 sources:
   - "https://www.valleynewslive.com/2025/04/27/north-dakota-university-system-responds-recent-reports-regarding-former-sen-ray-holmberg/"
 ---

@@ -2,14 +2,11 @@
 name: "Doug Litwhiler"
 slug: "doug-litwhiler"
 positions:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
+  - "Candidate"
+  - "Law Enforcement"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.mcall.com/news/pennsylvania/mc-nws-pa-schuylkill-sheriff-20210522-rz426r6jkbanbfqgghifurbbyi-story.html"

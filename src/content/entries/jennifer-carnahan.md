@@ -2,13 +2,11 @@
 name: "Jennifer Carnahan"
 slug: "jennifer-carnahan"
 positions:
-  - "party member"
-  - "party official"
+  - "Party Member"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "party official"
   - "republican"
 sources:
   - "https://minnesotareformer.com/2021/08/13/mngop-chair-jennifer-carnahan-used-non-disclosure-agreements-to-stifle-criticism-sources-say/"

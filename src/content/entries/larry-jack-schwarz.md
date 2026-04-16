@@ -2,16 +2,14 @@
 name: "Larry Jack Schwarz"
 slug: "larry-jack-schwarz"
 positions:
-  - "Government official"
-  - "State legislator"
-  - "Parole board officer"
+  - "Government Official"
+  - "State Legislator"
+  - "Parole Board Officer"
 crimes:
-  - "Child pornography"
+  - "Child Pornography"
 tags:
-  - "Government official"
-  - "State legislator"
-  - "Republican"
-  - "Colorado"
+  - "republican"
+  - "colorado"
 sources:
   - "https://www.prisonlegalnews.org/news/2002/jul/15/colorado-parole-board-member-busted-for-child-porn/"
 ---

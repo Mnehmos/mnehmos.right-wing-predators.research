@@ -2,11 +2,10 @@
 name: "AZ Republican Sen. Eddie Farnsworth"
 slug: "az-republican-sen-eddie-farnsworth"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.azmirror.com/blog/farnsworth-accused-of-trying-to-protect-spousal-rape-not-for-the-first-time/"

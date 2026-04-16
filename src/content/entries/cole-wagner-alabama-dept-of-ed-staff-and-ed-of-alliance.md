@@ -3,7 +3,7 @@ name: "Cole Wagner, Alabama Dept of Ed staff and ED of Alliance"
 slug: "cole-wagner-alabama-dept-of-ed-staff-and-ed-of-alliance"
 positions: []
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.alreporter.com/2023/07/21/ed-dept-employee-former-chair-of-anti-abortion-group-arrested-for-child-sex-abuse/"

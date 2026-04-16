@@ -2,11 +2,10 @@
 name: "Robert Lazzell, First Bapt"
 slug: "robert-lazzell-first-bapt"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "rape"
-tags:
-  - "educator"
+  - "Rape"
+tags: []
 sources:
   - "https://vermilioncountyfirst.com/2023/08/01/former-first-baptist-school-principal-robert-lazzell-sentenced-to-12-years-for-criminal-sexual-assault-of-former-student/"
 ---

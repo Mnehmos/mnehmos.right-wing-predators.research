@@ -2,16 +2,16 @@
 name: "Ryan Scott Walsh"
 slug: "ryan-scott-walsh"
 positions:
-  - "youth director"
-  - "Methodist"
+  - "Youth Director"
+  - "Religious Leader"
 crimes:
-  - "sexual offense with minor"
-  - "obscene material to minor"
-  - "online solicitation"
+  - "Sexual Offense With Minor"
+  - "Obscene Material To Minor"
+  - "Online Solicitation"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Methodist"
+  - "methodist"
 sources:
   - "https://onlysky.media/hemant-mehta/methodist-lawsuit-youth-pastor-sexual-assault-ryan-walsh/"
 ---

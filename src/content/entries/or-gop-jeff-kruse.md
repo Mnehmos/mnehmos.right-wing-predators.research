@@ -6,9 +6,7 @@ positions:
   - "State Legislator"
 crimes: []
 tags:
-  - "Party Official"
-  - "Republican"
-  - "State Legislator"
+  - "republican"
 sources:
   - "https://www.oregonlive.com/politics/index.ssf/2018/02/post_200.html"
 ---

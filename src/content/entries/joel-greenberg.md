@@ -3,7 +3,7 @@ name: "Joel Greenberg"
 slug: "joel-greenberg"
 positions: []
 crimes:
-  - "sexual trafficking"
+  - "Sexual Trafficking"
 tags: []
 sources:
   - "https://www.wesh.com/article/seminole-county-tax-collector-child-sex-trafficking-joel-greenberg/33667096"

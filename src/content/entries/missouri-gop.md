@@ -2,10 +2,9 @@
 name: "Missouri GOP"
 slug: "missouri-gop"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.kansascity.com/news/politics-government/article250818234.html"

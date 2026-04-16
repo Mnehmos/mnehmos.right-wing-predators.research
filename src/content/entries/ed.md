@@ -2,15 +2,14 @@
 name: "Ed"
 slug: "ed"
 positions:
-  - "Congress"
+  - "US Representative"
   - "Party Member"
 crimes:
   - "Child Molestation"
   - "Rape"
 tags:
-  - "Congress"
-  - "Party Member"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Edison_Misla_Aldarondo"
 ---

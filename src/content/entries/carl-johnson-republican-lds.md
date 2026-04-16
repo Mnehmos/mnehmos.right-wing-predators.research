@@ -2,18 +2,14 @@
 name: "Carl Johnson, Republican LDS"
 slug: "carl-johnson-republican-lds"
 positions:
-  - "law enforcement"
-  - "local official"
-  - "party member"
-  - "religious leader"
+  - "Law Enforcement"
+  - "Local Official"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "assault"
-  - "child molestation"
+  - "Assault"
+  - "Child Molestation"
 tags:
-  - "law enforcement"
-  - "local official"
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.sltrib.com/news/2022/09/08/former-utah-mayor-lds-bishop/Carl"

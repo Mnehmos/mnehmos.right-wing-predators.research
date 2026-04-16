@@ -2,10 +2,9 @@
 name: "Rebecca Hood, Gordon County, GA, County Commissioner"
 slug: "rebecca-hood-gordon-county-ga-county-commissioner"
 positions:
-  - "local official"
+  - "Local Official"
 crimes: []
-tags:
-  - "local official"
+tags: []
 sources:
   - "https://gbi.georgia.gov/press-releases/2024-10-31/gbi-arrests-former-gordon-county-commissioner-and-her-husband-child-abuse"
 ---

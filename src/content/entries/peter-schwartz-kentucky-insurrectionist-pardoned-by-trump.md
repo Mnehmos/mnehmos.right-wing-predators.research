@@ -2,13 +2,12 @@
 name: "Peter Schwartz, Kentucky insurrectionist pardoned by Trump"
 slug: "peter-schwartz-kentucky-insurrectionist-pardoned-by-trump"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-  - "domestic violence"
-  - "violence"
+  - "Assault"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "law enforcement"
   - "maga"
 sources:
   - "https://www.washingtonpost.com/dc-md-va/2023/05/05/jan6-sentence-longest-schwartz/"

@@ -2,13 +2,11 @@
 name: "Jack Strain"
 slug: "jack-strain"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.nola.com/news/courts/article_339b914a-4095-11ec-b26d-17006bd04e1b.html"

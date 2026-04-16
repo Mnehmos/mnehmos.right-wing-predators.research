@@ -2,15 +2,13 @@
 name: "Jorge Riley"
 slug: "jorge-riley"
 positions:
-  - "activist"
-  - "party official"
+  - "Activist"
+  - "Party Official"
 crimes:
-  - "domestic violence"
-  - "sexual abuse"
-  - "violence"
+  - "Domestic Violence"
+  - "Sexual Abuse"
+  - "Violence"
 tags:
-  - "activist"
-  - "party official"
   - "republican"
 sources:
   - "https://www.davisvanguard.org/2021/04/sacramento-man-arrested-for-u-s-capitol-insurrection-has-court-about-child-endangerment-charges-bail-250000/"

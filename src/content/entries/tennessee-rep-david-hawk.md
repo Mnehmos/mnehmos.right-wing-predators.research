@@ -3,8 +3,8 @@ name: "Tennessee Rep. David Hawk"
 slug: "tennessee-rep-david-hawk"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags: []
 sources:
   - "https://archive.knoxnews.com/news/local/state-rep-david-hawks-indictment-would-bar-leadership-appointment-ep-359519777-356396051.html/"

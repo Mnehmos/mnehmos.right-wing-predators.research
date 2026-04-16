@@ -2,14 +2,11 @@
 name: "Larry Elder"
 slug: "larry-elder"
 positions:
-  - "candidate"
-  - "governor"
-  - "party member"
+  - "Candidate"
+  - "Governor"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "governor"
-  - "party member"
   - "republican"
 sources:
   - "https://sjvsun.com/news/politics/carecall/larry-elders-ex-fiancee-spills-on-relationship-drug-use-gun-brandishing-incident/"

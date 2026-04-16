@@ -3,8 +3,8 @@ name: "Victor Franklin, Wysox Township Supervisor"
 slug: "victor-franklin-wysox-township-supervisor"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.rocket-courier.com/articles/wysox-supervisor-faces-child-pornography-charges/"

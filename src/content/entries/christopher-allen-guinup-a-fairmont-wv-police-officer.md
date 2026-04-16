@@ -2,11 +2,10 @@
 name: "Christopher Allen Guinup, a Fairmont, WV, police officer"
 slug: "christopher-allen-guinup-a-fairmont-wv-police-officer"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.ksla.com/2025/06/19/police-officer-admits-sexually-abusing-9-year-old-girl-sheriff-says/"
 ---

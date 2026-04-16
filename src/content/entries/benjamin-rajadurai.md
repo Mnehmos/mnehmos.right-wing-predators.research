@@ -2,13 +2,11 @@
 name: "Benjamin Rajadurai"
 slug: "benjamin-rajadurai"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://spectatorworld.com/topic/college-republicans-fake-sexual-assault-allegations-benjamin-rajadurai/"

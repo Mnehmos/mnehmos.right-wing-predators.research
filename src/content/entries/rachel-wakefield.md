@@ -2,13 +2,11 @@
 name: "Rachel Wakefield"
 slug: "rachel-wakefield"
 positions:
-  - "coach"
-  - "educator"
+  - "Coach"
+  - "Educator"
 crimes:
-  - "sexual abuse"
-tags:
-  - "coach"
-  - "educator"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.yahoo.com/news/community-shocked-abuse-charges-against-000522489.html?guccounter=1"
 ---

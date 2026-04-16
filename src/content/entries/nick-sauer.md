@@ -5,8 +5,7 @@ positions:
   - "Party Official"
 crimes:
   - "Child Pornography"
-tags:
-  - "Party Official"
+tags: []
 sources:
   - "https://wydaily.com/news/local/2017/07/11/former-jcc-gop-chair-given-6-years-in-prison-for-child-porn-nws/"
 ---

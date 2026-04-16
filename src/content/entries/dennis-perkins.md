@@ -2,15 +2,13 @@
 name: "Dennis Perkins"
 slug: "dennis-perkins"
 positions:
-  - "law enforcement"
-  - "party member"
+  - "Law Enforcement"
+  - "Party Member"
 crimes:
-  - "child pornography"
-  - "rape"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Rape"
+  - "Sexual Abuse"
 tags:
-  - "law enforcement"
-  - "party member"
   - "republican"
 sources:
   - "https://www.theadvocate.com/baton_rouge/news/crime_police/article_8d919014-c548-11eb-9675-13ca19304098.html"

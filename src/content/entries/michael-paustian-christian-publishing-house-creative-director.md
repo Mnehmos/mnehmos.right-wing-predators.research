@@ -2,9 +2,9 @@
 name: "Michael Paustian, Christian publishing house creative director"
 slug: "michael-paustian-christian-publishing-house-creative-director"
 positions:
-  - "congress"
+  - "US Representative"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
   - "congress"
 sources:

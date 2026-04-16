@@ -2,13 +2,12 @@
 name: "Tom Shortridge"
 slug: "tom-shortridge"
 positions:
-  - "Campaign consultant"
+  - "Campaign Consultant"
 crimes:
-  - "Child pornography"
-  - "Sexual exploitation of minor"
+  - "Child Pornography"
+  - "Sexual Exploitation Of Minor"
 tags:
-  - "Campaign consultant"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.latimes.com/archives/la-xpm-2001-apr-06/me-47737-story.html"
 ---

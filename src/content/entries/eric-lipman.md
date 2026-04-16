@@ -2,11 +2,10 @@
 name: "Eric Lipman"
 slug: "eric-lipman"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.tallahassee.com/story/news/2021/04/09/eric-lipman-elections-florida-commission-attorney-arrested-child-porn-charges/7165096002/"

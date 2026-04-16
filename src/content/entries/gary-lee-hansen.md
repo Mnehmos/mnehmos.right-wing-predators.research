@@ -2,11 +2,10 @@
 name: "Gary Lee Hansen"
 slug: "gary-lee-hansen"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://siouxcityjournal.com/news/local/crime-and-courts/former-sac-city-councilman-pleads-not-guilty-to-sexually-abusing-children/article_dbfc1ea6-401d-5c08-aac5-e8b8f68af4e9.html"
 ---

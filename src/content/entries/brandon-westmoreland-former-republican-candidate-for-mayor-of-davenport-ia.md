@@ -2,16 +2,13 @@
 name: "Brandon Westmoreland, former Republican candidate for mayor of Davenport, IA"
 slug: "brandon-westmoreland-former-republican-candidate-for-mayor-of-davenport-ia"
 positions:
-  - "candidate"
-  - "local official"
-  - "party member"
+  - "Candidate"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "rape"
-  - "sexual abuse"
+  - "Rape"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.kwqc.com/2025/07/15/former-mayoral-candidate-arrested-sex-abuse-charge/"

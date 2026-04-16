@@ -2,16 +2,13 @@
 name: "Paul Calhoun, the former Mayor of Lake View, AL"
 slug: "paul-calhoun-the-former-mayor-of-lake-view-al"
 positions:
-  - "governor"
-  - "local official"
-  - "party member"
+  - "Governor"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags:
-  - "governor"
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://abc3340.com/news/local/former-lake-view-mayor-charged-on-child-pornography-charges-child-predatorpaul-anthony-calhoun-tuscaloosa-county"

@@ -2,11 +2,10 @@
 name: "Nicholas Garrett Corl, Mountain Avenue"
 slug: "nicholas-garrett-corl-mountain-avenue"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://patch.com/california/banning-beaumont/youth-pastor-banning-church-accused-lewd-acts-child"
 ---

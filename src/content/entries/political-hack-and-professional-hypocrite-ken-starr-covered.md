@@ -7,6 +7,7 @@ crimes:
 tags: []
 sources:
   - "https://www.statesman.com/news/baylor-ken-starr-resigns-chancellor-wake-rape-scandal/BADYDcW2HElU5zIqBDVAsK/"
+  - "https://www.statesman.com/news/baylor/ken-starr-resigns-chancellor-wake-rape-scandal/BADYDcW2HElU5zIqBDVAsK/"
 ---
 
 ## Overview

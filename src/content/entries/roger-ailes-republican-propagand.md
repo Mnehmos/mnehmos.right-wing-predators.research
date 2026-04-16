@@ -6,8 +6,7 @@ positions:
 crimes:
   - "Sexual Harassment"
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://money.cnn.com/2017/05/18/media/timeline-roger-ailes-last-year/index.html"
 ---

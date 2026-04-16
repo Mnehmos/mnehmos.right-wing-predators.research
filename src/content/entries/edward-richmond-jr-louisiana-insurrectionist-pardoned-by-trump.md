@@ -3,8 +3,8 @@ name: "Edward Richmond, Jr., Louisiana insurrectionist pardoned by Trump"
 slug: "edward-richmond-jr-louisiana-insurrectionist-pardoned-by-trump"
 positions: []
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "maga"
 sources:

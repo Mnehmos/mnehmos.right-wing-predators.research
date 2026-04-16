@@ -6,7 +6,7 @@ positions:
 crimes:
   - "Child Pornography"
 tags:
-  - "Party Official"
+  - "party official"
 sources:
   - "https://www.nbcwashington.com/news/local/GOP-Fundraiser-Michael-Centanni-Pleads-Guilty-to-Child-Pornography/"
 ---

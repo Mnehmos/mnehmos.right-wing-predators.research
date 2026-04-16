@@ -2,11 +2,10 @@
 name: "Monica Wehby"
 slug: "monica-wehby"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "https://www.csmonitor.com/USA/Elections/Senate/2014/0524/Domestic-spats-dog-GOP-senate-candidate-Monica-Wehby-in-Oregon"

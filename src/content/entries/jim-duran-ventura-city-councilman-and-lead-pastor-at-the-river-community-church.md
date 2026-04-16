@@ -2,13 +2,11 @@
 name: "Jim Duran, Ventura City Councilman and Lead Pastor at The River Community Church"
 slug: "jim-duran-ventura-city-councilman-and-lead-pastor-at-the-river-community-church"
 positions:
-  - "local official"
-  - "religious leader"
+  - "Local Official"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "local official"
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.vcstar.com/story/news/local/2023/04/29/ventura-councilman-knew-of-his-sons-abuse-of-teen-"
 ---

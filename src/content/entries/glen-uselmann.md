@@ -2,12 +2,11 @@
 name: "Glen Uselmann"
 slug: "glen-uselmann"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Rape"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wkow.com/news/man-convicted-of-sexually-assaulting-child-released-on-bond-ahead-of-sentencing/article_484ea364-1760-11ed-951c-ab961eb67ef2.html"
 ---

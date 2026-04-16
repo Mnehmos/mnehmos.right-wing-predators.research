@@ -2,12 +2,11 @@
 name: "Phillip Todd Wilson"
 slug: "phillip-todd-wilson"
 positions:
-  - "educator"
+  - "Educator"
 crimes:
-  - "child pornography"
-  - "child exploitation"
+  - "Child Pornography"
+  - "Child Exploitation"
 tags:
-  - "educator"
   - "republican"
 sources:
   - "https://www.courier-journal.com/story/news/local/2019/08/29/kentucky-principal-facing-child-porn-charges-once-banned-books/2149974001/"

@@ -2,11 +2,10 @@
 name: "Royce M. Fessenden"
 slug: "royce-m-fessenden"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "child molestation"
+  - "Child Molestation"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "http://crimesceneinvestigations.blogspot.com/2009/01/former-head-of-christian-county.html"

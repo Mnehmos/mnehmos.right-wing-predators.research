@@ -3,9 +3,9 @@ name: "Oregon State Rep. Brian Stout"
 slug: "oregon-state-rep-brian-stout"
 positions: []
 crimes:
-  - "assault"
-  - "sexual assault"
-  - "violence"
+  - "Assault"
+  - "Sexual Assault"
+  - "Violence"
 tags: []
 sources:
   - "https://www.wweek.com/news/state/2023/01/16/rep-brian-stout-removed-from-house-committees-as-sexual-abuse-protection-order-against-him-remains-in-place/"

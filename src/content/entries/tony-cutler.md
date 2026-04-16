@@ -2,12 +2,10 @@
 name: "Tony Cutler"
 slug: "tony-cutler"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://lansing.legalexaminer.com/legal/tony-cutler-former-candidate-for-michigan-state-congress-and-public-school-teacher-arrested-for-criminal-sexual-conduct-of-a-minor/"

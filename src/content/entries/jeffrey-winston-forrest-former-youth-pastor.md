@@ -2,11 +2,10 @@
 name: "Jeffrey Winston Forrest, former youth pastor"
 slug: "jeffrey-winston-forrest-former-youth-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.reporternews.com/story/news/crime/2021/04/16/former-pastor-jeffrey-forrest-abilene-guilty-sexual-assault-child-sentencing-punishment-phase-trial/7253533002/"
 ---

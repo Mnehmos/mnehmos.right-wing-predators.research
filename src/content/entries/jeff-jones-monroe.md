@@ -2,10 +2,9 @@
 name: "Jeff Jones, Monroe"
 slug: "jeff-jones-monroe"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.wboy.com/news/crime/monroe-county-sheriff-arrested-in-relation-to-child-pornography-investigation/"
 ---

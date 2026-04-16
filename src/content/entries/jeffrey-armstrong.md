@@ -2,13 +2,11 @@
 name: "Jeffrey Armstrong"
 slug: "jeffrey-armstrong"
 positions:
-  - "local official"
-  - "party official"
+  - "Local Official"
+  - "Party Official"
 crimes:
-  - "child pornography"
+  - "Child Pornography"
 tags:
-  - "local official"
-  - "party official"
   - "republican"
 sources:
   - "https://dailystandard.com/archive/2021-11-20/stories/44252/armstrong-pleads-guilty-to-child-porn-charge"

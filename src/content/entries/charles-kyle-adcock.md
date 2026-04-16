@@ -2,12 +2,11 @@
 name: "Charles Kyle Adcock"
 slug: "charles-kyle-adcock"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "rape"
-  - "sodomy"
-tags:
-  - "religious leader"
+  - "Rape"
+  - "Sodomy"
+tags: []
 sources:
   - "https://whnt.com/news/shoals/former-muscle-shoals-youth-minister-pleads-guilty-to-sodomy/"
 ---

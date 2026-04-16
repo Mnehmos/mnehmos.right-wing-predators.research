@@ -2,12 +2,11 @@
 name: "Michael Ferro"
 slug: "michael-ferro"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
-  - "sexual assault"
+  - "Sexual Harassment"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.chicagotribune.com/business/ct-biz-ferro-retires-tronc-chairman-20180319-story.html"

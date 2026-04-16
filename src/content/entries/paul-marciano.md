@@ -2,12 +2,11 @@
 name: "Paul Marciano"
 slug: "paul-marciano"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "sexual harassment"
-  - "sexual assault"
+  - "Sexual Harassment"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://qz.com/1304407/guess-cofounder-paul-marciano-has-resigned-after-sexual-misconduct-claims/"

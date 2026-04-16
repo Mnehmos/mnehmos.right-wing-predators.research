@@ -2,12 +2,11 @@
 name: "Paul Petersen"
 slug: "paul-petersen"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "sexual trafficking"
-  - "child exploitation"
+  - "Sexual Trafficking"
+  - "Child Exploitation"
 tags:
-  - "local official"
   - "republican"
 sources:
   - "https://www.ksl.com/article/46652706/utah-ag-charges-arizona-elected-official-with-felony-human-smuggling"

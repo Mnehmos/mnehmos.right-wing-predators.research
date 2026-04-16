@@ -9,9 +9,7 @@ crimes:
   - "Child Sexual Abuse"
   - "Importing Child Pornography"
 tags:
-  - "Professor"
-  - "Academic"
-  - "Pennsylvania"
+  - "pennsylvania"
 sources:
   - "https://t.co/UBbrEeWISl"
 ---

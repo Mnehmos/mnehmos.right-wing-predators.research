@@ -2,16 +2,14 @@
 name: "Beverly Russell"
 slug: "beverly-russell"
 positions:
-  - "Party official"
+  - "Party Official"
   - "Activist"
 crimes:
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Party official"
-  - "Activist"
-  - "Religious leader"
-  - "Republican"
+  - "religious leader"
+  - "republican"
 sources:
   - "https://greensboro.com/smith-stepfather-had-affair-that-began-when-she-was-15/article_549fa43d-e631-599b-8cad-177a71ad709e.html"
 ---

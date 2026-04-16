@@ -2,14 +2,12 @@
 name: "Starr Emery, Republican MT House candidate"
 slug: "starr-emery-republican-mt-house-candidate"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://billingsgazette.com/news/local/government-politics/elections/starr-emery-house-district-46-billings-child-endangerment/article_5e9723d2-9259-11ef-9d07-e75a13428580.html"

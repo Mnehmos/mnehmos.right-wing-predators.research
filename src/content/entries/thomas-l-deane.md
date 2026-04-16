@@ -2,14 +2,12 @@
 name: "Thomas L. Deane"
 slug: "thomas-l-deane"
 positions:
-  - "coach"
-  - "educator"
+  - "Coach"
+  - "Educator"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "coach"
-  - "educator"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.nbc-2.com/article/canterbury-teacher-sentenced-child-pornography-charges/61188545"
 ---

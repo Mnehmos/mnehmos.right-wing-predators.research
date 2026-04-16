@@ -2,11 +2,10 @@
 name: "Jeffrey Brienza"
 slug: "jeffrey-brienza"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
+  - "Rape"
+tags: []
 sources:
   - "https://www.nydailynews.com/2023/12/02/ex-nypd-captain-accused-in-yankee-stadium-sex-assault-suit-was-once-accused-of-stalking-4-year-old-queens-girl/"
 ---

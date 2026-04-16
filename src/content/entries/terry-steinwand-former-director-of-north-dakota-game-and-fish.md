@@ -2,12 +2,10 @@
 name: "Terry Steinwand, former Director of North Dakota Game and Fish"
 slug: "terry-steinwand-former-director-of-north-dakota-game-and-fish"
 positions:
-  - "governor"
-  - "party member"
+  - "Governor"
+  - "Party Member"
 crimes: []
 tags:
-  - "governor"
-  - "party member"
   - "republican"
 sources:
   - "https://www.kvrr.com/2025/09/08/6141926/"

@@ -2,11 +2,10 @@
 name: "Daryl Stagg, a powerful Baptist leader, a strategist for Big Creek and CenLa Baptist associations"
 slug: "daryl-stagg-a-powerful-baptist-leader-a-strategist-for-big-creek-and-cenla-baptist-associations"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "rape"
-tags:
-  - "party official"
+  - "Rape"
+tags: []
 sources:
   - "https://www.wbay.com/2023/06/09/baptist-official-louisiana-arrested-sex-crime-charges/"
 ---

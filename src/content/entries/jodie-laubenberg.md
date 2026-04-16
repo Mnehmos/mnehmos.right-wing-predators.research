@@ -2,11 +2,10 @@
 name: "Jodie Laubenberg"
 slug: "jodie-laubenberg"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.politifact.com/texas/statements/2013/jun/24/jodie-laubenberg/jodie-laubenberg-says-texas-rape-kit-dilation-and-/"

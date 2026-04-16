@@ -2,13 +2,12 @@
 name: "Julio Sandoval, Dean of Agape Christian School"
 slug: "julio-sandoval-dean-of-agape-christian-school"
 positions:
-  - "party official"
+  - "Party Official"
 crimes:
-  - "kidnapping"
-  - "sexual abuse"
-  - "sexual trafficking"
+  - "Kidnapping"
+  - "Sexual Abuse"
+  - "Sexual Trafficking"
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.kansascity.com/news/state/missouri/article265246901.html"

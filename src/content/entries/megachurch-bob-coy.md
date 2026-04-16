@@ -8,9 +8,7 @@ crimes:
   - "Child Molestation"
   - "Rape"
 tags:
-  - "Party Member"
-  - "Religious Leader"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.miaminewtimes.com/news/bob-coy-founder-of-calvary-chapel-fort-lauderdale-accused-of-molesting-child-9827948\""
 ---

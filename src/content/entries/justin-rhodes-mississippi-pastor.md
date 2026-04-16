@@ -2,11 +2,10 @@
 name: "Justin Rhodes, Mississippi pastor"
 slug: "justin-rhodes-mississippi-pastor"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child molestation"
-tags:
-  - "religious leader"
+  - "Child Molestation"
+tags: []
 sources:
   - "https://preacherboys.substack.com/p/pastor-arrested-for-molesting-child"
 ---

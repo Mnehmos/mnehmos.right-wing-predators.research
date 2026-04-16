@@ -2,17 +2,13 @@
 name: "Teddy Daniels"
 slug: "teddy-daniels"
 positions:
-  - "candidate"
-  - "governor"
-  - "judge"
-  - "party official"
+  - "Candidate"
+  - "Governor"
+  - "Judge"
+  - "Party Official"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "candidate"
-  - "governor"
-  - "judge"
-  - "party official"
   - "republican"
 sources:
   - "https://www.rollingstone.com/politics/politics-features/teddy-daniels-pennsylvania-domestic-abuse-1343762/"

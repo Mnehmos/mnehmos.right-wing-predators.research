@@ -3,15 +3,12 @@ name: "John Collins"
 slug: "john-collins"
 positions:
   - "Educator"
-  - "Local official"
-  - "Party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "Child molestation"
+  - "Child Molestation"
 tags:
-  - "Educator"
-  - "Local official"
-  - "Party member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www1.gmnews.com/2006/04/27/collins-gets-10-year-term-for-sexual-abuse/"
 ---

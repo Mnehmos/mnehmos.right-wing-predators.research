@@ -2,15 +2,13 @@
 name: "George Alexander Diaz Menges, Gainesville, FL"
 slug: "george-alexander-diaz-menges-gainesville-fl"
 positions:
-  - "candidate"
-  - "congress"
-  - "party member"
+  - "Candidate"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "kidnapping"
+  - "Kidnapping"
 tags:
-  - "candidate"
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.gainesville.com/story/news/crime/2022/12/05/former-campaign-worker-for-gop-candidate-charged-with-sexual-battery/69702876007/"

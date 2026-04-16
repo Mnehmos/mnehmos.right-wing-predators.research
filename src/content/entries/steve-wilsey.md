@@ -2,14 +2,14 @@
 name: "Steve Wilsey"
 slug: "steve-wilsey"
 positions:
-  - "Religious Counselor"
+  - "Religious Leader"
   - "Activist"
 crimes:
   - "Child Sexual Abuse"
   - "Child Molestation"
 tags:
-  - "Religious Organization"
-  - "Child Abuse"
+  - "religious organization"
+  - "child abuse"
 sources:
   - "https://capitolhillblue.com/node/982NewspaperAugust"
 ---

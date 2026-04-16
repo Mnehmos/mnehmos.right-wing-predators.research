@@ -2,14 +2,11 @@
 name: "Michael S. Ritchason, pastor of Riverside Community Church in Peoria, IL"
 slug: "michael-s-ritchason-pastor-of-riverside-community-church-in-peoria-il"
 positions:
-  - "educator"
-  - "local official"
-  - "religious leader"
+  - "Educator"
+  - "Local Official"
+  - "Religious Leader"
 crimes: []
-tags:
-  - "educator"
-  - "local official"
-  - "religious leader"
+tags: []
 sources:
   - "https://www.ci.pekin.il.us/government/city_council/michael_ritchason.php"
   - "https://www.25newsnow.com/2025/10/09/peoria-pastor-arrested-accused-crimes-involving-juvenile/"

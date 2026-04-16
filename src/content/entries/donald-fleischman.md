@@ -2,14 +2,13 @@
 name: "Donald Fleischman"
 slug: "donald-fleischman"
 positions:
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Child exploitation"
-  - "Sexual abuse"
-  - "Indecent exposure"
+  - "Child Exploitation"
+  - "Sexual Abuse"
+  - "Indecent Exposure"
 tags:
-  - "Party official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://freerepublic.com/focus/news/1911441/posts"
 ---

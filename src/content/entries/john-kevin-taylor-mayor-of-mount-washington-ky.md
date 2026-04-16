@@ -2,12 +2,11 @@
 name: "John Kevin Taylor, Mayor of Mount Washington, KY"
 slug: "john-kevin-taylor-mayor-of-mount-washington-ky"
 positions:
-  - "local official"
+  - "Local Official"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "local official"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.ibtimes.sg/former-kentucky-mayor-wife-charged-after-employee-finds-child-pornography-his-phone-79528"
 ---

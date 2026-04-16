@@ -2,11 +2,10 @@
 name: "Jamie Horowitz"
 slug: "jamie-horowitz"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "activist"
   - "republican"
   - "maga"
 sources:

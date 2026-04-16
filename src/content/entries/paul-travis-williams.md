@@ -4,8 +4,7 @@ slug: "paul-travis-williams"
 positions:
   - "Party Official"
 crimes: []
-tags:
-  - "Party Official"
+tags: []
 sources:
   - "https://www.thedahloneganugget.com/news-subscribers/4-h-camp-director-arrested-child-pornography-charge"
 ---

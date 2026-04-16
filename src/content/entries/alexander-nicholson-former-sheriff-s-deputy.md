@@ -2,11 +2,10 @@
 name: "Alexander Nicholson, former Sheriff's Deputy"
 slug: "alexander-nicholson-former-sheriff-s-deputy"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://sports.yahoo.com/watertown-man-former-onondaga-county-045900666.html"
 ---

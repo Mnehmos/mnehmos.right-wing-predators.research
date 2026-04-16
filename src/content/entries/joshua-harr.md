@@ -3,7 +3,7 @@ name: "Joshua Harr"
 slug: "joshua-harr"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.rangerreview.com/news/ag-s-office-secures-guilty-plea-from-former-deputy-sheriff-in-child-sexual-abuse-case/article_2764d39a-315d-11ee-b9f7-a7cb19484f3f.html"

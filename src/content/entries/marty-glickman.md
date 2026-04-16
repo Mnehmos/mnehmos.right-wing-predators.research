@@ -2,14 +2,13 @@
 name: "Marty Glickman"
 slug: "marty-glickman"
 positions:
-  - "activist"
-  - "party member"
+  - "Activist"
+  - "Party Member"
 crimes: []
 tags:
-  - "activist"
-  - "party member"
   - "republican"
 sources: []
+needs_research: true
 ---
 
 ## Overview

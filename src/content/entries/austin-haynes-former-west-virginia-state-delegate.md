@@ -3,7 +3,7 @@ name: "Austin Haynes, former West Virginia state delegate"
 slug: "austin-haynes-former-west-virginia-state-delegate"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags: []
 sources:
   - "https://wset.com/news/local/former-wva-lawmaker-accused-of-sending-sexual-inappropriate-messages-in-lawsuit"

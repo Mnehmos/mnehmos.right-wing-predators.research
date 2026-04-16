@@ -2,14 +2,12 @@
 name: "Daniel Gai"
 slug: "daniel-gai"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.fresnobee.com/news/local/article254124908.html"

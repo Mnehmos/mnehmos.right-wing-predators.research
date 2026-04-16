@@ -2,11 +2,10 @@
 name: "Mark Huffman"
 slug: "mark-huffman"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "state legislator"
   - "republican"
 sources:
   - "https://www.nbc4i.com/news/politics/two-ohio-lawmakers-apologize-for-crude-remarks-at-going-away-party/"

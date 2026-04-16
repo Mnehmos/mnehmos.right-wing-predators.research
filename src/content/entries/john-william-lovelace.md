@@ -2,13 +2,11 @@
 name: "John William Lovelace"
 slug: "john-william-lovelace"
 positions:
-  - "party member"
-  - "religious leader"
+  - "Party Member"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
+  - "Sexual Abuse"
 tags:
-  - "party member"
-  - "religious leader"
   - "republican"
 sources:
   - "https://www.blackhillsfox.com/2022/05/05/sheriff-66-year-old-pastor-arrested-child-sexual-abuse-charges-involving-minor-under-15/"

@@ -2,11 +2,10 @@
 name: "Dennis Wayne Laferty, pastor of Thompson United Methodist Church in Geauga County, Ohio"
 slug: "dennis-wayne-laferty-pastor-of-thompson-united-methodist-church-in-geauga-county-ohio"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "assault"
-tags:
-  - "religious leader"
+  - "Assault"
+tags: []
 sources:
   - "https://www.geaugamapleleaf.com/news/thompson-pastor-faces-felony-sexual-battery-charges/"
 ---

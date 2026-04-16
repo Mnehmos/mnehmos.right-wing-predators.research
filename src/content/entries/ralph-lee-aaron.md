@@ -9,9 +9,7 @@ crimes:
   - "Sodomy"
   - "Child Sexual Abuse"
 tags:
-  - "Religious Leader"
-  - "Pastor"
-  - "Alabama"
+  - "alabama"
 sources:
   - "http://www.wsfa.com/story/11942700/covington-county-pastor-agrees-to-consecutive-life-terms-in-prison/"
 ---

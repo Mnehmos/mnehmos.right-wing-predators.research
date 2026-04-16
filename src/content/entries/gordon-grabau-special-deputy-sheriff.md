@@ -2,12 +2,11 @@
 name: "Gordon Grabau, Special Deputy Sheriff"
 slug: "gordon-grabau-special-deputy-sheriff"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.kcrg.com/2022/07/07/former-linn-county-special-deputy-sheriff-arrested-federal-child-pornography-charge/"
 ---

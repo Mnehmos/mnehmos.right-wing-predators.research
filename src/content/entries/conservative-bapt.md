@@ -4,8 +4,7 @@ slug: "conservative-bapt"
 positions:
   - "Religious Leader"
 crimes: []
-tags:
-  - "Religious Leader"
+tags: []
 sources:
   - "https://www.texasmonthly.com/articles/the-valley-of-the-shadow-of-death/"
 ---

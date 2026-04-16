@@ -3,7 +3,7 @@ name: "Patrick Walsh"
 slug: "patrick-walsh"
 positions: []
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
   - "maga"
 sources:

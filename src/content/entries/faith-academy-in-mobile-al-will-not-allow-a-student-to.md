@@ -2,11 +2,10 @@
 name: "Faith Academy in Mobile, AL, will not allow a student to"
 slug: "faith-academy-in-mobile-al-will-not-allow-a-student-to"
 positions:
-  - "coach"
+  - "Coach"
 crimes:
-  - "sexual abuse"
-tags:
-  - "coach"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://1819news.com/news/item/faith-academy-accused-of-"
 ---

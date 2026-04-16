@@ -2,12 +2,10 @@
 name: "Adolphus \"Dick\" Pelley"
 slug: "adolphus-dick-pelley"
 positions:
-  - "local official"
-  - "party member"
+  - "Local Official"
+  - "Party Member"
 crimes: []
 tags:
-  - "local official"
-  - "party member"
   - "republican"
 sources:
   - "https://www.timesfreepress.com/news/2023/nov/03/athens-council-members-professional-counseling/"

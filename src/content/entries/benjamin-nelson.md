@@ -2,15 +2,15 @@
 name: "Benjamin Nelson"
 slug: "benjamin-nelson"
 positions:
-  - "pastor"
+  - "Pastor"
 crimes:
-  - "sexual assault"
-  - "indecency with child"
-  - "online solicitation"
+  - "Sexual Assault"
+  - "Indecency With Child"
+  - "Online Solicitation"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Baptist"
+  - "baptist"
 sources:
   - "https://www.kcentv.com/article/news/local/local-pastor-sentenced-to-20-years-for-sexual-assault-of-teen/500-515366885"
 ---

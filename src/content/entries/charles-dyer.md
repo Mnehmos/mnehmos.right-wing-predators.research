@@ -2,11 +2,10 @@
 name: "Charles Dyer"
 slug: "charles-dyer"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "rape"
-tags:
-  - "activist"
+  - "Rape"
+tags: []
 sources:
   - "https://www.splcenter.org/hatewatch/2012/04/20/oklahoma-oath-keeper-convicted-6-year-old-daughters-rape"
 ---

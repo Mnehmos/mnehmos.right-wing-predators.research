@@ -2,10 +2,9 @@
 name: "Dustin Weir, Somerset County (PA) Sheriff"
 slug: "dustin-weir-somerset-county-pa-sheriff"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes: []
-tags:
-  - "law enforcement"
+tags: []
 sources:
   - "https://www.attorneygeneral.gov/taking-action/somerset-county-sheriff-charged-with-corruption-of-minors-for-incident-during-shop-with-a-cop-event-at-walmart/"
 ---

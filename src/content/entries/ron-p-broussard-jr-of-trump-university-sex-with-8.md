@@ -4,7 +4,7 @@ slug: "ron-p-broussard-jr-of-trump-university-sex-with-8"
 positions: []
 crimes: []
 tags:
-  - "MAGA"
+  - "maga"
 sources:
   - "https://nypost.com/2016/10/27/trump-university-staff-included-a-drug-trafficker-child-molester/"
 ---

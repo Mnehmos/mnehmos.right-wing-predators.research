@@ -2,13 +2,12 @@
 name: "Chad Michael Salsman"
 slug: "chad-michael-salsman"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "prostitution"
-  - "sexual assault"
+  - "Assault"
+  - "Prostitution"
+  - "Sexual Assault"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/pennsylvania-district-attorney-chad-michael-salsman-raped-clients-on-his-office-desk-attorney-general-saysBradford"

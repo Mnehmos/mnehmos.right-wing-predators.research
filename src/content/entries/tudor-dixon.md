@@ -2,12 +2,10 @@
 name: "Tudor Dixon"
 slug: "tudor-dixon"
 positions:
-  - "governor"
-  - "party member"
+  - "Governor"
+  - "Party Member"
 crimes: []
 tags:
-  - "governor"
-  - "party member"
   - "republican"
 sources:
   - "https://www.businessinsider.com/michigan-gop-governor-candidate-said-having-baby-healing-rape-victims-2022-8"

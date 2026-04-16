@@ -2,12 +2,11 @@
 name: "Kenneth Lee"
 slug: "kenneth-lee"
 positions:
-  - "judge"
+  - "Judge"
 crimes:
-  - "sexual harassment"
-  - "sexual assault"
+  - "Sexual Harassment"
+  - "Sexual Assault"
 tags:
-  - "judge"
   - "republican"
 sources:
   - "https://www.politico.com/story/2019/03/04/kenneth-lee-9th-circuit-1202707"

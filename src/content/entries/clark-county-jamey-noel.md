@@ -2,11 +2,10 @@
 name: "Clark County Jamey Noel"
 slug: "clark-county-jamey-noel"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "rape"
-tags:
-  - "law enforcement"
+  - "Rape"
+tags: []
 sources:
   - "https://www.wishtv.com/news/i-team-8/calls-for-clark-county-sheriff-resignation-after-28-alleged-jail-assaults/"
 ---

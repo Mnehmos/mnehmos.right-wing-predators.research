@@ -2,11 +2,10 @@
 name: "Frank Pavone, Trumpist former Catholic priest"
 slug: "frank-pavone-trumpist-former-catholic-priest"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes: []
 tags:
   - "maga"
-  - "religious leader"
 sources:
   - "https://www.pillarcatholic.com/pavone-was-accused-of-misconduct-before-laicization/"
 ---

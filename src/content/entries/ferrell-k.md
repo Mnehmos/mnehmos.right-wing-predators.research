@@ -2,12 +2,11 @@
 name: "Ferrell K"
 slug: "ferrell-k"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "child pornography"
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Child Pornography"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.wmix94.com/2021/03/04/bail-set-for-former-patoka-churchs-assistant-preacher-on-child-pornography-charges/"
 ---

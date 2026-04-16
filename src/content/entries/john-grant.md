@@ -2,11 +2,10 @@
 name: "John Grant"
 slug: "john-grant"
 positions:
-  - "religious leader"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://oof.upci.org/minister-bio/john-grant"
   - "https://blogs.spiritualabuse.org/2020/07/18/another-woman-from-calvary-gospel-church-comes-forward/"

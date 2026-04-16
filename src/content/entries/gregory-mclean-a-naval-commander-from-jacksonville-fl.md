@@ -3,8 +3,8 @@ name: "Gregory McLean, a Naval Commander from Jacksonville FL"
 slug: "gregory-mclean-a-naval-commander-from-jacksonville-fl"
 positions: []
 crimes:
-  - "child pornography"
-  - "sexual abuse"
+  - "Child Pornography"
+  - "Sexual Abuse"
 tags: []
 sources:
   - "https://www.justice.gov/opa/pr/naval-commander-sentenced-distributing-child-sexual-abuse-material-and-retaining-classified"

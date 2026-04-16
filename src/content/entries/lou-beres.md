@@ -2,16 +2,14 @@
 name: "Lou Beres"
 slug: "lou-beres"
 positions:
-  - "Party official"
+  - "Party Official"
   - "Activist"
 crimes:
-  - "Sexual abuse"
-  - "Child molestation"
+  - "Sexual Abuse"
+  - "Child Molestation"
 tags:
-  - "Party official"
-  - "Activist"
-  - "Religious leader"
-  - "Republican"
+  - "religious leader"
+  - "republican"
 sources:
   - "https://www.portlandmercury.com/news/2006/08/10/family-values"
 ---

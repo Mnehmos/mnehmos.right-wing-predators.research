@@ -2,13 +2,11 @@
 name: "Robert Adrian"
 slug: "robert-adrian"
 positions:
-  - "judge"
-  - "party member"
+  - "Judge"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "judge"
-  - "party member"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/illinois-judge-robert-adrian-tosses-teen-rape-conviction-for-drew-clinton-says-148-days-in-jail-is-plenty?ref=home"

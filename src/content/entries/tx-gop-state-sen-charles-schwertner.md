@@ -5,8 +5,7 @@ positions:
   - "Party Official"
 crimes: []
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://nypost.com/2018/09/26/state-senator-accused-of-sexting-grad-student-sending-penis-pic/"
 ---

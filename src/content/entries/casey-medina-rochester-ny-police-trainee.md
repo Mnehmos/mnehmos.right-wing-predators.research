@@ -2,11 +2,10 @@
 name: "Casey Medina, Rochester NY police trainee"
 slug: "casey-medina-rochester-ny-police-trainee"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "child pornography"
-tags:
-  - "law enforcement"
+  - "Child Pornography"
+tags: []
 sources:
   - "https://www.fbi.gov/contact-us/field-offices/buffalo/news/former-avon-new-york-police-trainee-pleads-guilty-to-possession-of-child-pornography-and-cyberstalking"
 ---

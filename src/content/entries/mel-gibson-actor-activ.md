@@ -2,12 +2,11 @@
 name: "Mel Gibson, actor/activ"
 slug: "mel-gibson-actor-activ"
 positions:
-  - "activist"
+  - "Activist"
 crimes:
-  - "domestic violence"
-  - "violence"
-tags:
-  - "activist"
+  - "Domestic Violence"
+  - "Violence"
+tags: []
 sources:
   - "https://www.latimes.com/local/la-xpm-2011-mar-12-la-me-mel-gibson-20110312-story.html"
 ---

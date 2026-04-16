@@ -2,13 +2,11 @@
 name: "Emma Hancock"
 slug: "emma-hancock"
 positions:
-  - "educator"
-  - "law enforcement"
+  - "Educator"
+  - "Law Enforcement"
 crimes:
-  - "sexual harassment"
-tags:
-  - "educator"
-  - "law enforcement"
+  - "Sexual Harassment"
+tags: []
 sources:
   - "https://www.ibtimes.com/mayors-daughter-charged-sexual-abuse-teenager-during-substitute-teaching-3686542"
 ---

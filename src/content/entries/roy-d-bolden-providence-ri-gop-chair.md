@@ -9,9 +9,7 @@ crimes:
   - "Child Molestation"
   - "Sexual Assault"
 tags:
-  - "Party Official"
-  - "Religious Leader"
-  - "Republican"
+  - "republican"
 sources:
   - "http://www.foxnews.com/us/2017/03/09/pastor-accused-molestation-is-removed-as-head-city-gop.html"
 ---

@@ -2,11 +2,10 @@
 name: "Jeffrey Lynn Thomas"
 slug: "jeffrey-lynn-thomas"
 positions:
-  - "party member"
+  - "Party Member"
 crimes:
-  - "rape"
+  - "Rape"
 tags:
-  - "party member"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/jeffrey-lynn-thomas-somerset-pennsylvanias-tough-on-crime-republican-district-attorney-is-charged-with-rape?source=articles&via=rss"

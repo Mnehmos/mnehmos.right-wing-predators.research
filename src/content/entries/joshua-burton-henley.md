@@ -2,11 +2,11 @@
 name: "Joshua Burton Henley"
 slug: "joshua-burton-henley"
 positions:
-  - "youth minister"
+  - "Youth Minister"
 crimes:
-  - "child pornography"
-  - "online solicitation"
-  - "sexual trafficking"
+  - "Child Pornography"
+  - "Online Solicitation"
+  - "Sexual Trafficking"
 tags:
   - "church abuse"
   - "child abuse"

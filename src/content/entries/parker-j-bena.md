@@ -3,13 +3,11 @@ name: "Parker J. Bena"
 slug: "parker-j-bena"
 positions:
   - "Activist"
-  - "Party official"
+  - "Party Official"
 crimes:
-  - "Child pornography"
+  - "Child Pornography"
 tags:
-  - "Activist"
-  - "Party official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.columbiatribune.com/story/news/politics/2014/04/02/bill-targets-missouri-lobbyist-with/21723997007/"
 ---

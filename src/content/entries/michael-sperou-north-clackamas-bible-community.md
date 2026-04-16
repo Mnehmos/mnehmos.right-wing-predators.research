@@ -3,7 +3,7 @@ name: "Michael Sperou, North Clackamas Bible Community"
 slug: "michael-sperou-north-clackamas-bible-community"
 positions: []
 crimes:
-  - "rape"
+  - "Rape"
 tags: []
 sources:
   - "https://www.oregonlive.com/crime/2023/05/third-jury-finds-disgraced-oregon-pastor-guilty-of-sexual-abuse.html?outputType=amp"

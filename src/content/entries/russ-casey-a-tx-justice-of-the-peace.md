@@ -2,14 +2,12 @@
 name: "Russ Casey, a TX Justice of the Peace"
 slug: "russ-casey-a-tx-justice-of-the-peace"
 positions:
-  - "candidate"
-  - "party official"
+  - "Candidate"
+  - "Party Official"
 crimes:
-  - "assault"
-  - "sexual harassment"
+  - "Assault"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
-  - "party official"
   - "republican"
 sources:
   - "https://www.nbcdfw.com/news/local/clerks-semen-stained-dress-proof-of-judges-sexual-harassment-lawsuit/1986100/"

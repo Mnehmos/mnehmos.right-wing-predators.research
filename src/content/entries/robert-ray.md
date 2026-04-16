@@ -2,11 +2,10 @@
 name: "Robert Ray"
 slug: "robert-ray"
 positions:
-  - "candidate"
+  - "Candidate"
 crimes:
-  - "sexual harassment"
+  - "Sexual Harassment"
 tags:
-  - "candidate"
   - "republican"
 sources:
   - "http://www.nbcnews.com/id/12758683/ns/us_news-crime_and_courts/t/whitewater-prosecutor-charged-stalking/"

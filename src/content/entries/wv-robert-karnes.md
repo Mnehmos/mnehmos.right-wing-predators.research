@@ -2,11 +2,10 @@
 name: "WV Robert Karnes"
 slug: "wv-robert-karnes"
 positions:
-  - "state legislator"
+  - "State Legislator"
 crimes:
-  - "rape"
-tags:
-  - "state legislator"
+  - "Rape"
+tags: []
 sources:
   - "https://www.dailykos.com/stories/2022/8/2/2114070/-West-Virginia-senator-says-victims-of-child-rape-romanticize-abusers-see-them-as-boyfriends"
 ---

@@ -2,15 +2,13 @@
 name: "Cliff C. Maloney, Jr."
 slug: "cliff-c-maloney-jr"
 positions:
-  - "activist"
-  - "party member"
+  - "Activist"
+  - "Party Member"
 crimes:
-  - "assault"
-  - "rape"
-  - "sexual assault"
+  - "Assault"
+  - "Rape"
+  - "Sexual Assault"
 tags:
-  - "activist"
-  - "party member"
   - "republican"
 sources:
   - "https://www.thedailybeast.com/young-americans-for-liberty-"

@@ -5,8 +5,7 @@ positions:
   - "Party Member"
 crimes: []
 tags:
-  - "Party Member"
-  - "Republican"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Lavender_scare"
 ---

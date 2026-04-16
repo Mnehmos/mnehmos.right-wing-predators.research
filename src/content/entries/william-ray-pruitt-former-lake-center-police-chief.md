@@ -2,11 +2,10 @@
 name: "William Ray Pruitt, former Lake Center police chief"
 slug: "william-ray-pruitt-former-lake-center-police-chief"
 positions:
-  - "law enforcement"
+  - "Law Enforcement"
 crimes:
-  - "assault"
-tags:
-  - "law enforcement"
+  - "Assault"
+tags: []
 sources:
   - "https://news.yahoo.com/former-central-florida-police-chief-"
 ---

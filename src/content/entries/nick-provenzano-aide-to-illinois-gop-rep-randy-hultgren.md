@@ -2,10 +2,9 @@
 name: "Nick Provenzano, aide to Illinois GOP Rep. Randy Hultgren"
 slug: "nick-provenzano-aide-to-illinois-gop-rep-randy-hultgren"
 positions:
-  - "party official"
+  - "Party Official"
 crimes: []
 tags:
-  - "party official"
   - "republican"
 sources:
   - "https://www.politico.com/story/2018/03/19/hultgren-aide-fired-471883"

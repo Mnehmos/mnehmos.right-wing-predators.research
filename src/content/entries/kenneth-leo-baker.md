@@ -2,13 +2,13 @@
 name: "Kenneth Leo Baker"
 slug: "kenneth-leo-baker"
 positions:
-  - "youth pastor"
+  - "Youth Pastor"
 crimes:
-  - "sexual contact with juvenile"
+  - "Sexual Contact With Juvenile"
 tags:
   - "church abuse"
   - "child abuse"
-  - "Baptist"
+  - "baptist"
 sources:
   - "https://nbc16.com/news/local/former-ashland-youth-pastor-arrested-faces-sex-charges"
 ---

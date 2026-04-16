@@ -2,17 +2,15 @@
 name: "AZ GOP State Sen. Scott Bundgaard - domestic violence"
 slug: "az-gop-state-sen-scott-bundgaard-domestic-violence"
 positions:
-  - "Congress"
+  - "US Representative"
   - "Party Official"
   - "State Legislator"
 crimes:
   - "Domestic Violence"
   - "Violence"
 tags:
-  - "Congress"
-  - "Party Official"
-  - "State Legislator"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "https://en.wikipedia.org/wiki/Scott_Bundgaard"
 ---

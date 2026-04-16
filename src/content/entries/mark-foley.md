@@ -2,13 +2,13 @@
 name: "Mark Foley"
 slug: "mark-foley"
 positions:
-  - "Congressman (FL-16)"
+  - "US Representative"
 crimes:
-  - "Sexual harassment"
-  - "Child exploitation"
+  - "Sexual Harassment"
+  - "Child Exploitation"
 tags:
-  - "Congress"
-  - "Republican"
+  - "congress"
+  - "republican"
 sources:
   - "http://www.washingtonpost.com/wp-dyn/content/article/2006/09/29/AR2006092901574.html"
 ---

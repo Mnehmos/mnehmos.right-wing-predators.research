@@ -2,13 +2,12 @@
 name: "Michael Bo Peacock, former coach at Grapevine Faith Christian School in Texas"
 slug: "michael-bo-peacock-former-coach-at-grapevine-faith-christian-school-in-texas"
 positions:
-  - "coach"
+  - "Coach"
 crimes:
-  - "child pornography"
-  - "rape"
-  - "sexual abuse"
-tags:
-  - "coach"
+  - "Child Pornography"
+  - "Rape"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.justice.gov/usao-wdla/pr/second-defendant-involved-conspiracy-produce-child-pornography-and-sexual-exploitation"
   - "https://watchkeep.org/2025/10/former-grapevine-faith-christian-school-coach-sentenced-to-40-years-in-prison-for-child-exploitation/"

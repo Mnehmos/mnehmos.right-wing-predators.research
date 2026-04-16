@@ -2,13 +2,11 @@
 name: "Robert Morris, Assistant Dean of The Wave Leadership College"
 slug: "robert-morris-assistant-dean-of-the-wave-leadership-college"
 positions:
-  - "party official"
-  - "religious leader"
+  - "Party Official"
+  - "Religious Leader"
 crimes:
-  - "sexual abuse"
-tags:
-  - "party official"
-  - "religious leader"
+  - "Sexual Abuse"
+tags: []
 sources:
   - "https://www.newsobserver.com/news/nation-world/national/article270201027.html"
 ---

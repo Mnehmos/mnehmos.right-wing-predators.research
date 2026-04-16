@@ -5,11 +5,12 @@ positions:
   - "Party Official"
 crimes: []
 tags:
-  - "Party Official"
-  - "Republican"
+  - "republican"
 sources:
   - "https://www.thedahloneganugget.com/news-subscribers/4-h-camp-director-arrested-child-pornography-charge"
   - "https://www.gainesvilletimes.com/news/authorities-lumpkin-4-h-director-charged-30-counts-child-pornography-possession/"
+  - "https://www.thedahloneganugget.com/news/subscribers/4-h-camp-director-arrested-child-pornography-charge"
+  - "https://www.thedahloneganugget.com/news/subscribers/4-hamp-director-arrested-child-pornography-charge"
 ---
 
 ## Overview

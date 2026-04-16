@@ -3,7 +3,7 @@ name: "NH state Rep. Frank Sapareto"
 slug: "nh-state-rep-frank-sapareto"
 positions: []
 crimes:
-  - "assault"
+  - "Assault"
 tags: []
 sources:
   - "https://www.eagletribune.com/news/local_news/derry-lawmaker-fights-assault-conviction/article_964861ef-0ed2-5673-b637-1cce13f85647.html"

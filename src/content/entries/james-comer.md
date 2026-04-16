@@ -2,14 +2,13 @@
 name: "James Comer"
 slug: "james-comer"
 positions:
-  - "congress"
-  - "party member"
+  - "US Representative"
+  - "Party Member"
 crimes:
-  - "domestic violence"
-  - "violence"
+  - "Domestic Violence"
+  - "Violence"
 tags:
   - "congress"
-  - "party member"
   - "republican"
 sources:
   - "https://www.tumblr.com/youwantbloodyouvegotit/146593145803/allegation-of-james-comers-domestic-violence-the"

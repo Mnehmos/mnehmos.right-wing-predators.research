@@ -2,12 +2,10 @@
 name: "Herschel Walker"
 slug: "herschel-walker"
 positions:
-  - "candidate"
-  - "party member"
+  - "Candidate"
+  - "Party Member"
 crimes: []
 tags:
-  - "candidate"
-  - "party member"
   - "republican"
 sources:
   - "https://apnews.com/article/lifestyle-sports-nfl-college-football-coronavirus-pandemic-5e2875eec11e93f9a3bf1fc859137ff8"
