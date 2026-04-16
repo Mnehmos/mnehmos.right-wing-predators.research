@@ -148,10 +148,10 @@ const pageTitle = `Browse Entries - ${letter} - Page ${currentPage}`;
     
     <!-- Alphabet Navigation -->
     <div class="mb-4">
-      <AlphabetNav 
+      <AlphabetNav
         lettersWithEntries={lettersWithEntries}
         currentLetter={letter}
-        baseUrl="/entries"
+        baseUrl={`${base}entries`}
       />
     </div>
     
@@ -247,7 +247,7 @@ const pageTitle = `Browse Entries - ${letter} - Page ${currentPage}`;
             Try selecting a different letter
           </p>
           <a 
-            href="/entries" 
+            href={`${base}entries/`}
             class="inline-block px-4 py-2 bg-copper text-white rounded-lg hover:bg-copper-light transition-colors no-underline"
           >
             View All Entries
@@ -260,7 +260,7 @@ const pageTitle = `Browse Entries - ${letter} - Page ${currentPage}`;
         <Pagination 
           currentPage={currentPage}
           totalPages={totalPages}
-          baseUrl={`/entries/letter/${letter.toLowerCase()}`}
+          baseUrl={`${base}entries/letter/${letter.toLowerCase()}`}
           letterFilter={letter.toLowerCase()}
         />
       )}

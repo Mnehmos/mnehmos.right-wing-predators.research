@@ -129,9 +129,9 @@ const pageTitle = `Browse All Entries - Page ${currentPage}`;
     
     <!-- Alphabet Navigation -->
     <div class="mb-4">
-      <AlphabetNav 
+      <AlphabetNav
         lettersWithEntries={lettersWithEntries}
-        baseUrl="/entries"
+        baseUrl={`${base}entries`}
       />
     </div>
     
@@ -231,10 +231,10 @@ const pageTitle = `Browse All Entries - Page ${currentPage}`;
 
       <!-- Pagination -->
       {totalPages > 1 && (
-        <Pagination 
+        <Pagination
           currentPage={currentPage}
           totalPages={totalPages}
-          baseUrl="/entries"
+          baseUrl={`${base}entries`}
         />
       )}
     </div>
