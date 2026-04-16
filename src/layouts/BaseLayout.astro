@@ -8,12 +8,12 @@ interface Props {
 
 const {
   title,
-  description = 'A documented collection of Republican-affiliated individuals accused of sexual misconduct, with verified sources.'
+  description = 'A documented collection of sexual-misconduct cases, abuse cover-ups, and Epstein-network figures with verified sources.'
 } = Astro.props;
 
 const fullTitle = title === 'Home'
-  ? 'Republican Misconduct Database'
-  : `${title} | Republican Misconduct Database`;
+  ? 'Misconduct Database'
+  : `${title} | Misconduct Database`;
 
 // Base path for all internal links
 const base = import.meta.env.BASE_URL;
@@ -80,10 +80,6 @@ const base = import.meta.env.BASE_URL;
           <a href={`${base}entries/`} class="nav-link px-3 py-2 rounded-lg text-sm font-medium text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors no-underline">
             Browse
           </a>
-          <a href={`${base}research/`} class="nav-link px-3 py-2 rounded-lg text-sm font-medium text-stone-600 dark:text-stone-400 hover:text-copper hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors no-underline">
-            Research
-          </a>
-          
           <!-- Theme Toggle Button -->
           <button
             id="theme-toggle"
@@ -118,8 +114,8 @@ const base = import.meta.env.BASE_URL;
         <div>
           <h3 class="font-display font-bold text-stone-800 dark:text-stone-100 mb-4">About This Database</h3>
           <p class="text-sm text-stone-600 dark:text-stone-400 leading-relaxed">
-            A documented collection of Republican-affiliated individuals accused of sexual misconduct, 
-            compiled from publicly available news sources and court records.
+            A documented collection of sexual-misconduct cases, abuse cover-ups, and archive-backed
+            Epstein-network figures compiled from publicly available reporting and court records.
           </p>
         </div>
         
@@ -135,11 +131,6 @@ const base = import.meta.env.BASE_URL;
             <li>
               <a href={`${base}entries/`} class="text-stone-600 dark:text-stone-400 hover:text-copper transition-colors no-underline">
                 Browse All Entries
-              </a>
-            </li>
-            <li>
-              <a href={`${base}research/`} class="text-stone-600 dark:text-stone-400 hover:text-copper transition-colors no-underline">
-                Research Hub
               </a>
             </li>
           </ul>

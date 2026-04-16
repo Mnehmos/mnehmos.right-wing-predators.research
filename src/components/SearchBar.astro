@@ -14,32 +14,60 @@ const sizeClasses = {
 ---
 
 <div class="search-container w-full" data-size={size}>
-  <div id="pagefind-search" class={`relative ${sizeClasses[size]}`}></div>
+  <div
+    data-pagefind-search
+    data-placeholder={placeholder}
+    class={`relative ${sizeClasses[size]}`}
+  ></div>
 </div>
 
 <script>
   // Initialize Pagefind search when available
   async function initSearch() {
-    const searchContainer = document.getElementById('pagefind-search');
-    if (!searchContainer) return;
-    
-    // @ts-ignore - Pagefind UI is loaded at runtime
-    const { PagefindUI } = await import('@pagefind/default-ui');
-    
-    new PagefindUI({
-      element: '#pagefind-search',
-      showSubResults: false,
-      showImages: false,
-      excerptLength: 15,
-      highlightParam: 'highlight',
-      translations: {
-        placeholder: 'Search entries...',
-        zero_results: 'No entries found for [SEARCH_TERM]',
-        many_results: '{count} entries found',
-        one_result: '1 entry found',
-        searching: 'Searching...',
+    const baseUrl =
+      document.querySelector('meta[name="base-url"]')?.getAttribute('content') ?? '/';
+    const normalizedBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
+    const bundlePath = `${normalizedBase}pagefind/`;
+
+    const containers = document.querySelectorAll('[data-pagefind-search]');
+    if (containers.length === 0) return;
+
+    try {
+      // @ts-ignore - Pagefind UI is loaded at runtime
+      const { PagefindUI } = await import('@pagefind/default-ui');
+
+      for (const searchContainer of containers) {
+        if (!(searchContainer instanceof HTMLElement)) continue;
+        if (searchContainer.dataset.pagefindInitialized === 'true') continue;
+
+        const placeholder = searchContainer.dataset.placeholder || 'Search entries...';
+
+        new PagefindUI({
+          element: searchContainer,
+          bundlePath,
+          showSubResults: false,
+          showImages: false,
+          excerptLength: 15,
+          highlightParam: 'highlight',
+          translations: {
+            placeholder,
+            zero_results: 'No entries found for [SEARCH_TERM]',
+            many_results: '{count} entries found',
+            one_result: '1 entry found',
+            searching: 'Searching...',
+          }
+        });
+
+        searchContainer.dataset.pagefindInitialized = 'true';
       }
-    });
+    } catch (error) {
+      console.error('Failed to initialize Pagefind search', error);
+      for (const searchContainer of containers) {
+        if (searchContainer instanceof HTMLElement) {
+          searchContainer.innerHTML = '';
+        }
+      }
+    }
   }
   
   // Wait for DOM and then initialize

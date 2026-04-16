@@ -1,6 +1,6 @@
-# Right-Wing Misconduct Database
+# Misconduct Database
 
-A comprehensive, searchable database of documented allegations and convictions of misconduct involving right-wing individuals.
+A comprehensive, searchable database of documented allegations, abuse-cover-up cases, and archive-backed Epstein-network entries.
 
 ## Features
 
@@ -11,7 +11,6 @@ A comprehensive, searchable database of documented allegations and convictions o
 - **Search Highlighting**: Search terms are highlighted in yellow in results
 - **CSV Export**: Export filtered results to CSV format
 - **Mobile Responsive**: Optimized for all screen sizes
-- **Research Hub**: Includes a local bridge into the public Epstein document archive for source discovery and research triage
 
 ## Database Statistics
 
@@ -109,15 +108,33 @@ Each entry in the JSON files contains:
 
 All data is sourced from publicly available information and court records. Each entry includes links to original sources for verification.
 
-## External Research Archives
+## Epstein Tagging
 
-This repo also supports a lightweight research bridge into the public
-[`epstein-docs/epstein-docs.github.io`](https://github.com/epstein-docs/epstein-docs.github.io)
-archive.
+Epstein-related material should use the existing tag system, not a separate schema.
 
-- Site page: `/research/epstein/`
-- Build script: `python scripts/build_epstein_archive.py --source .claude/tmp/epstein-docs.github.io`
-- Workflow notes: `docs/SPEC-epstein-archive-integration.md`
+Canonical tags:
+- `epstein files`
+- `epstein associate`
+- `epstein flight logs`
+- `epstein communications`
+- `epstein testimony`
+
+Apply the unified Epstein tags from the local archive clone:
+
+```bash
+python scripts/tag_epstein_entries.py --source .claude/tmp/epstein-docs.github.io --apply
+```
+
+Build reporting leads for:
+- existing database entries that appear in the archive
+- scoped focus people from `scripts/epstein_focus_people.json`
+- candidate additions and other substantive unmatched leads
+
+```bash
+python scripts/build_epstein_reporting_leads.py --source .claude/tmp/epstein-docs.github.io
+```
+
+The focus config also carries reviewed archive name variants and representative source links for database entries that need explicit matching beyond simple frontmatter-name normalization.
 
 ## Contributing
 

@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Donald Trump",
+    "entrySlug": "donald-trump",
+    "category": "existing-entry",
+    "notes": "Current database entry that appears directly in the released Epstein archive.",
+    "archiveNames": [
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/doj-ogr-00015952/",
+      "https://epstein-docs.github.io/document/doj-ogr-00015960/",
+      "https://epstein-docs.github.io/document/doj-ogr-00032484/",
+      "https://epstein-docs.github.io/document/doj-ogr-00032485/",
+      "https://epstein-docs.github.io/document/doj-ogr-00017719/",
+      "https://epstein-docs.github.io/document/doj-ogr-00017720/",
+      "https://epstein-docs.github.io/document/doj-ogr-00011277/",
+      "https://epstein-docs.github.io/document/doj-ogr-00032110/"
+    ]
+  },
+  {
+    "name": "Jeffrey Epstein",
+    "entrySlug": "jeffrey-epstein",
+    "category": "existing-entry",
+    "notes": "Primary archive subject whose released files include probable-cause affidavits, civil complaints, travel records, and federal docket material documenting the underlying abuse and trafficking operation.",
+    "archiveNames": [
+      "Jeffrey Epstein",
+      "Jeffrey E. Epstein",
+      "Jeffrey Edward Epstein"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/05-368-1/",
+      "https://epstein-docs.github.io/document/05-368-2/",
+      "https://epstein-docs.github.io/document/08-80069/",
+      "https://epstein-docs.github.io/document/09122006/",
+      "https://epstein-docs.github.io/document/042814/"
+    ]
+  },
+  {
+    "name": "Ghislaine Maxwell",
+    "entrySlug": "ghislaine-maxwell",
+    "category": "existing-entry",
+    "notes": "Core archive subject whose indictment, docket, bail filings, and victim statements describe grooming and abuse of minors alongside Jeffrey Epstein.",
+    "archiveNames": [
+      "Ghislaine Maxwell",
+      "Ghislain Maxwell",
+      "Ghislane Maxwell",
+      "Ghislainc Maxwell",
+      "G Maxwell"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/1/",
+      "https://epstein-docs.github.io/document/1-2/",
+      "https://epstein-docs.github.io/document/10/",
+      "https://epstein-docs.github.io/document/100/",
+      "https://epstein-docs.github.io/document/100-1/"
+    ]
+  },
+  {
+    "name": "Alan Dershowitz",
+    "entrySlug": "alan-dershowitz",
+    "category": "existing-entry",
+    "notes": "Archive-backed database entry added from allegation-related filings, investigative material, and flight logs.",
+    "archiveNames": [
+      "Alan Dershowitz",
+      "Alan M. Dershowitz"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/208-2/",
+      "https://epstein-docs.github.io/document/208-3/",
+      "https://epstein-docs.github.io/document/311-4/",
+      "https://epstein-docs.github.io/document/doj-ogr-00015958/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023053/"
+    ]
+  },
+  {
+    "name": "Barry Krischer",
+    "entrySlug": "barry-krischer",
+    "category": "existing-entry",
+    "notes": "Palm Beach state attorney whose archive-backed handling of the Epstein case drew criticism for leniency and grand-jury narrowing.",
+    "archiveNames": [
+      "Barry Krischer",
+      "Barry E. Krischer"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/5616404420/",
+      "https://epstein-docs.github.io/document/case-22-1426-document-77-06-29-2023-3536038/",
+      "https://epstein-docs.github.io/document/doj-ogr-00031398/",
+      "https://epstein-docs.github.io/document/doj-ogr-00032041/"
+    ]
+  },
+  {
+    "name": "Darren Indyke",
+    "entrySlug": "darren-indyke",
+    "category": "existing-entry",
+    "notes": "Archive-backed Epstein lawyer-associate and estate figure reflected in email exhibits, estate interrogatories, and pressure-adjacent litigation material.",
+    "archiveNames": [
+      "Darren Indyke"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/25-2/",
+      "https://epstein-docs.github.io/document/doj-ogr-00015260/",
+      "https://epstein-docs.github.io/document/doj-ogr-00015261/"
+    ]
+  },
+  {
+    "name": "Gerald Lefcourt",
+    "entrySlug": "gerald-lefcourt",
+    "category": "existing-entry",
+    "notes": "Archive-backed New York defense lawyer who signed the non-prosecution agreement and addendum on Epstein's behalf.",
+    "archiveNames": [
+      "Gerald Lefcourt"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/1-3/",
+      "https://epstein-docs.github.io/document/1130/",
+      "https://epstein-docs.github.io/document/1138-cr-ja-02/",
+      "https://epstein-docs.github.io/document/1-08-cr-00330-baf-document-438-filed-02-05-19-page-8-of-15/"
+    ]
+  },
+  {
+    "name": "Jean-Luc Brunel",
+    "entrySlug": "jean-luc-brunel",
+    "category": "existing-entry",
+    "notes": "Archive-backed Epstein associate described in investigative material as a recruiter of young females and reflected in later court filings about the broader network.",
+    "archiveNames": [
+      "Jean-Luc Brunel"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/doj-ogr-00022385/",
+      "https://epstein-docs.github.io/document/20-cr-330-ajn-document-1032/",
+      "https://epstein-docs.github.io/document/2017-00330/"
+    ]
+  },
+  {
+    "name": "Sarah Kellen",
+    "entrySlug": "sarah-kellen",
+    "category": "existing-entry",
+    "notes": "Archive-backed Epstein assistant and alleged co-defendant tied to recruitment, operational support, and the Palm Beach sexual-battery investigation.",
+    "archiveNames": [
+      "Sarah Kellen"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/281849-clw/",
+      "https://epstein-docs.github.io/document/05-368-1/",
+      "https://epstein-docs.github.io/document/05-368-2/",
+      "https://epstein-docs.github.io/document/1-05-000368/",
+      "https://epstein-docs.github.io/document/153497/"
+    ]
+  },
+  {
+    "name": "Nadia Marcinkova",
+    "entrySlug": "nadia-marcinkova",
+    "category": "existing-entry",
+    "notes": "Archive-backed Epstein associate named among the co-conspirators protected by the non-prosecution framework and reflected in flight-manifest material.",
+    "archiveNames": [
+      "Nadia Marcinkova"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/1-10-cr-00330-akh-document-143-filed-07-16-05-page-6-of-15/",
+      "https://epstein-docs.github.io/document/1-100-cr-00308/",
+      "https://epstein-docs.github.io/document/20-20033-pae/",
+      "https://epstein-docs.github.io/document/561478553/"
+    ]
+  },
+  {
+    "name": "Lesley Groff",
+    "entrySlug": "lesley-groff",
+    "category": "existing-entry",
+    "notes": "Archive-backed Epstein associate named in the plea protection for co-conspirators and described in victim filings as facilitating access and buying gifts for Jane Doe on Epstein's behalf.",
+    "archiveNames": [
+      "Lesley Groff",
+      "Leslie Groff"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/1-10-cr-00330-akh-document-143-filed-07-16-05-page-6-of-15/",
+      "https://epstein-docs.github.io/document/1-100-cr-00308/",
+      "https://epstein-docs.github.io/document/20-20033-pae/",
+      "https://epstein-docs.github.io/document/doj-ogr-00015261/"
+    ]
+  },
+  {
+    "name": "Haley Robson",
+    "entrySlug": "haley-robson",
+    "category": "existing-entry",
+    "notes": "Archive-backed recruiter whose affidavits, police reports, and sworn interview place her inside the pipeline that brought minors to Epstein.",
+    "archiveNames": [
+      "Haley Robson"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/05-368-1/",
+      "https://epstein-docs.github.io/document/05-368-2/",
+      "https://epstein-docs.github.io/document/05-368-3/",
+      "https://epstein-docs.github.io/document/1-05-000368/",
+      "https://epstein-docs.github.io/document/2257/",
+      "https://epstein-docs.github.io/document/2259/"
+    ]
+  },
+  {
+    "name": "Jack Goldberger",
+    "entrySlug": "jack-goldberger",
+    "category": "existing-entry",
+    "notes": "Archive-backed defense lawyer whose role in the Epstein case includes plea-delay strategy, deposition disputes, and witness-pressure-adjacent conflict during the Palm Beach litigation.",
+    "archiveNames": [
+      "Jack Goldberger",
+      "Jack A. Goldberger",
+      "Goldberger"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/19-372/",
+      "https://epstein-docs.github.io/document/23-1/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023053/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023132/",
+      "https://epstein-docs.github.io/document/doj-ogr-00032046/"
+    ]
+  },
+  {
+    "name": "Ken Starr",
+    "entrySlug": "political-hack-and-professional-hypocrite-ken-starr-covered",
+    "category": "existing-entry",
+    "notes": "Existing database entry that also appears in the archive as a member of Epstein's legal team.",
+    "archiveNames": [
+      "Kenneth Starr"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/doj-ogr-00023132/",
+      "https://epstein-docs.github.io/document/doj-ogr-00031398/"
+    ]
+  },
+  {
+    "name": "Alex Acosta",
+    "entrySlug": "alex-acosta",
+    "category": "existing-entry",
+    "notes": "Archive-backed database entry based on the non-prosecution agreement and the later internal review of his handling of the Epstein case.",
+    "archiveNames": [
+      "Alex Acosta",
+      "Alexander Acosta",
+      "Alexander A. Acosta",
+      "R. Alexander Acosta"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/doj-ogr-00023028/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023031/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023033/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023095/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023348/"
+    ]
+  },
+  {
+    "name": "Jay Lefkowitz",
+    "entrySlug": "jay-lefkowitz",
+    "category": "existing-entry",
+    "notes": "Former George W. Bush White House domestic-policy official whose archive-backed role in the Epstein case includes plea negotiations, direct communications with prosecutors, and defense work at Epstein's sex-offender-registration hearing.",
+    "archiveNames": [
+      "Jay Lefkowitz",
+      "Lefkowitz"
+    ],
+    "sources": [
+      "https://epstein-docs.github.io/document/14/",
+      "https://epstein-docs.github.io/document/32-1/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023030/",
+      "https://epstein-docs.github.io/document/doj-ogr-00023194/",
+      "https://epstein-docs.github.io/document/sa-116/"
+    ]
+  },
+  {
+    "name": "Ron DeSantis",
+    "category": "context-only",
+    "notes": "Archive context figure because of later investigative actions, not a database entry for sexual misconduct or abuse cover-up.",
+    "archiveNames": [
+      "Ron DeSantis"
+    ]
+  }
+]
