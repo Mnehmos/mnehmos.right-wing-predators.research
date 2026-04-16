@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEpsteinSummary } from '../../utils/epstein-data';
+
+const base = import.meta.env.BASE_URL;
+const summary = await getEpsteinSummary();
+---
+
+<BaseLayout
+  title="Research"
+  description="Research resources and external document archives used to support database updates."
+>
+  <section class="py-10 md:py-14">
+    <div class="max-w-4xl">
+      <p class="text-sm font-semibold uppercase tracking-[0.18em] text-copper mb-4">Research</p>
+      <h1 class="text-4xl md:text-5xl font-extrabold font-display text-stone-800 dark:text-stone-100 mb-6">
+        Source Archives And Update Workflows
+      </h1>
+      <p class="text-lg text-stone-600 dark:text-stone-300 max-w-3xl leading-relaxed">
+        This section collects external archives, processed document corpora, and update workflows that support
+        new entry research, appends, and revisions without forcing the main site to ingest every upstream source
+        verbatim.
+      </p>
+    </div>
+  </section>
+
+  <section class="pb-8">
+    <div class="grid grid-cols-1 xl:grid-cols-[minmax(0,1.6fr)_minmax(280px,0.8fr)] gap-6 items-start">
+      <article class="card card-hover p-6 md:p-8">
+        <div class="flex flex-wrap items-start justify-between gap-4 mb-5">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-2">Archive Bridge</p>
+            <h2 class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100">Epstein Files Research Hub</h2>
+          </div>
+          <a href={`${base}research/epstein/`} class="btn btn-primary no-underline">Open Archive Hub</a>
+        </div>
+
+        <p class="text-stone-600 dark:text-stone-300 leading-relaxed mb-5">
+          A local summary and searchable document index built from the public
+          <a href="https://github.com/epstein-docs/epstein-docs.github.io">epstein-docs/epstein-docs.github.io</a>
+          archive. Use it to triage document leads, identify people and organizations that appear in the corpus,
+          and support source-backed additions to database entries.
+        </p>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+          <div class="rounded-xl border border-stone-200 dark:border-stone-700/50 bg-stone-50 dark:bg-stone-900/60 p-4">
+            <div class="text-xs uppercase tracking-wide text-stone-500 dark:text-stone-400 mb-1">Documents</div>
+            <div class="text-2xl font-bold text-stone-800 dark:text-stone-100">{summary?.stats.documents.toLocaleString() ?? '—'}</div>
+          </div>
+          <div class="rounded-xl border border-stone-200 dark:border-stone-700/50 bg-stone-50 dark:bg-stone-900/60 p-4">
+            <div class="text-xs uppercase tracking-wide text-stone-500 dark:text-stone-400 mb-1">Pages</div>
+            <div class="text-2xl font-bold text-stone-800 dark:text-stone-100">{summary?.stats.pages.toLocaleString() ?? '—'}</div>
+          </div>
+          <div class="rounded-xl border border-stone-200 dark:border-stone-700/50 bg-stone-50 dark:bg-stone-900/60 p-4">
+            <div class="text-xs uppercase tracking-wide text-stone-500 dark:text-stone-400 mb-1">People</div>
+            <div class="text-2xl font-bold text-stone-800 dark:text-stone-100">{summary?.stats.people.toLocaleString() ?? '—'}</div>
+          </div>
+          <div class="rounded-xl border border-stone-200 dark:border-stone-700/50 bg-stone-50 dark:bg-stone-900/60 p-4">
+            <div class="text-xs uppercase tracking-wide text-stone-500 dark:text-stone-400 mb-1">Analyses</div>
+            <div class="text-2xl font-bold text-stone-800 dark:text-stone-100">{summary?.stats.analyses.toLocaleString() ?? '—'}</div>
+          </div>
+        </div>
+      </article>
+
+      <aside class="card p-6">
+        <h2 class="text-lg font-bold font-display text-stone-800 dark:text-stone-100 mb-4">Workflow</h2>
+        <ol class="space-y-3 text-sm text-stone-600 dark:text-stone-300 leading-relaxed">
+          <li>1. Sync the upstream archive repo locally.</li>
+          <li>2. Rebuild the local summary and search index.</li>
+          <li>3. Use the archive hub to find corroborating document leads.</li>
+          <li>4. Append or insert database updates only after source review.</li>
+        </ol>
+        <div class="mt-5 pt-5 border-t border-stone-200 dark:border-stone-800">
+          <a href="https://github.com/epstein-docs/epstein-docs.github.io" class="text-sm font-medium no-underline">
+            View source repo
+          </a>
+        </div>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>

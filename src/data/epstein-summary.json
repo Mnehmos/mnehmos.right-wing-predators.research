@@ -1,0 +1,2180 @@
+{
+  "generatedAt": "2026-04-16T17:08:47.861105+00:00",
+  "sourceRepo": "https://github.com/epstein-docs/epstein-docs.github.io",
+  "sourceArchive": "https://epstein-docs.github.io/",
+  "sourcePath": "F:\\Github\\mnehmos.right-wing-predators.research\\.claude\\tmp\\epstein-docs.github.io",
+  "sourceCommit": "b92183bb667afd636872d9f854de8154d61f68b4",
+  "stats": {
+    "documents": 8176,
+    "pages": 29439,
+    "analyses": 8174,
+    "people": 12243,
+    "organizations": 5709,
+    "locations": 3210,
+    "dates": 10913,
+    "documentTypes": 45
+  },
+  "topPeople": [
+    {
+      "name": "EPSTEIN, JEFFREY EDWARD",
+      "count": 3998
+    },
+    {
+      "name": "Ghislaine Noelle Marion Maxwell",
+      "count": 1406
+    },
+    {
+      "name": "Judge Alison J. Nathan",
+      "count": 738
+    },
+    {
+      "name": "Shirley V. Skibber-Scott",
+      "count": 593
+    },
+    {
+      "name": "Ormond, Ray",
+      "count": 461
+    },
+    {
+      "name": "Lamine N'DiayeLee Plourde",
+      "count": 398
+    },
+    {
+      "name": "Alison.Moe@usdoj.gov",
+      "count": 393
+    },
+    {
+      "name": "Maurene Ryan Coney",
+      "count": 385
+    },
+    {
+      "name": "Lara Elizabeth Pomerantz",
+      "count": 383
+    },
+    {
+      "name": "ANDREW ROHRBACH",
+      "count": 319
+    },
+    {
+      "name": "CHRISTIAN R. EVERDELL",
+      "count": 309
+    },
+    {
+      "name": "Bobbi C. Sternheim",
+      "count": 297
+    },
+    {
+      "name": "JEFFREY S. PAGLIUCA",
+      "count": 264
+    },
+    {
+      "name": "Laura A. Menninger",
+      "count": 251
+    },
+    {
+      "name": "Hugh J. Hurwitz",
+      "count": 198
+    },
+    {
+      "name": "Charisma Edge Lamine",
+      "count": 194
+    },
+    {
+      "name": "DAMIAN WILLIAMS",
+      "count": 186
+    },
+    {
+      "name": "Audrey Strauss",
+      "count": 146
+    }
+  ],
+  "topOrganizations": [
+    {
+      "name": "DOJ",
+      "count": 1342
+    },
+    {
+      "name": "Bureau of 'Pretrial Punishment'",
+      "count": 1234
+    },
+    {
+      "name": "MCC-New York Psychology Services Department",
+      "count": 893
+    },
+    {
+      "name": "United States District Court",
+      "count": 636
+    },
+    {
+      "name": "Metropolitan Correctional Center in New York",
+      "count": 627
+    },
+    {
+      "name": "Federal Bureau of Prisons (BOP)",
+      "count": 504
+    },
+    {
+      "name": "Gov't Opp. Br.",
+      "count": 486
+    },
+    {
+      "name": "Southern District of New York's Assignment Committee",
+      "count": 473
+    },
+    {
+      "name": "UNITED STATES OF AMERICA",
+      "count": 447
+    },
+    {
+      "name": "Court",
+      "count": 443
+    },
+    {
+      "name": "U.S. Department of Justice (DOJ)",
+      "count": 432
+    },
+    {
+      "name": "United States District Court for the Southern District of New York",
+      "count": 380
+    },
+    {
+      "name": "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+      "count": 362
+    },
+    {
+      "name": "Federal Bureau of Investigation Forensics Laboratory",
+      "count": 359
+    },
+    {
+      "name": "United States Attorney",
+      "count": 333
+    },
+    {
+      "name": "United States",
+      "count": 306
+    },
+    {
+      "name": "Department of Justice (D.O.J)",
+      "count": 263
+    },
+    {
+      "name": "Second Circuit Court of Appeals",
+      "count": 242
+    }
+  ],
+  "topLocations": [
+    {
+      "name": "New York, New York",
+      "count": 2302
+    },
+    {
+      "name": "STATE OF NEW YORK",
+      "count": 680
+    },
+    {
+      "name": "United States of America",
+      "count": 456
+    },
+    {
+      "name": "Florida",
+      "count": 441
+    },
+    {
+      "name": "NYM - SHU - Housing Unit, Special (SHU) - 9 SOUTH SHU",
+      "count": 318
+    },
+    {
+      "name": "PALM BEACH FL 33480 US",
+      "count": 308
+    },
+    {
+      "name": "Southern Districts of New York",
+      "count": 294
+    },
+    {
+      "name": "S.D.N.Y.",
+      "count": 258
+    },
+    {
+      "name": "JOHN F KENNEDY INTL",
+      "count": 232
+    },
+    {
+      "name": "Denver County, Colorado",
+      "count": 227
+    },
+    {
+      "name": "PBI",
+      "count": 223
+    },
+    {
+      "name": "UNITED STATES OF AMERICA",
+      "count": 187
+    },
+    {
+      "name": "Manhattan Division",
+      "count": 170
+    },
+    {
+      "name": "French Republic",
+      "count": 163
+    },
+    {
+      "name": "MCC 2nd Floor Attorney Conference Room",
+      "count": 160
+    },
+    {
+      "name": "New Mexico (D.N.M.)",
+      "count": 150
+    },
+    {
+      "name": "TEB",
+      "count": 150
+    },
+    {
+      "name": "United Kingdom",
+      "count": 135
+    }
+  ],
+  "topDocumentTypes": [
+    {
+      "name": "Court Filing",
+      "count": 1641
+    },
+    {
+      "name": "Email",
+      "count": 1466
+    },
+    {
+      "name": "Report",
+      "count": 979
+    },
+    {
+      "name": "Financial Record",
+      "count": 655
+    },
+    {
+      "name": "Medical Record",
+      "count": 409
+    },
+    {
+      "name": "Log",
+      "count": 392
+    },
+    {
+      "name": "Transcript",
+      "count": 321
+    },
+    {
+      "name": "Exhibit",
+      "count": 259
+    },
+    {
+      "name": "Memorandum",
+      "count": 248
+    },
+    {
+      "name": "Flight Log",
+      "count": 240
+    },
+    {
+      "name": "Letter",
+      "count": 182
+    },
+    {
+      "name": "Record",
+      "count": 127
+    }
+  ],
+  "featuredDocuments": [
+    {
+      "id": "17-295",
+      "documentNumber": "17-295",
+      "date": "07/26/17",
+      "dateSort": "07/26/17",
+      "documentType": "Request",
+      "pageCount": 1498,
+      "folders": [
+        "IMAGES011",
+        "IMAGES012"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Det Joe Recarey",
+        "Sarah",
+        "Sarah Kellen Vickers",
+        "Haley Robson",
+        "MR. TEIN",
+        "MR. LEOPOLD",
+        "Lanna Belholovick"
+      ],
+      "organizations": [
+        "DOJ",
+        "Palm Beach Police Department (PBPD)",
+        "Censor & Associates Reporting and Transcription, Inc.",
+        "Myspace",
+        "State Attorney's Office for the 15th Judicial Circuit",
+        "Censor & Associates"
+      ],
+      "locations": [
+        "Florida",
+        "PALM BEACH FL 33480 US",
+        "West Palm Beach",
+        "Royal Palm Beach High School",
+        "West Palm Beach, Florida"
+      ],
+      "dates": [
+        "07/26/17",
+        "May 1, 2006",
+        "November 14, 2005",
+        "February 9, 2006",
+        "October 11, 2005"
+      ],
+      "referenceNumbers": [
+        "17-295",
+        "FLO 500600",
+        "20425696",
+        "N909JE",
+        "G-1159B",
+        "204256"
+      ],
+      "summary": "The document is a compilation of evidence, including a Probable Cause Affidavit from the Palm Beach Police Department, and related materials such as Myspace.com pages and phone records. It details the investigation into allegations of sexual misconduct by Jeffrey Epstein, including testimony from individuals who provided massage services to him.",
+      "significance": "This document is potentially important as it provides evidence and testimony related to the allegations of sexual misconduct against Jeffrey Epstein, including details about the massage services provided to him and the...",
+      "keyTopics": [
+        "Massage services provided to Jeffrey Epstein",
+        "Allegations of sexual misconduct by Jeffrey Epstein",
+        "Investigation and evidence collection"
+      ],
+      "url": "https://epstein-docs.github.io/document/17-295/"
+    },
+    {
+      "id": "759",
+      "documentNumber": "759",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 534,
+      "folders": [
+        "IMAGES005",
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ms. Pomerantz",
+        "MS. MENNINGER",
+        "Ghislaine Noelle Marion Maxwell",
+        "Ms. Farmer",
+        "Annie",
+        "MS. MOE",
+        "Laura A. Menninger"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "THE COURT",
+        "Epstein Victim Compensation Program (EVCP)",
+        "Department of Motor Vehicles",
+        "federal government"
+      ],
+      "locations": [
+        "New York, New York",
+        "New Mexico (D.N.M.)",
+        "THAILAND",
+        "Arizona",
+        "Vietnam"
+      ],
+      "dates": [
+        "08/10/22",
+        "2006",
+        "1996",
+        "2019",
+        "Wednesday"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "759",
+        "(212) 805-0300",
+        "267",
+        "603",
+        "604"
+      ],
+      "summary": "The transcript records a discussion between the judge, prosecutors, and defense attorneys regarding the admission of Government Exhibit 52 and its subparts into evidence. The prosecution and defense clarify their understanding of the stipulation regarding the authenticity of the photocopies. The judge ultimately overrules the defense's objection to...",
+      "significance": "This document is a transcript of a court proceeding in the trial of Ghislaine Maxwell, discussing the admissibility of evidence and stipulations regarding photocopies. It provides insight into the legal arguments and...",
+      "keyTopics": [
+        "Admissibility of Government Exhibit 52",
+        "Authentication of evidence",
+        "Stipulation regarding photocopies"
+      ],
+      "url": "https://epstein-docs.github.io/document/759/"
+    },
+    {
+      "id": "753",
+      "documentNumber": "753",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 528,
+      "folders": [
+        "IMAGES005",
+        "IMAGES007"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Mr. Pagliucca",
+        "MS. COMEY",
+        "Casey/Caroline",
+        "Ghislaine Noelle Marion Maxwell",
+        "Ms. Drescher",
+        "Ms. Pomerantz",
+        "MR. FLATLEY"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "THE COURT",
+        "DOJ",
+        "Epstein Victim Compensation Program (EVCP)",
+        "federal government"
+      ],
+      "locations": [
+        "New York, New York",
+        "PALM BEACH FL 33480 US",
+        "Florida",
+        "Epstein's residence",
+        "Georgia"
+      ],
+      "dates": [
+        "08/10/22",
+        "2007",
+        "2009",
+        "2002",
+        "2003"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "753",
+        "264",
+        "(212) 805-0300",
+        "54",
+        "1B75"
+      ],
+      "summary": "The transcript details a discussion between the court, prosecution, and defense regarding a potential violation of the sequestration order by witness Jane, who contacted her brother Brian, another witness, after testifying. The defense requests that Brian be barred from testifying or that a hearing be held to examine the matter.",
+      "significance": "This document reveals a potential violation of the court's sequestration order by a witness, Jane, which could impact the trial's integrity and the testimony of another witness, Brian.",
+      "keyTopics": [
+        "Violation of sequestration order by witness Jane",
+        "Discussion about witness Brian's testimony",
+        "Defense's request to forbid witness Brian from testifying or hold a hearing"
+      ],
+      "url": "https://epstein-docs.github.io/document/753/"
+    },
+    {
+      "id": "745",
+      "documentNumber": "745",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 528,
+      "folders": [
+        "IMAGES005",
+        "IMAGES007"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ms. Jane",
+        "MS. MENNINGER",
+        "MS. MOE",
+        "Ghislaine Noelle Marion Maxwell",
+        "Ms. Sterntheim",
+        "Laura A. Menninger",
+        "Mr. Rohrbach"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "Interlochen Center for the Arts",
+        "federal government",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "THE COURT",
+        "Professional Children's School"
+      ],
+      "locations": [
+        "New York, New York",
+        "Florida",
+        "PALM BEACH FL 33480 US",
+        "New Mexico (D.N.M.)",
+        "Interlocken"
+      ],
+      "dates": [
+        "08/10/22",
+        "1994",
+        "1996",
+        "December 2019",
+        "December of 2019"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "745",
+        "3509-008",
+        "(212) 805-0300",
+        "264",
+        "3509-001"
+      ],
+      "summary": "The transcript is from the trial of Ghislaine Maxwell, discussing legal issues such as the admissibility of a photograph as impeachment evidence and the disclosure requirements under Rule 16. The judge and lawyers debate the nuances of impeachment by contradiction and the application of Rule 608.",
+      "significance": "This transcript reveals discussions between the judge and lawyers regarding the admissibility of evidence and witness testimony in the Ghislaine Maxwell trial, highlighting the complexities of legal arguments around...",
+      "keyTopics": [
+        "Rule 16 and impeachment by contradiction",
+        "Disclosure of evidence",
+        "Witness testimony under pseudonyms"
+      ],
+      "url": "https://epstein-docs.github.io/document/745/"
+    },
+    {
+      "id": "755",
+      "documentNumber": "755",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 522,
+      "folders": [
+        "IMAGES005",
+        "IMAGES007"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ghislaine Noelle Marion Maxwell",
+        "MS. COMEY",
+        "Mr. Pagliucca",
+        "Mr. Rodgers",
+        "Ms. Jane",
+        "Casey/Caroline",
+        "Mr. Rohrbach"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "THE MAR-A-LAGO CLUB",
+        "THE COURT",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "Gov't Opp. Br.",
+        "DOJ"
+      ],
+      "locations": [
+        "PALM BEACH FL 33480 US",
+        "Teterboro, New Jersey",
+        "Florida",
+        "New Jersey",
+        "New Mexico (D.N.M.)"
+      ],
+      "dates": [
+        "08/10/22",
+        "2004",
+        "1991",
+        "1994",
+        "1990s"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "755",
+        "(212) 805-0300",
+        "823",
+        "662",
+        "824"
+      ],
+      "summary": "The transcript captures a discussion between the judge, prosecutors, and defense attorneys regarding the potential recall of a witness named Jane and the subpoena of Brian, with the defense seeking disclosure about Jane's conversations with her brother.",
+      "significance": "This document is a transcript of a court hearing in the trial of Ghislaine Maxwell, discussing the recall of a witness and the subpoena of another, which may be relevant to the case's outcome.",
+      "keyTopics": [
+        "Discussion about recalling a witness named Jane",
+        "Subpoenaing a witness named Brian",
+        "Disclosure of conversations between Jane and her brother"
+      ],
+      "url": "https://epstein-docs.github.io/document/755/"
+    },
+    {
+      "id": "751",
+      "documentNumber": "751",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 520,
+      "folders": [
+        "IMAGES005",
+        "IMAGES007"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ghislaine Noelle Marion Maxwell",
+        "Kate",
+        "MS. MOE",
+        "Ms. Pomerantz",
+        "Ms. Sterntheim",
+        "MR. EVANDELL",
+        "Mr. McHugh"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "JP Morgan Chase Bank, N.A.",
+        "THE COURT",
+        "Financial Trust Company, Inc.",
+        "DOJ"
+      ],
+      "locations": [
+        "New York, New York",
+        "London, England",
+        "PALM BEACH FL 33480 US",
+        "Paris-LeBourget",
+        "United States of America"
+      ],
+      "dates": [
+        "08/10/22",
+        "2019",
+        "1994",
+        "June 18th",
+        "2002"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "751",
+        "502",
+        "261",
+        "506",
+        "504"
+      ],
+      "summary": "The court discusses the government's request for a limiting instruction regarding the testimony of witness Kate, who will testify under a pseudonym. The court decides to include language in the instruction that it had directed the government not to ask about details of Kate's sexual conduct with Jeffrey Epstein.",
+      "significance": "This document is a transcript of a court hearing in the Ghislaine Maxwell trial, discussing the testimony of a witness known as 'Kate' and the limiting instruction to be given to the jury. It reveals the court's...",
+      "keyTopics": [
+        "Ghislaine Maxwell trial",
+        "Limiting instruction for witness testimony",
+        "Relevance of witness Kate's testimony"
+      ],
+      "url": "https://epstein-docs.github.io/document/751/"
+    },
+    {
+      "id": "767",
+      "documentNumber": "767",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Court Filing",
+      "pageCount": 514,
+      "folders": [
+        "IMAGES005",
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "Ghislaine Noelle Marion Maxwell",
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ms. Jane",
+        "Casey/Caroline",
+        "Laura A. Menninger",
+        "Annie",
+        "Kate",
+        "Ms. Moe"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "Federal Express Corporation",
+        "Epstein Victim Compensation Program (EVCP)",
+        "Interlochen Center for the Arts",
+        "Boies Schiller & Flexner (BSF)"
+      ],
+      "locations": [
+        "New York, New York",
+        "PALM BEACH FL 33480 US",
+        "New Mexico (D.N.M.)",
+        "Interlocken",
+        "Florida"
+      ],
+      "dates": [
+        "08/10/22",
+        "1994",
+        "2004",
+        "1996",
+        "2001"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "767",
+        "(212) 805-0300",
+        "257",
+        "LCKVMAX2",
+        "Document 767"
+      ],
+      "summary": "The transcript records a court hearing on December 20, 2021, before Judge Alison J. Nathan, where the prosecution and defense discussed trial logistics, including the redaction of sensitive materials and the timing of closing arguments. The court confirmed that all admitted exhibits had been docketed with tailored redactions and discussed the public...",
+      "significance": "This document is a transcript of a court hearing in the trial of Ghislaine Maxwell, discussing preliminary matters, redaction of sensitive materials, and the timing of closing arguments.",
+      "keyTopics": [
+        "Trial proceedings",
+        "Redaction of sensitive materials",
+        "Timing of closing arguments"
+      ],
+      "url": "https://epstein-docs.github.io/document/767/"
+    },
+    {
+      "id": "743",
+      "documentNumber": "743",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 494,
+      "folders": [
+        "IMAGES005",
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ghislaine Noelle Marion Maxwell",
+        "Ms. Jane",
+        "MS. COMEY",
+        "Mr. Visoski",
+        "MR. LARRY VISOSKI",
+        "MR. EVANDELL",
+        "Mr. Everdell"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "THE COURT",
+        "Boeing",
+        "Interlochen Center for the Arts",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "Victoria's Secrets"
+      ],
+      "locations": [
+        "PALM BEACH FL 33480 US",
+        "New York, New York",
+        "New Mexico (D.N.M.)",
+        "Little St. James Island",
+        "Interlocken"
+      ],
+      "dates": [
+        "08/10/22",
+        "2000",
+        "1994",
+        "1991",
+        "1990s"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "743",
+        "Document 743",
+        "247",
+        "(212) 805-0300",
+        "LBUVMAX4"
+      ],
+      "summary": "The transcript captures a pre-trial hearing in the Ghislaine Maxwell case, where the judge discusses various logistical matters, including a juror's travel plans and potential hardship. The judge and attorneys debate how to accommodate the juror's plans while keeping the trial on schedule.",
+      "significance": "This transcript provides insight into the pre-trial proceedings and logistical considerations in the Ghislaine Maxwell case, highlighting the judge's efforts to manage the trial and ensure a fair process.",
+      "keyTopics": [
+        "Pre-trial proceedings in the Ghislaine Maxwell case",
+        "Discussion about a juror's travel plans and potential hardship",
+        "Logistics of the trial, including accommodations for observers"
+      ],
+      "url": "https://epstein-docs.github.io/document/743/"
+    },
+    {
+      "id": "761",
+      "documentNumber": "761",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 492,
+      "folders": [
+        "IMAGES005",
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "Ms. Pomerantz",
+        "EPSTEIN, JEFFREY EDWARD",
+        "MR. EVANDELL",
+        "Ghislaine Noelle Marion Maxwell",
+        "Loftus",
+        "Ms. Sterntheim",
+        "Ms. Jane",
+        "Ms. Espinosa"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "CBP",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "customs and border protection",
+        "SHOPPERS TRAVEL, INC.",
+        "THE COURT"
+      ],
+      "locations": [
+        "New York, New York",
+        "United States of America",
+        "London, England",
+        "California",
+        "Florida"
+      ],
+      "dates": [
+        "08/10/22",
+        "1996",
+        "9/11",
+        "2010",
+        "1997"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "761",
+        "(212) 805-0300",
+        "246",
+        "LCGVMAX5",
+        "LCGVMAX7"
+      ],
+      "summary": "The transcript records a court hearing on December 16, 2021, in the trial of Ghislaine Maxwell. The court discusses several issues, including prior inconsistent statements, defense witness anonymity, and the attorney witness issue. The judge provides guidance on these matters and rules on certain requests made by the defense.",
+      "significance": "This document is a transcript of a court hearing in the trial of Ghislaine Maxwell, discussing various pre-trial issues and the court's rulings on them. It provides insight into the legal strategies and arguments...",
+      "keyTopics": [
+        "Prior inconsistent statements issue",
+        "Defense witness anonymity",
+        "Attorney witness issue"
+      ],
+      "url": "https://epstein-docs.github.io/document/761/"
+    },
+    {
+      "id": "749",
+      "documentNumber": "749",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 472,
+      "folders": [
+        "IMAGES005",
+        "IMAGES007"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "MS. COMEY",
+        "EPSTEIN, JEFFREY EDWARD",
+        "Mr. Parkinson",
+        "MR. EVANDELL",
+        "Mr. Pagliucca",
+        "Mr. Alessi",
+        "Ms. Drescher",
+        "Ghislaine Noelle Marion Maxwell"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "THE COURT",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "Palm Beach Police Department (PBPD)",
+        "The Breakers",
+        "Boca Raton Resort and Hotel"
+      ],
+      "locations": [
+        "PALM BEACH FL 33480 US",
+        "358 El Brillo Way",
+        "El Brillo Way",
+        "West Palm Beach",
+        "Florida"
+      ],
+      "dates": [
+        "08/10/22",
+        "October 20, 2005",
+        "October 20th, 2005",
+        "2002",
+        "2003"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "749",
+        "Document 749",
+        "3504-030",
+        "236",
+        "(212) 805-0300"
+      ],
+      "summary": "The transcript captures a discussion between the defense and the court regarding the admissibility of certain photographs and testimony related to a search of Jeffrey Epstein's Palm Beach residence. The defense objects to specific exhibits, arguing they are prejudicial and not relevant to the case against Ghislaine Maxwell.",
+      "significance": "This document is a transcript of a trial proceeding in the case against Ghislaine Maxwell, providing insight into the legal arguments and evidence being presented. It highlights the defense's objections to certain...",
+      "keyTopics": [
+        "Admissibility of evidence related to a search of Jeffrey Epstein's Palm Beach residence",
+        "Objections to specific photographs and testimony",
+        "Trial proceedings against Ghislaine Maxwell"
+      ],
+      "url": "https://epstein-docs.github.io/document/749/"
+    },
+    {
+      "id": "747",
+      "documentNumber": "747",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 456,
+      "folders": [
+        "IMAGES005",
+        "IMAGES007"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Mr. Pagliucca",
+        "Ghislaine Noelle Marion Maxwell",
+        "MS. COMEY",
+        "Mr. Alessi",
+        "Dr. Rocchio",
+        "Alessi/Juan",
+        "Ms. Pomerantz"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "THE COURT",
+        "Professional Children's School",
+        "DOJ",
+        "American Psychological Association (APA)",
+        "John Jay College of Criminal Justice"
+      ],
+      "locations": [
+        "PALM BEACH FL 33480 US",
+        "New York, New York",
+        "Florida",
+        "Mar-a-Lago Hotel",
+        "West Palm Beach"
+      ],
+      "dates": [
+        "08/10/22",
+        "2002",
+        "August 10, 2022",
+        "1991",
+        "1994"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "747",
+        "Document 747",
+        "228",
+        "(212) 805-0300",
+        "52"
+      ],
+      "summary": "The transcript records a court hearing on December 2, 2021, in the trial of Ghislaine Maxwell, where the judge and lawyers discuss the admissibility of Government Exhibits 52 and 606. The government argues that the exhibits are not being offered for their truth value, while the defense disputes this characterization and raises relevance issues. The judge...",
+      "significance": "This document is a transcript of a court hearing in the trial of Ghislaine Maxwell, discussing the admissibility of certain government exhibits and the relevance and authenticity of evidence. It reveals the legal...",
+      "keyTopics": [
+        "Admissibility of Government Exhibits 52 and 606",
+        "Relevance and authenticity of evidence",
+        "Voir dire on exhibits before ruling on admission"
+      ],
+      "url": "https://epstein-docs.github.io/document/747/"
+    },
+    {
+      "id": "204-3",
+      "documentNumber": "204-3",
+      "date": "04/16/21",
+      "dateSort": "04/16/21",
+      "documentType": "Court Filing",
+      "pageCount": 403,
+      "folders": [
+        "IMAGES002",
+        "IMAGES008"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ms.Villaflana",
+        "Acosta",
+        "Mr. Sloman",
+        "Lourie",
+        "Menchel",
+        "MR. LEFKOWITZ",
+        "Sanchez, Carlos"
+      ],
+      "organizations": [
+        "United States Attorney Southern District of Florida",
+        "OFFICE OF PROFESSIONAL RESPONSIBILITY",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "State Attorney's Office for the 15th Judicial Circuit",
+        "Department",
+        "DOJ"
+      ],
+      "locations": [
+        "Florida",
+        "West Palm Beach",
+        "PALM BEACH FL 33480 US",
+        "Miami Beach, Florida",
+        "New York, New York"
+      ],
+      "dates": [
+        "04/16/21",
+        "June 29, 2023",
+        "June 30, 2008",
+        "September 24, 2007",
+        "2005"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "204-3",
+        "Document 204-3",
+        "Case 1:20-cr-00330-AJN",
+        "Case 22-1426",
+        "Document 78"
+      ],
+      "summary": "The report investigates allegations that prosecutors in the U.S. Attorney's Office for the Southern District of Florida improperly resolved a federal investigation into Jeffrey Epstein's criminal conduct. It details the negotiation of a non-prosecution agreement and the subsequent handling of victims' rights. The report also examines potential professional...",
+      "significance": "This document is potentially important as it reveals the details of the DOJ's investigation into the handling of the Jeffrey Epstein case and potential misconduct by prosecutors. It provides insight into the...",
+      "keyTopics": [
+        "Investigation into Jeffrey Epstein's criminal conduct",
+        "Non-prosecution agreement (NPA) and its implications",
+        "Crime Victims' Rights Act (CVRA) violations"
+      ],
+      "url": "https://epstein-docs.github.io/document/204-3/"
+    },
+    {
+      "id": "763",
+      "documentNumber": "763",
+      "date": "08/10/22",
+      "dateSort": "08/10/22",
+      "documentType": "Transcript",
+      "pageCount": 393,
+      "folders": [
+        "IMAGES005",
+        "IMAGES006",
+        "IMAGES010"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "MS. COMEY",
+        "MS. MENNINGER",
+        "Mr. Pagliucca",
+        "MR. EVANDELL",
+        "Ms. Jane",
+        "Ghislaine Noelle Marion Maxwell",
+        "MS. MOE"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C.",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "THE COURT",
+        "DOJ",
+        "Second Circuit Court of Appeals",
+        "U.S. Attorney's Offices"
+      ],
+      "locations": [
+        "New York, New York",
+        "London, England",
+        "Kinnerton residence",
+        "PALM BEACH FL 33480 US",
+        "44 Kinnerton Street, London SW1X 8ES, United Kingdom"
+      ],
+      "dates": [
+        "08/10/22",
+        "1994",
+        "Monday",
+        "2019",
+        "1996"
+      ],
+      "referenceNumbers": [
+        "763",
+        "1:20-cr-00330-PAE",
+        "1:20-cr-00330-AJN",
+        "(212) 805-0300",
+        "662-RR",
+        "197"
+      ],
+      "summary": "The defense is requesting the court's assistance in compelling witnesses to testify, despite their lack of response or assertion of Fifth Amendment privilege. The court is considering the matter and discussing the proper procedure for resolving the issue.",
+      "significance": "This document is a transcript of a court hearing in the Ghislaine Maxwell trial, where the defense is seeking to enforce subpoenas for witnesses who have not responded or are asserting Fifth Amendment privilege.",
+      "keyTopics": [
+        "Subpoena enforcement",
+        "Witness testimony",
+        "Fifth Amendment privilege"
+      ],
+      "url": "https://epstein-docs.github.io/document/763/"
+    },
+    {
+      "id": "499-1",
+      "documentNumber": "499-1",
+      "date": "11/23/21",
+      "dateSort": "11/23/21",
+      "documentType": "Court Filing",
+      "pageCount": 375,
+      "folders": [
+        "IMAGES003"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": true,
+      "people": [
+        "Park Dietz",
+        "Loftus, E. F.",
+        "Dietz, P.",
+        "Hall RCW",
+        "Garry, M.",
+        "Doyle, J. M.",
+        "Hazelwood RR",
+        "Ms. Davis"
+      ],
+      "organizations": [
+        "DOJ",
+        "American Academy of Psychiatry and the Law",
+        "American Psychiatric Association",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "American Academy of Forensic Sciences (AAFS)",
+        "National Academies of Sciences, Engineering, and Medicine"
+      ],
+      "locations": [
+        "New York, New York",
+        "California",
+        "Washington, D.C.",
+        "Chicago, IL",
+        "STATE OF NEW YORK"
+      ],
+      "dates": [
+        "11/23/21",
+        "2006",
+        "1999",
+        "2009",
+        "2003"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "499-1",
+        "Document 499-1",
+        "Case 1:20-cr-00330-PAE",
+        "375",
+        "11/23/21"
+      ],
+      "summary": "The document is a court filing by the defense in the Ghislaine Maxwell case, disclosing two expert witnesses: Dr. Elizabeth Loftus, who will testify on human memory and false memories, and Dr. Park Dietz, who will testify on psychiatry and behavioral science. The experts' testimonies may challenge the prosecution's case and provide alternative explanations...",
+      "significance": "This document is significant as it provides expert witness disclosures for the defense in the Ghislaine Maxwell case, potentially impacting the trial's outcome.",
+      "keyTopics": [
+        "Expert testimony of Dr. Elizabeth Loftus on human memory and false memories",
+        "Expert testimony of Dr. Park Dietz on psychiatry and behavioral science",
+        "Ghislaine Maxwell case and potential expert witnesses"
+      ],
+      "url": "https://epstein-docs.github.io/document/499-1/"
+    },
+    {
+      "id": "688",
+      "documentNumber": "688",
+      "date": "06/29/22",
+      "dateSort": "06/29/22",
+      "documentType": "Questionnaire",
+      "pageCount": 348,
+      "folders": [
+        "IMAGES004"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ghislaine Noelle Marion Maxwell",
+        "Audrey Strauss",
+        "DAMIAN WILLIAMS",
+        "ANDREW ROHRBACH",
+        "Bobbi C. Sternheim",
+        "CHRISTIAN R. EVERDELL",
+        "JEFFREY S. PAGLIUCA"
+      ],
+      "organizations": [
+        "DOJ",
+        "Court",
+        "Gov't Opp. Br.",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "NYPD",
+        "United States Attorney Southern District of Florida"
+      ],
+      "locations": [
+        "New York, New York",
+        "Southern Districts of New York",
+        "Courthouse",
+        "United States of America",
+        "courtroom"
+      ],
+      "dates": [
+        "06/29/22",
+        "November 29, 2021",
+        "November 16, 2021",
+        "November 19, 2021",
+        "1994"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "688",
+        "353",
+        "119",
+        "124",
+        "89"
+      ],
+      "summary": "The document is a juror questionnaire for the trial of Ghislaine Maxwell, outlining the case summary, charges, and instructions for prospective jurors. It details the expected duration of the trial and the requirements for jurors. The questionnaire aims to assess the suitability of potential jurors for the case.",
+      "significance": "This document is a juror questionnaire from the trial of Ghislaine Maxwell, providing insight into the jury selection process and the charges against her.",
+      "keyTopics": [
+        "Jury selection process",
+        "Case summary and charges against Ghislaine Maxwell",
+        "Juror instructions and requirements"
+      ],
+      "url": "https://epstein-docs.github.io/document/688/"
+    },
+    {
+      "id": "293-1",
+      "documentNumber": "293-1",
+      "date": "05/25/21",
+      "dateSort": "05/25/21",
+      "documentType": "Court Filing",
+      "pageCount": 346,
+      "folders": [
+        "IMAGES002"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ms.Villaflana",
+        "Acosta",
+        "Mr. Sloman",
+        "Lourie",
+        "Menchel",
+        "MR. LEFKOWITZ",
+        "Sanchez, Carlos"
+      ],
+      "organizations": [
+        "United States Attorney Southern District of Florida",
+        "OFFICE OF PROFESSIONAL RESPONSIBILITY",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "DOJ",
+        "State Attorney's Office for the 15th Judicial Circuit",
+        "Department"
+      ],
+      "locations": [
+        "Florida",
+        "PALM BEACH FL 33480 US",
+        "West Palm Beach",
+        "Miami Beach, Florida",
+        "New York, New York"
+      ],
+      "dates": [
+        "05/25/21",
+        "June 30, 2008",
+        "September 24, 2007",
+        "June 2008",
+        "2005"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "293-1",
+        "Document 293-1",
+        "Case 1:20-cr-00330-PAE",
+        "18 U.S.C. § 2255",
+        "349"
+      ],
+      "summary": "The report investigates allegations that prosecutors in the U.S. Attorney's Office for the Southern District of Florida improperly resolved a federal investigation into Jeffrey Epstein's criminal conduct by negotiating a non-prosecution agreement. The report details the investigation, the NPA, and the interactions with victims, including the subsequent...",
+      "significance": "This document is potentially important as it reveals the details of the DOJ's investigation into the handling of the Jeffrey Epstein case and the negotiation of the non-prosecution agreement, shedding light on...",
+      "keyTopics": [
+        "Investigation into Jeffrey Epstein's criminal conduct",
+        "Non-prosecution agreement (NPA) and its implications",
+        "Victims' rights and the Crime Victims' Rights Act (CVRA)"
+      ],
+      "url": "https://epstein-docs.github.io/document/293-1/"
+    },
+    {
+      "id": "204",
+      "documentNumber": "204",
+      "date": "04/16/21",
+      "dateSort": "04/16/21",
+      "documentType": "Court Filing",
+      "pageCount": 239,
+      "folders": [
+        "IMAGES002"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ghislaine Noelle Marion Maxwell",
+        "Ms. Giuffre",
+        "McMahon",
+        "Minor Victim-3",
+        "Minor Victim-2",
+        "AUSA-1",
+        "Chief Judge McMahon"
+      ],
+      "organizations": [
+        "Gov't Opp. Br.",
+        "United States",
+        "Second Circuit Court of Appeals",
+        "Boies Schiller & Flexner (BSF)",
+        "DOJ",
+        "Court"
+      ],
+      "locations": [
+        "S.D.N.Y.",
+        "New York, New York",
+        "White Plains courthouse",
+        "Manhattan Division",
+        "Eastern Districts of New York"
+      ],
+      "dates": [
+        "04/16/21",
+        "1994",
+        "2003",
+        "2018",
+        "1997"
+      ],
+      "referenceNumbers": [
+        "1:20-cr-00330-PAE",
+        "Document 204",
+        "Case 1:20-cr-00330-PAE",
+        "204",
+        "239",
+        "15 Civ. 7433 (LAP)"
+      ],
+      "summary": "The document is the government's omnibus memorandum in opposition to Ghislaine Maxwell's pre-trial motions, addressing topics such as the relevance of Jeffrey Epstein's Non-Prosecution Agreement, the timeliness of the indictment, and the defendant's motions to suppress evidence. The government argues that the indictment is valid and that Maxwell's motions...",
+      "significance": "This document is a crucial court filing in the case against Ghislaine Maxwell, as it presents the government's arguments against her pre-trial motions and provides insight into the legal strategies employed by both...",
+      "keyTopics": [
+        "Ghislaine Maxwell's pre-trial motions",
+        "Jeffrey Epstein's Non-Prosecution Agreement",
+        "Statute of limitations for sex crimes against minors"
+      ],
+      "url": "https://epstein-docs.github.io/document/204/"
+    },
+    {
+      "id": "77",
+      "documentNumber": "77",
+      "date": "June 29, 2023",
+      "dateSort": "2023-06-29",
+      "documentType": "Court Filing",
+      "pageCount": 222,
+      "folders": [
+        "IMAGES001",
+        "IMAGES007",
+        "IMAGES008"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "Ms.Villaflana",
+        "Acosta",
+        "Mr. Sloman",
+        "Lourie",
+        "Menchel",
+        "MR. LEFKOWITZ",
+        "Sanchez, Carlos"
+      ],
+      "organizations": [
+        "United States Attorney Southern District of Florida",
+        "OFFICE OF PROFESSIONAL RESPONSIBILITY",
+        "Federal Bureau of Investigation Forensics Laboratory",
+        "DOJ",
+        "Department of Justice (D.O.J)",
+        "State Attorney's Office for the 15th Judicial Circuit"
+      ],
+      "locations": [
+        "Florida",
+        "West Palm Beach",
+        "PALM BEACH FL 33480 US",
+        "Miami Beach, Florida",
+        "New York, New York"
+      ],
+      "dates": [
+        "June 29, 2023",
+        "04/16/21",
+        "September 24, 2007",
+        "June 30, 2008",
+        "2007"
+      ],
+      "referenceNumbers": [
+        "Document 77",
+        "Case 22-1426",
+        "Case 1:20-cr-00330-AJN",
+        "Document 204-3",
+        "3536038",
+        "77"
+      ],
+      "summary": "The document contains two court orders: one from the United States Court of Appeals for the Second Circuit denying Ghislaine Maxwell's request for pretrial release, and another from the United States District Court for the Southern District of New York regarding the redaction of letters filed by Maxwell.",
+      "significance": "This document is significant as it reveals the Court of Appeals' decision to deny Ghislaine Maxwell's request for pretrial release and highlights the ongoing legal proceedings against her.",
+      "keyTopics": [
+        "Ghislaine Maxwell's pretrial release",
+        "Conditions of confinement",
+        "Redaction requests"
+      ],
+      "url": "https://epstein-docs.github.io/document/77/"
+    }
+  ],
+  "recentDocuments": [
+    {
+      "id": "jpm-sdny-00005505",
+      "documentNumber": "JPM-SDNY-00005505",
+      "date": "September 1 - September 30, 2002",
+      "dateSort": "September 1 - September 30, 2002",
+      "documentType": "Financial Record",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD",
+        "HORNBECKER",
+        "JEANNIE BREANON",
+        "RILEY"
+      ],
+      "organizations": [
+        "Financial Trust Company, Inc.",
+        "JP Morgan Chase Bank, N.A.",
+        "JPMorgan Private Bank"
+      ],
+      "locations": [
+        "New York, New York",
+        "ST. THOMAS 00802 VI",
+        "STATE OF NEW YORK"
+      ],
+      "dates": [
+        "September 1, 2002",
+        "September 30, 2002"
+      ],
+      "referenceNumbers": [
+        "1-00-1",
+        "DOJ-OGR-00015699",
+        "JPM-SDNY-00005505"
+      ],
+      "summary": "This document is a confidential JPMorgan Private Bank account portfolio for Jeffrey Epstein, covering the period from September 1 to September 30, 2002. It includes details about the account, transactions, and contact information for Epstein's representative. The document has been marked as a government exhibit in a legal proceeding.",
+      "significance": "This document is potentially important as it relates to the financial activities of Jeffrey Epstein, a figure associated with significant legal and public controversies. It may provide insight into Epstein's financial...",
+      "keyTopics": [
+        "JPMorgan Private Bank Account Details",
+        "Jeffrey Epstein's Account Activity",
+        "Confidential Banking Information"
+      ],
+      "url": "https://epstein-docs.github.io/document/jpm-sdny-00005505/"
+    },
+    {
+      "id": "case-20-cr-00330-ajn-document-100-filed-12-18-20-page-166-of-4",
+      "documentNumber": "Case: 20-cr-00330-AJN Document#: 100 Filed: 12/18/20 Page 166 of 4",
+      "date": "Paris, le 11 décembre 2020",
+      "dateSort": "Paris, le 11 décembre 2020",
+      "documentType": "Letter",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES001"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "Andrew FLINKELMAN"
+      ],
+      "organizations": [
+        "Ambassade des Etats-Unis d'Amérique",
+        "Department of Justice (D.O.J)",
+        "MINISTÈRE DE LA JUSTICE"
+      ],
+      "locations": [
+        "French Republic",
+        "Paris-LeBourget",
+        "United States of America"
+      ],
+      "dates": [
+        "11 décembre 2020"
+      ],
+      "referenceNumbers": [
+        "Case: 20-cr-00330-AJN",
+        "DOJ-OGR-00001181"
+      ],
+      "summary": "The document is a formal letter from the French Ministry of Justice to the US Department of Justice, explaining French extradition law and its implications for individuals with French nationality. It highlights the principle of 'aut tradere, aut judicare' and notes differences between French and US approaches to extraditing nationals. The letter provides...",
+      "significance": "This document clarifies France's stance on extraditing individuals with French nationality, emphasizing that French law prohibits extraditing individuals who were French nationals at the time of the alleged crime,...",
+      "keyTopics": [
+        "Extradition law in France",
+        "Nationality and extradition",
+        "International cooperation in criminal matters"
+      ],
+      "url": "https://epstein-docs.github.io/document/case-20-cr-00330-ajn-document-100-filed-12-18-20-page-166-of-4/"
+    },
+    {
+      "id": "2438",
+      "documentNumber": "2438",
+      "date": "October 7th",
+      "dateSort": "October 7th",
+      "documentType": "Exhibit",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES012"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [],
+      "organizations": [
+        "Skatezone Underground"
+      ],
+      "locations": [
+        "Lake Worth Rd",
+        "Turnpike"
+      ],
+      "dates": [
+        "07/26/17",
+        "December 2, 2005",
+        "October 7th"
+      ],
+      "referenceNumbers": [
+        "17-295",
+        "2438",
+        "DOJ-OGR-00032751"
+      ],
+      "summary": "The document contains a printout of a Myspace page advertising a Skatezone Underground event on October 7th with various local bands, along with details about admission and directions. It is associated with a public records request (No.: 17-295). The document's relevance and context are unclear without further information.",
+      "significance": "This document appears to be a public records request response that includes a printout of a Myspace page advertising an event at Skatezone Underground, potentially relevant to an investigation or case.",
+      "keyTopics": [
+        "Skatezone Underground event",
+        "Local bands performance",
+        "Public records request"
+      ],
+      "url": "https://epstein-docs.github.io/document/2438/"
+    },
+    {
+      "id": "doj-ogr-00015173",
+      "documentNumber": "DOJ-OGR-00015173",
+      "date": "October 3rd, 2020",
+      "dateSort": "October 3rd, 2020",
+      "documentType": "Contract",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD"
+      ],
+      "organizations": [
+        "Epstein Victim Compensation Program (EVCP)",
+        "Epstein's Estate",
+        "The 1953 Trust"
+      ],
+      "locations": [
+        "United States of America"
+      ],
+      "dates": [
+        "October 3rd, 2020"
+      ],
+      "referenceNumbers": [
+        "$1,500,000.00",
+        "DOJ-OGR-00015173",
+        "S2 20 Cr. 330 (AJN)"
+      ],
+      "summary": "The document is a General Release signed by a victim of Jeffrey Epstein's sexual abuse, accepting a $1.5 million compensation offer from the Epstein Victims' Compensation Program and releasing claims against Epstein's estate and related entities. The release is made on October 3rd, 2020. The Claimant has consulted with her legal counsel before accepting...",
+      "significance": "This document is significant as it reveals a victim's acceptance of a substantial compensation offer from the Epstein Victims' Compensation Program and her release of claims against Epstein's estate and related entities.",
+      "keyTopics": [
+        "Epstein Victims' Compensation Program",
+        "Compensation Offer",
+        "Release of Claims against Epstein Estate and related entities"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00015173/"
+    },
+    {
+      "id": "doj-ogr-00016020",
+      "documentNumber": "DOJ-OGR-00016020",
+      "date": "October 26, 2003 - November 21, 2003",
+      "dateSort": "October 26, 2003 - November 21, 2003",
+      "documentType": "Flight Log",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "DAVID RODRIGUEZ",
+        "President Clinton"
+      ],
+      "organizations": [
+        "DOJ"
+      ],
+      "locations": [
+        "CMH",
+        "EBR",
+        "ENGM",
+        "ESSA",
+        "Jacksonville, FL"
+      ],
+      "dates": [
+        "November 11, 2003",
+        "November 14, 2003",
+        "November 18, 2003",
+        "November 21, 2003",
+        "November 4, 2003"
+      ],
+      "referenceNumbers": [
+        "B-727-31H",
+        "DOJ-OGR-00016020",
+        "G-1159B",
+        "N908JC",
+        "N909JC"
+      ],
+      "summary": "This is a pilot's flight log detailing various flights operated between October 26 and November 21. The log includes information on the aircraft used, departure and arrival points, flight numbers, and maneuvers performed. The pilot, David Rodge, certifies the accuracy of the information provided.",
+      "significance": "This document is potentially important as it provides a detailed record of flights operated by a specific pilot, including aircraft used, routes taken, and maneuvers performed. It also indicates that President Bill...",
+      "keyTopics": [
+        "Flight records",
+        "Aircraft details",
+        "Pilot's certification"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00016020/"
+    },
+    {
+      "id": "1-14-cr-00830",
+      "documentNumber": "1:14-cr-00830",
+      "date": "October 2013",
+      "dateSort": "October 2013",
+      "documentType": "Court Filing",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES003"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "CLAUDIUS ENGLISH",
+        "Minor Victim-5",
+        "Minor Victim-6"
+      ],
+      "organizations": [
+        "grand jury"
+      ],
+      "locations": [
+        "Southern Districts of New York"
+      ],
+      "dates": [
+        "October 2013"
+      ],
+      "referenceNumbers": [
+        "1:14-cr-00830"
+      ],
+      "summary": "The document outlines charges against CLAUDIUS ENGLISH for attempting to recruit and entice minors into commercial sex acts. It specifies two counts (Counts Six and Seven) related to Minor Victim-5 and Minor Victim-6, both under the age of 14. The charges are based on violations of Title 18, United States Code, Sections 1591 and 1594.",
+      "significance": "This document is a crucial piece of evidence in a federal criminal case, detailing serious charges against the defendant for attempted sex trafficking of minors.",
+      "keyTopics": [
+        "attempted sex trafficking of minors",
+        "interstate and foreign commerce involvement",
+        "charges against CLAUDIUS ENGLISH"
+      ],
+      "url": "https://epstein-docs.github.io/document/1-14-cr-00830/"
+    },
+    {
+      "id": "1-13-cr-00308",
+      "documentNumber": "1:13-cr-00308",
+      "date": "October 2013",
+      "dateSort": "October 2013",
+      "documentType": "Court Filing",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES003"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "CLAUDIUS ENGLISH",
+        "Minor Victim-5",
+        "Minor Victim-6"
+      ],
+      "organizations": [
+        "grand jury"
+      ],
+      "locations": [
+        "Southern Districts of New York"
+      ],
+      "dates": [
+        "October 2013"
+      ],
+      "referenceNumbers": [
+        "1:13-cr-00308"
+      ],
+      "summary": "The document is an indictment charging Claudius English with multiple counts of attempted sex trafficking of minors, specifically two girls under the age of 14, in violation of federal laws. The charges involve attempts to recruit and entice the minors into commercial sex acts. The indictment cites specific sections of the United States Code, establishing...",
+      "significance": "This document is a formal indictment charging Claudius English with serious crimes related to human trafficking and exploitation of minors, highlighting the severity of the alleged offenses and the involvement of...",
+      "keyTopics": [
+        "Attempted Sex Trafficking of Minors",
+        "Interstate and Foreign Commerce",
+        "Criminal Charges against Claudius English"
+      ],
+      "url": "https://epstein-docs.github.io/document/1-13-cr-00308/"
+    },
+    {
+      "id": "doj-ogr-00015902",
+      "documentNumber": "DOJ-OGR-00015902",
+      "date": "October 2003",
+      "dateSort": "October 2003",
+      "documentType": "Flight Log",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "David R. Ridgway"
+      ],
+      "organizations": [],
+      "locations": [
+        "CMH",
+        "EBBR",
+        "ENGM",
+        "ESSA",
+        "Jacksonville, FL"
+      ],
+      "dates": [
+        "NOV 11",
+        "NOV 4",
+        "NOV 5",
+        "NOV 9",
+        "NOV 14"
+      ],
+      "referenceNumbers": [
+        "B-727-31H",
+        "DOJ-OGR-00015902",
+        "G-1159B",
+        "N9083C",
+        "N9093C"
+      ],
+      "summary": "This document is a pilot's flight log, detailing multiple flights on various dates, including aircraft identification, departure and arrival points, and distances flown. The log is certified by the pilot, David Ridgeway, who attests to the accuracy of the information. The log covers a series of flights on a B-727-31H aircraft, with multiple legs and...",
+      "significance": "This document is potentially important as it provides a detailed record of the pilot's flight history, including aircraft used, routes flown, and distances traveled, which can be used to verify the pilot's experience...",
+      "keyTopics": [
+        "Flight records",
+        "Pilot's certification",
+        "Aircraft details"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00015902/"
+    },
+    {
+      "id": "505",
+      "documentNumber": "505",
+      "date": "October 1999",
+      "dateSort": "October 1999",
+      "documentType": "Financial Record",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "DENCKER",
+        "Scott"
+      ],
+      "organizations": [
+        "JP Morgan Chase Bank, N.A.",
+        "AMERICAN YACHT HARBOR",
+        "FINANCIAL TRUST COMPANY, INC.",
+        "Morgan Guaranty Trust Company of New York"
+      ],
+      "locations": [
+        "New York, New York",
+        "ST. THOMAS 00802 VI",
+        "STATE OF NEW YORK",
+        "U.S. Virgin Islands"
+      ],
+      "dates": [
+        "December 1, 1999",
+        "October 1, 1999",
+        "October 31, 1999"
+      ],
+      "referenceNumbers": [
+        "5-00-1",
+        "505",
+        "DOJ-OGR-00015708",
+        "JPM-SDNY-00036863"
+      ],
+      "summary": "The document is a financial account statement for FINANCIAL TRUST COMPANY, INC. from Morgan Guaranty Trust Company of New York, detailing the account's portfolio and transactions for October 1999. It includes a notification about processing securities gifts before the year-end deadline and lists account officers and service specialists.",
+      "significance": "This document appears to be a confidential financial account statement for FINANCIAL TRUST COMPANY, INC., potentially relevant to a court case (20 Cr. 330 (AJN)) involving JPMorgan Chase and the Department of Justice.",
+      "keyTopics": [
+        "Asset Account Portfolio",
+        "Gift Processing",
+        "Account Transactions"
+      ],
+      "url": "https://epstein-docs.github.io/document/505/"
+    },
+    {
+      "id": "doj-ogr-00015868",
+      "documentNumber": "DOJ-OGR-00015868",
+      "date": "November 25, 2008 - December 31, 2008",
+      "dateSort": "November 25, 2008 - December 31, 2008",
+      "documentType": "Flight Log",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "Pilot's Name (not provided)"
+      ],
+      "organizations": [],
+      "locations": [
+        "ABY",
+        "PBI",
+        "PMP",
+        "SAF",
+        "TGB"
+      ],
+      "dates": [
+        "December 28, 2008",
+        "December 24, 2008",
+        "December 25, 2008",
+        "December 3, 2008",
+        "December 30, 2008"
+      ],
+      "referenceNumbers": [
+        "206L3",
+        "DOJ-OGR-00015868",
+        "G-1159B",
+        "N72PH",
+        "N908JG"
+      ],
+      "summary": "This document is a pilot's flight log, detailing various flights operated between November 25 and December 31. It records the aircraft make and model, identification marks, departure and arrival points, miles flown, and other relevant flight details. The log certifies the accuracy of the information with a pilot's signature.",
+      "significance": "This document is potentially important as it provides a detailed record of a pilot's flight experience, which can be used to verify their qualifications and compliance with aviation regulations.",
+      "keyTopics": [
+        "Flight records",
+        "Pilot's flight experience",
+        "Aircraft details"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00015868/"
+    },
+    {
+      "id": "doj-ogr-00023013",
+      "documentNumber": "DOJ-OGR-00023013",
+      "date": "November 2020",
+      "dateSort": "November 2020",
+      "documentType": "Report",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES008"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD"
+      ],
+      "organizations": [
+        "Department of Justice (D.O.J)",
+        "OFFICE OF PROFESSIONAL RESPONSIBILITY",
+        "U.S. Attorney's Offices"
+      ],
+      "locations": [
+        "SOUTHERN DISTRICT OF FLORIDA"
+      ],
+      "dates": [
+        "2006-2008",
+        "November 2020"
+      ],
+      "referenceNumbers": [
+        "DOJ-OGR-00023013"
+      ],
+      "summary": "The report is an investigation by the Department of Justice's Office of Professional Responsibility into the U.S. Attorney's Office for the Southern District of Florida's handling of the 2006-2008 federal criminal investigation of Jeffrey Epstein and its interactions with victims during that investigation. The report was issued in November 2020 and...",
+      "significance": "This report is potentially important because it sheds light on the handling of the Jeffrey Epstein investigation by the U.S. Attorney's Office for the Southern District of Florida and the Department of Justice's Office...",
+      "keyTopics": [
+        "Investigation into Jeffrey Epstein's criminal case",
+        "U.S. Attorney's Office handling of the Epstein investigation",
+        "Interactions with victims during the Epstein investigation"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00023013/"
+    },
+    {
+      "id": "doj-ogr-00023000",
+      "documentNumber": "DOJ-OGR-00023000",
+      "date": "November 2020",
+      "dateSort": "November 2020",
+      "documentType": "Report",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES008"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": true,
+      "people": [
+        "EPSTEIN, JEFFREY EDWARD"
+      ],
+      "organizations": [
+        "Department of Justice (D.O.J)",
+        "Office of Professional Responsibility (OPR)",
+        "U.S. Attorney's Offices"
+      ],
+      "locations": [
+        "SOUTHERN DISTRICT OF FLORIDA"
+      ],
+      "dates": [
+        "2006-2008",
+        "November 2020"
+      ],
+      "referenceNumbers": [
+        "DOJ-OGR-00023000"
+      ],
+      "summary": "The document is an executive summary of a report by the Department of Justice's Office of Professional Responsibility, investigating the U.S. Attorney's Office for the Southern District of Florida's handling of the Jeffrey Epstein case and interactions with victims during the 2006-2008 investigation. The report was released in November 2020. It examines...",
+      "significance": "This document is potentially important because it provides an executive summary of the Department of Justice's investigation into the handling of the Jeffrey Epstein case by the U.S. Attorney's Office for the Southern...",
+      "keyTopics": [
+        "Investigation into the U.S. Attorney's Office handling of the Jeffrey Epstein case",
+        "Resolution of the 2006-2008 federal criminal investigation of Jeffrey Epstein",
+        "Interactions with victims during the investigation"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00023000/"
+    },
+    {
+      "id": "doj-ogr-00025255",
+      "documentNumber": "DOJ-OGR-00025255",
+      "date": "May 94",
+      "dateSort": "May 94",
+      "documentType": "Policy Document",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES009"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [],
+      "organizations": [
+        "Bureau of 'Pretrial Punishment'"
+      ],
+      "locations": [],
+      "dates": [
+        "7.8.19",
+        "APR 80",
+        "May 94"
+      ],
+      "referenceNumbers": [
+        "7631857",
+        "BP-203(73)",
+        "BP-S203(73)",
+        "DOJ-OGR-00025255",
+        "P7331"
+      ],
+      "summary": "The document is a form used by the Bureau of Prisons to obtain a pretrial inmate's waiver to work beyond housekeeping tasks. It includes a section for staff to refer an inmate for mental evaluation if necessary. An inmate with Registration Number 7631857 has signed the work waiver on 7.8.19.",
+      "significance": "This document outlines the policy and procedure for pretrial inmates to volunteer for work assignments beyond housekeeping tasks and highlights the importance of assessing an inmate's mental capacity to comprehend the...",
+      "keyTopics": [
+        "Bureau of Prisons policy on work assignments for pretrial inmates",
+        "Waiver for work assignment beyond housekeeping tasks",
+        "Mental evaluation or treatment for inmates"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00025255/"
+    },
+    {
+      "id": "bp-203-73",
+      "documentNumber": "BP-203(73)",
+      "date": "May 94",
+      "dateSort": "May 94",
+      "documentType": "Policy Document",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES009"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [],
+      "organizations": [
+        "Bureau of 'Pretrial Punishment'"
+      ],
+      "locations": [],
+      "dates": [
+        "7.8.19",
+        "APR 80",
+        "May 94"
+      ],
+      "referenceNumbers": [
+        "7631854",
+        "BP-203(73)",
+        "BP-S203(73)",
+        "DOJ-OGR-00023736",
+        "P7331"
+      ],
+      "summary": "The document outlines Bureau of Prisons policy on work assignments for pretrial inmates, provides a form for inmates to volunteer for work beyond housekeeping tasks, and includes a signed waiver from inmate 7631854 dated 7.8.19.",
+      "significance": "This document reveals the Bureau of Prisons policy regarding work assignments for pretrial inmates and indicates that an inmate with Reg. No. 7631854 volunteered for a work assignment beyond housekeeping tasks.",
+      "keyTopics": [
+        "Bureau of Prisons policy on pretrial inmate work",
+        "Inmate work waiver",
+        "Mental evaluation or treatment"
+      ],
+      "url": "https://epstein-docs.github.io/document/bp-203-73/"
+    },
+    {
+      "id": "doj-ogr-00015989",
+      "documentNumber": "DOJ-OGR-00015989",
+      "date": "May 2022 - June 2022",
+      "dateSort": "May 2022 - June 2022",
+      "documentType": "Flight Log",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "Alexandro",
+        "Capt. Harris",
+        "David Rodaja",
+        "Elizabeth (Libit) Johnson",
+        "Fredo",
+        "Josen",
+        "Paula Epsilon",
+        "Peter Marin"
+      ],
+      "organizations": [],
+      "locations": [
+        "LAS",
+        "MDW",
+        "ORL",
+        "PBI",
+        "PHX"
+      ],
+      "dates": [
+        "June 1",
+        "June 12",
+        "June 14",
+        "June 15",
+        "June 17"
+      ],
+      "referenceNumbers": [
+        "1331",
+        "1340",
+        "1341",
+        "1342",
+        "1343",
+        "1344"
+      ],
+      "summary": "This is a pilot's flight log for David Rodaja, detailing his flights from May 8 to June 25, including aircraft identification, flight routes, distances, and remarks on procedures and maneuvers performed. The log also includes certifications and endorsements from other pilots and evaluators. The document certifies the accuracy of the information provided by...",
+      "significance": "This document is potentially important as it provides a detailed record of a pilot's flight experience, training, and certification, which can be used to verify their qualifications and compliance with aviation...",
+      "keyTopics": [
+        "Flight records",
+        "Pilot training and certification",
+        "Aircraft operation details"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00015989/"
+    },
+    {
+      "id": "doj-ogr-00015871",
+      "documentNumber": "DOJ-OGR-00015871",
+      "date": "May 2022 - June 2022",
+      "dateSort": "May 2022 - June 2022",
+      "documentType": "Flight Log",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "DAVID RODRIGUEZ"
+      ],
+      "organizations": [],
+      "locations": [
+        "LAS",
+        "MDW",
+        "PBI",
+        "PHX",
+        "SAF"
+      ],
+      "dates": [
+        "Jun 1",
+        "Jun 12",
+        "Jun 14",
+        "Jun 15",
+        "Jun 17"
+      ],
+      "referenceNumbers": [
+        "1331",
+        "1339",
+        "1340",
+        "1341",
+        "1342",
+        "1343"
+      ],
+      "summary": "This document is a pilot's flight log, detailing flights made by David Rodzfa between May 8 and June 1. It records flight dates, aircraft details, departure and arrival points, flight numbers, and other relevant information. The log certifies that the statements made are true and provides a total of 1412 miles flown and 499 landings.",
+      "significance": "This document is potentially important as it provides a detailed record of the pilot's flight experience, which can be used to verify their qualifications and compliance with aviation regulations.",
+      "keyTopics": [
+        "Flight records",
+        "Pilot's flight experience",
+        "Aircraft details"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00015871/"
+    },
+    {
+      "id": "doj-ogr-00015934",
+      "documentNumber": "DOJ-OGR-00015934",
+      "date": "May 1993",
+      "dateSort": "May 1993",
+      "documentType": "Flight Log",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES006"
+      ],
+      "hasHandwriting": true,
+      "hasStamps": false,
+      "people": [
+        "DAVID RODRIGUEZ",
+        "Jun Stefanides",
+        "Terry Sodaro"
+      ],
+      "organizations": [],
+      "locations": [
+        "ACY",
+        "CMH",
+        "CPS",
+        "DCA",
+        "EGE"
+      ],
+      "dates": [
+        "June 11, 1993",
+        "June 14, 1993",
+        "June 18, 1993",
+        "June 20, 1993",
+        "May 11, 1993"
+      ],
+      "referenceNumbers": [
+        "320",
+        "321",
+        "322",
+        "323",
+        "324",
+        "325"
+      ],
+      "summary": "The document is a pilot's flight log for an HS125-700 aircraft (N908JC) detailing various flights in May 1993, including departure and arrival points, distances flown, and passenger information. The log includes certifications by the pilot, David Rodriguez. Notable passengers include Jun Stefanides and Terry Sodaro, with some flights marked as 'SECRET'.",
+      "significance": "This document is potentially important as it provides a detailed record of flights operated by a specific aircraft (N908JC) during May 1993, including routes, distances, and passenger information, which could be...",
+      "keyTopics": [
+        "Flight Records",
+        "Aircraft Details",
+        "Pilot Certification"
+      ],
+      "url": "https://epstein-docs.github.io/document/doj-ogr-00015934/"
+    },
+    {
+      "id": "a-5825",
+      "documentNumber": "A-5825",
+      "date": "May 11th, 2011",
+      "dateSort": "May 11th, 2011",
+      "documentType": "Transcript",
+      "pageCount": 1,
+      "folders": [
+        "IMAGES004"
+      ],
+      "hasHandwriting": false,
+      "hasStamps": false,
+      "people": [
+        "Catherine Morgan Conrad",
+        "Craig Brubaker",
+        "David K. Parse",
+        "Susan Elizabeth Brune"
+      ],
+      "organizations": [
+        "THE SOUTHERN DISTRICT REPORTERS, P.C."
+      ],
+      "locations": [],
+      "dates": [
+        "May 11th, 2011"
+      ],
+      "referenceNumbers": [
+        "A-5825",
+        "DOJ-OGR-00010108"
+      ],
+      "summary": "The deponent, a lawyer, testifies about representing Craig Brubaker and discusses a note from Juror No. 1, Catherine Conrad, regarding jury instructions. The deponent also recounts a conversation with opposing counsel Susan Brune about Conrad.",
+      "significance": "This deposition transcript potentially reveals details about the communication between lawyers regarding a juror's note and its implications on the trial.",
+      "keyTopics": [
+        "Representation of Craig Brubaker",
+        "Juror note regarding jury instructions",
+        "Communication with opposing counsel Susan Brune about Juror No. 1, Catherine Conrad"
+      ],
+      "url": "https://epstein-docs.github.io/document/a-5825/"
+    }
+  ]
+}

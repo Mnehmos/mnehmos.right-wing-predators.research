@@ -1,0 +1,270 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEpsteinSummary } from '../../utils/epstein-data';
+
+const base = import.meta.env.BASE_URL;
+const summary = await getEpsteinSummary();
+const generatedLabel = summary
+  ? new Date(summary.generatedAt).toLocaleString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      hour: 'numeric',
+      minute: '2-digit',
+      timeZone: 'UTC',
+      timeZoneName: 'short',
+    })
+  : null;
+---
+
+<BaseLayout
+  title="Epstein Research Archive"
+  description="A searchable research bridge into the public Epstein document archive, used to support database updates and source discovery."
+>
+  {!summary ? (
+    <section class="py-14">
+      <div class="max-w-3xl mx-auto card p-8">
+        <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-3">Research</p>
+        <h1 class="text-3xl font-extrabold font-display text-stone-800 dark:text-stone-100 mb-4">Epstein archive data is not available yet</h1>
+        <p class="text-stone-600 dark:text-stone-300 leading-relaxed mb-4">
+          Build the local archive bridge before loading this page:
+        </p>
+        <pre class="rounded-xl bg-stone-100 dark:bg-stone-900/70 border border-stone-200 dark:border-stone-800 p-4 overflow-x-auto text-sm"><code>python scripts/build_epstein_archive.py --source .claude/tmp/epstein-docs.github.io</code></pre>
+      </div>
+    </section>
+  ) : (
+    <>
+      <section class="py-10 md:py-14">
+        <div class="max-w-5xl">
+          <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-4">Research Archive</p>
+          <div class="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-6">
+            <div class="max-w-3xl">
+              <h1 class="text-4xl md:text-5xl font-extrabold font-display text-stone-800 dark:text-stone-100 mb-6">
+                Epstein Files Research Hub
+              </h1>
+              <p class="text-lg text-stone-600 dark:text-stone-300 leading-relaxed">
+                A local bridge into the public Epstein document archive. This page summarizes the processed corpus,
+                exposes a client-side search index for fast triage, and documents how to use those documents as
+                research leads when appending or inserting new database material.
+              </p>
+            </div>
+            <div class="flex flex-wrap gap-3">
+              <a href={summary.sourceArchive} class="btn btn-primary no-underline">Open Live Archive</a>
+              <a href={summary.sourceRepo} class="btn btn-secondary no-underline">Open Source Repo</a>
+            </div>
+          </div>
+
+          <div class="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm text-stone-500 dark:text-stone-400">
+            <span>Updated from commit <code>{summary.sourceCommit?.slice(0, 12) ?? 'unknown'}</code></span>
+            <span>Generated {generatedLabel}</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="pb-10">
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+          <div class="card p-5">
+            <div class="text-xs uppercase tracking-[0.18em] text-stone-500 dark:text-stone-400 mb-2">Documents</div>
+            <div class="text-3xl font-extrabold text-stone-800 dark:text-stone-100">{summary.stats.documents.toLocaleString()}</div>
+            <div class="text-sm text-stone-500 dark:text-stone-400 mt-2">Grouped document records</div>
+          </div>
+          <div class="card p-5">
+            <div class="text-xs uppercase tracking-[0.18em] text-stone-500 dark:text-stone-400 mb-2">Pages</div>
+            <div class="text-3xl font-extrabold text-stone-800 dark:text-stone-100">{summary.stats.pages.toLocaleString()}</div>
+            <div class="text-sm text-stone-500 dark:text-stone-400 mt-2">OCR page files processed</div>
+          </div>
+          <div class="card p-5">
+            <div class="text-xs uppercase tracking-[0.18em] text-stone-500 dark:text-stone-400 mb-2">People</div>
+            <div class="text-3xl font-extrabold text-stone-800 dark:text-stone-100">{summary.stats.people.toLocaleString()}</div>
+            <div class="text-sm text-stone-500 dark:text-stone-400 mt-2">Named people in the corpus</div>
+          </div>
+          <div class="card p-5">
+            <div class="text-xs uppercase tracking-[0.18em] text-stone-500 dark:text-stone-400 mb-2">Analyses</div>
+            <div class="text-3xl font-extrabold text-stone-800 dark:text-stone-100">{summary.stats.analyses.toLocaleString()}</div>
+            <div class="text-sm text-stone-500 dark:text-stone-400 mt-2">Documents with AI summaries</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="pb-10">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <article class="card p-6">
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-3">Use It For Leads</p>
+            <h2 class="text-xl font-bold font-display text-stone-800 dark:text-stone-100 mb-3">Start with names, entities, and document types</h2>
+            <p class="text-sm text-stone-600 dark:text-stone-300 leading-relaxed">
+              Search the local index to find people, organizations, dates, and document clusters that may matter to an
+              entry update. The archive is best used to narrow the search space before reviewing the underlying source material.
+            </p>
+          </article>
+          <article class="card p-6">
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-3">Use It Carefully</p>
+            <h2 class="text-xl font-bold font-display text-stone-800 dark:text-stone-100 mb-3">Treat OCR and AI analysis as prescreening, not final copy</h2>
+            <p class="text-sm text-stone-600 dark:text-stone-300 leading-relaxed">
+              OCR text, entity extraction, and AI summaries are helpful shortcuts, but they are not a substitute for reading the
+              document page itself and corroborating facts before appending or inserting content into an entry.
+            </p>
+          </article>
+          <article class="card p-6">
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-3">Use It Repeatedly</p>
+            <h2 class="text-xl font-bold font-display text-stone-800 dark:text-stone-100 mb-3">Refresh the bridge whenever the upstream archive moves</h2>
+            <p class="text-sm text-stone-600 dark:text-stone-300 leading-relaxed">
+              The summary and search index are generated artifacts. Re-run the local build script after syncing the upstream repo
+              so the public research page and your manual research workflow stay aligned.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="pb-10">
+        <div class="card p-6 md:p-8">
+          <div class="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-5 mb-6">
+            <div class="max-w-3xl">
+              <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-2">Search Index</p>
+              <h2 class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100 mb-3">Search 8,000+ grouped documents</h2>
+              <p class="text-sm text-stone-600 dark:text-stone-300 leading-relaxed">
+                Search by document number, person, organization, location, document type, or summary text. Results link back to
+                the live upstream archive so you can review the full document context.
+              </p>
+            </div>
+            <div class="text-sm text-stone-500 dark:text-stone-400">
+              Runtime data file: <code>{`${base}data/epstein-documents.json`}</code>
+            </div>
+          </div>
+
+          <div class="space-y-4" id="epstein-search-root">
+            <div class="flex flex-col md:flex-row gap-3">
+              <input
+                id="epstein-search"
+                class="input"
+                type="search"
+                placeholder="Search names, document numbers, organizations, or topics..."
+                autocomplete="off"
+              />
+              <button id="epstein-clear" type="button" class="btn btn-secondary">Clear</button>
+            </div>
+            <div id="epstein-results-meta" class="text-sm text-stone-500 dark:text-stone-400">
+              Focus the search field to load the local document index on demand.
+            </div>
+            <div id="epstein-results" class="grid grid-cols-1 xl:grid-cols-2 gap-4"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="pb-10">
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-6">
+          <article class="card p-6">
+            <div class="flex items-center justify-between gap-4 mb-4">
+              <h2 class="text-xl font-bold font-display text-stone-800 dark:text-stone-100">Top People</h2>
+              <span class="text-sm text-stone-500 dark:text-stone-400">{summary.stats.people.toLocaleString()} total</span>
+            </div>
+            <ul class="space-y-3">
+              {summary.topPeople.map((item) => (
+                <li class="flex items-center justify-between gap-4 border-b border-stone-200 dark:border-stone-800 pb-3 last:border-b-0 last:pb-0">
+                  <span class="text-sm text-stone-700 dark:text-stone-200">{item.name}</span>
+                  <span class="badge badge-copper">{item.count.toLocaleString()} docs</span>
+                </li>
+              ))}
+            </ul>
+          </article>
+
+          <div class="grid grid-cols-1 gap-6">
+            <article class="card p-6">
+              <div class="flex items-center justify-between gap-4 mb-4">
+                <h2 class="text-xl font-bold font-display text-stone-800 dark:text-stone-100">Top Organizations</h2>
+                <span class="text-sm text-stone-500 dark:text-stone-400">{summary.stats.organizations.toLocaleString()} total</span>
+              </div>
+              <ul class="space-y-3">
+                {summary.topOrganizations.slice(0, 10).map((item) => (
+                  <li class="flex items-center justify-between gap-4 border-b border-stone-200 dark:border-stone-800 pb-3 last:border-b-0 last:pb-0">
+                    <span class="text-sm text-stone-700 dark:text-stone-200">{item.name}</span>
+                    <span class="badge badge-copper">{item.count.toLocaleString()} docs</span>
+                  </li>
+                ))}
+              </ul>
+            </article>
+
+            <article class="card p-6">
+              <div class="flex items-center justify-between gap-4 mb-4">
+                <h2 class="text-xl font-bold font-display text-stone-800 dark:text-stone-100">Top Document Types</h2>
+                <span class="text-sm text-stone-500 dark:text-stone-400">{summary.stats.documentTypes.toLocaleString()} total</span>
+              </div>
+              <div class="flex flex-wrap gap-2">
+                {summary.topDocumentTypes.map((item) => (
+                  <span class="badge badge-stone">{item.name} ({item.count.toLocaleString()})</span>
+                ))}
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="pb-14">
+        <div class="flex items-center justify-between gap-4 mb-6">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-copper mb-2">Featured Documents</p>
+            <h2 class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100">High-signal documents from the archive</h2>
+          </div>
+          <a href={summary.sourceArchive} class="text-sm font-medium no-underline">View full upstream archive</a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+          {summary.featuredDocuments.slice(0, 12).map((doc) => (
+            <article class="card card-hover p-5 h-full">
+              <div class="flex flex-wrap items-start justify-between gap-3 mb-3">
+                <div>
+                  <p class="text-xs uppercase tracking-[0.16em] text-copper mb-2">{doc.documentType}</p>
+                  <h3 class="text-lg font-bold font-display text-stone-800 dark:text-stone-100 leading-tight">{doc.documentNumber}</h3>
+                </div>
+                <span class="badge badge-stone">{doc.pageCount} pages</span>
+              </div>
+
+              <div class="flex flex-wrap gap-2 mb-3 text-xs text-stone-500 dark:text-stone-400">
+                {doc.date && <span>{doc.date}</span>}
+                {doc.hasHandwriting && <span>Handwriting noted</span>}
+                {doc.hasStamps && <span>Stamped</span>}
+              </div>
+
+              {doc.summary && (
+                <p class="text-sm text-stone-600 dark:text-stone-300 leading-relaxed mb-4">{doc.summary}</p>
+              )}
+
+              {doc.people.length > 0 && (
+                <div class="mb-4">
+                  <div class="text-xs uppercase tracking-[0.16em] text-stone-500 dark:text-stone-400 mb-2">People</div>
+                  <div class="flex flex-wrap gap-2">
+                    {doc.people.slice(0, 4).map((person) => (
+                      <span class="badge badge-copper">{person}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {doc.keyTopics.length > 0 && (
+                <div class="mb-4">
+                  <div class="text-xs uppercase tracking-[0.16em] text-stone-500 dark:text-stone-400 mb-2">Topics</div>
+                  <div class="flex flex-wrap gap-2">
+                    {doc.keyTopics.slice(0, 3).map((topic) => (
+                      <span class="badge badge-stone">{topic}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              <a href={doc.url} class="text-sm font-medium no-underline inline-flex items-center gap-2 mt-auto">
+                Review document
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5h5m0 0v5m0-5L10 14" />
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12v7h7" />
+                </svg>
+              </a>
+            </article>
+          ))}
+        </div>
+      </section>
+    </>
+  )}
+</BaseLayout>
+
+<script>
+  import '../../scripts/epstein-research-client';
+</script>

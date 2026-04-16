@@ -11,6 +11,7 @@ A comprehensive, searchable database of documented allegations and convictions o
 - **Search Highlighting**: Search terms are highlighted in yellow in results
 - **CSV Export**: Export filtered results to CSV format
 - **Mobile Responsive**: Optimized for all screen sizes
+- **Research Hub**: Includes a local bridge into the public Epstein document archive for source discovery and research triage
 
 ## Database Statistics
 
@@ -107,6 +108,16 @@ Each entry in the JSON files contains:
 ## Data Sources
 
 All data is sourced from publicly available information and court records. Each entry includes links to original sources for verification.
+
+## External Research Archives
+
+This repo also supports a lightweight research bridge into the public
+[`epstein-docs/epstein-docs.github.io`](https://github.com/epstein-docs/epstein-docs.github.io)
+archive.
+
+- Site page: `/research/epstein/`
+- Build script: `python scripts/build_epstein_archive.py --source .claude/tmp/epstein-docs.github.io`
+- Workflow notes: `docs/SPEC-epstein-archive-integration.md`
 
 ## Contributing
 
