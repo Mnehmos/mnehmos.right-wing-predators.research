@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceLink from '../../components/SourceLink.astro';
 import EntryCard from '../../components/EntryCard.astro';
 import { getCollection } from 'astro:content';
+import { getNormalizedEntries, getRelatedEntries } from '../../utils/entries-index';
+import { normalizeSources, sourceTypeLabel, type SourceType } from '../../utils/source-utils';
 
 // Base path for all internal links
 const base = import.meta.env.BASE_URL;
@@ -17,15 +19,14 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-
-// Get related entries (same crime type)
-const allEntries = await getCollection('entries');
-const relatedEntries = allEntries
-  .filter(e => 
-    e.slug !== entry.slug && 
-    e.data.crimes.some(crime => entry.data.crimes.includes(crime))
-  )
-  .slice(0, 3);
+const normalizedEntries = await getNormalizedEntries();
+const relatedEntries = getRelatedEntries(normalizedEntries, entry.slug, 3);
+const normalizedSources = normalizeSources(entry.data.sources ?? []);
+const primarySourceCount = normalizedSources.filter((source) => source.primary).length;
+const sourceTypeCounts = [...normalizedSources.reduce((counts, source) => {
+  counts.set(source.sourceType, (counts.get(source.sourceType) ?? 0) + 1);
+  return counts;
+}, new Map<SourceType, number>()).entries()].sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]));
 
 // Generate description for meta
 const description = `Documented allegations against ${entry.data.name}. ${entry.data.crimes.slice(0, 3).join(', ')}.`;
@@ -135,17 +136,29 @@ const description = `Documented allegations against ${entry.data.name}. ${entry.
     </div>
 
     <!-- Sources Section -->
-    {entry.data.sources.length > 0 && (
+    {normalizedSources.length > 0 && (
       <section class="mb-12">
         <h2 class="text-xl font-bold mb-4 flex items-center gap-2 font-display text-stone-800 dark:text-stone-100">
           <svg class="w-5 h-5 text-copper" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
           </svg>
-          Sources ({entry.data.sources.length})
+          Sources ({normalizedSources.length})
         </h2>
+        <div class="flex flex-wrap gap-2 mb-4">
+          {sourceTypeCounts.map(([type, count]) => (
+            <span class="inline-flex items-center rounded-full px-3 py-1 text-xs font-medium bg-stone-100 dark:bg-stone-800/70 border border-stone-200 dark:border-stone-700/50 text-stone-700 dark:text-stone-300">
+              {sourceTypeLabel(type)} {count}
+            </span>
+          ))}
+          {primarySourceCount > 0 && (
+            <span class="inline-flex items-center rounded-full px-3 py-1 text-xs font-medium bg-copper/10 dark:bg-copper/20 border border-copper/30 dark:border-copper/40 text-copper">
+              {primarySourceCount} primary
+            </span>
+          )}
+        </div>
         <div class="space-y-2">
           {entry.data.sources.map((source, index) => (
-            <SourceLink url={source} index={index} />
+            <SourceLink source={source} index={index} />
           ))}
         </div>
       </section>
@@ -162,12 +175,22 @@ const description = `Documented allegations against ${entry.data.name}. ${entry.
         </h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
           {relatedEntries.map((related) => (
-            <EntryCard 
-              name={related.data.name}
-              slug={related.slug}
-              positions={related.data.positions}
-              crimes={related.data.crimes}
-            />
+            <div class="space-y-2">
+              <EntryCard
+                name={related.entry.name}
+                slug={related.entry.slug}
+                positions={related.entry.positions}
+                crimes={related.entry.crimes}
+                tags={related.entry.tags}
+                sourceCount={related.entry.sourceCount}
+                needsResearch={related.entry.needsResearch}
+              />
+              {related.reasons.length > 0 && (
+                <p class="text-xs text-stone-500 dark:text-stone-400 px-1">
+                  Shared: {related.reasons.join(' | ')}
+                </p>
+              )}
+            </div>
           ))}
         </div>
       </section>

@@ -17,9 +17,9 @@ const base = import.meta.env.BASE_URL;
 const entries = await getNormalizedEntries();
 const lettersWithEntries = getLettersWithEntries(entries);
 const facets = getFacetCounts(entries);
-const crimes = facets.crimes.map(([name]) => name);
-const positions = facets.positions.map(([name]) => name);
-const tags = facets.tags.map(([name]) => name);
+const crimes = facets.crimes.map(([name, count]) => ({ name, count }));
+const positions = facets.positions.map(([name, count]) => ({ name, count }));
+const tags = facets.tags.map(([name, count]) => ({ name, count }));
 
 // SSR shell: default view is "Notability" sort, first 48 entries.
 // Client engine takes over on mount and handles all filtering/pagination.

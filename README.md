@@ -1,161 +1,194 @@
 # Misconduct Database
 
-A comprehensive, searchable database of documented allegations, abuse-cover-up cases, and archive-backed Epstein-network entries.
+Astro-based editorial database for documented sexual-misconduct cases, abuse-cover-up cases, and archive-backed Epstein-network reporting.
 
-## Features
+## Stack
 
-- **Advanced Search**: Real-time search with 300ms debouncing across names, descriptions, crimes, positions, and tags
-- **Multi-dimensional Filtering**: Filter by crime type, position, tag, and year
-- **Flexible Sorting**: Sort by ID, name, or year in ascending or descending order
-- **Pagination**: View 10, 25, 50, 100 entries per page, or view all 1,507 entries at once
-- **Search Highlighting**: Search terms are highlighted in yellow in results
-- **CSV Export**: Export filtered results to CSV format
-- **Mobile Responsive**: Optimized for all screen sizes
+- Astro content collections for entries in `src/content/entries/`
+- Tailwind for UI styling
+- Pagefind for full-site search
+- Python maintenance scripts for validation, taxonomy cleanup, and Epstein reporting workflows
+- GitHub Pages deployment from `main`
 
-## Database Statistics
+## Local Development
 
-- **Total Entries**: 1,507 documented cases
-- **Data Size**: 855KB total (split into 16 files of ~50KB each)
-- **Data Structure**: Split into 100-entry chunks for optimal loading performance
-- **Fields**: ID, Name, Position(s), Crime(s), Tags, Year, Description, Sources
-
-## How to Use
-
-### Option 1: Using Python (Recommended)
+Install dependencies:
 
 ```bash
-# Run the server script
-chmod +x serve.sh
-./serve.sh
-
-# Or run Python directly
-python3 -m http.server 8000
+npm ci
 ```
 
-Then open your browser to: `http://127.0.0.1:8000/`
-
-### Option 2: Using Node.js
+Run the dev server:
 
 ```bash
-# Install http-server globally
-npm install -g http-server
-
-# Run the server
-http-server -p 8000
+npm run dev
 ```
 
-Then open your browser to: `http://127.0.0.1:8000/`
-
-### Option 3: Using PHP
+Validate content entries:
 
 ```bash
-php -S 127.0.0.1:8000
+npm run validate:entries
 ```
 
-Then open your browser to: `http://127.0.0.1:8000/`
-
-## Why Do I Need a Web Server?
-
-Modern browsers block JavaScript from loading local files (like `data.json`) when you open HTML files directly using the `file://` protocol. This is a security feature called CORS (Cross-Origin Resource Sharing). A local web server serves the files over HTTP, which allows the application to work properly.
-
-## Data Organization
-
-The database is split into multiple files for better performance:
-
-- **data/index.json**: Index file listing all data files and metadata
-- **data/data-1.json** through **data/data-16.json**: Individual data chunks (100 entries each, except the last)
-- **data.json**: Original monolithic file (kept as backup)
-
-The application automatically loads the split files with progress indication. If split files are unavailable, it falls back to `data.json`.
-
-### Regenerating Split Files
-
-To regenerate the split data files from `data.json`:
+Run the full local check:
 
 ```bash
-python3 split_data.py
+npm run check
 ```
 
-This will recreate the `data/` directory with updated split files.
+Create a production build:
 
-## Data Structure
-
-Each entry in the JSON files contains:
-
-```json
-{
-  "id": 1,
-  "name": "Person Name",
-  "position": ["position1", "position2"],
-  "crime": ["crime1", "crime2"],
-  "description": "Detailed description of the misconduct",
-  "sources": ["https://source1.com", "https://source2.com"],
-  "tags": ["tag1", "tag2"],
-  "year": 2023
-}
+```bash
+npm run build
 ```
 
-## Using the Interface
+## Content Model
 
-1. **Search**: Type in the search bar to filter entries by any text
-2. **Filter**: Use dropdown menus to filter by specific criteria
-3. **Sort**: Choose what to sort by and the order
-4. **Navigate**: Use pagination controls to browse through results
-5. **Export**: Click "Export to CSV" to download filtered results
-6. **Clear**: Click "Clear Filters" to reset all filters and sorting
+Each entry is a Markdown file in `src/content/entries/` with YAML frontmatter and a body.
 
-## Data Sources
+Required frontmatter fields:
 
-All data is sourced from publicly available information and court records. Each entry includes links to original sources for verification.
+- `name`
+- `positions`
+- `crimes`
+- `tags`
+- `sources`
 
-## Epstein Tagging
+Supported editorial metadata:
 
-Epstein-related material should use the existing tag system, not a separate schema.
+- `aliases`
+- `roles`
+- `case_type`
+- `jurisdiction`
+- `review_status`
+- `reviewed_at`
+- `confidence`
+- `needs_research`
 
-Canonical tags:
+Example:
+
+```yaml
+---
+name: "Example Person"
+slug: "example-person"
+positions:
+  - "Attorney"
+crimes:
+  - "Obstruction Of Justice"
+tags:
+  - "epstein files"
+sources:
+  - "https://example.com/story"
+  - url: "https://example.gov/filing.pdf"
+    title: "Court Filing"
+    publisher: "District Court"
+    source_type: "court"
+    published_at: "2024-02-01"
+    primary: true
+aliases:
+  - "E. Person"
+roles:
+  - "Defense Attorney"
+case_type: "epstein network"
+jurisdiction: "Florida"
+review_status: "reviewed"
+reviewed_at: "2026-04-16"
+confidence: "high"
+---
+```
+
+Notes:
+
+- Astro routes entries by filename. The frontmatter `slug` field is retained for editorial continuity, but the file path remains the route source of truth.
+- `sources` may be plain URLs or structured source objects.
+
+## Editorial Rules
+
+- Keep tags canonical and lower-case.
+- Keep positions and crimes human-readable and deduplicated.
+- Prefer primary documents and direct reporting over tertiary commentary.
+- Mark sparse entries with `needs_research: true` instead of inflating weak summaries.
+- Use structured source objects when publisher, title, or source type materially improve reviewability.
+
+## Browse Experience
+
+The browse UI is generated from a normalized build-time index in `src/pages/browse-index.json.ts`.
+
+Current browse behavior:
+
+- full-site search via Pagefind
+- client-side browse filtering by crime, position, tag, and alphabet route
+- facet counts surfaced in the sidebar
+- related-entry suggestions on entry pages using shared crimes, tags, positions, and roles
+
+## Epstein Workflow
+
+Epstein-related material stays inside the normal tag and entry system.
+
+Canonical Epstein tags:
+
 - `epstein files`
 - `epstein associate`
 - `epstein flight logs`
 - `epstein communications`
 - `epstein testimony`
 
-Apply the unified Epstein tags from the local archive clone:
-
-```bash
-python scripts/tag_epstein_entries.py --source .claude/tmp/epstein-docs.github.io --apply
-```
-
-Build reporting leads for:
-- existing database entries that appear in the archive
-- scoped focus people from `scripts/epstein_focus_people.json`
-- candidate additions and other substantive unmatched leads
+Generate the reporting lead files from a local `epstein-docs.github.io` clone:
 
 ```bash
 python scripts/build_epstein_reporting_leads.py --source .claude/tmp/epstein-docs.github.io
 ```
 
-The focus config also carries reviewed archive name variants and representative source links for database entries that need explicit matching beyond simple frontmatter-name normalization.
+Apply reviewed Epstein tags to matching entries:
 
-## Contributing
+```bash
+python scripts/tag_epstein_entries.py --source .claude/tmp/epstein-docs.github.io --apply
+```
 
-To add new entries to the database, edit `data.json` following the existing structure. Ensure all entries include:
-- Unique ID (increment from the last entry)
-- Name
-- At least one source link
-- Accurate description
+Rebuild triage coverage for unresolved or resolved non-entry leads:
 
-## Technical Details
+```bash
+python scripts/build_epstein_lead_triage.py
+```
 
-- **Frontend**: Vanilla JavaScript (no dependencies)
-- **Styling**: CSS3 with gradient backgrounds and smooth transitions
-- **Performance**: Debounced search, pagination for optimal performance
-- **Security**: XSS protection via HTML escaping
-- **Compatibility**: Works on all modern browsers
+Key Epstein files:
+
+- `scripts/epstein_focus_people.json`
+- `scripts/epstein_lead_triage.json`
+- `reports/epstein-reporting-summary.md`
+- `reports/epstein-reporting-leads.json`
+
+## Maintenance Scripts
+
+- `python scripts/validate_entries.py`
+  Validates frontmatter shape, source structure, optional metadata, and duplicate-source warnings.
+
+- `python scripts/unify_taxonomy.py --dry-run`
+  Checks taxonomy normalization without rewriting files.
+
+- `python scripts/normalize_entries.py --dry-run --flag-sparse`
+  Reviews normalization and sparse-entry candidates.
+
+- `python scripts/build_epstein_reporting_leads.py --source ...`
+  Regenerates archive-backed reporting leads and summary output.
+
+## Deployment
+
+GitHub Actions runs content validation and production build checks on pull requests and on pushes to `main`. GitHub Pages deployment only runs for pushes to `main`.
+
+Workflow file:
+
+- `.github/workflows/deploy.yml`
+
+## Repository Layout
+
+- `src/content/entries/` editorial entry files
+- `src/components/` UI components
+- `src/pages/` Astro routes
+- `src/utils/` normalization and shared indexing helpers
+- `scripts/` editorial maintenance scripts
+- `reports/` generated reporting outputs
 
 ## License
 
-This database is provided for informational and research purposes.
-
----
-
-Last updated: 2025-11-17
+Provided for informational and research purposes.

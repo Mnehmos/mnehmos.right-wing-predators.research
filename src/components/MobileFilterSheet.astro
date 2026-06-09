@@ -1,10 +1,15 @@
 ---
 import FilterSidebar from './FilterSidebar.astro';
 
+interface FacetOption {
+  name: string;
+  count: number;
+}
+
 interface Props {
-  crimes: string[];
-  positions: string[];
-  tags: string[];
+  crimes: FacetOption[];
+  positions: FacetOption[];
+  tags: FacetOption[];
 }
 
 const { crimes, positions, tags } = Astro.props;

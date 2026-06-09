@@ -1,0 +1,89 @@
+[
+  {
+    "score": 1.0,
+    "reasons": [
+      "name similarity 0.97",
+      "crimes+positions jaccard 1.00"
+    ],
+    "a": {
+      "slug": "david-lynn-richards-2",
+      "name": "David Lynn Richards",
+      "source_count": 2
+    },
+    "b": {
+      "slug": "david-lynn-richards",
+      "name": "David Lynn Richards,",
+      "source_count": 2
+    }
+  },
+  {
+    "score": 1.0,
+    "reasons": [
+      "name similarity 0.98",
+      "slug similarity 0.98",
+      "crimes+positions jaccard 1.00"
+    ],
+    "a": {
+      "slug": "james-dub-maines-formerly-gop-rep-joe-barton-s-2",
+      "name": "James \"Dub\" Maines, formerly GOP Rep. Joe Barton's",
+      "source_count": 1
+    },
+    "b": {
+      "slug": "james-dub-maines-formerly-gop-rep-joe-barton-s",
+      "name": "James \\\"Dub\\\" Maines, formerly GOP Rep. Joe Barton's",
+      "source_count": 1
+    }
+  },
+  {
+    "score": 1.0,
+    "reasons": [
+      "name similarity 0.97",
+      "slug similarity 0.98",
+      "crimes+positions jaccard 1.00"
+    ],
+    "a": {
+      "slug": "jeffery-williams-fountain-co-salvation-army-youth-2",
+      "name": "Jeffery Williams, Fountain, CO Salvation Army youth",
+      "source_count": 2
+    },
+    "b": {
+      "slug": "jeffery-williams-fountain-co-salvation-army-youth",
+      "name": "Jeffery Williams = Fountain, CO Salvation Army youth",
+      "source_count": 2
+    }
+  },
+  {
+    "score": 1.0,
+    "reasons": [
+      "name similarity 0.99",
+      "slug similarity 0.97",
+      "crimes+positions jaccard 1.00"
+    ],
+    "a": {
+      "slug": "matthew-fairfield-oath-keepers-member-2",
+      "name": "Matthew Fairfield, Oath Keepers member",
+      "source_count": 1
+    },
+    "b": {
+      "slug": "matthew-fairfield-oath-keepers-member",
+      "name": "Matthew Fairfield, Oath Keepers member,",
+      "source_count": 1
+    }
+  },
+  {
+    "score": 1.0,
+    "reasons": [
+      "crimes+positions jaccard 1.00"
+    ],
+    "a": {
+      "slug": "peter-mitchell-gaughenbaugh-florida-hammerskins-child",
+      "name": "Peter Mitchell Gaughenbaugh, Florida Hammerskins. Child",
+      "source_count": 2
+    },
+    "b": {
+      "slug": "peter-mitchell-gaughenbaugh-florida-hammerskins",
+      "name": "Peter Mitchell Gaughenbaugh, Florida Hammerskins",
+      "source_count": 2
+    }
+  }
+]

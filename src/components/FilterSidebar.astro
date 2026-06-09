@@ -1,19 +1,17 @@
 ---
+interface FacetOption {
+  name: string;
+  count: number;
+}
+
 interface Props {
-  crimes: string[];
-  positions: string[];
-  tags: string[];
+  crimes: FacetOption[];
+  positions: FacetOption[];
+  tags: FacetOption[];
   variant?: 'desktop' | 'mobile';
 }
 
 const { crimes, positions, tags, variant = 'desktop' } = Astro.props;
-
-// Top facets: the client engine filters the full dataset, but we display the
-// most common values in the sidebar to keep the UI scannable.
-const topCrimes = crimes.slice(0, 20);
-const topPositions = positions.slice(0, 20);
-const topTags = tags.slice(0, 15);
-
 const idPrefix = variant === 'mobile' ? 'm-' : '';
 ---
 
@@ -36,7 +34,6 @@ const idPrefix = variant === 'mobile' ? 'm-' : '';
     </button>
   </div>
 
-  <!-- Crime Type Filter -->
   <fieldset class="mb-6">
     <legend class="w-full">
       <button
@@ -52,24 +49,39 @@ const idPrefix = variant === 'mobile' ? 'm-' : '';
         </svg>
       </button>
     </legend>
+    <div class="mb-3">
+      <label class="sr-only" for={`${idPrefix}crimes-search`}>Search crime filters</label>
+      <input
+        id={`${idPrefix}crimes-search`}
+        type="search"
+        data-filter-search={`${idPrefix}crimes-section`}
+        placeholder="Search crime filters"
+        class="w-full rounded-lg border border-stone-300 dark:border-stone-700 bg-white dark:bg-stone-900 px-3 py-2 text-sm text-stone-800 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 focus:outline-none focus:ring-2 focus:ring-copper"
+      />
+    </div>
     <div id={`${idPrefix}crimes-section`} class="space-y-1.5 max-h-64 overflow-y-auto scrollbar-thin">
-      {topCrimes.map((crime) => (
-        <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]">
+      {crimes.map((crime) => (
+        <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]" data-filter-option data-filter-label={crime.name.toLowerCase()}>
           <input
             type="checkbox"
             name="crime"
-            value={crime}
+            value={crime.name}
             class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-2 focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
           />
           <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate">
-            {crime}
+            {crime.name}
+          </span>
+          <span class="ml-auto text-xs text-stone-500 dark:text-stone-400 tabular-nums">
+            {crime.count}
           </span>
         </label>
       ))}
+      <p class="hidden text-sm text-stone-500 dark:text-stone-400 py-2" data-filter-empty>
+        No matching crime filters.
+      </p>
     </div>
   </fieldset>
 
-  <!-- Position Filter -->
   <fieldset class="mb-6">
     <legend class="w-full">
       <button
@@ -85,25 +97,40 @@ const idPrefix = variant === 'mobile' ? 'm-' : '';
         </svg>
       </button>
     </legend>
+    <div class="mb-3">
+      <label class="sr-only" for={`${idPrefix}positions-search`}>Search position filters</label>
+      <input
+        id={`${idPrefix}positions-search`}
+        type="search"
+        data-filter-search={`${idPrefix}positions-section`}
+        placeholder="Search position filters"
+        class="w-full rounded-lg border border-stone-300 dark:border-stone-700 bg-white dark:bg-stone-900 px-3 py-2 text-sm text-stone-800 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 focus:outline-none focus:ring-2 focus:ring-copper"
+      />
+    </div>
     <div id={`${idPrefix}positions-section`} class="space-y-1.5 max-h-64 overflow-y-auto scrollbar-thin">
-      {topPositions.map((position) => (
-        <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]">
+      {positions.map((position) => (
+        <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]" data-filter-option data-filter-label={position.name.toLowerCase()}>
           <input
             type="checkbox"
             name="position"
-            value={position}
+            value={position.name}
             class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-2 focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
           />
-          <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate" title={position}>
-            {position.length > 40 ? position.substring(0, 40) + '…' : position}
+          <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate" title={position.name}>
+            {position.name}
+          </span>
+          <span class="ml-auto text-xs text-stone-500 dark:text-stone-400 tabular-nums">
+            {position.count}
           </span>
         </label>
       ))}
+      <p class="hidden text-sm text-stone-500 dark:text-stone-400 py-2" data-filter-empty>
+        No matching position filters.
+      </p>
     </div>
   </fieldset>
 
-  <!-- Tag Filter -->
-  {topTags.length > 0 && (
+  {tags.length > 0 && (
     <fieldset class="mb-2">
       <legend class="w-full">
         <button
@@ -119,29 +146,42 @@ const idPrefix = variant === 'mobile' ? 'm-' : '';
           </svg>
         </button>
       </legend>
+      <div class="mb-3">
+        <label class="sr-only" for={`${idPrefix}tags-search`}>Search tag filters</label>
+        <input
+          id={`${idPrefix}tags-search`}
+          type="search"
+          data-filter-search={`${idPrefix}tags-section`}
+          placeholder="Search tags"
+          class="w-full rounded-lg border border-stone-300 dark:border-stone-700 bg-white dark:bg-stone-900 px-3 py-2 text-sm text-stone-800 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 focus:outline-none focus:ring-2 focus:ring-copper"
+        />
+      </div>
       <div id={`${idPrefix}tags-section`} class="space-y-1.5 max-h-48 overflow-y-auto scrollbar-thin">
-        {topTags.map((tag) => (
-          <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]">
+        {tags.map((tag) => (
+          <label class="flex items-center gap-2 cursor-pointer group py-1 min-h-[32px]" data-filter-option data-filter-label={tag.name.toLowerCase()}>
             <input
               type="checkbox"
               name="tag"
-              value={tag}
+              value={tag.name}
               class="filter-checkbox w-4 h-4 rounded border-stone-300 dark:border-stone-600 bg-white dark:bg-stone-700 text-copper focus:ring-2 focus:ring-copper focus:ring-offset-stone-100 dark:focus:ring-offset-stone-800"
             />
-            <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate" title={tag}>
-              {tag}
+            <span class="text-sm text-stone-700 dark:text-stone-300 group-hover:text-copper transition-colors truncate" title={tag.name}>
+              {tag.name}
+            </span>
+            <span class="ml-auto text-xs text-stone-500 dark:text-stone-400 tabular-nums">
+              {tag.count}
             </span>
           </label>
         ))}
+        <p class="hidden text-sm text-stone-500 dark:text-stone-400 py-2" data-filter-empty>
+          No matching tags.
+        </p>
       </div>
     </fieldset>
   )}
 </aside>
 
 <script>
-  // Section collapse/expand with proper ARIA.
-  // Only runs once per page — guard against double-binding when the mobile
-  // sheet re-mounts the sidebar inside its drawer.
   function bindSectionToggles() {
     document.querySelectorAll<HTMLButtonElement>('.filter-section-toggle').forEach((btn) => {
       if (btn.dataset.bound === '1') return;
@@ -159,9 +199,46 @@ const idPrefix = variant === 'mobile' ? 'm-' : '';
       });
     });
   }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', bindSectionToggles);
-  } else {
+
+  function bindFacetSearches() {
+    document.querySelectorAll<HTMLInputElement>('[data-filter-search]').forEach((input) => {
+      if (input.dataset.bound === '1') return;
+      input.dataset.bound = '1';
+
+      const targetId = input.dataset.filterSearch;
+      const target = targetId ? document.getElementById(targetId) : null;
+      if (!target) return;
+
+      const options = Array.from(target.querySelectorAll<HTMLElement>('[data-filter-option]'));
+      const emptyState = target.querySelector<HTMLElement>('[data-filter-empty]');
+
+      const update = () => {
+        const query = input.value.trim().toLowerCase();
+        let visibleCount = 0;
+
+        options.forEach((option) => {
+          const label = option.dataset.filterLabel || '';
+          const matches = !query || label.includes(query);
+          option.classList.toggle('hidden', !matches);
+          if (matches) visibleCount += 1;
+        });
+
+        emptyState?.classList.toggle('hidden', visibleCount !== 0);
+      };
+
+      input.addEventListener('input', update);
+      update();
+    });
+  }
+
+  function initFilterSidebar() {
     bindSectionToggles();
+    bindFacetSearches();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initFilterSidebar);
+  } else {
+    initFilterSidebar();
   }
 </script>

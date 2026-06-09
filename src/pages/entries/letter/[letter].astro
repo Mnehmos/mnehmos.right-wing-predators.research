@@ -29,9 +29,9 @@ const { letter } = Astro.props;
 const allEntries = await getNormalizedEntries();
 const lettersWithEntries = getLettersWithEntries(allEntries);
 const facets = getFacetCounts(allEntries);
-const crimes = facets.crimes.map(([n]) => n);
-const positions = facets.positions.map(([n]) => n);
-const tags = facets.tags.map(([n]) => n);
+const crimes = facets.crimes.map(([name, count]) => ({ name, count }));
+const positions = facets.positions.map(([name, count]) => ({ name, count }));
+const tags = facets.tags.map(([name, count]) => ({ name, count }));
 
 // SSR: show the first 48 entries starting with this letter, sorted alphabetically.
 // Client engine hydrates with ?letter=X state so further filter/sort works on the full dataset.

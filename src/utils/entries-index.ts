@@ -1,4 +1,9 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
+import {
+  normalizeSources,
+  type EntrySource,
+  type NormalizedSource,
+} from './source-utils';
 
 /**
  * Normalized entry used throughout the site. Derives cleaned/sorted lists
@@ -9,15 +14,27 @@ export interface NormalizedEntry {
   name: string;
   nameSortKey: string;
   firstLetter: string;
+  aliases: string[];
   positions: string[];
   crimes: string[];
   tags: string[];
-  sources: string[];
+  roles: string[];
+  caseType?: string;
+  jurisdiction?: string;
+  reviewStatus?: string;
+  confidence?: string;
+  sources: NormalizedSource[];
   sourceCount: number;
   bodyLength: number;
   score: number;
   needsResearch: boolean;
   raw: CollectionEntry<'entries'>;
+}
+
+export interface RelatedEntry {
+  entry: NormalizedEntry;
+  reasons: string[];
+  score: number;
 }
 
 /**
@@ -51,6 +68,12 @@ const toTitleCase = (s: string): string => {
 };
 
 const toLowerTag = (s: string): string => s.trim().toLowerCase().replace(/\s+/g, ' ');
+
+const LOW_SIGNAL_TAGS = new Set([
+  'republican',
+  'conservative',
+  'maga',
+]);
 
 const uniqCaseInsensitive = (arr: string[], normalizer: (s: string) => string): string[] => {
   const seen = new Map<string, string>();
@@ -137,10 +160,12 @@ const computeScore = (args: {
   args.positionTier;
 
 export function normalize(entry: CollectionEntry<'entries'>): NormalizedEntry {
+  const aliases = uniqCaseInsensitive(entry.data.aliases ?? [], toTitleCase);
   const positions = uniqCaseInsensitive(entry.data.positions ?? [], toTitleCase);
   const crimes = uniqCaseInsensitive(entry.data.crimes ?? [], toTitleCase);
   const tags = uniqCaseInsensitive(entry.data.tags ?? [], toLowerTag);
-  const sources = (entry.data.sources ?? []).map((s) => s.trim()).filter(Boolean);
+  const roles = uniqCaseInsensitive(entry.data.roles ?? [], toTitleCase);
+  const sources = normalizeSources((entry.data.sources ?? []) as EntrySource[]);
   const body = stripFrontmatter(entry.body);
   const bodyLength = body.length;
 
@@ -159,16 +184,25 @@ export function normalize(entry: CollectionEntry<'entries'>): NormalizedEntry {
   });
 
   const needsResearch =
-    entry.data.needs_research === true || sources.length === 0 || bodyLength < 100;
+    entry.data.needs_research === true ||
+    entry.data.review_status === 'draft' ||
+    sources.length < 2 ||
+    bodyLength < 100;
 
   return {
     slug: entry.slug,
     name,
     nameSortKey: name.toLowerCase(),
     firstLetter,
+    aliases,
     positions,
     crimes,
     tags,
+    roles,
+    caseType: entry.data.case_type,
+    jurisdiction: entry.data.jurisdiction,
+    reviewStatus: entry.data.review_status,
+    confidence: entry.data.confidence,
     sources,
     sourceCount: sources.length,
     bodyLength,
@@ -229,4 +263,65 @@ export function toBrowseRow(e: NormalizedEntry): BrowseIndexRow {
     nr: e.needsResearch,
     sv: e.score,
   };
+}
+
+function intersect(left: string[], right: string[]): string[] {
+  const set = new Set(right.map((value) => value.toLowerCase()));
+  return left.filter((value) => set.has(value.toLowerCase()));
+}
+
+export function getRelatedEntries(
+  entries: NormalizedEntry[],
+  slug: string,
+  n: number,
+): RelatedEntry[] {
+  const current = entries.find((entry) => entry.slug === slug);
+  if (!current) return [];
+
+  return entries
+    .filter((entry) => entry.slug !== slug)
+    .map((entry) => {
+      const sharedCrimes = intersect(current.crimes, entry.crimes);
+      const sharedPositions = intersect(current.positions, entry.positions);
+      const sharedRoles = intersect(current.roles, entry.roles);
+      const sharedSpecificTags = intersect(
+        current.tags.filter((tag) => !LOW_SIGNAL_TAGS.has(tag)),
+        entry.tags.filter((tag) => !LOW_SIGNAL_TAGS.has(tag)),
+      );
+      const sharedGenericTags = intersect(
+        current.tags.filter((tag) => LOW_SIGNAL_TAGS.has(tag)),
+        entry.tags.filter((tag) => LOW_SIGNAL_TAGS.has(tag)),
+      );
+
+      let score = 0;
+      score += sharedCrimes.length * 5;
+      score += sharedSpecificTags.length * 4;
+      score += sharedPositions.length * 3;
+      score += sharedRoles.length * 2;
+      score += sharedGenericTags.length;
+      if (current.caseType && entry.caseType && current.caseType === entry.caseType) score += 3;
+      if (current.jurisdiction && entry.jurisdiction && current.jurisdiction === entry.jurisdiction) score += 2;
+
+      const reasons: string[] = [];
+      if (sharedCrimes.length) reasons.push(`Crime: ${sharedCrimes.slice(0, 2).join(', ')}`);
+      if (sharedSpecificTags.length) reasons.push(`Tag: ${sharedSpecificTags.slice(0, 2).join(', ')}`);
+      if (sharedPositions.length) reasons.push(`Position: ${sharedPositions.slice(0, 2).join(', ')}`);
+      if (sharedRoles.length) reasons.push(`Role: ${sharedRoles.slice(0, 2).join(', ')}`);
+      if (!reasons.length && current.caseType && entry.caseType && current.caseType === entry.caseType) {
+        reasons.push(`Case type: ${entry.caseType}`);
+      }
+
+      return {
+        entry,
+        reasons,
+        score,
+      };
+    })
+    .filter((related) => related.score > 0)
+    .sort((left, right) =>
+      right.score - left.score ||
+      right.entry.sourceCount - left.entry.sourceCount ||
+      left.entry.nameSortKey.localeCompare(right.entry.nameSortKey),
+    )
+    .slice(0, n);
 }

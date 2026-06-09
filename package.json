@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "validate:entries": "python scripts/validate_entries.py",
     "build": "astro build",
+    "check": "python scripts/validate_entries.py && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },

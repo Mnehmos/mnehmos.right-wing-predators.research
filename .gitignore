@@ -36,3 +36,13 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# --- secrets (TMRI standard, added 2026-05-28) ---
+.env
+.env.*
+!.env.example
+!.env.sample
+*.key
+*.pem
+*.pfx
+secrets.json
