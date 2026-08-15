@@ -57,7 +57,9 @@ function getBasePath(): string {
 }
 
 function encodeSet(s: Set<string>): string {
-  return [...s].map(encodeURIComponent).join(',');
+  // URLSearchParams performs the encoding. Encoding each value here first
+  // turns spaces into `%2520` and breaks shareable filter links.
+  return [...s].join(',');
 }
 
 function decodeSet(raw: string | null): Set<string> {
@@ -313,10 +315,22 @@ async function init(): Promise<void> {
   let payload: BrowsePayload;
   try {
     const res = await fetch(`${base}browse-index.json`);
+    if (!res.ok) throw new Error(`Browse index request failed (${res.status})`);
     payload = await res.json();
   } catch (err) {
-    console.error('Failed to load browse index', err);
-    return;
+    const inlineIndex = document.getElementById('browse-index-inline')?.textContent;
+    if (!inlineIndex) {
+      console.error('Failed to load browse index', err);
+      meta.textContent = 'Browse filters are temporarily unavailable. The entries above are still viewable.';
+      return;
+    }
+    try {
+      payload = JSON.parse(inlineIndex) as BrowsePayload;
+    } catch (inlineErr) {
+      console.error('Failed to parse inline browse index', inlineErr);
+      meta.textContent = 'Browse filters are temporarily unavailable. The entries above are still viewable.';
+      return;
+    }
   }
 
   const initial = readUrlState();

@@ -21,6 +21,12 @@ const topPositions = facets.positions.slice(0, 5);
 
 // Featured = most documented (by notability score)
 const featuredEntries = getTopByScore(entries, 6);
+
+// Curated editorial updates for the current research window.
+const augustUpdateSlugs = ['chuck-edwards', 'max-miller', 'david-elliott-pritt'];
+const augustUpdates = augustUpdateSlugs
+  .map((slug) => entries.find((entry) => entry.slug === slug))
+  .filter((entry): entry is NonNullable<typeof entry> => Boolean(entry));
 ---
 
 <BaseLayout title="Home">
@@ -54,6 +60,34 @@ const featuredEntries = getTopByScore(entries, 6);
           Most Documented
         </a>
       </div>
+    </div>
+  </section>
+
+  <!-- Current Research Window -->
+  <section class="py-12 border-y border-stone-200 dark:border-stone-800" aria-labelledby="august-updates-heading">
+    <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3 mb-8">
+      <div>
+        <p class="text-sm font-semibold uppercase tracking-wide text-copper">Research window</p>
+        <h2 id="august-updates-heading" class="text-2xl font-bold font-display text-stone-800 dark:text-stone-100">August 2026 updates</h2>
+      </div>
+      <p class="max-w-xl text-sm text-stone-600 dark:text-stone-400">
+        Recent entries reviewed through August 14, 2026. Each record separates allegations, official findings, and responses.
+      </p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      {augustUpdates.map((entry) => (
+        <div class="entry-cell min-h-[170px]">
+          <EntryCard
+            name={entry.name}
+            slug={entry.slug}
+            positions={entry.positions}
+            crimes={entry.crimes}
+            tags={entry.tags}
+            sourceCount={entry.sourceCount}
+            needsResearch={entry.needsResearch}
+          />
+        </div>
+      ))}
     </div>
   </section>
 

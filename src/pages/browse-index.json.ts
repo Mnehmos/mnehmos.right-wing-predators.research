@@ -1,6 +1,8 @@
 import type { APIRoute } from 'astro';
 import { getNormalizedEntries, toBrowseRow, getFacetCounts } from '../utils/entries-index';
 
+export const prerender = true;
+
 export const GET: APIRoute = async () => {
   const entries = await getNormalizedEntries();
   const facets = getFacetCounts(entries);

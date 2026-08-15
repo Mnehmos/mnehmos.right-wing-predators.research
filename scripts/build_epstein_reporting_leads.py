@@ -346,7 +346,12 @@ def build_record(
     return record
 
 
-def build_report(source_dir: Path, focus_config_path: Path, triage_config_path: Path) -> dict:
+def build_report(
+    source_dir: Path,
+    focus_config_path: Path,
+    triage_config_path: Path,
+    generated_at: str | None = None,
+) -> dict:
     payload = json.loads((source_dir / "analyses.json").read_text(encoding="utf-8"))
     focus_people, focus_canonical_lookup, focus_alias_lookup = load_focus_people(focus_config_path)
     triage_people, triage_canonical_lookup, triage_alias_lookup = load_triage_people(triage_config_path)
@@ -457,7 +462,7 @@ def build_report(source_dir: Path, focus_config_path: Path, triage_config_path: 
     triage_counts = Counter(item["triageCategory"] for item in triaged_non_entry)
 
     return {
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "generatedAt": generated_at or datetime.now(timezone.utc).isoformat(),
         "sourceRepo": "https://github.com/epstein-docs/epstein-docs.github.io",
         "focusPeopleConfig": str(focus_config_path.relative_to(REPO_ROOT)),
         "triageConfig": str(triage_config_path.relative_to(REPO_ROOT)) if triage_config_path.exists() else "",
@@ -590,12 +595,17 @@ def main() -> None:
     parser.add_argument("--triage-config", default=str(DEFAULT_TRIAGE_CONFIG), help="Path to the lead-triage config JSON")
     parser.add_argument("--json-output", default=str(DEFAULT_JSON_OUTPUT), help="Path for the JSON report")
     parser.add_argument("--md-output", default=str(DEFAULT_MD_OUTPUT), help="Path for the Markdown summary")
+    parser.add_argument(
+        "--generated-at",
+        help="Stable source timestamp to use in generated reports; defaults to the current UTC time",
+    )
     args = parser.parse_args()
 
     report = build_report(
         Path(args.source).resolve(),
         Path(args.focus_config).resolve(),
         Path(args.triage_config).resolve(),
+        generated_at=args.generated_at,
     )
 
     json_output = Path(args.json_output).resolve()

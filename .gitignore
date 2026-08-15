@@ -46,3 +46,6 @@ Thumbs.db
 *.pem
 *.pfx
 secrets.json
+
+# Agent ingestion diagnostics (generated during workflow runs)
+reports/agent-findings-ingestion.json

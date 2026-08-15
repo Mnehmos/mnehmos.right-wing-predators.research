@@ -9,7 +9,6 @@ tags:
   - "republican"
 sources:
   - "http://www.kunc.org/post/new-investigation-concludes-sen-baumgardner-created-offensive-work-environment-capitol"
-  - "http://www.kunc.org/post/new-investigation-concludes-sen-baumgardner-created-offensive-work-environment-capitol/"
 ---
 
 ## Overview

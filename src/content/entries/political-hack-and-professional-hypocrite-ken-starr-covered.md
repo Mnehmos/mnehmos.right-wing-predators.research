@@ -1,6 +1,5 @@
 ---
 name: "Ken Starr"
-slug: "ken-starr"
 positions:
   - "Attorney"
 crimes:

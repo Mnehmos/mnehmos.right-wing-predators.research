@@ -180,6 +180,14 @@ Workflow file:
 
 - `.github/workflows/deploy.yml`
 
+### Automated updates
+
+- `deploy.yml` also rebuilds and deploys the Pages site daily at 09:17 UTC, or on demand through `workflow_dispatch`.
+- `research-refresh.yml` checks the upstream Epstein archive weekly, commits changed reporting artifacts directly to `main`, and deploys the rebuilt site in the same run.
+- The research workflow never creates or edits person entries automatically. It publishes generated reporting leads and triage data without a review gate; Actions must be allowed to write to `main` for this mode to work.
+- `agent-findings.yml` ingests daily agent JSON from `data/agent-findings/inbox/`, updates the public ledger, and deploys the `/updates/` page at 10:37 UTC or whenever a new inbox file reaches `main`.
+- Agent prompts and the required output contract are in [`AGENT_PROMPTS.md`](AGENT_PROMPTS.md). Only events marked `auto_publish: true` with valid evidence metadata enter the public ledger; quarantined leads remain unpublished.
+
 ## Repository Layout
 
 - `src/content/entries/` editorial entry files

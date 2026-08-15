@@ -1,0 +1,21 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-14",
+  "sources_checked": [
+    "https://www.fec.gov/updates/week-of-august-10-14-2026/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-sends-more-238-million-drivers-diners-harmed-grubhubs-deceptive-advertising-claims-other",
+    "https://www.osc.gov/news/",
+    "https://www.osc.gov/news/2026-08-07/charles-baldis-sworn-in-as-special-counsel-of-osc/",
+    "https://www.oge.gov/web/oge.nsf/publicresources_Public-Participation",
+    "https://www.gao.gov/",
+    "https://www.ignet.gov/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-13T20:37:47-07:00 through 2026-08-14T20:37:47-07:00.",
+    "Several official agency pages exposed current publication lists but not uniform publication timestamps; no lead was promoted without an in-window, person-specific official action or corroborated reporting."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-15",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/updates/week-of-august-10-14-2026/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.osc.gov/news/",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://www.nlrb.gov/about-nlrb/who-we-are/inspector-general/office-of-inspector-general-investigations",
+    "https://www.eeoc.gov/newsroom",
+    "https://oig.eeoc.gov/sites/default/files/semiannuals/FINAL%20SEMIANNUAL%20to%20the%20Chair_0.pdf",
+    "https://www.gao.gov/",
+    "https://www.oge.gov/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-14T03:37:44-07:00 through 2026-08-15T03:37:44-07:00.",
+    "The FEC page showed August 14 advisory and litigation updates rather than misconduct findings; the FTC and OSC public release lists showed no person-specific qualifying action inside the window.",
+    "SEC, OGE, and GAO pages did not expose uniformly searchable in-window publication records in this pass; no lead was promoted without direct official evidence."
+  ]
+}
