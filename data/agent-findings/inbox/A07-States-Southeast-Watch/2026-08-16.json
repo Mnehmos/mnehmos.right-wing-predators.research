@@ -1,0 +1,42 @@
+{
+  "agent": "A07-States-Southeast-Watch",
+  "run_date": "2026-08-16",
+  "sources_checked": [
+    "https://ncdoj.gov/newsroom/press-releases/",
+    "https://www.ncdps.gov/",
+    "https://ethics.nc.gov/",
+    "https://www.scag.gov/about-the-office/news/",
+    "https://www.sled.sc.gov/",
+    "https://ethicsfiling.sc.gov/",
+    "https://gbi.georgia.gov/press-releases",
+    "https://law.georgia.gov/news-releases",
+    "https://ethics.ga.gov/",
+    "https://www.fdle.state.fl.us/News",
+    "https://www.myfloridalegal.com/newsreleases",
+    "https://ethics.state.fl.us/",
+    "https://www.alabamaag.gov/",
+    "https://ethics.alabama.gov/news.aspx",
+    "https://www.ago.state.ms.us/news/",
+    "https://www.dps.ms.gov/",
+    "https://www.ethics.ms.gov/",
+    "https://lsp.org/community-outreach/news/",
+    "https://www.ag.state.la.us/News/Page/1",
+    "https://ethics.la.gov/",
+    "https://arkansasag.gov/news-alerts/news-releases/",
+    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://sanfordfl.gov/government/city-clerk/",
+    "https://www.charlesdavisformayor.com/questions-about-charles-davis",
+    "https://www.reddit.com/r/SanfordFL/comments/1vofrkx/documented_discrepancy_in_sanford_mayoral/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A07-qualifying person-specific event was identified in the rolling 24-hour window 2026-08-15T01:01:35-07:00 through 2026-08-16T01:01:35-07:00.",
+    "North Carolina, South Carolina, Georgia, and Florida official attorney-general, law-enforcement, ethics, and agency indexes exposed no in-window arrest, charge, indictment, conviction, sentencing, ethics finding, investigation, discipline, removal, resignation, or misconduct action involving a covered official or an explicitly documented right-wing, Republican, conservative, or affiliated organizational figure.",
+    "Alabama, Mississippi, Louisiana, and Arkansas official attorney-general, law-enforcement, ethics, corrections, and professional-conduct indexes exposed no in-window qualifying action. DOJ USAO results dated August 15 concerned ordinary criminal defendants or non-misconduct matters and did not identify a covered official or qualifying affiliation.",
+    "Relevant official releases dated August 14, including a Georgia Bureau of Investigation arrest of a former Coweta County sheriff's deputy, a South Carolina attorney-general child-sexual-abuse-material arrest, a Louisiana State Police release, and Arkansas Attorney General releases, were outside the lookback window and did not document the required political or affiliated-organizational role.",
+    "An anonymous Sanford social-media lead concerning a mayoral candidate's financial disclosure was reviewed but excluded as outside the 24-hour window, originally dated August 14, and lacking official corroboration or an explicit right-wing, Republican, conservative, or affiliated-organizational role."
+  ]
+}

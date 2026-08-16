@@ -1,0 +1,43 @@
+{
+  "agent": "A08-States-Midwest-Watch",
+  "run_date": "2026-08-15",
+  "sources_checked": [
+    "https://ohioattorneygeneral.gov/Media/News-Releases",
+    "https://ethics.ohio.gov/investigation/index.html",
+    "https://www.ohiohouse.gov/members/elgin-rogers-jr/news",
+    "https://secure.in.gov/gov/newsroom/news-releases/",
+    "https://www.in.gov/isp/",
+    "https://illinoisattorneygeneral.gov/News-Room/",
+    "https://my.ilga.gov/agencies/LEC/LECReports",
+    "https://web-akamai.isp.illinois.gov/Media/CompletePressRelease/2463",
+    "https://www.michigan.gov/msp/public-information",
+    "https://www.michigan.gov/ag/news/press-releases",
+    "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
+    "https://www.wisdoj.gov/Pages/DataAndStatistics/ucr-arrest-data.aspx",
+    "https://www.ag.state.mn.us/Office/Communications.asp",
+    "https://app.dps.mn.gov/MSPMedia2/IncidentSearch",
+    "https://dps.iowa.gov/press-releases",
+    "https://www.legis.iowa.gov/law/administrativeRules/ruleMaking?pubDate=04-29-2026",
+    "https://ago.mo.gov/press-releases/",
+    "https://www.mshp.dps.mo.gov/HP71/search.jsp",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.reddit.com/r/toledo/comments/1vp2a61/this_week_in_toledo_81526/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "A Reddit post claimed that Ohio State Representative Elgin Rogers Jr. was arrested in Ottawa County on OVI, slow-driving, and firearm-handling charges.",
+      "source_url": "https://www.reddit.com/r/toledo/comments/1vp2a61/this_week_in_toledo_81526/",
+      "status": "quarantined",
+      "reason": "Single social-media report with no official police, court, agency, or reputable-news corroboration located in the 24-hour window. The official Ohio House source identifies Rogers as a Democratic representative, not a right-wing, Republican, conservative, or affiliated-organizational figure. No event was emitted."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-14T11:01:59-07:00 through 2026-08-15T11:01:59-07:00.",
+    "No person-specific event involving a covered right-wing, Republican, conservative, or affiliated-organizational figure was located in Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, or Missouri that met the evidence and date-window rules.",
+    "Official state newsroom and law-enforcement indexes exposed mostly older July or June 2026 entries, and several search/index pages were not current enough to establish a complete statewide negative. Local police, sheriff, prosecutor, court, school-board, and municipal records are fragmented and not uniformly searchable from one public index.",
+    "Reputable regional-news searches for the 24-hour window returned no corroborated qualifying report. Several major local-news domains were blocked by robots.txt, so those outlets could not be independently inspected through the search tool.",
+    "Routine arrests and criminal matters without an explicitly documented covered political or affiliated role were excluded. Allegations, rumors, and partisan or social-media claims without corroboration remain quarantined rather than published."
+  ]
+}

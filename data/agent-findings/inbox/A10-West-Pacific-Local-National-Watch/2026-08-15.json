@@ -1,0 +1,35 @@
+{
+  "agent": "A10-West-Pacific-Local-National-Watch",
+  "run_date": "2026-08-15",
+  "sources_checked": [
+    "https://www.dojmt.gov/category/press-release/",
+    "https://www.ag.idaho.gov/newsroom/",
+    "https://attorneygeneral.wyo.gov/press-releases",
+    "https://attorneygeneral.utah.gov/newsroom/",
+    "https://ag.nv.gov/News/Press_Releases/",
+    "https://www.atg.wa.gov/news",
+    "https://www.doj.state.or.us/media/news-media-releases/oregon-doj-news/",
+    "https://oag.ca.gov/media/news?page=1",
+    "https://www.law.alaska.gov/press/news.html",
+    "https://ag.hawaii.gov/news-releases/news-releases-2026/",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.justice.gov/usao-mt/pr",
+    "https://www.justice.gov/usao-wy",
+    "https://www.justice.gov/usao-ut",
+    "https://www.justice.gov/usao-nv",
+    "https://kingcounty.gov/en/dept/sheriff",
+    "https://kingcounty.gov/en/independents/governance-and-leadership/government-oversight/office-of-law-enforcement-oversight/investigation-findings",
+    "https://www.seattle.gov/police-accountability/news-and-reports",
+    "https://www.sandiego.gov/police/news-center/news-releases?page=1"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A10-qualifying person-specific event was identified in the preceding 24-hour window, 2026-08-14T09:11:32-07:00 through 2026-08-15T09:11:32-07:00.",
+    "The official Montana, Idaho, Wyoming, Utah, Nevada, Washington, Oregon, California, Alaska, and Hawaii pages checked exposed no qualifying person-specific arrest, charge, ethics finding, investigation, discipline, removal, resignation, or misconduct action published in-window.",
+    "The DOJ district release indexes checked exposed no in-window qualifying event involving a covered public official or law-enforcement leader; ordinary criminal cases without a documented covered political or affiliated role were excluded.",
+    "Local oversight and police pages checked for King County, Seattle, and San Diego showed older investigations, routine crime releases, or non-qualifying material rather than an in-window covered event.",
+    "Nationwide local-government searches outside the assigned states produced no authoritative high-impact lead requiring handoff and no non-authoritative lead was promoted without corroboration and explicit affiliation evidence."
+  ]
+}

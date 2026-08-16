@@ -1,0 +1,38 @@
+{
+  "agent": "A08-States-Midwest-Watch",
+  "run_date": "2026-08-16",
+  "sources_checked": [
+    "https://www.ohioattorneygeneral.gov/Media/News-Releases",
+    "https://ethics.ohio.gov/investigation/index.html",
+    "https://www.in.gov/gov/newsroom/news-releases/",
+    "https://secure.in.gov/ig/ethics-code/violations/",
+    "https://www.in.gov/courts/news/",
+    "https://illinoisattorneygeneral.gov/News-Room/",
+    "https://my.ilga.gov/agencies/LEC/LECReports",
+    "https://www.michigan.gov/ag/news/press-releases",
+    "https://www.michigan.gov/msp/public-information",
+    "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
+    "https://www.wisdoj.gov/Pages/DataAndStatistics/ucr-arrest-data.aspx",
+    "https://www.ag.state.mn.us/Office/Communications.asp",
+    "https://app.dps.mn.gov/MSPMedia2/IncidentSearch",
+    "https://dps.iowa.gov/press-releases",
+    "https://www.legis.iowa.gov/law/administrativeRules/ruleMaking",
+    "https://ago.mo.gov/press-releases/",
+    "https://www.mshp.dps.mo.gov/HP71/search.jsp",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.cleveland19.com/",
+    "https://mirrorindy.org/",
+    "https://www.startribune.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-15T01:02:59-07:00 through 2026-08-16T01:02:59-07:00.",
+    "No person-specific event involving a covered right-wing, Republican, conservative, or affiliated-organizational figure was located in Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, or Missouri that met the evidence and date-window rules.",
+    "The current official indexes reviewed exposed no qualifying new public-official misconduct action in the window. Ohio and Illinois had recent criminal releases involving private defendants or ordinary government employees without documented covered political affiliation; those were excluded.",
+    "Federal USAO results dated August 15 included ordinary criminal defendants, including a Madison firearm sentence, but no covered Midwest public official or documented right-wing-affiliated subject in the reviewed results.",
+    "Local police, sheriff, prosecutor, court, school-board, municipal, and ethics records are fragmented and not uniformly searchable from one public index. Several major regional-news domains were blocked by robots.txt, so negative coverage cannot be treated as exhaustive.",
+    "Routine arrests and criminal matters without an explicitly documented covered political or affiliated role were excluded. No unverified current lead was retained for quarantine in this run."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "agent": "A07-States-Southeast-Watch",
+  "run_date": "2026-08-15",
+  "sources_checked": [
+    "https://ncdoj.gov/newsroom/press-releases/",
+    "https://ncdoj.gov/document-center/",
+    "https://www.scag.gov/about-the-office/news/",
+    "https://www.sled.sc.gov/",
+    "https://gbi.georgia.gov/press-releases",
+    "https://law.georgia.gov/news-releases",
+    "https://www.fdle.state.fl.us/regions-divisions/troc/news",
+    "https://www.myfloridalegal.com/newsreleases",
+    "https://www.alabamaag.gov/",
+    "https://ethics.alabama.gov/news.aspx",
+    "https://www.ago.state.ms.us/news/",
+    "https://www.dps.ms.gov/",
+    "https://lsp.org/community-outreach/news/",
+    "https://www.ag.state.la.us/News/Page/1",
+    "https://ethics.la.gov/",
+    "https://arkansasag.gov/news-alerts/news-releases/",
+    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://apnews.com/article/81afed32b2f9a41f1b7b9f815321ff9d"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A07-qualifying person-specific event was identified in the 24-hour window 2026-08-14T10:01:51-07:00 through 2026-08-15T10:01:51-07:00.",
+    "North Carolina, South Carolina, Georgia, and Florida official attorney-general, law-enforcement, ethics, and agency pages checked exposed no in-window arrest, charge, indictment, conviction, sentencing, ethics finding, investigation, discipline, removal, resignation, or misconduct action involving a covered official or affiliated organizational figure.",
+    "Alabama, Mississippi, Louisiana, and Arkansas official attorney-general, law-enforcement, ethics, corrections, and professional-conduct pages checked exposed no in-window qualifying action. Older items and routine criminal cases without a documented covered political or affiliated role were excluded.",
+    "Associated Press reporting published August 12-13 about former law-enforcement officer Christopher Gillum was reviewed; it was not emitted because the item did not document a covered right-wing, Republican, conservative, or affiliated organizational role, and the Louisiana grand jury declined to indict him.",
+    "Search-index and page-archive results were supplemented with official state and federal release indexes; no authoritative current lead requiring quarantine or handoff remained after affiliation, date-window, and procedural-status checks."
+  ]
+}

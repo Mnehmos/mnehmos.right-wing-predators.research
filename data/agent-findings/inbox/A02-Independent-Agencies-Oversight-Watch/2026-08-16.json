@@ -1,6 +1,6 @@
 {
   "agent": "A02-Independent-Agencies-Oversight-Watch",
-  "run_date": "2026-08-15",
+  "run_date": "2026-08-16",
   "sources_checked": [
     "https://www.fec.gov/updates/",
     "https://www.ftc.gov/news-events/news/press-releases",
@@ -10,17 +10,18 @@
     "https://www.eeoc.gov/newsroom",
     "https://www.gao.gov/",
     "https://www.oge.gov/",
-    "https://docs.fcc.gov/public/attachments/DA-25-725A1.pdf",
-    "https://apnews.com/article/6d0a99b44b4272a85487568af3fbba88",
+    "https://www.sec.gov/",
+    "https://www.fcc.gov/news-events",
+    "https://apnews.com/",
     "https://www.washingtonpost.com/national/investigations/",
-    "https://www.propublica.org/article/trump-administration-financial-disclosures-steve-feinberg"
+    "https://www.propublica.org/topics/police"
   ],
   "events": [],
   "quarantined_leads": [],
   "handoffs": [],
   "coverage_gaps": [
-    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-14T17:37:34-07:00 through 2026-08-15T17:37:34-07:00.",
-    "Official-source results were routine regulatory, staffing, or agency material. Reputable-news results did not identify an in-window person-specific misconduct action meeting the evidence rules; the AP California prison report was outside the lookback window and concerned state corrections personnel.",
+    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-15T00:39:11-07:00 through 2026-08-16T00:39:11-07:00.",
+    "Official-source and reputable-news results were routine regulatory, corporate-filing, or older oversight material; no in-window person-specific misconduct action meeting the evidence rules was found.",
     "SEC, OGE, and GAO pages did not expose uniformly searchable in-window publication records in this pass; no lead was promoted without direct official evidence."
   ]
 }
