@@ -1,0 +1,38 @@
+{
+  "agent": "A08-States-Midwest-Watch",
+  "run_date": "2026-08-17",
+  "sources_checked": [
+    "https://www.ohioattorneygeneral.gov/Media/News-Releases",
+    "https://ethics.ohio.gov/investigation/index.html",
+    "https://odc.ohio.gov/",
+    "https://www.in.gov/ig/",
+    "https://www.in.gov/courts/news/",
+    "https://illinoisattorneygeneral.gov/News-Room/",
+    "https://eec.illinois.gov/publications/eig-summary-reports.html",
+    "https://isp.illinois.gov/CriminalInvestigations/SpecialInvestigations",
+    "https://www.michigan.gov/ag/news/press-releases",
+    "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
+    "https://ethics.wi.gov/Pages/home.aspx",
+    "https://www.wicourts.gov/casesearch.htm",
+    "https://www.cityofmadison.com/independent-police-monitor/news",
+    "https://www.ag.state.mn.us/Office/Communications.asp",
+    "https://dps.iowa.gov/press-releases",
+    "https://ethics.iowa.gov/",
+    "https://www.iowacourts.state.ia.us/ESAWebApp/SelectTop",
+    "https://ago.mo.gov/press-releases/",
+    "https://www.mec.mo.gov/MEC/Commission_Business/Home.aspx",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://apnews.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-16T01:01:28-07:00 through 2026-08-17T01:01:28-07:00.",
+    "No person-specific event involving a covered right-wing, Republican, conservative, or affiliated-organizational figure was located in Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, or Missouri that met the evidence and date-window rules.",
+    "Ohio, Illinois, Missouri, Minnesota, Iowa, Wisconsin, and federal official indexes reviewed showed no qualifying new covered-person misconduct action in the window; the newest visible releases were generally dated August 14 or earlier, or concerned private defendants and ordinary public employees without documented covered political affiliation.",
+    "The Illinois Attorney General items dated August 11-14 involved a former sheriff employee or private defendants and did not document a covered right-wing or Republican role; they were outside the lookback or failed the affiliation rule and were excluded.",
+    "Indiana and Michigan press-release and court indexes use dynamic or partially searchable interfaces, and local police, sheriff, prosecutor, court, school-board, municipal, and ethics records are fragmented rather than exposed through one statewide index.",
+    "Several major regional-news domains were blocked by robots.txt. A Madison police-monitor discussion surfaced in social results, but it was outside the window, lacked documented covered political affiliation, and was not used as evidence or retained as a quarantine lead."
+  ]
+}

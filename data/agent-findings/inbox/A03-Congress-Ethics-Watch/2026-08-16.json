@@ -1,0 +1,24 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-16",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://conduct.house.gov/",
+    "https://www.govinfo.gov/app/collection/CREC/",
+    "https://clerk.house.gov/Members/ViewVacancies",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases",
+    "https://apnews.com/article/ohio-max-miller-domestic-abuse-304abd3eddf05bce8c2f575a17ffb080"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No qualifying congressional ethics, misconduct, criminal, court, or disciplinary event was identified in the 24-hour window 2026-08-15T16:00:19Z through 2026-08-16T16:00:19Z.",
+    "The House Committee on Ethics homepage showed its newest relevant releases dated August 4, 2026 and August 3, 2026; the Office of Congressional Conduct showed its latest public advisory dated July 23, 2026; and the Senate Select Committee on Ethics news page exposed no dated in-window release.",
+    "Current Department of Justice and FBI press-release listings were checked; in-window entries did not identify a covered congressional person or event.",
+    "Associated Press coverage of Representative Max Miller's existing domestic-abuse ethics investigation was published August 14, 2026 at 18:45 UTC, outside this run's lookback window, so it was not emitted or duplicated."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "agent": "A07-States-Southeast-Watch",
+  "run_date": "2026-08-17",
+  "sources_checked": [
+    "https://ncdoj.gov/newsroom/press-releases/",
+    "https://www.ncdps.gov/",
+    "https://ethics.nc.gov/",
+    "https://www.scag.gov/about-the-office/news/",
+    "https://www.sled.sc.gov/index.php/news",
+    "https://ethicsfiling.sc.gov/",
+    "https://gbi.georgia.gov/press-releases",
+    "https://law.georgia.gov/press-releases",
+    "https://ethics.ga.gov/",
+    "https://www.fdle.state.fl.us/News",
+    "https://www.myfloridalegal.com/news-releases",
+    "https://www.ethics.state.fl.us/",
+    "https://www.alabamaag.gov/news/",
+    "https://ethics.alabama.gov/news.aspx",
+    "https://www.ago.state.ms.us/news/",
+    "https://www.dps.ms.gov/news",
+    "https://www.ethics.ms.gov/",
+    "https://www.ag.state.la.us/News/Page/1",
+    "https://lsp.org/community-outreach/news/",
+    "https://ethics.la.gov/",
+    "https://arkansasag.gov/news-alerts/news-releases/",
+    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.ajc.com/",
+    "https://www.news4jax.com/",
+    "https://apnews.com/",
+    "https://www.reuters.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A07-qualifying person-specific event was identified in the rolling 24-hour window 2026-08-16T01:01:36-07:00 through 2026-08-17T01:01:36-07:00.",
+    "North Carolina, South Carolina, Georgia, and Florida official attorney-general, law-enforcement, ethics, and agency indexes exposed no in-window arrest, charge, indictment, conviction, sentencing, ethics finding, investigation, discipline, removal, resignation, or misconduct action involving a covered official or an explicitly documented right-wing, Republican, conservative, or qualifying affiliated-organizational figure.",
+    "Alabama, Mississippi, Louisiana, and Arkansas official attorney-general, law-enforcement, ethics, corrections, and professional-conduct indexes exposed no in-window qualifying action. DOJ USAO results dated August 15 concerned ordinary criminal defendants or non-misconduct matters and did not identify a covered official or qualifying affiliation.",
+    "The Louisiana State Police August 16 officer-involved-shooting release described an active investigation but named no officer and alleged no misconduct; it was excluded rather than emitted as a structured event.",
+    "Recent official releases dated August 13-14, including Georgia Bureau of Investigation and South Carolina Attorney General arrests, were outside the lookback window and did not establish a new in-window event. Reputable-news results likewise surfaced older cases or no in-window qualifying report."
+  ]
+}
