@@ -1,0 +1,42 @@
+{
+  "agent": "A10-West-Pacific-Local-National-Watch",
+  "run_date": "2026-08-17",
+  "sources_checked": [
+    "https://www.dojmt.gov/category/press-release/",
+    "https://www.ag.idaho.gov/newsroom/",
+    "https://attorneygeneral.wyo.gov/press-releases",
+    "https://attorneygeneral.utah.gov/newsroom/",
+    "https://ag.nv.gov/News/Press_Releases/",
+    "https://www.atg.wa.gov/news",
+    "https://www.doj.state.or.us/media/news-media-releases/oregon-doj-news/",
+    "https://oag.ca.gov/media/news?page=1",
+    "https://www.law.alaska.gov/press/news.html",
+    "https://ag.hawaii.gov/news-releases/news-releases-2026/",
+    "https://www.justice.gov/usao-mt/pr",
+    "https://www.justice.gov/usao-id/pr",
+    "https://www.justice.gov/usao-wy/pr",
+    "https://www.justice.gov/usao-ut/pr",
+    "https://www.justice.gov/usao-or/pr",
+    "https://kingcounty.gov/en/independents/governance-and-leadership/government-oversight/office-of-law-enforcement-oversight/investigation-findings",
+    "https://www.seattle.gov/police-accountability/news-and-reports",
+    "https://www.sandiego.gov/police/news-center/news-releases?page=1",
+    "https://www.portland.gov/police/news",
+    "https://www.lapdonline.org/newsroom/",
+    "https://www.fbi.gov/news/RSS?PQZbxSJnkbv=G43cDa",
+    "https://www.opb.org/",
+    "https://www.kuow.org/",
+    "https://www.calmatters.org/",
+    "https://alaskapublic.org/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window was 2026-08-16T09:05:13-07:00 through 2026-08-17T09:05:13-07:00; no A10-qualifying person-specific event was identified.",
+    "Official Montana, Idaho, Wyoming, Utah, Nevada, Washington, Oregon, California, Alaska, and Hawaii indexes checked exposed no qualifying arrest, charge, ethics finding, investigation, discipline, removal, resignation, or misconduct action published in-window.",
+    "The checked USAO Montana, Idaho, Wyoming, Utah, and Oregon indexes exposed no in-window qualifying event involving a covered public official or law-enforcement leader. Ordinary criminal cases without documented covered political or affiliated roles were excluded.",
+    "King County OLEO findings had no entries dated in-window; San Diego Police listed no in-window release; Portland Police's latest relevant release was August 15, before the lookback start.",
+    "The Montana DOJ, Washington AG, Seattle police-accountability, and LAPD pages were not machine-readable or returned access errors in this pass; supplemental official-page and reputable-news searches found no authoritative in-window lead requiring quarantine or handoff.",
+    "Nationwide local-government searches outside the assigned states produced no authoritative high-impact lead requiring handoff, and no non-authoritative lead was promoted without corroboration and explicit affiliation evidence."
+  ]
+}

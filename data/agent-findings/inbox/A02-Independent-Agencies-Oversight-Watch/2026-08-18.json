@@ -1,8 +1,9 @@
 {
   "agent": "A02-Independent-Agencies-Oversight-Watch",
-  "run_date": "2026-08-17",
+  "run_date": "2026-08-18",
   "sources_checked": [
     "https://www.fec.gov/updates/",
+    "https://www.fec.gov/updates/?release-category=press-release",
     "https://www.fec.gov/press/",
     "https://www.fec.gov/office-inspector-general/investigations/",
     "https://www.ftc.gov/news-events/news/press-releases",
@@ -11,6 +12,7 @@
     "https://osc.gov/cases/",
     "https://www.osc.gov/services/disclosure-of-wrongdoing/overview/",
     "https://www.osc.gov/services/prohibited-personnel-practices/resources/",
+    "https://www.osc.gov/services/hatch-act/policies/",
     "https://www.nlrb.gov/news-publications/news/news-releases",
     "https://www.nlrb.gov/about-nlrb/who-we-are/inspector-general/office-of-inspector-general-investigations",
     "https://www.eeoc.gov/newsroom",
@@ -21,14 +23,13 @@
     "https://docs.fcc.gov/public/attachments/FCC-26-41A1.pdf",
     "https://apnews.com/",
     "https://www.washingtonpost.com/national/investigations/",
-    "https://www.propublica.org/topics/police",
-    "https://www.propublica.org/article/justice-department-presumption-of-regularity"
+    "https://www.propublica.org/topics/police"
   ],
   "events": [],
   "quarantined_leads": [],
   "handoffs": [],
   "coverage_gaps": [
-    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-16T18:43:53-07:00 through 2026-08-17T18:43:53-07:00.",
+    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-17T01:43:30-07:00 through 2026-08-18T01:43:30-07:00.",
     "Official-source and reputable-news results were routine regulatory, corporate-filing, or older oversight material; no in-window person-specific misconduct action meeting the evidence rules was found.",
     "Some SEC, OGE, and GAO pages did not expose uniformly searchable in-window publication records; no lead was promoted without direct official evidence."
   ]

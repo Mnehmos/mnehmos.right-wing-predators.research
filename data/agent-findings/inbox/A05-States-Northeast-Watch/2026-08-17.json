@@ -1,0 +1,34 @@
+{
+  "agent": "A05-States-Northeast-Watch",
+  "run_date": "2026-08-17",
+  "sources_checked": [
+    "https://vtstatepolice.blogspot.com/",
+    "https://www.ri.gov/press/?agency_id=40",
+    "https://portal.ct.gov/dcj/press-releases",
+    "https://ag.ny.gov/press-releases",
+    "https://www.njoag.gov/press-releases/",
+    "https://www.nj.gov/ethics/",
+    "https://www.maine.gov/dps/msp/media-center/public-releases",
+    "https://www.nh.gov/hsafety/divisions/nhsp/news/index.htm",
+    "https://www.mass.gov/news",
+    "https://www1.maine.gov/ethics/home",
+    "https://ethics.ri.gov/complaints/decisions/index.php",
+    "https://www.nh.gov/attorneygeneral/news/index.htm",
+    "https://www.vtdigger.org/",
+    "https://www.nhpr.org/",
+    "https://www.mainepublic.org/",
+    "https://www.timesunion.com/",
+    "https://www.bostonglobe.com/",
+    "https://www.ctinsider.com/",
+    "https://newjersey.news12.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A05-qualifying person or event was identified in the 24-hour window 2026-08-16T09:02:13-07:00 through 2026-08-17T09:02:13-07:00.",
+    "Vermont State Police and Rhode Island State Police published current arrest or incident releases in the window; the named subjects had no explicitly documented right-wing, Republican, conservative, or affiliated organizational role.",
+    "Connecticut Division of Criminal Justice and New York Attorney General current listings had no matching in-window state or local political misconduct action; New Jersey ethics was checked without a current person-specific decision.",
+    "Maine State Police, New Hampshire State Police, Massachusetts news, and the New Jersey Attorney General press page were inaccessible or not uniformly searchable in this pass; social-media results about older events were screened out and no lead was promoted without direct official evidence."
+  ]
+}

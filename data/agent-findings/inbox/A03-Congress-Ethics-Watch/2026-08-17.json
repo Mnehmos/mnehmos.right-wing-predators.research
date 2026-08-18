@@ -1,0 +1,25 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-17",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://conduct.house.gov/news/press-advisories",
+    "https://www.govinfo.gov/app/collection/CREC/",
+    "https://clerk.house.gov/Members/ViewVacancies",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases",
+    "https://apnews.com/",
+    "https://www.reuters.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No qualifying congressional ethics, misconduct, criminal, court, or disciplinary event was identified in the 24-hour window 2026-08-16T16:02:13Z through 2026-08-17T16:02:13Z.",
+    "The House Committee on Ethics homepage showed its newest relevant releases dated August 4, 2026 and August 3, 2026; the Office of Congressional Conduct showed its latest public advisory dated July 23, 2026; and the Senate Select Committee on Ethics news page exposed no dated in-window release.",
+    "The DOJ and FBI public listings showed latest entries dated August 14, 2026 or earlier, with no covered congressional person or event identified in the lookback window.",
+    "Exact-date searches across AP, Reuters, Politico, official congressional pages, GovInfo, and federal court sources produced no qualifying in-window report. Older ongoing matters were not duplicated or promoted into this run."
+  ]
+}
