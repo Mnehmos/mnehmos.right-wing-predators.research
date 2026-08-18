@@ -6,6 +6,7 @@
     "https://ethics.ohio.gov/investigation/index.html",
     "https://odc.ohio.gov/",
     "https://www.in.gov/ig/",
+    "https://www.in.gov/ig/opinions/",
     "https://www.in.gov/courts/news/",
     "https://illinoisattorneygeneral.gov/News-Room/",
     "https://eec.illinois.gov/publications/eig-summary-reports.html",
@@ -22,16 +23,18 @@
     "https://ago.mo.gov/press-releases/",
     "https://www.mec.mo.gov/MEC/Commission_Business/Home.aspx",
     "https://www.justice.gov/usao/pressreleases",
-    "https://apnews.com/"
+    "https://apnews.com/",
+    "https://www.nbcchicago.com/news/local/",
+    "https://www.stlpr.org/government-politics-issues/"
   ],
   "events": [],
   "quarantined_leads": [],
   "handoffs": [],
   "coverage_gaps": [
-    "Lookback window: 2026-08-17T01:01:50-07:00 through 2026-08-18T01:01:50-07:00.",
+    "Lookback window: 2026-08-17T07:00:57-07:00 through 2026-08-18T07:00:57-07:00.",
     "No person-specific event involving a covered right-wing, Republican, conservative, or affiliated-organizational figure was located in Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, or Missouri that met the evidence and date-window rules.",
-    "Ohio, Illinois, Missouri, Minnesota, and Iowa official indexes showed no qualifying new covered-person misconduct action in the window; visible releases were unrelated, concerned private defendants or ordinary employees without documented covered affiliation, or predated the window.",
-    "The August 17 federal releases reviewed for Illinois and Missouri concerned private criminal defendants and did not document a covered political or public-official role.",
+    "Ohio, Illinois, Iowa, Minnesota, and Michigan official indexes showed no qualifying new covered-person misconduct action in the window; visible releases were unrelated, concerned private defendants or ordinary employees without documented covered affiliation, or predated the window.",
+    "Missouri's August 17 Attorney General item concerned internal public-service awards; the latest relevant Missouri official misconduct/removal items located were outside the 24-hour window.",
     "Indiana and Michigan press-release and court indexes use dynamic or partially searchable interfaces, and local police, sheriff, prosecutor, court, school-board, municipal, and ethics records are fragmented rather than exposed through one statewide index.",
     "Several major regional-news domains were blocked by robots.txt. AP and broad regional-news searches produced no in-window qualifying report; no social-media or partisan item met the threshold for a retained quarantine lead."
   ]

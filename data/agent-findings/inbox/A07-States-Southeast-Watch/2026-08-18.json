@@ -10,6 +10,8 @@
     "https://www.sled.sc.gov/index.php/news",
     "https://ethicsfiling.sc.gov/public",
     "https://gbi.georgia.gov/press-releases",
+    "https://gbi.georgia.gov/press-releases/2026-08-17/gbi-investigates-shooting-hancock-county-ga",
+    "https://gbi.georgia.gov/press-releases/2026-08-17/gbi-investigates-officer-involved-shooting-atlanta-ga",
     "https://law.georgia.gov/press-releases",
     "https://ethics.ga.gov/",
     "https://www.fdle.state.fl.us/News",
@@ -30,6 +32,7 @@
     "https://www.justice.gov/usao-ndga",
     "https://www.justice.gov/usao-sc",
     "https://www.justice.gov/usao-edla",
+    "https://www.justice.gov/usao-ndfl",
     "https://apnews.com/",
     "https://www.reuters.com/",
     "https://www.ajc.com/",
@@ -39,10 +42,11 @@
   "quarantined_leads": [],
   "handoffs": [],
   "coverage_gaps": [
-    "No A07-qualifying person-specific event was identified in the rolling 24-hour window 2026-08-17T01:02:27-07:00 through 2026-08-18T01:02:27-07:00.",
-    "North Carolina, South Carolina, Georgia, and Florida official attorney-general, law-enforcement, ethics, court, and agency indexes exposed no in-window arrest, charge, indictment, conviction, sentencing, ethics finding, investigation, discipline, removal, resignation, or misconduct action involving a covered official or an explicitly documented right-wing, Republican, conservative, or qualifying affiliated-organizational figure.",
-    "Alabama, Mississippi, Louisiana, and Arkansas official attorney-general, law-enforcement, ethics, corrections, and professional-conduct indexes exposed no in-window qualifying action. Search results for prior Alabama ethics indictments, Louisiana investigations, and Arkansas arrests were outside the lookback window or involved people without a covered political or affiliated-organizational role.",
-    "DOJ district and national release indexes surfaced older cases or ordinary criminal defendants, including federal releases from Georgia and Louisiana outside the window; none identified a new in-window A07 subject or event.",
+    "No A07-qualifying person-specific event was identified in the rolling 24-hour window 2026-08-17T06:02:41-07:00 through 2026-08-18T06:02:41-07:00.",
+    "Georgia Bureau of Investigation releases dated August 17 covered a Hancock County shooting with no identified subject and an Atlanta officer-involved shooting naming a private suspect but no officer; neither contained a misconduct finding or an explicitly documented right-wing, Republican, conservative, or qualifying affiliated-organizational role.",
+    "The Arkansas Attorney General's August 17 arrest release concerned a Jacksonville private defendant, while the Georgia Attorney General's August 17 release concerned return of cryptocurrency to fraud victims; neither identified a covered public official or affiliated-organizational figure as the subject of misconduct.",
+    "North Carolina, South Carolina, Florida, Alabama, Mississippi, and Louisiana official attorney-general, law-enforcement, ethics, court, and agency indexes exposed no in-window arrest, charge, indictment, conviction, sentencing, ethics finding, investigation, discipline, removal, resignation, or misconduct action involving a covered official or an explicitly documented qualifying affiliation.",
+    "DOJ national and district indexes surfaced August 17 releases involving ordinary criminal defendants or matters outside the A07 covered-role requirement; no new in-window A07 subject or event was identified.",
     "Reputable-news searches across AP, Reuters, Atlanta Journal-Constitution, News4Jax, and regional queries produced no corroborated in-window report meeting the explicit-affiliation and evidence requirements. Search-engine indexing and publication timing may leave same-day local records temporarily undiscoverable."
   ]
 }
