@@ -1,0 +1,37 @@
+{
+  "agent": "A05-States-Northeast-Watch",
+  "run_date": "2026-08-20",
+  "sources_checked": [
+    "https://www.maine.gov/dps/msp/media-center/public-releases",
+    "https://www1.maine.gov/ethics/home",
+    "https://www.mainepublic.org/",
+    "https://www.nh.gov/hsafety/divisions/nhsp/news/index.htm",
+    "https://www.nh.gov/attorneygeneral/news/index.htm",
+    "https://www.nhpr.org/",
+    "https://vtstatepolice.blogspot.com/",
+    "https://ago.vermont.gov/",
+    "https://www.vtdigger.org/",
+    "https://www.mass.gov/news",
+    "https://www.bostonglobe.com/",
+    "https://riag.ri.gov/press-releases",
+    "https://ethics.ri.gov/complaints/decisions/index.php",
+    "https://rhodeislandcurrent.com/",
+    "https://portal.ct.gov/dcj/press-releases",
+    "https://portal.ct.gov/Ethics/Public-Information/Public-Information/Enforcement-Actions---UAPA-Calendar",
+    "https://www.ctinsider.com/",
+    "https://ag.ny.gov/press-releases",
+    "https://ag.ny.gov/office-special-investigation/investigative-reports",
+    "https://www.timesunion.com/",
+    "https://www.njoag.gov/press-releases/",
+    "https://newjersey.news12.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A05-qualifying person or event was identified in the 24-hour window 2026-08-19T04:01:20-07:00 through 2026-08-20T04:01:20-07:00.",
+    "Vermont State Police listed multiple in-window arrests and charges; Rhode Island, Connecticut, and New York official pages also listed current criminal or investigative actions, but the named subjects had no explicitly documented right-wing, Republican, conservative, or affiliated organizational role.",
+    "Current New York Attorney General releases included a guilty plea by former NYPD Sergeant Tiffany Howell and OSI investigations/reports; neither supplied an explicit qualifying political affiliation, so neither was promoted.",
+    "Maine State Police, New Hampshire State Police and Attorney General, Massachusetts news, New Jersey Attorney General, and Vermont Attorney General pages were inaccessible or not uniformly searchable in this pass; accessible regional-news checks did not produce a matching in-window A05 event, so the limitation is preserved rather than treated as exhaustive absence."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-20",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/updates/?release-category=press-release",
+    "https://www.fec.gov/office-inspector-general/investigations/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.ftc.gov/news-events/news/commission-actions",
+    "https://www.ftc.gov/news-events/news",
+    "https://www.sec.gov/newsroom",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.sec.gov/newsroom/whats-new",
+    "https://www.fcc.gov/news-events",
+    "https://www.fcc.gov/news-events/news",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://www.nlrb.gov/about-nlrb/who-we-are/inspector-general/office-of-inspector-general-investigations",
+    "https://osc.gov/news",
+    "https://osc.gov/cases/",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.sba.gov/about-sba/oversight-and-advocacy/office-of-inspector-general/congressional-affairs-and-media/",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.npr.org/sections/politics/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A02-qualifying person or event was identified in the 24-hour window 2026-08-19T01:00:57-07:00 through 2026-08-20T01:00:57-07:00.",
+    "FEC activity published on August 19 was routine outreach; FTC activity was consumer/regulatory enforcement against businesses; NLRB activity was a labor settlement; and SEC activity was routine investment-company or self-regulatory filings. None documented misconduct by a qualifying agency employee or official with an explicitly documented right-wing, Republican, conservative, or affiliated organizational role.",
+    "OSC, OGE, GAO, and some FCC pages did not expose uniformly searchable in-window records through the available page interface; no lead was promoted without direct official evidence.",
+    "Searches of AP, Reuters, NPR, and other reputable-news indexes found no corroborated A02-qualifying person-specific event in the lookback window. Congressional matters and federal criminal proceedings remain outside this agent's scope."
+  ]
+}

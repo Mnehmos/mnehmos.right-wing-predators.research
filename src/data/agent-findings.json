@@ -1,6 +1,35 @@
 {
   "schema_version": 1,
-  "source_digest": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-  "event_count": 0,
-  "events": []
+  "source_digest": "20de1ce4865046ad73c89a2c610705681d2807f765b626515a97b04ac02793f1",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "df155ce4ff7437d43a844e6882187c1a99c0d4ed3db837a4f45b053330bc4b3b",
+      "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+      "run_date": "2026-08-20",
+      "person": "David Elliott Pritt",
+      "aliases": [
+        "Elliott Pritt",
+        "D. Elliott Pritt"
+      ],
+      "role": "Former West Virginia House of Delegates member, Fayette County district; former teacher",
+      "affiliation": "Republican; former member of the West Virginia House Republican caucus",
+      "jurisdiction": "United States",
+      "government_level": "federal",
+      "branch": "judicial",
+      "event_type": "Federal grand-jury indictment for child sexual exploitation, coercion and enticement, and witness tampering",
+      "status": "criminal_charge",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.justice.gov/usao-sdwv/pr/federal-grand-jury-indicts-ex-teacher-and-former-state-legislator-child-sexual",
+      "source_title": "Federal Grand Jury Indicts Ex-Teacher and Former State Legislator on Child Sexual Exploitation, Enticement and Witness Tampering Charges",
+      "publisher": "U.S. Attorney's Office, Southern District of West Virginia, U.S. Department of Justice",
+      "published_at": "2026-08-19",
+      "source_type": "government",
+      "subject_response": "The in-window DOJ release reports that Pritt was arrested on July 22 and later resigned from the West Virginia Legislature; it does not report a response to the August 19 indictment. Pritt remains presumed innocent unless and until proven guilty.",
+      "summary": "A federal grand jury indicted Pritt on three felony counts alleging child sexual exploitation, coercion and enticement of a child, and tampering with a witness, victim, or informant. The DOJ release states that the indictment is an allegation and that Pritt is presumed innocent.",
+      "reason_for_status": "The official Southern District of West Virginia release expressly reports a federal indictment and preserves the allegation-only procedural status. Pritt's Republican affiliation is explicitly documented on the official West Virginia Legislature page. Official government evidence permits automatic publication; no conviction is implied.",
+      "source_file": "data/agent-findings/inbox/A04-Federal-Courts-DOJ-Law-Enforcement-Watch/2026-08-20.json"
+    }
+  ]
 }

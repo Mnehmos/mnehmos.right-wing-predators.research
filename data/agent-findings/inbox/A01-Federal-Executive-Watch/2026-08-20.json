@@ -1,0 +1,38 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-20",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/releases/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-19&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-20",
+    "https://www.oge.gov/web/oge.nsf/",
+    "https://www.oge.gov/web/oge.nsf/site-index",
+    "https://www.oge.gov/web/oge.nsf/ethicsofficials_oge-oversight",
+    "https://www.oge.gov/web/oge.nsf/publicresources_Public-Participation",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/opa/pr/former-west-virginia-sheriffs-office-deputy-indicted-alleged-sexual-assault-female-inmate",
+    "https://www.justice.gov/opa/pr/764-extremist-group-member-sentenced-77-years-prison-production-child-sexual-abuse-material",
+    "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic",
+    "https://www.justice.gov/usao-sdwv/pr/federal-grand-jury-indicts-ex-teacher-and-former-state-legislator-child-sexual",
+    "https://www.justice.gov/usao-wdtx/pr/del-rio-fugitive-self-surrenders-makes-initial-court-appearance-alien-smuggling-case",
+    "https://www.fbi.gov/news/press-releases",
+    "https://apnews.com/",
+    "https://apnews.com/article/fda-donald-trump-heidi-overton-marty-makary-a54907d62a2482bd462410c0778266b9",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: DOJ published August 19, 2026 judicial or law-enforcement developments involving Cass Aaron Close, Kyle William Spitze, and David Elliott Pritt. They are outside A01's federal-executive role scope; the available official records do not document a qualifying right-wing, Republican, conservative, or affiliated-organizational role for the subjects. Sources: https://www.justice.gov/opa/pr/former-west-virginia-sheriffs-office-deputy-indicted-alleged-sexual-assault-female-inmate ; https://www.justice.gov/opa/pr/764-extremist-group-member-sentenced-77-years-prison-production-child-sexual-abuse-material ; https://www.justice.gov/usao-sdwv/pr/federal-grand-jury-indicts-ex-teacher-and-former-state-legislator-child-sexual"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-19T00:01:06-07:00 through 2026-08-20T00:01:06-07:00.",
+    "No A01-qualifying person-specific misconduct event involving a federal executive official, appointee, senior staff member, executive ethics official, inspector-general or disciplinary official, or politically appointed federal employee was identified in the window.",
+    "The White House August 19 release index showed a trade-policy release, not a misconduct, ethics, discipline, resignation, removal, or investigation action; AP's current coverage likewise surfaced routine appointment and policy material rather than a qualifying misconduct event.",
+    "DOJ's in-window releases concerned a county sheriff's deputy, an extremist-group defendant, a former state legislator, ordinary defendants, or routine agency action; none met A01's federal executive role and explicit-affiliation requirements.",
+    "OGE and Federal Register searches exposed no in-window person-specific executive-branch ethics finding or disciplinary action meeting the contract. The Federal Register date-filter endpoint and Oversight.gov reports page were not consistently retrievable through the search interface, so this is a scoped negative scan rather than an exhaustive absence claim.",
+    "Reuters' U.S. index was not retrievable in the web interface and same-day local agency or court records may not yet be indexed; no lead was promoted without direct official evidence."
+  ]
+}

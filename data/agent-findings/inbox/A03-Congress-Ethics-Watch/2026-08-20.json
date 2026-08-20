@@ -1,0 +1,27 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-20",
+  "sources_checked": [
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://conduct.house.gov/news/press-advisories",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases",
+    "https://apnews.com/",
+    "https://www.reuters.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No qualifying right-wing congressional ethics, misconduct, criminal, court, or disciplinary event was identified in the 24-hour window 2026-08-19T09:00:41Z through 2026-08-20T09:00:41Z.",
+    "The House Committee on Ethics press-release archive showed its newest item dated August 17, 2026, outside the lookback window; its committee-report archive showed no in-window report.",
+    "The Senate Select Committee on Ethics press-release archive showed no release newer than August 21, 2024, and the Office of Congressional Conduct showed its latest public advisory dated July 23, 2026.",
+    "DOJ and FBI listings contained August 19, 2026 items, but none identified a covered member, senior congressional staffer, or congressional ethics action.",
+    "Exact-date searches across AP, Reuters, Roll Call, Axios, official congressional pages, GovInfo, and federal court sources found no qualifying in-window event. Older matters, including the August 17 House Ethics review of Democrat Jimmy Gomez, were outside the window and/or outside the right-wing-affiliation scope and were not emitted."
+  ]
+}

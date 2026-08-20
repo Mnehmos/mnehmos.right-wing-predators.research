@@ -1,0 +1,48 @@
+{
+  "agent": "A08-States-Midwest-Watch",
+  "run_date": "2026-08-20",
+  "sources_checked": [
+    "https://www.ohioattorneygeneral.gov/Media/News-Releases",
+    "https://ethics.ohio.gov/investigation/index.html",
+    "https://odc.ohio.gov/",
+    "https://www.in.gov/ig/",
+    "https://www.in.gov/courts/news/",
+    "https://public.courts.in.gov/Decisions/",
+    "https://illinoisattorneygeneral.gov/News-Room/",
+    "https://eec.illinois.gov/publications/eig-summary-reports.html",
+    "https://isp.illinois.gov/CriminalInvestigations/SpecialInvestigations",
+    "https://www.michigan.gov/ag/news/press-releases",
+    "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
+    "https://ethics.wi.gov/Pages/home.aspx",
+    "https://www.wicourts.gov/casesearch.htm",
+    "https://www.ag.state.mn.us/Office/Communications.asp",
+    "https://dps.iowa.gov/press-releases",
+    "https://ethics.iowa.gov/",
+    "https://www.iowacourts.state.ia.us/ESAWebApp/SelectTop",
+    "https://ago.mo.gov/press-releases/",
+    "https://www.mec.mo.gov/MEC/Commission_Business/Home.aspx",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.justice.gov/usao-wdmo",
+    "https://apnews.com/",
+    "https://www.fox9.com/",
+    "https://capitolnewsillinois.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "A Reddit post claimed that the Ohio Supreme Court suspended Sandusky County Judge Jon Ickes from practicing law for two years over alleged misconduct.",
+      "source_url": "https://www.reddit.com/r/ohio/comments/1vsxj59/ohio_supreme_court_suspends_sandusky_county_judge/",
+      "status": "quarantined",
+      "reason": "Single social-media report with no official Ohio Supreme Court order, court record, or reputable-news corroboration located in the 24-hour window. The search did not establish an explicitly documented right-wing, Republican, conservative, or qualifying affiliated-organizational role, so no event was emitted."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-19T07:01:13-07:00 through 2026-08-20T07:01:13-07:00.",
+    "No person-specific event involving a covered right-wing, Republican, conservative, or affiliated-organizational figure was located in Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, or Missouri that met the evidence and date-window rules.",
+    "Iowa DPS published an August 19 homicide and attempted-murder charge involving private defendant Austin Nichols Reed; the official release supplied no covered public role or qualifying political affiliation. The charge remains an allegation and was excluded.",
+    "Missouri's August 19 Attorney General release concerned termination of Kansas City's MWBE program, not misconduct or discipline of a covered person. DOJ's August 20 Michigan-related release concerned a private Hawaii defendant who pleaded guilty to threatening Governor Gretchen Whitmer; no qualifying covered-person misconduct event was identified.",
+    "Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, and Iowa official indexes showed no additional in-window covered-person misconduct action. Dynamic, partially searchable, or fragmented local police, sheriff, prosecutor, court, school-board, municipal, and ethics records limit statewide completeness.",
+    "AP, FOX 9, Capitol News Illinois, and targeted regional-news searches produced no corroborated in-window qualifying report. Some local-news and government interfaces were blocked, JavaScript-rendered, or not exposing complete same-day archives; the unverified Ohio Reddit item remains quarantined."
+  ]
+}

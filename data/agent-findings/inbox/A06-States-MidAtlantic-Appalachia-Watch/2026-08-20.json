@@ -1,0 +1,32 @@
+{
+  "agent": "A06-States-MidAtlantic-Appalachia-Watch",
+  "run_date": "2026-08-20",
+  "sources_checked": [
+    "https://www.justice.gov/usao-md/pr",
+    "https://www.justice.gov/usao-edpa/pr",
+    "https://www.justice.gov/usao-wdky/pr",
+    "https://www.justice.gov/usao-edtn/pr",
+    "https://www.justice.gov/usao-dc/pr",
+    "https://www.oag.state.va.us/media-center/news-releases",
+    "https://www.ag.ky.gov/news",
+    "https://www.tn.gov/attorneygeneral/news.html",
+    "https://klec.ky.gov/Pages/default.aspx",
+    "https://ethics.ky.gov/Pages/contact.aspx",
+    "https://padisciplinaryboard.org/news-media",
+    "https://sheriff.knoxcountytn.gov/",
+    "https://www.whsv.com/2026/08/19/wanted-maurertown-man-arrested-charged-with-abduction-assault-more/",
+    "https://spotlightdelaware.org/2026/06/16/wilmington-rep-ortega-investigated-for-domestic-violence/",
+    "https://westvirginiawatch.com/",
+    "https://www.wvlegislature.gov/legisdocs/publications/manual/Manual_2025-2026.pdf"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "No A06-qualifying person or event was identified in the 24-hour window ending 2026-08-20 at 05:04 local time (UTC-07:00).",
+    "The August 19 District of Maryland releases included a former Prince George's County police officer sentenced for insurance fraud and other ordinary criminal cases; the releases did not document a right-wing, Republican, conservative, or qualifying affiliated-organizational role, so those subjects were not tracked.",
+    "The August 19 Western District of Kentucky, Eastern District of Pennsylvania, Eastern District of Tennessee, and District of Columbia releases likewise concerned ordinary criminal defendants or non-political public employees and supplied no explicit qualifying political or affiliated-organizational role.",
+    "A Virginia domestic-violence arrest report and a Delaware lawmaker investigation surfaced in search, but the Virginia subject had no documented qualifying political role and the Delaware report was outside the 24-hour window and identified the lawmaker as Democratic; neither was promoted.",
+    "Some state attorney-general, police, court, and ethics pages were JavaScript-rendered, blocked, or not uniformly searchable in this pass, including Pennsylvania, Maryland, Delaware, and West Virginia agency endpoints; the limitation is preserved rather than treated as exhaustive absence."
+  ]
+}
