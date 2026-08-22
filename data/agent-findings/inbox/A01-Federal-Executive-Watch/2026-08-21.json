@@ -1,0 +1,61 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-20&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-21",
+    "https://www.oge.gov/web/oge.nsf/site-index",
+    "https://www.oge.gov/web/oge.nsf/ethicsofficials_oge-oversight",
+    "https://www.oge.gov/web/oge.nsf/publicresources_Public-Participation",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/opa/pr/four-members-war-room-charged-connection-12m-medicaid-fraud-scheme",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.dhs.gov/news",
+    "https://www.floridabar.org/directories/find-mbr/profile/?num=1016188",
+    "https://www.democracydefendersfund.org/news/ddf-ldad-and-128-former-judges-call-for-investigation-into-dhs-general-counsel-for-attacks-on-sitting-judges/",
+    "https://www.democracydefendersfund.org/wp-content/uploads/2026/08/081926_DDF-LDAD-Percival-Bar-Complaint.pdf",
+    "https://www.thedailybeast.com/senior-trump-dhs-official-james-percival-accused-of-inciting-violence-against-judges/",
+    "https://news.bloomberglaw.com/us-law-week/top-dhs-lawyer-faces-ethics-complaint-over-worst-judges-posts",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [
+    {
+      "event_id": "df2ae9e4eb1b9b9bc3b7e18c529eac900ec8c93e3a7049bfb9745a4c6a05d2c7",
+      "person": "James Hamilton Percival II",
+      "aliases": [
+        "James Percival"
+      ],
+      "role": "General Counsel, U.S. Department of Homeland Security",
+      "affiliation": "Trump administration; Republican-affiliated executive role",
+      "jurisdiction": "United States",
+      "government_level": "federal",
+      "branch": "executive",
+      "event_type": "ethics complaint alleging professional misconduct and intimidation of federal judges",
+      "status": "reported_allegation",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.thedailybeast.com/senior-trump-dhs-official-james-percival-accused-of-inciting-violence-against-judges/",
+      "source_title": "Senior Trump DHS Official James Percival Accused of Inciting Violence Against Judges",
+      "publisher": "The Daily Beast",
+      "published_at": "2026-08-20T10:30:05Z",
+      "source_type": "news",
+      "subject_response": "DHS defended the posts as a factual review of judicial decisions. Percival said he was identifying judges he believed were causing repeated problems and later responded that he would continue his satirical 'Worst of the Worst' award.",
+      "summary": "A group of 128 former state and federal judges filed a Florida Bar ethics complaint alleging that Percival's social-media posts naming and criticizing sitting federal judges violated professional-conduct rules and could increase threats against judges. The complaint is an allegation; no Florida Bar finding or discipline was reported.",
+      "reason_for_status": "The complaint and Percival's DHS role are documented in the primary complaint materials, and the event was reported by The Daily Beast and Bloomberg Law with an on-record DHS/Percival response. Automatic publication is permitted under the two-independent-reputable-reports-plus-subject-response rule, while the status remains reported_allegation because no disciplinary finding has been issued or reported."
+    }
+  ],
+  "quarantined_leads": [],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: DOJ published an August 20, 2026 SDNY indictment charging Louis Trejo, Kenneth Garner, Harold Stevenson, and Erihk Belis in an alleged Medicaid-fraud and racketeering scheme. The defendants are outside A01's federal-executive role scope and the official record does not document a qualifying right-wing, Republican, conservative, or affiliated-organizational role. Source: https://www.justice.gov/opa/pr/four-members-war-room-charged-connection-12m-medicaid-fraud-scheme"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T00:02:22-07:00 through 2026-08-21T00:02:22-07:00.",
+    "The White House August 20 news and presidential-actions indexes showed space-policy, cabinet, and trade material, not a qualifying misconduct, ethics, discipline, resignation, removal, or investigation action.",
+    "DOJ and FBI August 20 indexes contained criminal cases and law-enforcement activity, but no additional person-specific event involving a federal executive official with explicitly documented qualifying political affiliation was identified for A01.",
+    "The Federal Register and Oversight.gov report endpoints were not consistently retrievable through the search interface, and the DHS newsroom returned HTTP 403; OGE's accessible site index exposed no dated in-window person-specific ethics finding or disciplinary action. This is a scoped negative scan, not an exhaustive absence claim.",
+    "Reuters' U.S. index was not retrievable in the web interface; same-day local agency, bar, and court records may not yet be indexed."
+  ]
+}

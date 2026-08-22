@@ -1,0 +1,32 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://conduct.house.gov/",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/letterstomembers",
+    "https://www.ethics.senate.gov/public/index.cfm/events?View=agenda-month",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases/press-releases",
+    "https://apnews.com/",
+    "https://apnews.com/article/4615d9309781afd72fc2cd3fb7d7c121",
+    "https://www.reuters.com/",
+    "https://rollcall.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T09:01:28Z through 2026-08-21T09:01:28Z. No qualifying right-wing congressional ethics, misconduct, criminal, court, or disciplinary event was identified.",
+    "The House Committee on Ethics press-release archive showed its newest item dated August 17, 2026, outside the lookback window; its committee-report archive showed no in-window report.",
+    "The Senate Select Committee on Ethics press-release archive showed no release newer than August 21, 2024, its public-letter archive showed no in-window letter, and its August 2026 events page showed only an August 12 ethics-code training event.",
+    "The Office of Congressional Conduct homepage showed its latest public advisory dated July 23, 2026; its press-advisory page could not be fetched because of an access restriction.",
+    "The DOJ August 20 news index and FBI press-release index were checked for covered congressional members or senior staff; no in-window qualifying person-specific action was identified. Congress.gov was inaccessible to the fetcher, so GovInfo and the official committee archives were used for accessible congressional-record coverage.",
+    "AP published an August 20 report about a federal sexual-misconduct probe involving former Democratic Representative Eric Swalwell; it was excluded because the subject is not within the watch's explicit right-wing, Republican, conservative, or affiliated-organizational scope."
+  ]
+}

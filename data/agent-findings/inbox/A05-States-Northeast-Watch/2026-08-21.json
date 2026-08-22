@@ -1,0 +1,47 @@
+{
+  "agent": "A05-States-Northeast-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://www.maine.gov/dps/msp/media-center/public-releases",
+    "https://www1.maine.gov/ethics/home",
+    "https://www.mainepublic.org/",
+    "https://www.nh.gov/hsafety/divisions/nhsp/news/index.htm",
+    "https://www.nh.gov/attorneygeneral/news/index.htm",
+    "https://www.nhpr.org/",
+    "https://vtstatepolice.blogspot.com/",
+    "https://ago.vermont.gov/",
+    "https://www.vermontpublic.org/",
+    "https://www.mass.gov/news",
+    "https://www.bostonglobe.com/",
+    "https://whdh.com/news/2-lynn-police-officers-on-administrative-leave-as-use-of-flock-data-investigated/",
+    "https://riag.ri.gov/press-releases",
+    "https://ethics.ri.gov/complaints/decisions/index.php",
+    "https://rhodeislandcurrent.com/",
+    "https://portal.ct.gov/dcj/press-releases",
+    "https://portal.ct.gov/Ethics/Public-Information/Public-Information/Enforcement-Actions---UAPA-Calendar",
+    "https://www.ctinsider.com/news/article/scottie-anthony-meriden-north-haven-child-sex-stin-22394955.php",
+    "https://www.ctinsider.com/news/article/north-branford-chris-white-domestic-assault-minor-22396160.php",
+    "https://ag.ny.gov/press-releases",
+    "https://ag.ny.gov/office-special-investigation/investigative-reports",
+    "https://www.timesunion.com/",
+    "https://www.njoag.gov/press-releases/",
+    "https://newjersey.news12.com/",
+    "https://patch.com/new-jersey/asbury-park/man-charged-writing-swastikas-asbury-park",
+    "https://www.justice.gov/usao-ma/pr/former-immigration-services-officer-charged-defrauding-union",
+    "https://www.justice.gov/usao-vt/pr/south-hero-man-sentenced-8-months-mail-theft",
+    "https://www.justice.gov/usao-sdny/pr/four-members-war-room-charged-connection-12-million-medicaid-fraud-scheme",
+    "https://www.justice.gov/opa/pr/albany-new-york-woman-charged-isis-inspired-terror-plot-targeting-new-york-state-capitol"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: The U.S. Attorney's Office for the District of Massachusetts charged former USCIS officer Carol A. Aguja with wire fraud in an alleged union-fund scheme on August 20, 2026. The federal matter is outside A05 state/local ownership, and the official record does not document a qualifying right-wing, Republican, conservative, or affiliated-organizational role. Source: https://www.justice.gov/usao-ma/pr/former-immigration-services-officer-charged-defrauding-union",
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: The U.S. Attorney's Office for the District of Vermont reported Kevin Manning's federal sentence for mail theft on August 20, 2026. The federal matter is outside A05 state/local ownership, and the official record does not document a qualifying right-wing, Republican, conservative, or affiliated-organizational role. Source: https://www.justice.gov/usao-vt/pr/south-hero-man-sentenced-8-months-mail-theft"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T04:01:11-07:00 through 2026-08-21T04:01:11-07:00; source pages generally expose publication dates but not precise release times.",
+    "No A05-qualifying person or event was identified in the 24-hour window. Vermont State Police listed in-window arrests and charges; Rhode Island, Connecticut, and New York official pages listed current criminal or investigative actions; and a Lynn, Massachusetts report described two police officers placed on administrative leave during an internal-affairs investigation. The identified subjects had no explicitly documented right-wing, Republican, conservative, or covered affiliated-organizational role, or were ordinary defendants.",
+    "The Rhode Island Attorney General's August 20 labor-crime charges involved business owners rather than covered public officials; current Connecticut criminal releases and regional reports likewise involved ordinary defendants without qualifying affiliation. The New York Attorney General's August 20 releases concerned a drug-trafficking takedown and OSI material without a qualifying covered subject.",
+    "Maine State Police, New Hampshire State Police and Attorney General, Massachusetts mass.gov news, New Jersey Attorney General, and Vermont Attorney General pages were inaccessible or not uniformly searchable in this pass; accessible official and regional checks did not produce a matching in-window A05 event, so these limitations are preserved rather than treated as exhaustive absence."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "agent": "A10-West-Pacific-Local-National-Watch",
+  "run_date": "2026-08-22",
+  "sources_checked": [
+    "https://www.dojmt.gov/category/press-release/",
+    "https://www.ag.idaho.gov/newsroom/",
+    "https://attorneygeneral.wyo.gov/press-releases",
+    "https://attorneygeneral.utah.gov/newsroom/",
+    "https://ag.nv.gov/News/Press_Releases/",
+    "https://www.atg.wa.gov/news",
+    "https://www.doj.state.or.us/media/news-media-releases/oregon-doj-news/",
+    "https://oag.ca.gov/media/news?page=1",
+    "https://www.law.alaska.gov/press/news.html",
+    "https://ag.hawaii.gov/news-releases/news-releases-2026/",
+    "https://www.justice.gov/usao-mt/pr",
+    "https://www.justice.gov/usao-id/pr",
+    "https://www.justice.gov/usao-wy/pr",
+    "https://www.justice.gov/usao-ut/pr",
+    "https://www.justice.gov/usao-or/pr",
+    "https://www.justice.gov/usao-hi/pr",
+    "https://www.fbi.gov/news/press-releases",
+    "https://kingcounty.gov/en/independents/governance-and-leadership/government-oversight/office-of-law-enforcement-oversight/investigation-findings",
+    "https://seattle.gov/inspector-general/reports",
+    "https://www.seattle.gov/police-accountability/news-and-reports",
+    "https://www.sandiego.gov/police/news-center/news-releases?page=1",
+    "https://www.portland.gov/police/news",
+    "https://www.lapdonline.org/newsroom/",
+    "https://www.click2houston.com/news/local/2026/08/22/la-marque-mayor-arrested-charged-with-indecent-exposure/",
+    "https://www.cityoflamarque.org/directory.aspx?EID=21",
+    "https://www.cbsnews.com/atlanta/news/stockbridge-mayor-allegations-councilwoman-hearing/",
+    "https://alaskapublic.org/news/public-safety/2026-08-21/anchorage-police-officer-sped-through-red-light-in-collision-that-killed-2-police-chief-says",
+    "https://www.gbi.georgia.gov/press-releases/2026-08-21/gbi-arrests-four-former-savannah-police-department-employees-misuse",
+    "https://bluebonnetnews.com/2026/08/21/former-lcso-livestock-officer-jailed-on-child-pornography-charges/",
+    "https://www.keranews.org/news/2026-08-21/jury-finds-ex-denton-officer-guilty-of-tampering-with-arrest-affidavit",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/",
+    "https://www.kuow.org/",
+    "https://www.opb.org/",
+    "https://www.calmatters.org/",
+    "https://alaskapublic.org/",
+    "https://hawaiinewsnow.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Anchorage Police Department officer Kaden Pohl was reported to have been speeding and entered an intersection against a red light before a fatal August 1 crash that killed two taxi occupants; Chief Sean Case said the officer was on paid leave and that criminal and internal investigations remained pending.",
+      "source_url": "https://alaskapublic.org/news/public-safety/2026-08-21/anchorage-police-officer-sped-through-red-light-in-collision-that-killed-2-police-chief-says",
+      "source_title": "Anchorage police officer sped through red light in collision that killed 2, police chief says",
+      "publisher": "Alaska Public Media",
+      "published_at": "2026-08-21T15:04:00-08:00",
+      "status": "quarantined",
+      "subject_response": "Anchorage Police Chief Sean Case provided the department's update; he said the traffic unit and Alaska Office of Special Prosecutions were reviewing the crash, and that the internal investigation would follow the criminal investigation. No direct statement from Officer Pohl was located.",
+      "reason": "The report supplies an on-record law-enforcement response and preserves the pending procedural status, but no explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role was documented. The officer's conduct has not been adjudicated, so no qualifying event is emitted."
+    },
+    {
+      "lead": "Stockbridge, Georgia Mayor Jayden Williams faced a city-removal hearing after a council member testified about an alleged sexual-misconduct matter involving an 11th-grade student; the report states no evidence establishing the allegation was presented at the hearing.",
+      "source_url": "https://www.cbsnews.com/atlanta/news/stockbridge-mayor-allegations-councilwoman-hearing/",
+      "source_title": "Stockbridge councilwoman reveals allegation involving mayor and 11th grader; judge declines to remove her from hearing",
+      "publisher": "CBS News Atlanta",
+      "published_at": "2026-08-21T13:23:00-04:00",
+      "status": "quarantined",
+      "subject_response": "Mayor Jayden Williams denied wrongdoing; his attorney argued that the council member had prejudged the allegations. The report states that no evidence establishing the allegation was presented in the court hearing.",
+      "reason": "This is a single report of an allegation, with no reported finding and no explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role for the mayor. Georgia is outside A10's regional lane and the lead is handed to A07 for awareness without duplicating an event."
+    }
+  ],
+  "handoffs": [
+    "A09-States-Plains-Southwest-Watch: La Marque, Texas Mayor Keith Bell was reported arrested and charged with indecent exposure on August 21, 2026. The city confirmed the arrest and said the matter occurred outside his official duties; the city staff page confirms his mayoral role. No explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role was located, so A10 emits no event. Sources: https://www.click2houston.com/news/local/2026/08/22/la-marque-mayor-arrested-charged-with-indecent-exposure/ and https://www.cityoflamarque.org/directory.aspx?EID=21",
+    "A07-States-Southeast-Watch: Stockbridge, Georgia Mayor Jayden Williams' alleged sexual-misconduct matter and scheduled removal hearing were surfaced in a same-day CBS Atlanta report. No evidence was presented in the cited hearing, Williams denied wrongdoing, and no explicit qualifying political or organizational affiliation was documented; A10 quarantined the lead and did not emit an event. Source: https://www.cbsnews.com/atlanta/news/stockbridge-mayor-allegations-councilwoman-hearing/"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-21T09:01:49-07:00 through 2026-08-22T09:01:49-07:00. No A10-qualifying event was identified; events=0.",
+    "Montana's official DOJ index was current through August 18 and showed no in-window covered-official item; Idaho's August 21 item concerned grizzly-bear management; Wyoming's AG index remained dated July 7; Utah's newest newsroom item was July 22; Nevada was request-rejected; Washington AG returned an internal error; Oregon DOJ exposed no in-window person-specific misconduct item; California's AG index showed no item newer than August 3; Alaska's August 20 releases concerned private criminal defendants; and Hawaii's 2026 AG index showed no in-window item.",
+    "USAO Montana's newest listed item was an August 20 multistate drug-smuggling sentencing involving private defendants. USAO Oregon listed an August 21 private defendant's tax and fraud sentencing; the other checked western USAO indexes exposed no in-window covered-official event. FBI, King County OLEO, Seattle OIG, Seattle police-accountability, San Diego Police, Portland Police, and LAPD checks produced no additional qualifying event.",
+    "The Anchorage officer crash review was quarantined because the public record documents an ongoing criminal and internal investigation but no explicit qualifying political or organizational affiliation. The Stockbridge mayor allegation was quarantined because it was single-source, unproven, denied, and lacked explicit qualifying affiliation; it was handed to A07. The La Marque mayor arrest was handed to A09 because Texas is outside A10's regional lane and the affiliation gate was not met.",
+    "A07's August 21 GBI release concerning former Savannah police employees, and A09's August 21 Texas reports concerning Raymond Louis Winkler Jr. and Joel Weinstein, were reviewed as cross-lane material and not duplicated. Same-day local publication timing, dynamic or blocked pages, sealed records, and non-indexed municipal and ethics systems remain coverage gaps rather than evidence of exhaustive absence."
+  ]
+}

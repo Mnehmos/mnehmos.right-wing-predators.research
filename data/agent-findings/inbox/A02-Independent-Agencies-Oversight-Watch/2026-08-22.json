@@ -1,0 +1,32 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-22",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.fcc.gov/news-events",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://osc.gov/news/",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.mspb.gov/decisions/decisions.htm",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.govexec.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-21T01:00:57-07:00 through 2026-08-22T01:00:57-07:00.",
+    "No qualifying person-specific A02 event with explicit right-wing, Republican, conservative, or affiliated-organizational evidence was identified in the 24-hour window.",
+    "FEC's August 21 weekly digest was routine campaign-finance outreach; FTC's August 21 item was an antitrust amicus brief; SEC's latest listed press release was August 18; and EEOC's August 21 releases concerned private employers rather than agency employees or officials.",
+    "NLRB's latest listed release was an August 19 labor settlement, and OSC's August 20 release repeated unnamed Hatch Act disciplinary complaints already quarantined in the prior scan; neither supplied a new named person with qualifying affiliation evidence. OGE's latest listed oversight item was August 12, and MSPB exposed no new in-window person-specific public disciplinary decision.",
+    "FCC and GAO pages/search interfaces did not provide a uniformly searchable in-window misconduct or ethics record through the available interface. DOJ/OIG review was used to screen for agency-investigated federal criminal matters, which remain routed to A04 when they qualify.",
+    "Targeted AP, Reuters, and Government Executive searches found no corroborated in-window A02 person-specific event. Congressional matters and federal criminal proceedings remain outside this agent's publication scope."
+  ]
+}

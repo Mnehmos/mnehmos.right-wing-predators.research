@@ -1,8 +1,35 @@
 {
   "schema_version": 1,
-  "source_digest": "20de1ce4865046ad73c89a2c610705681d2807f765b626515a97b04ac02793f1",
-  "event_count": 1,
+  "source_digest": "db95d551d75ac28a3d3c70c4ea77d24e0f388f38cf21b422130af77f9674d07e",
+  "event_count": 2,
   "events": [
+    {
+      "event_id": "df2ae9e4eb1b9b9bc3b7e18c529eac900ec8c93e3a7049bfb9745a4c6a05d2c7",
+      "agent": "A01-Federal-Executive-Watch",
+      "run_date": "2026-08-21",
+      "person": "James Hamilton Percival II",
+      "aliases": [
+        "James Percival"
+      ],
+      "role": "General Counsel, U.S. Department of Homeland Security",
+      "affiliation": "Trump administration; Republican-affiliated executive role",
+      "jurisdiction": "United States",
+      "government_level": "federal",
+      "branch": "executive",
+      "event_type": "ethics complaint alleging professional misconduct and intimidation of federal judges",
+      "status": "reported_allegation",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.thedailybeast.com/senior-trump-dhs-official-james-percival-accused-of-inciting-violence-against-judges/",
+      "source_title": "Senior Trump DHS Official James Percival Accused of Inciting Violence Against Judges",
+      "publisher": "The Daily Beast",
+      "published_at": "2026-08-20T10:30:05Z",
+      "source_type": "news",
+      "subject_response": "DHS defended the posts as a factual review of judicial decisions. Percival said he was identifying judges he believed were causing repeated problems and later responded that he would continue his satirical 'Worst of the Worst' award.",
+      "summary": "A group of 128 former state and federal judges filed a Florida Bar ethics complaint alleging that Percival's social-media posts naming and criticizing sitting federal judges violated professional-conduct rules and could increase threats against judges. The complaint is an allegation; no Florida Bar finding or discipline was reported.",
+      "reason_for_status": "The complaint and Percival's DHS role are documented in the primary complaint materials, and the event was reported by The Daily Beast and Bloomberg Law with an on-record DHS/Percival response. Automatic publication is permitted under the two-independent-reputable-reports-plus-subject-response rule, while the status remains reported_allegation because no disciplinary finding has been issued or reported.",
+      "source_file": "data/agent-findings/inbox/A01-Federal-Executive-Watch/2026-08-21.json"
+    },
     {
       "event_id": "df155ce4ff7437d43a844e6882187c1a99c0d4ed3db837a4f45b053330bc4b3b",
       "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",

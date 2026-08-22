@@ -1,0 +1,41 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.ftc.gov/news-events/news/commission-actions",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.fcc.gov/news-events",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://www.nlrb.gov/about-nlrb/who-we-are/inspector-general/office-of-inspector-general-investigations",
+    "https://osc.gov/news/",
+    "https://osc.gov/news/2026-08-20/osc-files-disciplinary-action-complaints-against-two-federal-employees-for-serious-hatch-act-violations/",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.mspb.gov/",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.npr.org/sections/politics/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "OSC announced disciplinary-action complaints against an unnamed U.S. Postal Service employee and an unnamed Department of Veterans Affairs employee for alleged Hatch Act violations involving partisan candidacy, political solicitation, and use of government resources.",
+      "source_url": "https://osc.gov/news/2026-08-20/osc-files-disciplinary-action-complaints-against-two-federal-employees-for-serious-hatch-act-violations/",
+      "status": "quarantined",
+      "reason": "The official release documents the complaints but omits both employees' names and provides no explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role. No person-specific event can be emitted without identity and affiliation evidence. The complaints remain allegations pending MSPB proceedings."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T01:02:31-07:00 through 2026-08-21T01:02:31-07:00.",
+    "No A02-qualifying person-specific event with explicit right-wing, Republican, conservative, or affiliated-organizational evidence was identified in the 24-hour window.",
+    "SEC, FTC, FEC, and EEOC in-window pages showed routine regulatory, outreach, or employer-enforcement activity without a qualifying agency employee or official misconduct event. NLRB and MSPB indexes exposed no new in-window person-specific disciplinary matter.",
+    "The FCC, OGE, and GAO interfaces were not consistently retrievable or uniformly searchable through the available web interface; no lead was promoted without direct official evidence.",
+    "Targeted AP, Reuters, NPR, and general reputable-news searches found no corroborated A02-qualifying person-specific event. Congressional matters and federal criminal proceedings remain outside this agent's scope."
+  ]
+}

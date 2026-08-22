@@ -1,0 +1,44 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-08-22",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/usao",
+    "https://www.justice.gov/usao-wdmi/pr/2026_0821_Tompkins_IND_PR",
+    "https://www.justice.gov/usao-ndga/pr/georgia-man-faces-federal-charges-following-violent-social-media-threats-against",
+    "https://www.justice.gov/usao-ndok/pr/august-federal-grand-jury-2025-b-indictments-announced",
+    "https://www.justice.gov/usao-sdwv/pr/federal-grand-jury-indicts-ex-teacher-and-former-state-legislator-child-sexual",
+    "https://home.wvlegislature.gov/delegate/david-elliott-pritt/",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ce9.uscourts.gov/misconduct",
+    "https://www.ca1.uscourts.gov/judicial-conduct-disability",
+    "https://www.ca4.uscourts.gov/rules-and-procedures/judicial-conduct-disability/Judicial-Complaint-Orders",
+    "https://www.ca9.uscourts.gov/misconduct/orders/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://media.cadc.uscourts.gov/conduct/bydate/recent",
+    "https://www.courtlistener.com/",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/",
+    "https://www.dcbar.org/attorney-discipline",
+    "https://www.reddit.com/r/NewsThread/comments/1vtznea/the_dc_bar_is_now_officially_deciding_whether_to/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Social-media reposts claimed that the District of Columbia Bar was deciding whether to investigate Chief Justice John Roberts for alleged misconduct.",
+      "source_url": "https://www.reddit.com/r/NewsThread/comments/1vtznea/the_dc_bar_is_now_officially_deciding_whether_to/",
+      "status": "quarantined",
+      "reason": "The lead is supported in this window only by social-media reposts; the official D.C. Bar attorney-discipline page checked here did not confirm a named in-window action or public-interest case record. The available material also does not explicitly document Roberts as right-wing, Republican, conservative, or affiliated with a covered organization. No event was emitted."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-21T03:00:33-07:00 through 2026-08-22T03:00:33-07:00; official source pages generally expose publication dates but not precise release times.",
+    "In-window DOJ and U.S. Attorney releases included federal indictments, charges, convictions, guilty pleas, and sentences, including matters involving Brent Alan Tompkins and Isiah Washington; the identified subjects had no explicit public right-wing, Republican, conservative, or covered affiliated-organizational role, so no event was emitted under the affiliation gate.",
+    "David Elliott Pritt's federal indictment remained present in official and news-index results, but the canonical DOJ indictment event is already in the ledger from 2026-08-20; no duplicate event was emitted.",
+    "The U.S. Courts judicial-conduct order index and circuit complaint-order pages checked for the Supreme Court, D.C. Circuit, and regional circuits showed no newly listed in-window judicial misconduct or ethics action involving a person with explicitly documented covered political or affiliated-organizational evidence.",
+    "CourtListener/RECAP and reputable-news index checks did not identify an additional qualifying in-window event; sealed, delayed, non-indexed, or not-yet-published filings remain a coverage limitation."
+  ]
+}

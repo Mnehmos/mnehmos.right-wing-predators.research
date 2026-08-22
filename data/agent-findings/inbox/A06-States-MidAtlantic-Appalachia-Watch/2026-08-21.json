@@ -1,0 +1,50 @@
+{
+  "agent": "A06-States-MidAtlantic-Appalachia-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://www.justice.gov/usao-md/pr",
+    "https://www.justice.gov/usao-edpa/pr",
+    "https://www.justice.gov/usao-wdva/pr",
+    "https://www.justice.gov/usao-wdky/pr",
+    "https://www.justice.gov/usao-edky/pr",
+    "https://www.justice.gov/usao-edtn/pr",
+    "https://www.justice.gov/usao-dc/pr",
+    "https://www.justice.gov/opa/pr/former-west-virginia-sheriffs-office-deputy-indicted-alleged-sexual-assault-female-inmate",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.pacourts.us/news-and-statistics/cases-of-public-interest/commonwealth-v-abbatiello-and-robinson-et-al",
+    "https://www.pa.gov/agencies/ethics",
+    "https://www.pa.gov/agencies/ethics/publications-library",
+    "https://comptroller.tn.gov/office-functions/investigations/find.html",
+    "https://www.tn.gov/tbi/tbi-newsroom.html",
+    "https://www.tn.gov/attorneygeneral/news.html",
+    "https://ethics.wv.gov/",
+    "https://www.osp.maryland.gov/",
+    "https://klec.ky.gov/",
+    "https://www.ag.ky.gov/news",
+    "https://www.oag.state.va.us/media-center/news-releases",
+    "https://www.wvlegislature.gov/legisdocs/publications/manual/Manual_2025-2026.pdf",
+    "https://www.wcbcradio.com/news/warrant-served/",
+    "https://westvirginiawatch.com/2026/08/19/federal-jury-indicts-pritt-on-3-felony-counts-including-alleged-sexual-exploitation-of-a-child/",
+    "https://www.wdbj7.com/2026/07/23/fbi-arrests-pulaski-town-councilman-child-exploitation-charges/",
+    "https://www.wpxi.com/news/local/mayor-glassport-arrested-officials-say/PDW4HV2WGFCLXKRHQGY5CUELRU/",
+    "https://marylandmatters.org/",
+    "https://www.wvmetronews.com/",
+    "https://www.wvpublic.org/",
+    "https://www.wtae.com/",
+    "https://www.lex18.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch owns the David Elliott Pritt federal indictment already present in the ledger. The August 19, 2026 indictment was outside this A06 lookback window and was not duplicated. Source: https://www.justice.gov/usao-sdwv/pr/federal-grand-jury-indicts-ex-teacher-and-former-state-legislator-child-sexual"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T05:01:13-07:00 through 2026-08-21T05:01:13-07:00.",
+    "No A06-qualifying person or event was identified in the 24-hour window. Official DOJ, court, ethics, comptroller, police, and reputable-news checks produced no person-specific event with both a covered misconduct/procedural action and explicitly documented right-wing, Republican, conservative, or qualifying affiliated-organizational role.",
+    "The DOJ August 19 indictment of former Kanawha County Sheriff's deputy Cass Aaron Close alleges sexual assault of an inmate, but the official release documents only his law-enforcement employment and no qualifying political or affiliated-organizational role; it was also published before the A06 window.",
+    "The Pennsylvania Unified Judicial System public-interest page showed August 20 docket activity in Commonwealth v. Abbatiello and Robinson et al., but the listed defendants were not identified as covered public officials or as having qualifying political/organizational affiliations.",
+    "The Tennessee Comptroller investigation index listed a Shelbyville Police Department investigation dated August 18, outside the window; it did not identify a qualifying individual or political/organizational affiliation.",
+    "Several state and local ethics, police, court, and attorney-general endpoints were dynamic, blocked, or not uniformly searchable through the available interface, including portions of Delaware, Maryland, Virginia, West Virginia, Kentucky, and Tennessee coverage. These access limitations are preserved rather than treated as evidence of no activity.",
+    "Search results also surfaced older or outside-window matters involving Pulaski Town Councilman Steven Wayne Erickson, Glassport Mayor Keith DiMarco, and former West Virginia Delegate David Elliott Pritt; they were excluded by date, ownership, or duplication rules."
+  ]
+}

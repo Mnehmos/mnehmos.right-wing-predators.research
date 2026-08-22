@@ -1,0 +1,33 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa/pr/four-members-war-room-charged-connection-12m-medicaid-fraud-scheme",
+    "https://www.justice.gov/opa/pr/albany-new-york-woman-charged-isis-inspired-terror-plot-targeting-new-york-state-capitol",
+    "https://www.justice.gov/opa/pr/pennsylvania-man-indicted-conspiring-defraud-united-states",
+    "https://www.justice.gov/usao-ndny/pr/albany-new-york-woman-charged-attempting-provide-material-support-or-resources",
+    "https://www.justice.gov/usao-edtx/pr/beaumont-man-sentenced-federal-prison-following-neighborhood-shootout",
+    "https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-pleads-guilty-charges-attempted-murder-and-assault-federal-agent-and",
+    "https://www.justice.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca1.uscourts.gov/judicial-conduct-disability",
+    "https://www.ca4.uscourts.gov/rules-and-procedures/judicial-conduct-disability/Judicial-Complaint-Orders",
+    "https://www.ca9.uscourts.gov/misconduct/orders/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.courtlistener.com/",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T03:01:51-07:00 through 2026-08-21T03:01:51-07:00; source pages generally expose publication dates but not precise release times.",
+    "In-window DOJ and FBI releases included multiple federal charges, guilty pleas, convictions, and sentences, but the identified defendants had no explicit public right-wing, Republican, conservative, or covered affiliated-organizational role; no event was emitted under the affiliation gate.",
+    "David Elliott Pritt's federal indictment resurfaced in in-window news results, but the official indictment event and canonical DOJ source URL are already present in the ledger from 2026-08-20; no duplicate event was emitted.",
+    "The federal judiciary's public judicial-conduct indexes and circuit pages showed no newly listed in-window judicial misconduct or ethics action involving a person with an explicitly documented covered political or affiliated role.",
+    "CourtListener/RECAP and reputable-news index checks did not identify an additional qualifying in-window event; sealed, delayed, or non-indexed filings remain a coverage limitation."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "agent": "A08-States-Midwest-Watch",
+  "run_date": "2026-08-21",
+  "sources_checked": [
+    "https://www.ohioattorneygeneral.gov/Media/News-Releases",
+    "https://ethics.ohio.gov/investigation/index.html",
+    "https://odc.ohio.gov/",
+    "https://www.in.gov/ig/",
+    "https://www.in.gov/courts/public-records/orders/discipline/",
+    "https://public.courts.in.gov/Decisions/",
+    "https://illinoisattorneygeneral.gov/News-Room/",
+    "https://isp.illinois.gov/Media/NewsReleases",
+    "https://eec.illinois.gov/publications/disciplinary-decisions.html",
+    "https://www.michigan.gov/ag/news/press-releases",
+    "https://www.michigan.gov/msp/newsroom",
+    "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
+    "https://ethics.wi.gov/Pages/home.aspx",
+    "https://www.wicourts.gov/casesearch.htm",
+    "https://www.ag.state.mn.us/Office/Communications.asp",
+    "https://sos.mn.gov/about-the-office/news-room/",
+    "https://www.minneapolismn.gov/government/departments/civil-rights/opcr/",
+    "https://dps.iowa.gov/press-releases",
+    "https://www.iowaattorneygeneral.gov/news",
+    "https://www.iowacourts.state.ia.us/ESAWebApp/SelectTop",
+    "https://ago.mo.gov/press-releases/",
+    "https://mshp.dps.missouri.gov/",
+    "https://www.courts.mo.gov/page.jsp?id=10",
+    "https://www.justice.gov/usao-edmo/pr",
+    "https://www.justice.gov/usao-edmi/pr",
+    "https://apnews.com/",
+    "https://www.fox9.com/",
+    "https://capitolnewsillinois.com/",
+    "https://wrce.fm/news/2026/08/20/sheboygan-county-sheriffs-deputies-at-polls-ignite-voter-intimidation-concerns",
+    "https://www.startribune.com/",
+    "https://www.storycountyiowa.gov/Archive.aspx?AMID=39"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Wisconsin Examiner reported that three legal organizations criticized the Sheboygan County Sheriff's Office for announcing visible deputy visits to polling places during the August 11 primary, arguing that armed law-enforcement presence could intimidate voters. Sheriff Derek Spence said the purpose was election-worker safety and community reassurance, with no intent to influence voters.",
+      "source_url": "https://wrce.fm/news/2026/08/20/sheboygan-county-sheriffs-deputies-at-polls-ignite-voter-intimidation-concerns",
+      "source_title": "Sheboygan County sheriff’s deputies at polls ignite voter intimidation concerns",
+      "publisher": "Wisconsin Examiner, republished by WRCE",
+      "published_at": "2026-08-20T10:12:00-05:00",
+      "status": "quarantined",
+      "subject_response": "Sheriff Derek Spence said the visits were intended to ensure election-worker safety, address public-safety concerns, and maintain community relations, and were not intended to interfere with the electoral process.",
+      "reason": "A single in-window report describes a dispute and competing characterizations, not an official misconduct finding or criminal/ethics action. The source does not explicitly document the sheriff's right-wing, Republican, conservative, or qualifying affiliated-organizational role. Retain for corroboration from official Wisconsin election, ethics, court, or law-enforcement records; do not publish as an established misconduct event."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-20T07:01:43-07:00 through 2026-08-21T07:01:43-07:00.",
+    "No person-specific event involving a covered right-wing, Republican, conservative, or affiliated-organizational figure was located in Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, or Missouri that met the evidence and date-window rules.",
+    "Illinois State Police's August 20 release concerned Amanda and Michael Russell, private defendants arrested for involuntary manslaughter after the death of their child; the release supplied no covered public role or qualifying political affiliation.",
+    "Missouri same-day searches returned ordinary criminal matters involving private defendants, including the Boone County domestic-assault arrest of Clinton McLain and a Camden County drug-seizure release; neither supplied a covered public role or qualifying political affiliation.",
+    "The Sheboygan polling-place report is retained as a quarantine lead because it lacks an explicit qualifying affiliation and an official finding; the conduct discussed occurred on August 11, outside the current 24-hour event window.",
+    "Ohio, Indiana, Michigan, Minnesota, Iowa, and Missouri official indexes and targeted court, ethics, law-enforcement, and regional-news searches exposed no additional in-window covered-person misconduct action. Some statewide and local records are dynamic, fragmented, JavaScript-rendered, or blocked to automated access; Minnesota DPS was blocked by robots.txt during search."
+  ]
+}
