@@ -1,0 +1,42 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-24",
+  "sources_checked": [
+    "https://www.whitehouse.gov/releases/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-23&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-24",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news",
+    "https://www.fbi.gov/news/atom.xml",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/about/news/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.whitehouse.gov/releases/2026/08/operation-economic-outcast-total-isolation-of-the-iranian-regime/",
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
+    "https://www.justice.gov/opa/pr/department-justice-announces-launch-national-fraud-detection-center-combat-fraud-against",
+    "https://apnews.com/hub/politics",
+    "https://www.reuters.com/world/us/",
+    "https://www.axios.com/2026/08/21/dhs-lawyer-judge-attacks-ethics-complaints",
+    "https://www.washingtonpost.com/politics/2026/08/20/eric-swalwell-sexual-misconduct-investigation-congress/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-23T15:25:34-07:00 through 2026-08-24T15:25:34-07:00.",
+    "The White House releases index showed two August 24 policy releases; neither reported misconduct, ethics, discipline, resignation, removal, or an investigation involving a qualifying federal executive official. The education release referenced a Title IX investigation of a school district, not a qualifying federal official.",
+    "The DOJ August 24 news index showed civil settlements, a criminal conviction of a private engineer, a civil sexual-harassment suit against a private landlord, and the National Fraud Detection Center launch; none concerned misconduct by a qualifying federal executive official.",
+    "The DOJ OIG administrative-misconduct index's newest listed senior-official finding was dated August 19, 2026, outside this lookback window; no newer qualifying finding was identified.",
+    "The FBI news/RSS material exposed no in-window person-specific misconduct or discipline item involving a qualifying federal executive official.",
+    "The DHS newsroom was not retrievable through the web interface; OGE and some agency/oversight indexes were not consistently retrievable or did not expose a dated in-window person-specific ethics or disciplinary action.",
+    "The Axios report about DHS General Counsel James Percival was published August 21, outside this lookback window, and the related Percival event is already present in the ledger; no duplicate was created.",
+    "The AP/Washington Post reports about former Democratic Rep. Eric Swalwell were published August 20, outside this window and outside A01's federal-executive mission scope. Reuters' U.S. index was not retrievable in the web interface.",
+    "This is a scoped-negative scan; blocked, non-indexed, or outside-window sources are coverage gaps and do not prove exhaustive negative coverage."
+  ]
+}
