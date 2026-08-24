@@ -1,0 +1,61 @@
+{
+  "agent": "A10-West-Pacific-Local-National-Watch",
+  "run_date": "2026-08-24",
+  "sources_checked": [
+    "https://www.dojmt.gov/category/press-release/",
+    "https://www.ag.idaho.gov/newsroom/",
+    "https://attorneygeneral.wyo.gov/press-releases",
+    "https://attorneygeneral.utah.gov/newsroom/",
+    "https://ag.nv.gov/News/Press_Releases/",
+    "https://www.atg.wa.gov/news",
+    "https://www.doj.state.or.us/media/news-media-releases/oregon-doj-news/",
+    "https://oag.ca.gov/media/news?page=1",
+    "https://www.law.alaska.gov/press/news.html",
+    "https://ag.hawaii.gov/news-releases/news-releases-2026/",
+    "https://www.justice.gov/usao-mt/pr",
+    "https://www.justice.gov/usao-id/pr",
+    "https://www.justice.gov/usao-wy/pr",
+    "https://www.justice.gov/usao-ut/pr",
+    "https://www.justice.gov/usao-or/pr",
+    "https://www.justice.gov/usao-hi/pr",
+    "https://www.fbi.gov/news/press-releases",
+    "https://kingcounty.gov/en/independents/governance-and-leadership/government-oversight/office-of-law-enforcement-oversight/investigation-findings",
+    "https://www.seattle.gov/inspector-general/reports",
+    "https://www.seattle.gov/police-accountability/news-and-reports",
+    "https://www.sandiego.gov/police/news-center/news-releases?page=1",
+    "https://www.portland.gov/police/news",
+    "https://www.lapdonline.org/newsroom/",
+    "https://www.phoenix.gov/newsroom.html",
+    "https://www.phoenix.gov/administration/departments/police/contact-us/media-relations/media-advisories.html",
+    "https://www.phoenix.gov/administration/departments/police/crime-stats-data/transparency.html",
+    "https://www.fox10phoenix.com/news/2-phoenix-officers-arrested-following-violent-traffic-stop",
+    "https://www.livenowfox.com/news/fired-phoenix-officers-admit-violent-traffic-stop-court-documents-show",
+    "https://www.opb.org/",
+    "https://www.kuow.org/",
+    "https://www.calmatters.org/",
+    "https://alaskapublic.org/",
+    "https://hawaiinewsnow.com/",
+    "https://www.reuters.com/world/us/",
+    "https://apnews.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Former Phoenix police officers Luis Vasquez Jr. and Antonio Felix were fired and arrested after a criminal investigation into an alleged violent, unreported traffic stop; they face felony charges including aggravated assault, aggravated robbery, kidnapping, threatening and intimidating, hindering prosecution, and tampering with evidence.",
+      "source_url": "https://www.livenowfox.com/news/fired-phoenix-officers-admit-violent-traffic-stop-court-documents-show",
+      "source_title": "Fired Phoenix officers admit to violent traffic stop, court documents show",
+      "publisher": "FOX 10 Phoenix / LiveNOW from FOX",
+      "published_at": "2026-08-23T20:30:00-04:00",
+      "status": "quarantined",
+      "subject_response": "Phoenix Police Chief Matthew Giordano said the officers went too far and that the department fired and arrested them. The Phoenix Law Enforcement Association said the conduct was alleged, supported due process, and stated that the charges should proceed through the courts. Court documents reportedly contain admissions by both former officers; no direct political or qualifying affiliated-organizational role for either officer was located.",
+      "reason": "The report is within the 24-hour lookback and the police response, arrests, firings, and charges are corroborated by Phoenix Police statements and court documents. The lead is quarantined because no explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role was documented. The charges remain allegations and are not convictions. The Arizona lead is retained in A10's nationwide local-law-enforcement lane and is not handed off because it is authoritative and high-impact."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-23T15:27:48-07:00 through 2026-08-24T15:27:48-07:00. No A10-qualifying event met the explicit-affiliation gate; events=0.",
+    "Official state AG/DOJ and USAO indexes for Montana, Idaho, Wyoming, Utah, Nevada, Washington, Oregon, California, Alaska, and Hawaii were searched for in-window covered-official actions. No additional qualifying arrest, charge, indictment, conviction, sentencing, ethics finding, removal, resignation, or misconduct investigation was identified.",
+    "King County OLEO, Seattle OIG and police-accountability, San Diego Police, Portland Police, LAPD, Phoenix Police, FBI, and nationwide mayoral, sheriff, police, and local-government searches produced no additional in-window qualifying event. Some state and municipal pages were dynamic, stale, request-rejected, or not machine-readable; those access and indexing limits remain coverage gaps rather than evidence of exhaustive negative coverage.",
+    "The Phoenix officers' lead was quarantined for the missing explicit political or qualifying organizational affiliation. The article's reported charges, firings, and investigation remain procedural allegations and were not emitted as a publishable event."
+  ]
+}

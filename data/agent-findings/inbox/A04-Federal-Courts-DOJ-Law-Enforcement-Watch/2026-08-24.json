@@ -1,0 +1,32 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-08-24",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.justice.gov/opa/pr/justice-department-sues-ohio-landlord-sexual-harassment-and-retaliation-against-female",
+    "https://www.justice.gov/usao-cdca/pr/former-city-councilmen-baldwin-park-and-compton-sentenced-federal-prison-their-roles",
+    "https://www.justice.gov/opa/pr/federal-jury-chicago-convicts-engineer-stealing-trade-secrets-philips-medical-systems-behalf",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca5.uscourts.gov/judicial-conduct-matters",
+    "https://www.ca3.uscourts.gov/judicial-conduct-and-disability-opinions-2026",
+    "https://www.ca9.uscourts.gov/misconduct/orders/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.courtlistener.com/",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/",
+    "https://news.bloomberglaw.com/us-law-week/man-accused-of-impersonating-chief-justice-roberts-nsa-agent"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-23T22:25:32Z through 2026-08-24T22:25:32Z. Official source pages generally expose publication dates but not precise release times.",
+    "The DOJ August 24 news and U.S. Attorney indexes included a federal civil lawsuit alleging sexual harassment and retaliation by Ohio landlord Alfred Falgiani Jr.; the official release did not document a right-wing, Republican, conservative, or covered affiliated-organizational role, so no event was emitted under the affiliation gate.",
+    "Other in-window DOJ releases, including federal sentencing of former Baldwin Park and Compton city councilmen for bribery schemes, did not explicitly document a covered political or affiliated-organizational role for the subjects and were not emitted.",
+    "The FBI press-release index, U.S. Courts judicial-conduct order index, and checked Third, Fifth, Ninth, and Eleventh Circuit misconduct pages showed no newly listed in-window judicial misconduct or ethics action involving a person with explicitly documented covered political or affiliated-organizational evidence.",
+    "CourtListener/RECAP and AP, Reuters, and Bloomberg Law searches did not identify an additional qualifying in-window event. The reported federal arrest of Joshua M. Culver for allegedly impersonating Chief Justice Roberts did not document a covered political or affiliated-organizational role for Culver. Sealed, delayed, non-indexed, or not-yet-published filings remain a coverage limitation.",
+    "The David Elliott Pritt federal indictment remains in the ledger from the August 20 A04 artifact and was outside this lookback; no duplicate event was emitted."
+  ]
+}

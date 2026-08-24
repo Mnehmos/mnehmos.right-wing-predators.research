@@ -1,8 +1,36 @@
 {
   "schema_version": 1,
-  "source_digest": "db95d551d75ac28a3d3c70c4ea77d24e0f388f38cf21b422130af77f9674d07e",
-  "event_count": 2,
+  "source_digest": "b77ce39a0deb557e3ca6cbcf39eef7fa19d8c6ccb09b94c501db54c248f63c33",
+  "event_count": 3,
   "events": [
+    {
+      "event_id": "a07-ga-kenneth-henderson-official-action-2026-08-24",
+      "agent": "A07-States-Southeast-Watch",
+      "run_date": "2026-08-24",
+      "person": "Kenneth Henderson",
+      "aliases": [
+        "Ken Henderson",
+        "Kenneth \"Ode\" Henderson"
+      ],
+      "role": "Towns County Sheriff; resigned August 24, 2026",
+      "affiliation": "Republican; elected through the Republican primary",
+      "jurisdiction": "Towns County, Georgia",
+      "government_level": "local",
+      "branch": "law-enforcement",
+      "event_type": "resignation, criminal pleas, and first-offender sentence",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.atlantanewsfirst.com/2026/08/24/suspended-towns-county-sheriff-appearing-court-monday/",
+      "source_title": "Towns County sheriff resigns, convicted in violent confrontation with police officer",
+      "publisher": "Atlanta News First",
+      "published_at": "2026-08-24T08:02:00-04:00",
+      "source_type": "news",
+      "subject_response": "Henderson made no statement to the court on August 24. In July, defense attorney Jeff Wolff said the transaction was intended to benefit the Sheriff's Department and citizens, involved no deceit or corruption, and produced no financial gain for Henderson.",
+      "summary": "Henderson resigned as sheriff and entered a negotiated plea: no contest to battery against a law-enforcement officer and guilty to buying or selling an item of value by a public official. He received 10 years of probation and a $1,000 fine under Georgia's First Offender Act.",
+      "reason_for_status": "The resignation, pleas, and sentence were reported from the court proceeding by Atlanta News First and independently by The Local Alert; prior official Georgia records document the related suspension and criminal proceedings. His Republican affiliation was explicitly documented in Towns County election coverage. The First Offender Act withholds adjudication of guilt, so this is recorded as an official action and plea/sentence, not as a conventional conviction; the no-contest plea, guilty plea, defense response, and presumption-of-innocence boundary are preserved.",
+      "source_file": "data/agent-findings/inbox/A07-States-Southeast-Watch/2026-08-24.json"
+    },
     {
       "event_id": "df2ae9e4eb1b9b9bc3b7e18c529eac900ec8c93e3a7049bfb9745a4c6a05d2c7",
       "agent": "A01-Federal-Executive-Watch",

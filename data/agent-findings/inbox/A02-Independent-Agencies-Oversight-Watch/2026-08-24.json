@@ -1,0 +1,48 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-24",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/office-inspector-general/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.sec.gov/office-inspector-general/reports-publications/investigative-summaries-press-releases-reports",
+    "https://www.fcc.gov/news-events",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://osc.gov/news/?year=2026",
+    "https://osc.gov/cases/",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.mspb.gov/decisions/decisions.htm",
+    "https://www.oig.doc.gov/reports/?entry=76565",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.oversight.gov/reports/investigations",
+    "https://www.justice.gov/news",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.washingtonpost.com/business/2026/08/24/manufacturing-extension-partnership-ohio-federal-audit/8ec40a08-9ff8-11f1-8606-1d40ad00172e_story.html",
+    "https://www.govexec.com/",
+    "https://www.npr.org/sections/politics/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "A Washington Post article distributed from Signal Ohio/AP reported that a Department of Commerce OIG audit found Ohio's Manufacturing Extension Partnership program had poor oversight of $20.9 million, including alleged unauthorized spending and self-dealing involving board members of local affiliates; the article referenced Ned Hill among the individuals involved in one payment.",
+      "source_url": "https://www.washingtonpost.com/business/2026/08/24/manufacturing-extension-partnership-ohio-federal-audit/8ec40a08-9ff8-11f1-8606-1d40ad00172e_story.html",
+      "source_title": "Feds may end Ohio manufacturing program after audit cites $20.9 million in misspending",
+      "official_source_url": "https://www.oig.doc.gov/reports/?entry=76565",
+      "status": "quarantined",
+      "reason": "The underlying Commerce OIG audit was issued August 19, outside the lookback, and the matter concerns state and nonprofit subrecipients rather than a named independent-agency employee or senior federal official. No explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role was found for any named person. The article records disputes and responses from MAGNET and Ohio officials; the audit allegations must not be treated as established facts or as a conviction."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-23T15:25:17-07:00 through 2026-08-24T15:25:17-07:00.",
+    "No qualifying person-specific A02 event with explicit right-wing, Republican, conservative, or affiliated-organizational evidence was identified in the 24-hour window.",
+    "FEC's August 24 item was routine campaign-finance guidance; FTC's August 24 item concerned a Zillow-Redfin antitrust court order; EEOC's latest listed releases concerned private employers; NLRB's latest listed release was August 19; and SEC's latest listed press release was August 18. None concerned misconduct by an agency employee or official with qualifying affiliation evidence.",
+    "OSC's latest listed disciplinary-complaint release was August 20 and named neither employee; OGE's accessible materials showed a July 23 ethics-reporting rule; MSPB exposed no new in-window person-specific disciplinary decision. FCC and GAO page retrieval/searchability remained limited.",
+    "The Department of Commerce OIG Ohio MEP audit and the DOJ OIG administrative-misconduct index both showed August 19 as the relevant publication date, outside this lookback. The Ohio item is retained as a quarantined lead because related reputable reporting appeared in-window, but it lacks qualifying affiliation evidence and is not an agency-employee event.",
+    "Targeted AP, Reuters, Washington Post, Government Executive, and NPR searches found no corroborated in-window A02 person-specific event meeting the evidence rules. Congressional matters remain routed to A03 and federal criminal proceedings to A04."
+  ]
+}
