@@ -1,0 +1,69 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-27",
+  "sources_checked": [
+    "https://www.whitehouse.gov/releases/",
+    "https://www.whitehouse.gov/presidential-actions/?stream=top",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-26&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-27",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cbsnews.com/news/3-secret-service-officials-put-on-leave-investigation-potential-misconduct/",
+    "https://apnews.com/article/secret-service-investigation-leave-5892dada87ed302f175406472b58b708",
+    "https://www.realclearpolitics.com/articles/2026/08/26/secret_service_spokesman_two_others_suspended_amid_leak_probe_154446.html",
+    "https://federalnewsnetwork.com/workforce/2026/08/three-secret-service-officials-have-been-placed-on-administrative-leave-pending-investigation/",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [
+    {
+      "event_id": "52107e41dbab441d7865ff114ff62a912541d29d525ded341ef6df9bb3970cb0",
+      "person": "Anthony Guglielmi",
+      "aliases": [],
+      "role": "Chief of Communications, United States Secret Service",
+      "affiliation": "Trump administration executive branch; U.S. Secret Service communications leadership",
+      "jurisdiction": "United States",
+      "government_level": "federal",
+      "branch": "executive",
+      "event_type": "administrative leave pending Office of Professional Responsibility misconduct investigation",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "medium",
+      "source_url": "https://www.cbsnews.com/news/3-secret-service-officials-put-on-leave-investigation-potential-misconduct/",
+      "source_title": "3 Secret Service officials put on leave amid investigation into ‘potential misconduct’",
+      "publisher": "CBS News",
+      "published_at": "2026-08-26T20:36:00Z",
+      "source_type": "news",
+      "subject_response": "Guglielmi’s attorney, Gregg Bernstein, told CBS News that Guglielmi is a professional of deep integrity, respects the Secret Service mission, and is cooperating fully. The Secret Service confirmed that three non-law-enforcement personnel were placed on administrative leave pending a potential-misconduct investigation by its Office of Professional Responsibility, but did not describe the conduct.",
+      "summary": "The Secret Service placed communications chief Anthony Guglielmi on administrative leave with two other communications-office employees pending an Office of Professional Responsibility review into potential misconduct. The agency has not identified the conduct, and the action does not establish wrongdoing.",
+      "reason_for_status": "CBS reported the agency confirmation, identified Guglielmi through U.S. officials, and included his attorney’s response; the Associated Press separately reported the agency-confirmed administrative leave. Guglielmi’s senior public-facing executive-branch leadership role and service within the Trump administration’s presidential-protection apparatus are documented. The matter is recorded as an official administrative action under investigation, not an ethics finding or established misconduct."
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead": "Two additional unnamed U.S. Secret Service communications-office employees were placed on administrative leave pending an Office of Professional Responsibility review into potential misconduct.",
+      "source_url": "https://www.cbsnews.com/news/3-secret-service-officials-put-on-leave-investigation-potential-misconduct/",
+      "source_title": "3 Secret Service officials put on leave amid investigation into ‘potential misconduct’",
+      "publisher": "CBS News",
+      "published_at": "2026-08-26T20:36:00Z",
+      "status": "quarantined",
+      "reason": "The agency confirmed the administrative action, but the two subjects remain unnamed and the nature of the potential misconduct is undisclosed. No named event can be emitted without identity and qualifying-role evidence."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-26T00:02:07-07:00 through 2026-08-27T00:02:07-07:00.",
+    "The White House releases and presidential-actions indexes exposed no in-window misconduct, ethics, discipline, resignation, removal, or investigation action involving a qualifying federal executive official.",
+    "The DOJ August 26 news index listed corporate settlements, criminal cases, cyber-enforcement, and other matters; no named covered federal executive official with qualifying political or affiliated-organizational evidence was identified. The FBI index likewise exposed no additional qualifying matter.",
+    "OGE, Oversight.gov, DOJ OIG, OPM, Treasury, and searched department newsroom material exposed no additional in-window named person-specific ethics, discipline, or misconduct action meeting the A01 role and affiliation gates. Federal Register material reviewed for the date window contained no qualifying event.",
+    "The Secret Service newsroom, DHS, State, and some Federal Register/Oversight endpoints were not consistently retrievable or date-filtered through the web interface; Reuters was not retrievable. AP, CBS News, Washington Post/AP, Federal News Network/AP, and RealClearPolitics coverage was checked. This is a scoped scan, not proof of exhaustive absence."
+  ]
+}

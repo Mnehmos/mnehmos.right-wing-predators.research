@@ -1,0 +1,81 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-08-27",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa/pr/aryan-brotherhood-associate-convicted-two-murders",
+    "https://www.justice.gov/usao-edca/pr/aryan-brotherhood-associate-convicted-two-murders",
+    "https://www.justice.gov/opa/pr/former-tribal-police-officer-indicted-using-excessive-force-and-falsifying-report",
+    "https://www.justice.gov/usao-sdtx/pr/florida-man-charged-assault-court-security-officer-houston",
+    "https://www.justice.gov/usao-dc/pr/maryland-man-sentenced-198-months-2023-violent-kidnapping-and-rape-former-partner",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.uscourts.gov/news",
+    "https://www.uscourts.gov/judges-judgeships/judicial-conduct-disability",
+    "https://www.ce9.uscourts.gov/misconduct/orders/",
+    "https://www.ca9.uscourts.gov/news/judicial-conduct-and-disability-complaint-26-90153",
+    "https://www.ca1.uscourts.gov/2026",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.courtlistener.com/",
+    "https://app.midpage.ai/document/united-states-v-bash--333de417-59c6-48f1-ae52-ed7187ca7725",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/",
+    "https://www.notus.org/congress/raskin-prosecutors-misconduct-probe",
+    "https://www.law360.com/articles/2517767",
+    "https://www.thedailybeast.com/judge-jeanine-hit-with-fresh-humiliation-over-trumps-violent-call/",
+    "https://democrats-judiciary.house.gov/letters",
+    "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-garcia-to-boutros-usao-ndil-re-candor.pdf",
+    "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-frazer-usao-nj-re-candor.pdf",
+    "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-pirro-usao-dc-re-candor.pdf",
+    "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-calenda-usao-ri-re-candor.pdf",
+    "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-rosen-usao-mn-re-candor.pdf",
+    "https://www.justice.gov/usao-ri/united-states-attorney-charles-c-calenda",
+    "https://www.justice.gov/usao-nj/meet-us-attorney",
+    "https://www.justice.gov/usao-mn/pr/justice-department-conduct-election-monitoring-minnesota-primary-election"
+  ],
+  "events": [
+    {
+      "event_id": "0805c513958d37880ccf3c7597ecfbe7452ec7b010b681e24df24870a8c66b8f",
+      "person": "Justin Gray",
+      "aliases": ["Justin \"Sidetrack\" Gray"],
+      "role": "Member of Baby Blue Wrecking Crew; Aryan Brotherhood associate",
+      "affiliation": "Baby Blue Wrecking Crew, a white-only gang that takes orders from and works under the Aryan Brotherhood",
+      "jurisdiction": "United States District Court for the Eastern District of California",
+      "government_level": "federal",
+      "branch": "judicial",
+      "event_type": "federal jury conviction for two counts of murder in aid of racketeering",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.justice.gov/usao-edca/pr/aryan-brotherhood-associate-convicted-two-murders",
+      "source_title": "Aryan Brotherhood Associate Convicted of Two Murders",
+      "publisher": "U.S. Attorney's Office, Eastern District of California, U.S. Department of Justice",
+      "published_at": "2026-08-26",
+      "source_type": "government",
+      "subject_response": "No direct response from Gray was reported. The DOJ release states that he was convicted after trial, that sentencing is scheduled for November 23, 2026, and that he faces a mandatory life sentence.",
+      "summary": "A federal jury convicted Gray of two counts of committing murder in aid of racketeering for the October 4, 2020 execution-style killings of two men in Lomita, California. DOJ said Gray carried out the killings on orders from an incarcerated Aryan Brotherhood member and identified him as a member of the white-only Baby Blue Wrecking Crew.",
+      "reason_for_status": "The official DOJ and U.S. Attorney release reports a federal jury conviction and separately identifies Gray's qualifying affiliated organizational role. The conviction is recorded as an official action; sentencing remains pending, and no later sentence is implied."
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead": "House Judiciary Committee Democrats sent five August 26 letters to the U.S. Attorneys for the Northern District of Illinois, District of New Jersey, District of Columbia, District of Rhode Island, and District of Minnesota, opening or pursuing an investigation into alleged patterns of DOJ attorneys misleading federal courts, lacking candor, and evading court orders.",
+      "source_url": "https://democrats-judiciary.house.gov/letters",
+      "source_title": "Letters | U.S. House Judiciary Committee Democrats",
+      "publisher": "U.S. House Judiciary Committee Democrats",
+      "published_at": "2026-08-26",
+      "status": "quarantined",
+      "subject_response": "No responses from the named U.S. Attorneys were reported in the letters or the independent coverage reviewed.",
+      "reason": "The letters are official congressional correspondence but come from the committee minority's partisan office, allege office-level patterns based largely on prior proceedings, and do not establish a new person-specific misconduct finding against any named U.S. Attorney. The matter is retained for follow-up without duplicating the prior August 25 bar-complaint events involving Jeanine Pirro, Carlton J. Davis, and Steven T. Vandervelden."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-26T10:00:25Z through 2026-08-27T10:00:25Z, using the prior automation timestamp as the daily boundary; official government pages generally exposed publication dates rather than exact release times.",
+    "One qualifying current-window event was identified: the August 26 federal jury conviction of Justin Gray, an explicitly documented member of a white-only gang operating under the Aryan Brotherhood. The DOJ release separately states that sentencing is scheduled for November 23, 2026.",
+    "The August 26 DOJ release concerning former tribal police officer Jacob Christopher Slawson's indictment for alleged excessive force and falsifying a report was excluded because the checked sources did not document a qualifying right-wing, Republican, conservative, or affiliated-organizational role.",
+    "The August 26 DOJ criminal releases concerning ordinary defendants, including the federal courthouse-security assault indictment and District of Columbia kidnapping-and-rape sentencing, did not identify a qualifying covered political or affiliated-organizational role and were not emitted.",
+    "Federal judicial-conduct indexes, the Ninth Circuit's August 25 orders, CourtListener/RECAP materials, DOJ and FBI releases, and reputable court-reporting searches exposed no additional in-window named federal judge, prosecutor, or law-enforcement subject meeting the affiliation and evidence gates. The Ninth Circuit transfer page for Complaint 26-90153 was published July 8 and last updated August 25, so it was not treated as a new August 26 event.",
+    "DOJ, FBI, federal-court, CourtListener/RECAP, AP, Reuters, NOTUS, Law360, and other news indexes are variably date-filtered or incomplete through the web interface; this is a scoped negative scan, not proof of absence from every federal docket or newsroom."
+  ]
+}

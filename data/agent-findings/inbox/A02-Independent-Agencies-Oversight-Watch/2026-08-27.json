@@ -1,0 +1,61 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-27",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/press/",
+    "https://www.fec.gov/office-inspector-general/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.sec.gov/newsroom/whats-new",
+    "https://www.sec.gov/enforcement-litigation/litigation-releases",
+    "https://www.sec.gov/office-inspector-general/reports-publications/investigative-summaries-press-releases-reports",
+    "https://www.fcc.gov/news-events",
+    "https://docs.fcc.gov/public/attachments/DA-26-498A1.pdf",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://www.nlrb.gov/cases-decisions/decisions/board-decisions",
+    "https://osc.gov/news/",
+    "https://osc.gov/cases/",
+    "https://www.mspb.gov/decisions/decisions.htm",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.gao.gov/products/gao-26-107850",
+    "https://www.gao.gov/products/gao-26-108038",
+    "https://www.gao.gov/products/b-336723",
+    "https://www.oversight.gov/reports/investigations",
+    "https://www.oversight.gov/reports/mitigation-original-equipment-manufacturer-reliance-risk",
+    "https://oig.justice.gov/reports",
+    "https://oig.dol.gov/public/Press%20Releases/OIG-OI-Press-Release-082626.htm",
+    "https://www.faa.gov/newsroom/faa-proposes-69948-fine-against-holling-enterprises-aircraft-maintenance-violations",
+    "https://www.cbsnews.com/news/3-secret-service-officials-put-on-leave-investigation-potential-misconduct/",
+    "https://federalnewsnetwork.com/workforce/2026/08/three-secret-service-officials-have-been-placed-on-administrative-leave-pending-investigation/?readmore=1",
+    "https://fedscoop.com/fedramp-director-pete-waterman-reinstated-at-gsa-after-weeks-of-leave/",
+    "https://www.justice.gov/usao-ma/pr/massachusetts-state-representative-charged-with-pandemic-loan-fraud-and-money-laundering",
+    "https://malegislature.gov/Legislators/Profile/FEP1/Biography"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "CBS News reported that three U.S. Secret Service communications-office employees were placed on administrative leave pending an Office of Professional Responsibility investigation into potential misconduct; Chief of Communications Anthony Guglielmi was named, while two others remain unnamed.",
+      "source_url": "https://www.cbsnews.com/news/3-secret-service-officials-put-on-leave-investigation-potential-misconduct/",
+      "source_title": "3 Secret Service officials put on leave amid investigation into potential misconduct",
+      "publisher": "CBS News",
+      "published_at": "2026-08-26T16:36:00-04:00",
+      "official_confirmation": "The Secret Service confirmed the administrative leave and OPR investigation through its public information office, as reported by CBS News and Federal News Network.",
+      "subject_response": "Anthony Guglielmi's attorney said he is a professional of deep integrity, respects the Secret Service mission, and is cooperating fully.",
+      "status": "quarantined",
+      "reason": "The agency-confirmed administrative action is in-window and one subject is named, but the reported conduct remains unspecified and no public right-wing, Republican, conservative, or qualifying affiliated-organizational role is documented for Guglielmi or the other employees. The lead is not emitted as a named event; the report does not establish misconduct as fact."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-26T01:00:40-07:00 through 2026-08-27T01:00:40-07:00.",
+    "No qualifying named A02 event with explicit right-wing, Republican, conservative, or affiliated-organizational evidence was identified in the 24-hour window.",
+    "The August 26 DOJ/DOL OIG indictment of Massachusetts State Representative Francisco Paulino was reviewed but excluded from A02: the official Massachusetts Legislature biography identifies him as a Democrat, and federal criminal proceedings are outside A02's routing boundary.",
+    "The August 26 FAA civil-penalty proposal concerned an unnamed business entity and alleged regulatory violations, not a covered person-specific agency misconduct matter or qualifying affiliation.",
+    "The August 26 GAO reports and TVA OIG evaluation were oversight findings about programs, contractors, or organizational risk without a named qualifying subject.",
+    "FEC, FTC, SEC, EEOC, NLRB, OSC, MSPB, OGE, FCC, GAO, and DOJ/OIG checks exposed no additional in-window named person-specific matter meeting the A02 contract.",
+    "FCC, GAO, and some inspector-general indexes remain variably searchable for complete date-filtered review; this is a scoped negative scan, not proof that no unindexed event exists. Congressional matters remain routed to A03 and federal criminal proceedings to A04."
+  ]
+}

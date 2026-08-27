@@ -1,0 +1,83 @@
+{
+  "agent": "A10-West-Pacific-Local-National-Watch",
+  "run_date": "2026-08-25",
+  "sources_checked": [
+    "https://www.dojmt.gov/category/press-release/",
+    "https://www.ag.idaho.gov/newsroom/",
+    "https://attorneygeneral.wyo.gov/press-releases",
+    "https://attorneygeneral.utah.gov/newsroom/",
+    "https://ag.nv.gov/News/Press_Releases/",
+    "https://www.atg.wa.gov/news",
+    "https://www.doj.state.or.us/media/news-media-releases/oregon-doj-news/",
+    "https://oag.ca.gov/media/news?page=1",
+    "https://www.law.alaska.gov/press/news.html",
+    "https://ag.hawaii.gov/news-releases/news-releases-2026/",
+    "https://www.justice.gov/usao-mt/pr",
+    "https://www.justice.gov/usao-id/pr",
+    "https://www.justice.gov/usao-wy/pr",
+    "https://www.justice.gov/usao-ut/pr",
+    "https://www.justice.gov/usao-or/pr",
+    "https://www.justice.gov/usao-hi/pr",
+    "https://www.fresnoda.org/News-Media/News-Releases",
+    "https://www.fresno.courts.ca.gov/",
+    "https://www.fresno.gov/police/",
+    "https://parkcity.org/",
+    "https://www.parkcity.org/Home/Components/News/News/16273/",
+    "https://kingcounty.gov/en/independents/governance-and-leadership/government-oversight/office-of-law-enforcement-oversight/investigation-findings",
+    "https://www.seattle.gov/inspector-general/reports",
+    "https://www.seattle.gov/police-accountability/news-and-reports",
+    "https://www.sandiego.gov/police/news-center/news-releases?page=1",
+    "https://www.portland.gov/police/news",
+    "https://www.lapdonline.org/newsroom/",
+    "https://www.honolulupd.org/",
+    "https://gvwire.com/2026/08/25/fresno-county-sheriffs-deputy-charged-with-sexual-battery-other-felonies/",
+    "https://parkcitybasinnews.com/articles/park-city-police-chief-s-attorney-confirms-cooperation-with-obstruction-probe-mt669ewl",
+    "https://www.parkrecord.com/2026/08/20/park-city-police-chief-former-summit-county-sheriff-allegedly-worked-with-wasatch-county-sheriff-jared-rigby-in-attempt-to-discredit-political-opponent/",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [
+    {
+      "event_id": "edffdaada0c94a12f0a8cd97088e6cb7870b4400dd85914fef18e56a99d98acc",
+      "person": "Alejandro Gabriel Apodaca",
+      "aliases": ["Alejandro Apodaca"],
+      "role": "Fresno County Sheriff's Office deputy; on unpaid administrative leave; California POST certification temporarily suspended",
+      "affiliation": "Fresno County Sheriff's Office; explicit public law-enforcement organizational role",
+      "jurisdiction": "Fresno County, California",
+      "government_level": "local",
+      "branch": "law-enforcement",
+      "event_type": "sexual battery, assault by a public official, and false-imprisonment felony charges",
+      "status": "criminal_charge",
+      "auto_publish": false,
+      "confidence": "high",
+      "source_url": "https://gvwire.com/2026/08/25/fresno-county-sheriffs-deputy-charged-with-sexual-battery-other-felonies/",
+      "source_title": "Fresno County Sheriff's Deputy Charged With Sexual Battery, Other Felonies",
+      "publisher": "GV Wire",
+      "published_at": "2026-08-25",
+      "source_type": "news",
+      "subject_response": "No response from Apodaca was reported in the current charging report. He was released on bond and is presumed innocent; the Fresno County Sheriff's Office placed him on unpaid administrative leave and his California POST certification is temporarily suspended.",
+      "summary": "GV Wire reported that Apodaca faces one count of sexual battery by restraint, one count of assault by a public official, two counts of sexual battery, and one count of false imprisonment by violence or menace. The report cites a Fresno County Superior Court felony complaint and a Fresno County District Attorney's Office announcement; arraignment was scheduled for August 26, 2026.",
+      "reason_for_status": "The public law-enforcement role is explicit, the event is in A10's California regional lane, and the charging report cites an official felony complaint and District Attorney announcement. The charges are allegations only; no conviction is implied, and the subject remains presumed innocent. No explicit right-wing, Republican, conservative, or covered affiliated-organizational role was documented, so the record is retained in the inbox but quarantined from public publication under the affiliation gate."
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead": "Park City Police Chief Wade Carpenter and former Summit County Sheriff David Edmunds are reportedly cooperating with a criminal obstruction-of-justice investigation tied to an alleged effort to discredit Eric Mainord, a Summit County detective and potential witness in the Kouri Richins murder case; no charges have been filed against Carpenter or Edmunds.",
+      "source_url": "https://parkcitybasinnews.com/articles/park-city-police-chief-s-attorney-confirms-cooperation-with-obstruction-probe-mt669ewl",
+      "source_title": "Park City police chief's attorney confirms cooperation with obstruction probe",
+      "publisher": "The Basin News",
+      "published_at": "2026-08-24",
+      "status": "quarantined",
+      "subject_response": "Attorney Greg Skordas said Carpenter and Edmunds did not participate in efforts to fabricate or circulate allegations, pressure Mainord to withdraw from the sheriff's race, or interfere with the Richins prosecution. Park City Mayor Ryan Dickey said he had full confidence in Carpenter's leadership. No charges have been filed.",
+      "reason": "The lead concerns an uncharged, ongoing investigation and allegations described through a search warrant. The August 24 report is a single local-news account of the update, and the subjects deny wrongdoing. It is retained for follow-up rather than published; the allegations are not established facts."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-24T09:01:27-07:00 through 2026-08-25T09:01:27-07:00.",
+    "No publishable event was identified in the window. Fresno County Sheriff's deputy Alejandro Gabriel Apodaca was charged with five felony offenses, but the record is quarantined because no qualifying political affiliation was documented; events=0, quarantined_leads=1, and handoffs=0.",
+    "Montana, Idaho, Wyoming, Utah, Nevada, Washington, Oregon, California, Alaska, and Hawaii official AG/DOJ indexes plus USAO and selected municipal oversight and law-enforcement pages were checked for in-window covered-person misconduct, ethics, discipline, arrest, charge, court, and investigation developments. No additional qualifying event was identified.",
+    "Nevada's AG press-release page was request-rejected and Washington's AG news page returned an internal error through the web interface; Wyoming's accessible AG index was stale. Several municipal and oversight indexes were dynamic or not uniformly date-filtered. These access and indexing limits are coverage gaps, not evidence of absence.",
+    "The Park City obstruction-investigation lead was quarantined because it remains an uncharged investigation supported by a single current report and includes explicit denials."
+  ]
+}

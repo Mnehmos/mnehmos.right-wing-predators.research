@@ -1,0 +1,72 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-26",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/press/",
+    "https://www.fec.gov/office-inspector-general/",
+    "https://www.ftc.gov/news-events",
+    "https://search.ftc.gov/news-events/news/press-releases",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.sec.gov/newsroom/whats-new",
+    "https://www.sec.gov/enforcement-litigation/litigation-releases",
+    "https://www.sec.gov/office-inspector-general/reports-publications/investigative-summaries-press-releases-reports",
+    "https://www.fcc.gov/news-events",
+    "https://docs.fcc.gov/public/attachments/DOC-424365A1.pdf",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://www.nlrb.gov/reports/graphs-data/recent-filings",
+    "https://osc.gov/news/",
+    "https://osc.gov/cases/",
+    "https://www.mspb.gov/decisions/decisions.htm",
+    "https://www.mspb.gov/decisions/NonPrecedentialDecSearch.html",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.oversight.gov/reports/investigations",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.oig.dhs.gov/sites/default/files/assets/2026-08/OIG-26-21-Aug26.pdf",
+    "https://www.vaoig.gov/",
+    "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-uncovers-recordsetting-13-billion-in-suspected-procurement-fraud-08252026",
+    "https://oversight.house.gov/release/",
+    "https://www.fedweek.com/federal-managers-daily-report/hatch-act-charges-filed-against-usps-va-employees/",
+    "https://www.law360.com/employment-authority/articles/2517730",
+    "https://federalnewsnetwork.com/federal-newscast/2026/08/nsa-isnt-complying-with-federal-laws-on-whistleblower-protections-ig-finds/",
+    "https://www.washingtonpost.com/weather/2026/08/25/fema-crew-broke-law-by-skipping-homes-with-trump-signs-federal-watchdog-says/",
+    "https://www.washingtonpost.com/politics/2026/08/25/secret-service-investigation-leave/4da51f2a-a0f3-11f1-8606-1d40ad00172e_story.html",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.govexec.com/",
+    "https://www.npr.org/sections/politics/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "A Department of Homeland Security Office of Inspector General report, covered by The Washington Post, found that an unnamed FEMA disaster-response crew leader directed staff to bypass 11 homes displaying signs supporting then-presidential candidate Donald Trump during the 2024 Hurricane Milton response. FEMA fired the unnamed crew leader and other involved staffers, and the agency said it recanvassed the neighborhoods.",
+      "source_url": "https://www.oig.dhs.gov/sites/default/files/assets/2026-08/OIG-26-21-Aug26.pdf",
+      "source_title": "Audit of FEMA's Assessment of Community Trends",
+      "official_source_url": "https://www.oig.dhs.gov/sites/default/files/assets/2026-08/OIG-26-21-Aug26.pdf",
+      "news_source_url": "https://www.washingtonpost.com/weather/2026/08/25/fema-crew-broke-law-by-skipping-homes-with-trump-signs-federal-watchdog-says/",
+      "status": "quarantined",
+      "reason": "The official oversight finding is person-specific only at the level of unnamed FEMA employees; no names or aliases are public in the cited materials, and no explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role is documented for the employees. The report and coverage describe an official finding and subsequent personnel actions, but the database cannot emit a named event without identity and affiliation evidence. The matter remains distinct from the 2024 news report and is not treated as a new named event."
+    },
+    {
+      "lead": "The Washington Post, citing the Secret Service public information office, reported that three unnamed U.S. Secret Service officials working in non-law-enforcement capacities were placed on administrative leave pending an Office of Professional Responsibility review for unspecified potential misconduct.",
+      "source_url": "https://www.washingtonpost.com/politics/2026/08/25/secret-service-investigation-leave/4da51f2a-a0f3-11f1-8606-1d40ad00172e_story.html",
+      "source_title": "Three Secret Service officials have been placed on administrative leave pending investigation",
+      "publisher": "The Washington Post / Associated Press",
+      "published_at": "2026-08-25T23:31:00-04:00",
+      "status": "quarantined",
+      "reason": "The report is in-window and identifies an agency-confirmed administrative action, but the three subjects are unnamed, the cause of the review is not public, and no explicit right-wing, Republican, conservative, or qualifying affiliated-organizational role is documented. No named event is emitted; potential Secret Service personnel matters remain outside the independent-agency affiliation gate unless authoritative records identify the subjects and qualifying role evidence."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-25T01:01:28-07:00 through 2026-08-26T01:01:28-07:00.",
+    "No qualifying named A02 event with explicit right-wing, Republican, conservative, or affiliated-organizational evidence was identified in the 24-hour window.",
+    "The August 25 FedWeek report repeated OSC's August 20 disciplinary complaints against an unnamed USPS employee and an unnamed VA employee for alleged Hatch Act violations. The underlying official release is outside this window and the lead was already quarantined in the prior A02 scan, so it was not duplicated.",
+    "The DHS OIG FEMA report is an official oversight finding, but its subjects remain unnamed and the report does not provide qualifying political-affiliation evidence for them. The related House Oversight statement is congressional material and was not treated as an A02 event.",
+    "The GSA announcement concerned suspected procurement fraud by unnamed federal contractors and referrals to OIG or DOJ; it did not identify a covered person-specific agency misconduct matter or qualifying affiliation evidence.",
+    "The Federal News Network report on an NSA OIG review concerned agency-wide nondisclosure-agreement and whistleblower-notice compliance, not a named subject. The VA OIG, DOJ OIG, SEC OIG, FEC OIG, EEOC, NLRB, FTC, SEC, FEC, FCC, MSPB, OGE, and GAO checks exposed no new in-window named person-specific matter meeting the A02 contract.",
+    "FCC and GAO pages and some inspector-general indexes remain variably searchable or inaccessible for complete date-filtered review; this is a scoped negative scan, not proof that no unindexed event exists. Congressional matters remain routed to A03 and federal criminal proceedings to A04."
+  ]
+}

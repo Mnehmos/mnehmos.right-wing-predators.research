@@ -1,0 +1,53 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-27",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://conduct.house.gov/",
+    "https://conduct.house.gov/reports",
+    "https://conduct.house.gov/reports/investigations/occ-referral-regarding-rep-michael-collins",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/letterstomembers",
+    "https://www.ethics.senate.gov/public/index.cfm/events",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.govinfo.gov/app/collection/cri",
+    "https://clerk.house.gov/Static/",
+    "https://clerk.house.gov/members/C001129",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://rollcall.com/",
+    "https://www.notus.org/",
+    "https://www.spotlightpa.org/",
+    "https://www.washingtonpost.com/",
+    "https://www.wsbtv.com/news/local/ossoff-demands-collins-testify-under-oath-ethics-probe-senate-race-heats-up/7BDPFILHTRCADNUONLO32PSX6E/?outputType=amp"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "WSB-TV reported that Democratic Senator Jon Ossoff demanded that Republican Representative Mike Collins testify under oath in the existing House ethics review concerning Collins's use of official resources. Collins said his office was fully cooperating and expected to be cleared.",
+      "source_url": "https://www.wsbtv.com/news/local/ossoff-demands-collins-testify-under-oath-ethics-probe-senate-race-heats-up/7BDPFILHTRCADNUONLO32PSX6E/?outputType=amp",
+      "source_title": "Ossoff demands Collins testify under oath in ethics probe as Senate race heats up",
+      "publisher": "WSB-TV Channel 2 - Atlanta",
+      "published_at": "2026-08-27T01:57:00Z",
+      "status": "quarantined",
+      "subject_response": "Representative Collins said his office was fully cooperating with the ethics committee and that he expected to be cleared soon.",
+      "reason": "Collins's Republican congressional role and the underlying OCC referral are officially documented, but the in-window item is a single local report about campaign pressure and a demand for testimony, not a new House Ethics Committee or OCC action. No second independent in-window report or new official finding was located, so the lead is retained for follow-up and is not emitted as an event or published as an established ethics violation."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-26T09:01:11Z through 2026-08-27T09:01:11Z. No qualifying publishable right-wing congressional ethics, misconduct, criminal, court, or disciplinary event was identified; events=0, quarantined_leads=1, and handoffs=0.",
+    "The House Committee on Ethics press-release archive showed no item newer than August 17, 2026 and the committee-report archive showed no in-window report or final congressional action.",
+    "The Senate Select Committee on Ethics press-release archive showed no release newer than August 21, 2024. Its public news, member-letter, and events pages showed no in-window member-specific investigation, finding, discipline, or final action; the August 2026 events page showed only an August 12 Senate Code of Official Conduct training event.",
+    "The Office of Congressional Conduct homepage showed its latest public advisory dated July 23, 2026. The official Mike Collins referral and House Ethics continuation were dated January 5, 2026; no new in-window OCC advisory, referral, or House Ethics action was located. The WSB-TV Collins report was therefore quarantined as a current single-source lead rather than treated as a new official finding.",
+    "The DOJ August 26 news index and FBI press-release listing were checked for covered congressional members and senior staff; no in-window person-specific arrest, charge, indictment, conviction, sentencing, or misconduct action was identified.",
+    "Congressional Record/GovInfo and House Clerk materials were checked for in-window censure, resignation, removal, suspension, or other final congressional action. Congress.gov remained inaccessible to the fetcher, so accessible GovInfo and official House archives supplied the congressional-record coverage.",
+    "AP, Reuters, Roll Call, NOTUS, Spotlight PA, Washington Post, and WSB-TV searches found no additional in-window qualifying event. The Richard Hudson/NRCC complaint was outside this window, and older Max Miller, Chuck Edwards, Cory Mills, Jimmy Gomez, Mike Collins referral, and other ongoing matters were not duplicated."
+  ]
+}

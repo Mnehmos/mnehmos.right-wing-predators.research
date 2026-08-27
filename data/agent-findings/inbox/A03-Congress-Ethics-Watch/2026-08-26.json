@@ -1,0 +1,52 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-26",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://conduct.house.gov/",
+    "https://conduct.house.gov/docs/investigations",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/letterstomembers",
+    "https://www.ethics.senate.gov/public/index.cfm/events",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.govinfo.gov/app/details/CRI-2026-CONGRESSIONAL-RECORD/context",
+    "https://clerk.house.gov/Members/ViewVacancies",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/usao-mdfl/pr/ohio-man-arrested-threatening-us-congressman",
+    "https://www.fbi.gov/news/press-releases",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://rollcall.com/subject/house-republicans/",
+    "https://www.notus.org/",
+    "https://www.spotlightpa.org/news/2026/08/rob-bresnahan-ethics-complaint-campaign-video-federal-government/",
+    "https://www.washingtonpost.com/politics/2026/08/25/house-gop-faces-complaint-using-floor-coverage-campaign-materials/",
+    "https://www.washingtonexaminer.com/news/crime/4699674/ohio-man-arrest-threat-randy-fine-death-threat/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Washington Post reported that Brian Lemek of Defend the Vote filed a complaint with the Office of Congressional Conduct against the National Republican Congressional Committee, led by Republican Representative Richard Hudson, alleging that official House floor and committee footage was used in campaign materials.",
+      "source_url": "https://www.washingtonpost.com/politics/2026/08/25/house-gop-faces-complaint-using-floor-coverage-campaign-materials/",
+      "source_title": "House GOP faces complaint for using floor footage in campaign materials",
+      "publisher": "The Washington Post",
+      "published_at": "2026-08-25T21:05:00Z",
+      "status": "quarantined",
+      "subject_response": "The Washington Post reported that the National Republican Congressional Committee declined to comment; no direct response from Representative Hudson was reported.",
+      "reason": "Richard Hudson's Republican congressional role is explicitly documented, and the report is within the lookback window, but this is a single current report of a complaint rather than an official OCC finding or referral. No independent corroborating report or direct subject response was located, so the allegation is retained for follow-up and is not published as an established ethics violation."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-25T09:00:46Z through 2026-08-26T09:00:46Z. No qualifying publishable right-wing congressional ethics, misconduct, criminal, court, or disciplinary event was identified; events=0, quarantined_leads=1, and handoffs=0.",
+    "The House Committee on Ethics press-release archive showed no item newer than August 17, 2026 and the committee-report archive showed no in-window report.",
+    "The Senate Select Committee on Ethics press-release archive showed no release newer than August 21, 2024. Its public news, member-letter, and events pages showed no in-window member-specific investigation, finding, discipline, or final action; the August 2026 events page showed only an August 12 Senate Code of Official Conduct training event.",
+    "The Office of Congressional Conduct homepage showed its latest public advisory dated July 23, 2026 and no in-window public advisory or referral. The reported Richard Hudson/NRCC complaint was not treated as an OCC finding because the underlying complaint was not available as an official public record in the checked sources.",
+    "The DOJ August 25 news index and FBI press-release listing were checked for covered congressional members and senior staff. DOJ reported an Ohio man charged with threatening an unnamed U.S. Congressman; later reporting identified the target as Republican Representative Randy Fine, but the charged subject was the threat-maker, not the covered member, so it was outside this watch's subject scope.",
+    "Congress.gov was inaccessible to the fetcher, so GovInfo's 2026 Congressional Record collection and index materials, the House Clerk vacancy page, and accessible official committee archives were used for congressional-record coverage. No in-window censure, resignation, removal, or other qualifying final congressional action was identified.",
+    "AP, Reuters, Roll Call, NOTUS, Spotlight PA, Washington Post, and Washington Examiner searches found no additional in-window qualifying event. The Rob Bresnahan complaint report was dated August 21, 2026 and remained outside the window; older Max Miller, Chuck Edwards, Cory Mills, Jimmy Gomez, and other ongoing matters were not duplicated."
+  ]
+}

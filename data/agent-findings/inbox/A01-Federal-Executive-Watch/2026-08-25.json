@@ -1,0 +1,39 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-25",
+  "sources_checked": [
+    "https://www.whitehouse.gov/releases/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-24&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-25",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.justice.gov/usao-az/pr/tucson-man-indicted-lying-obtain-federal-contract-work-while-active-duty-air-force",
+    "https://kesq.com/news/national-politics/cnn-us-politics/2026/08/24/trump-criticism-leads-to-rare-criminal-charges-for-air-force-officer-who-called-for-impeachment/",
+    "https://apnews.com/hub/politics",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: The August 24 CNN report republished by KESQ described criminal UCMJ charges against Air Force Major Jason Watson for alleged contemptuous remarks, disobeying orders, and conduct unbecoming an officer. This is a military-justice development routed to A04; A01 emitted no event because the report does not document a qualifying right-wing, Republican, conservative, or affiliated-organizational role and Watson is not identified as a political appointee or senior executive official. Source: https://kesq.com/news/national-politics/cnn-us-politics/2026/08/24/trump-criticism-leads-to-rare-criminal-charges-for-air-force-officer-who-called-for-impeachment/",
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: DOJ reported an August 24 indictment charging Davide Velarde with allegedly making false statements to obtain overlapping federal-contractor work while on active duty with the Air Force. This is a federal criminal-charge development routed to A04; A01 emitted no event because the official release documents no qualifying right-wing, Republican, conservative, or affiliated-organizational role and no political appointment or senior executive leadership role. Source: https://www.justice.gov/usao-az/pr/tucson-man-indicted-lying-obtain-federal-contract-work-while-active-duty-air-force"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-24T07:02:19Z through 2026-08-25T07:02:19Z.",
+    "The White House releases index showed two August 24 policy releases, and the presidential-actions index showed no August 24 or August 25 action; none reported misconduct, ethics, discipline, resignation, removal, or investigation involving a qualifying federal executive official.",
+    "The DOJ August 24 news index showed corporate settlements, a private-engineer conviction, a landlord sexual-harassment lawsuit, and the National Fraud Detection Center launch. The separate Arizona indictment involving Davide Velarde was routed to A04 because it is a criminal matter and the official record did not document qualifying political affiliation or A01 executive-role evidence.",
+    "The DOJ OIG administrative-misconduct index's newest listed senior-official finding was dated August 19, 2026, outside this lookback window; no newer qualifying finding was identified.",
+    "The FBI news index exposed no in-window person-specific misconduct, ethics, or discipline action involving a qualifying federal executive official. OPM's latest listed release was August 10, 2026, and OGE exposed no in-window person-specific ethics action.",
+    "HHS, Treasury, and Defense/War newsroom material dated August 24 concerned routine programs, sanctions, travel, contracts, or policy; no qualifying executive misconduct event was identified. DHS and State pages were not retrievable through the web interface, and Federal Register and Oversight.gov endpoints returned internal errors.",
+    "Reputable-news searches surfaced the Jason Watson UCMJ-charge report, but it lacked qualifying political-affiliation and A01 executive-role evidence and was handed to A04. AP and Reuters indexes were not retrievable in the web interface; this is a scoped-negative scan, not proof of exhaustive absence."
+  ]
+}
