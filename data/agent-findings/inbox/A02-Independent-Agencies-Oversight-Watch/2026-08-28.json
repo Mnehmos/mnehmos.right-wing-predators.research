@@ -1,0 +1,72 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-08-28",
+  "sources_checked": [
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/press/",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
+    "https://www.fcc.gov/news-events",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.eeoc.gov/newsroom/eeoc-sues-gate-gourmet-sexual-harassment",
+    "https://www.eeoc.gov/newsroom/american-airlines-pay-200000-eeoc-disability-discrimination-suit-following-termination",
+    "https://www.eeoc.gov/newsroom/eeoc-sues-dentsu-pregnancy-discrimination",
+    "https://www.eeoc.gov/newsroom/apple-pay-150000-eeoc-religious-discrimination-suit",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://osc.gov/news/",
+    "https://osc.gov/news/2026-08-28/abilityone-downplayed-years-of-nonprofit-noncompliance-that-undercut-its-mission-to-employ-the-blind-or-severely-disabled/",
+    "https://osc.gov/news/2026-08-20/osc-files-disciplinary-action-complaints-against-two-federal-employees-for-serious-hatch-act-violations/",
+    "https://www.mspb.gov/decisions/decisions.htm",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.gao.gov/products/gao-26-109256",
+    "https://www.gao.gov/products/gao-26-107959",
+    "https://oig.federalreserve.gov/reports/cfpb-workforce-contract-actions-aug2026.htm",
+    "https://oig.federalreserve.gov/reports/ongoing-work.htm",
+    "https://www.oversight.gov/reports/investigations",
+    "https://oig.justice.gov/reports",
+    "https://www.justice.gov/opa/pr/weaponization-working-group-releases-report-2023-fbi-richmond-field-office-memo-targeted-non",
+    "https://www.justice.gov/sites/default/files/2026-08/8.26.26_rm_final_version.pdf",
+    "https://www.washingtonpost.com/politics/2026/08/27/secret-service-spokesperson-is-put-leave-amid-investigation/",
+    "https://apnews.com/article/5892dada87ed302f175406472b58b708",
+    "https://www.washingtonexaminer.com/news/justice/4704040/doj-report-biden-fbi-defended-staff-after-catholic-memo/",
+    "https://bankingjournal.aba.com/2026/08/fed-oig-report-outlines-trump-administration-efforts-to-scale-back-cfpb/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The U.S. Office of Special Counsel informed the President that the AbilityOne Commission's findings on whistleblower allegations of widespread nonprofit contractor noncompliance were unreasonable, citing documented compliance failures, policy gaps, weak recordkeeping, and delayed action.",
+      "source_url": "https://osc.gov/news/2026-08-28/abilityone-downplayed-years-of-nonprofit-noncompliance-that-undercut-its-mission-to-employ-the-blind-or-severely-disabled/",
+      "source_title": "AbilityOne Downplayed Years of Nonprofit Noncompliance That Undercut Its Mission to Employ the Blind or Severely Disabled",
+      "publisher": "U.S. Office of Special Counsel",
+      "published_at": "2026-08-28",
+      "official_confirmation": "OSC's official release states that the AbilityOne Commission's own review documented high rates of contractor noncompliance and that OSC found the Commission's decision not to substantiate the allegations unreasonable.",
+      "subject_response": "The release describes the Commission's corrective actions and continuing program updates but does not provide a named individual response.",
+      "status": "quarantined",
+      "reason": "This is an official oversight finding concerning an agency program and contractor organizations, not a named person-specific misconduct event. No qualifying public right-wing, Republican, conservative, or affiliated-organizational role is documented for a subject."
+    },
+    {
+      "lead": "The DOJ Weaponization Working Group released a report alleging that the FBI Richmond Field Office improperly investigated two Catholic priests, monitored one priest's travel and communications, relied on biased or unverified material, and took minimal corrective action after producing the Richmond Domain Perspective; the release says key personnel responsible were removed.",
+      "source_url": "https://www.justice.gov/opa/pr/weaponization-working-group-releases-report-2023-fbi-richmond-field-office-memo-targeted-non",
+      "source_title": "Weaponization Working Group Releases Report on 2023 FBI Richmond Field Office Memo That Targeted Non-Mainstream Catholics",
+      "publisher": "U.S. Department of Justice",
+      "published_at": "2026-08-27",
+      "official_confirmation": "The DOJ release reports the Working Group's conclusions after review of more than 1,800 pages and states that the FBI actions were improper and unjustified.",
+      "subject_response": "The release quotes Attorney General Todd Blanche, FBI Director Kash Patel, and Associate Attorney General Stanley E. Woodward, Jr. supporting the report and does not identify responses from the unnamed personnel or priests.",
+      "status": "quarantined",
+      "reason": "The official release does not name the FBI personnel or the two priests as individual subjects, and the reported conduct is an FBI/DOJ law-enforcement oversight matter rather than a qualifying named independent-agency event. The report's reference to conservative beliefs does not establish a named subject's political affiliation."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-27T13:27:40-07:00 through 2026-08-28T13:27:40-07:00.",
+    "No qualifying named A02 event with explicit right-wing, Republican, conservative, or affiliated-organizational evidence was identified in the 24-hour window.",
+    "The August 28 OSC AbilityOne release and August 27 DOJ/FBI Richmond report were retained as quarantined leads because they are official oversight findings without a named qualifying subject.",
+    "SEC, FTC, EEOC, and GAO items reviewed in-window concerned corporate enforcement, employment-discrimination litigation, rulemaking, program administration, or defense oversight without a named qualifying political subject.",
+    "The Federal Reserve OIG CFPB workforce report was reviewed as an oversight item; it examined operational effects of workforce and contract actions and did not make a person-specific misconduct finding.",
+    "FCC, MSPB, and some inspector-general indexes remain variably searchable for complete date-filtered review; this is a scoped negative scan, not proof that no unindexed event exists.",
+    "Congressional matters remain routed to A03, and federal criminal proceedings or law-enforcement matters requiring that lane remain routed to A04."
+  ]
+}

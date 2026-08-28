@@ -1,0 +1,56 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-28",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://conduct.house.gov/",
+    "https://conduct.house.gov/reports",
+    "https://conduct.house.gov/docs/investigations",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/letterstomembers",
+    "https://www.ethics.senate.gov/public/index.cfm/events",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://clerk.house.gov/",
+    "https://clerk.house.gov/Members/ViewMemberList",
+    "https://history.house.gov/People/Listing/E/EDWARDS%2C-Chuck-%28E000246%29/",
+    "https://edwards.house.gov/media/press-releases/edwards-responds-ethics-committee-findings",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases",
+    "https://ebs.publicnow.com/view/DD7F17E687D45791BA47F655C52EEBB4B0E99A55",
+    "https://apnews.com/article/c4216403130d37064b6b5287dde9b36c",
+    "https://www.wunc.org/2026-08-28/rep-chuck-edwards-urges-colleagues-to-vote-against-censure-over-sexual-harassment-findings",
+    "https://rollcall.com/2026/08/03/ethics-panel-recommends-censure-chuck-edwards/",
+    "https://www.house.gov/representatives"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "WUNC reported that Republican Representative Chuck Edwards rejected the House Ethics Committee's prior conclusion that he sexually harassed two former staff members and urged colleagues to oppose a possible censure vote.",
+      "source_url": "https://www.wunc.org/2026-08-28/rep-chuck-edwards-urges-colleagues-to-vote-against-censure-over-sexual-harassment-findings",
+      "source_title": "Rep. Chuck Edwards urges colleagues to vote against censure over sexual harassment findings",
+      "publisher": "WUNC News / BPR News",
+      "published_at": "2026-08-28T17:07:00Z",
+      "status": "quarantined",
+      "subject_response": "Edwards said he unequivocally rejects the committee's conclusion, argued that its conclusions do not accurately reflect the facts or full context, and asked House members not to censure him.",
+      "related_sources": [
+        "https://edwards.house.gov/media/press-releases/edwards-responds-ethics-committee-findings",
+        "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-chuck-edwards-2/"
+      ],
+      "reason": "The current report is a subject response and procedural follow-up to the House Ethics Committee's August 3, 2026 finding and censure recommendation, not a new in-window committee investigation, finding, recommendation, or final House action. The possible censure vote is described as future, so the prior finding is not duplicated or presented as a new event."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-27T19:27:30Z through 2026-08-28T20:27:30Z. No qualifying publishable right-wing congressional ethics, misconduct, criminal, court, or disciplinary event was identified; events=0, quarantined_leads=1, and handoffs=0.",
+    "The House Committee on Ethics press-release archive listed no new member-specific release in the window; its newest listed member release remained the August 17, 2026 Jimmy Gomez statement, and its committee-report archive listed the August 3 Chuck Edwards report as the newest report. The Edwards matter is retained only as an out-of-window procedural follow-up lead.",
+    "A House Ethics statement distributed on August 28, 2026 through a PublicNow mirror concerned Michael Joseph and Hector Roos contempt recommendations related to the former Representative Sheila Cherfilus-McCormick matter. No explicit right-wing, Republican, conservative, or affiliated organizational role was documented for the named subjects, so it was excluded from this watch.",
+    "The Senate Select Committee on Ethics press-release archive showed no release newer than August 21, 2024, and its public news and member-letter materials showed no in-window member-specific investigation, finding, discipline, or final action.",
+    "The Office of Congressional Conduct reports page showed no new in-window referral, advisory, investigation result, or quarterly report; its latest listed public report remained the Second Quarter 2026 Report dated July 23, 2026.",
+    "The DOJ all-news and FBI press-release listings were checked for covered congressional members and senior staff; no in-window arrest, charge, indictment, conviction, sentencing, or misconduct action involving a covered person was identified. The current DOJ/FBI results involving other defendants or threats against members were outside the subject scope.",
+    "Congress.gov, GovInfo Congressional Record materials, House Clerk member/vacancy materials, official member releases, AP, WUNC/BPR, and Roll Call were checked for in-window censure, resignation, removal, suspension, lawsuit, settlement, or other final congressional action. No additional qualifying event was located."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-28",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/releases/",
+    "https://www.whitehouse.gov/presidential-actions/?stream=top",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-27&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-28",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.justice.gov/opa/pr/former-us-government-employee-pleads-guilty-attempting-provide-classified-information",
+    "https://www.justice.gov/usao-wy/pr/wyoming-us-attorneys-office-and-department-justice-work-ensure-election-integrity",
+    "https://apnews.com/article/f15e3c30186385e73e72bee82d85b05c",
+    "https://www.cbsnews.com/news/judge-rules-trump-administration-illegally-punished-ai-firm-anthropic/",
+    "https://apnews.com/article/8ef34a954c61b7e4261827b8a6a99567",
+    "https://apnews.com/article/3d454cdb2834025b3b82364888f226d0",
+    "https://www.kotatv.com/2026/08/28/gov-gordon-concerned-by-aggressive-doj-election-observers-during-wyomings-primary-election/?outputType=amp",
+    "https://ktvz.com/politics/cnn-us-politics/2026/08/28/republican-governor-asks-his-ag-to-look-into-aggressive-behavior-by-trump-admins-election-monitors/",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Two unnamed Department of Justice attorneys who monitored poll workers and observed voters during Wyoming's August 18 primary are the subject of a fact-finding investigation requested by Republican Gov. Mark Gordon and confirmed by his spokesperson.",
+      "source_url": "https://apnews.com/article/3d454cdb2834025b3b82364888f226d0",
+      "source_title": "Wyoming governor requests investigation into activity of Justice Department monitors during primary",
+      "publisher": "Associated Press",
+      "published_at": "2026-08-28T19:26:14Z",
+      "status": "quarantined",
+      "subject_response": "The Justice Department did not answer the AP's questions about the monitors and referred to the August 18 statement by U.S. Attorney Darin Smith that the monitors were working to ensure transparency, ballot security, and compliance with federal voting-rights statutes. No direct response from either unnamed monitor was available.",
+      "reason": "The reporting identifies only two unnamed DOJ officials, and the state inquiry is described as fact-finding rather than a criminal charge, ethics finding, or established misconduct determination. No person-specific event can be emitted without identity and qualifying-role evidence; the allegations about aggressive or irregular conduct remain unresolved."
+    }
+  ],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: DOJ reported that former Defense Intelligence Agency IT specialist Nathan Vilas Laatsch pleaded guilty on August 26 to transmitting national-defense information to a foreign government. The matter is a federal judicial development outside A01's political-appointment or senior-executive role scope; no qualifying political affiliation was documented. Source: https://www.justice.gov/opa/pr/former-us-government-employee-pleads-guilty-attempting-provide-classified-information",
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: A current-window federal court ruling held that the Pentagon's designation of Anthropic as a supply-chain risk was unlawful retaliation and violated constitutional protections. The ruling concerns actions attributed to Defense Secretary Pete Hegseth and the Trump administration, but it is a judicial development routed to A04; no separate A01 event is emitted. Sources: https://apnews.com/article/f15e3c30186385e73e72bee82d85b05c and https://www.cbsnews.com/news/judge-rules-trump-administration-illegally-punished-ai-firm-anthropic/"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-27T13:28:34-07:00 through 2026-08-28T13:28:34-07:00, using the current host time as the 24-hour boundary.",
+    "White House news and presidential-action indexes exposed August 27-28 releases and actions but no in-window misconduct, ethics, discipline, resignation, removal, or investigation event involving a qualifying federal executive official.",
+    "The DOJ August 27 release about Nathan Vilas Laatsch was reviewed and routed to A04 because it concerns a former career DIA IT specialist and a guilty plea, not a political appointee or senior executive official. Other current DOJ releases concerned ordinary defendants, policy litigation, or organizational matters without a qualifying A01 subject.",
+    "The DOJ OIG investigative-findings index showed its newest named administrative-misconduct summary dated August 19, outside the current window. OGE's latest listed item was August 25 and OPM's August 28 item concerned a media appearance rather than misconduct or discipline.",
+    "The current Anthropic ruling was checked across AP, CBS News, and additional reputable reporting and routed to A04 as a judicial development. The current AP report about Wyoming DOJ election monitors was checked against the DOJ's August 18 official release and additional local/CNN reporting; the two federal monitors remain unnamed and the state review remains unresolved.",
+    "Oversight.gov, Secret Service, DHS, and State Department endpoints were not consistently retrievable or date-filtered through the web interface; Reuters was not retrievable. This is a scoped scan, not proof of exhaustive absence."
+  ]
+}
