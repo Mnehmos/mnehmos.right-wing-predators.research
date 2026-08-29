@@ -1,0 +1,84 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-08-29",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-house-report-119-693-and-house-report-119-694/",
+    "https://conduct.house.gov/",
+    "https://conduct.house.gov/reports",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/letterstomembers",
+    "https://www.ethics.senate.gov/public/index.cfm/events",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.govinfo.gov/help/crec",
+    "https://www.govinfo.gov/app/details/CRI-2026-POLITICAL-ETHICS",
+    "https://clerk.house.gov/Members/ViewMemberList",
+    "https://www.house.gov/representatives",
+    "https://mcguire.house.gov/",
+    "https://www.justice.gov/news",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://apnews.com/article/c4216403130d37064b6b5287dde9b36c",
+    "https://www.axios.com/2026/08/27/chuck-edwards-sexual-harassment-ethics-censure",
+    "https://news.bgov.com/bloomberg-government-news/ethics-panel-seeks-contempt-for-two-in-cherfilus-mccormick-case",
+    "https://augustafreepress.com/news/john-mcguire-fights-back-at-insider-trading-jab-i-dont-even-do-trades/",
+    "https://maceopedia.org/court-filings/mace-ethics-investigation"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The House Committee on Ethics published a statement and reports recommending that the House hold Michael Joseph and Hector Roos in contempt for failing to comply with subpoenas in the former Representative Sheila Cherfilus-McCormick matter.",
+      "source_url": "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-house-report-119-693-and-house-report-119-694/",
+      "source_title": "Statement of the Chairman and Ranking Member of the Committee on Ethics Regarding House Report 119-693 and House Report 119-694",
+      "publisher": "House Committee on Ethics",
+      "published_at": "2026-08-28",
+      "status": "quarantined",
+      "subject_response": "The official statement says Michael Joseph submitted a response to the Clerk of the House on June 18, 2026; no response from Hector Roos was located in the reviewed materials.",
+      "related_sources": [
+        "https://news.bgov.com/bloomberg-government-news/ethics-panel-seeks-contempt-for-two-in-cherfilus-mccormick-case",
+        "https://www.govinfo.gov/app/details/CRPT-119hrpt693",
+        "https://www.govinfo.gov/app/details/CRPT-119hrpt694"
+      ],
+      "reason": "The official publication is in the lookback, but the contempt reports were adopted on June 10 and concern a city mayor and a former campaign aide rather than a covered congressional member or senior congressional staffer. No explicit Republican, conservative, Trump-administration, or qualifying affiliated-organizational role was documented for either named subject. The recommendation is therefore not emitted as an A03 event."
+    },
+    {
+      "lead": "A local Virginia report said Representative John McGuire responded to a Democratic opponent's accusation of insider trading and denied that he trades stocks.",
+      "source_url": "https://augustafreepress.com/news/john-mcguire-fights-back-at-insider-trading-jab-i-dont-even-do-trades/",
+      "source_title": "John McGuire fights back at insider trading jab: 'I don't even do trades'",
+      "publisher": "Augusta Free Press",
+      "published_at": "2026-08-28",
+      "status": "quarantined",
+      "subject_response": "McGuire said he would not debate until opponent Tom Perriello apologized for accusing him of insider trading and said, 'I don't even do trades.'",
+      "related_sources": [
+        "https://clerk.house.gov/members/M001239/",
+        "https://www.house.gov/representatives"
+      ],
+      "reason": "The current report is a single local account of a partisan accusation and subject denial. No official ethics complaint, OCC referral, court filing, law-enforcement action, or independent corroboration establishing misconduct was located in the lookback. The allegation is quarantined under the single-source and partisan-accusation rules."
+    },
+    {
+      "lead": "A nonofficial page dated August 28 restated an earlier OCC referral concerning Representative Nancy Mace and described the House Ethics review as continuing.",
+      "source_url": "https://maceopedia.org/court-filings/mace-ethics-investigation",
+      "source_title": "House Ethics Committee Investigation of Rep. Nancy Mace (OCC Review 25-5681)",
+      "publisher": "Maceopedia",
+      "published_at": "2026-08-28",
+      "status": "quarantined",
+      "subject_response": "The page did not report a new statement from Representative Mace in the lookback.",
+      "related_sources": [
+        "https://conduct.house.gov/reports"
+      ],
+      "reason": "The page is not an official government or reputable news source and identifies the underlying OCC referral as dated December 1, 2025, with the official OCC listing dated March 2, 2026. It does not document a new in-window action, so it is not emitted as an event."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-28T09:01:16.090Z through 2026-08-29T09:01:16.090Z, using the current host time as the run boundary; run_date is 2026-08-29.",
+    "The House Committee on Ethics archive and official Aug. 28 statement showed the Joseph/Roos contempt recommendation as the only new listed House Ethics publication. It was quarantined because the named subjects lack documented qualifying affiliation and the underlying reports were adopted June 10.",
+    "The Senate Select Committee on Ethics press-release archive showed no release newer than August 21, 2024; public letters and events showed no in-window member-specific investigation, finding, discipline, or final action.",
+    "The Office of Congressional Conduct reports page showed no new in-window referral, advisory, investigation result, or quarterly report; the newest listed report remained the Second Quarter 2026 Report dated July 23, 2026.",
+    "The DOJ all-news listing and FBI press-release listing were checked for covered congressional members, leadership, and senior staff. The Aug. 28 DOJ and Aug. 27 FBI items reviewed named other defendants or concerned unrelated enforcement activity; no qualifying A03 person-specific action was identified.",
+    "House.gov, the House Clerk member directory, official member releases, AP, Axios, Bloomberg Government, and local reporting were checked for in-window censure, resignation, removal, suspension, lawsuit, settlement, ethics complaint, or misconduct developments. The Edwards censure matter remained a prior Aug. 3 recommendation with a future vote expected after the lookback.",
+    "Congress.gov was blocked by robots.txt, and direct GovInfo URLs for the Aug. 28 daily Congressional Record issue were not retrievable through the web fetcher. The GovInfo Congressional Record collection, Congressional Record help/index materials, and available date-oriented search results were reviewed; this is a scoped negative scan, not proof of exhaustive absence."
+  ]
+}

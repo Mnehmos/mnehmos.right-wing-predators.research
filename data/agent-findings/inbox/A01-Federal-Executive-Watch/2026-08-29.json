@@ -1,0 +1,63 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-29",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-28&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-29",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases/9289-26",
+    "https://apnews.com/article/535e252b20f39ab414f93d806758c626",
+    "https://www.cbsnews.com/news/ex-white-house-teleprompter-operator-fined-insider-bets-kalshi-gabriel-perez/",
+    "https://abcnews.com/Politics/white-house-teleprompter-operator-172000-settle-cftc-probe/story?id=136048028",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ce9.uscourts.gov/misconduct/orders/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.ca7.uscourts.gov/pages/LandingPage.php?page=judicial-conduct-and-disability"
+  ],
+  "events": [
+    {
+      "event_id": "6210c4e98340949f1c76892e1344221f992f7b88936b8dcef122b36395122a00",
+      "person": "Gabriel Perez",
+      "aliases": [],
+      "role": "Former White House technical assistant and teleprompter operator",
+      "affiliation": "Trump administration White House staff; longtime Donald Trump teleprompter operator",
+      "jurisdiction": "United States",
+      "government_level": "federal",
+      "branch": "executive",
+      "event_type": "CFTC administrative enforcement order for misuse of material nonpublic information in prediction-market trading",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9289-26",
+      "source_title": "CFTC Orders Gabriel Perez to Pay $172,000 for Insider Trading of Mention Market Event Contracts",
+      "publisher": "U.S. Commodity Futures Trading Commission",
+      "published_at": "2026-08-28",
+      "source_type": "government",
+      "subject_response": "The CFTC said Perez provided exemplary cooperation and received a substantial penalty discount. The White House did not immediately comment on the settlement; no denial from Perez was reported. Perez had previously been placed on unpaid leave and was reported no longer to work for the federal government.",
+      "summary": "The CFTC issued an order finding that former White House teleprompter operator Gabriel Perez misappropriated nonpublic presidential-speech information to trade prediction-market contracts, ordering $107,539.02 in disgorgement, a $65,000 civil penalty, and a three-year trading ban.",
+      "reason_for_status": "The CFTC's official order filing and settlement expressly finds violations and imposes civil remedies, making this an official administrative action eligible for auto_publish. AP, CBS News, and ABC News independently reported the order and Perez's White House role. The record concerns a civil regulatory finding and settlement, not a criminal charge, conviction, or sentence; no criminal prosecution is implied."
+    }
+  ],
+  "quarantined_leads": [],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-28T07:03:36.655Z through 2026-08-29T07:03:36.655Z, using the current host time as the daily boundary; many government pages expose publication dates rather than exact release times.",
+    "The White House news and presidential-actions indexes showed August 28 releases and actions but no additional misconduct, ethics, discipline, resignation, removal, or investigation event involving a qualifying federal executive official.",
+    "DOJ and FBI releases dated August 28 were reviewed. The named criminal, sentencing, and civil matters did not identify a covered political appointee, senior executive official, or federal employee whose misconduct was tied to a qualifying political or leadership role. The August 27 DOJ Weaponization Working Group report about unnamed former FBI personnel was outside the current lookback and remains an unnamed-person matter.",
+    "The DOJ OIG investigative-findings index showed its newest named administrative-misconduct summary dated August 19, outside the window. OGE's latest listed item was August 25, and OPM's August 28 item concerned a media appearance rather than misconduct or discipline.",
+    "Federal Register search results for August 28 included agency regulatory and registrant matters, but no covered federal executive person-specific misconduct event. Federal judicial-conduct indexes reviewed for the boundary period exposed no qualifying A01 matter.",
+    "Oversight.gov, Secret Service, DHS, State Department, and some Federal Register endpoints were not consistently retrievable or date-filtered through the web interface; Reuters was not retrievable. AP, CBS News, and ABC News coverage was checked for the qualifying Perez action. This is a scoped scan, not proof of exhaustive absence."
+  ]
+}
