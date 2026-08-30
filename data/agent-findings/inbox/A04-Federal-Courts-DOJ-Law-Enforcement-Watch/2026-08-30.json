@@ -1,0 +1,61 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-08-30",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa",
+    "https://www.justice.gov/usao",
+    "https://www.fbi.gov/news/press-releases",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca1.uscourts.gov/",
+    "https://ww3.ca2.uscourts.gov/misconduct_orders.html",
+    "https://www.ca3.uscourts.gov/judicial-conduct-and-disability-opinions-2026",
+    "https://www.ca4.uscourts.gov/rules-and-procedures/judicial-conduct-disability/Judicial-Complaint-Orders",
+    "https://www.ca5.uscourts.gov/",
+    "https://www.ca7.uscourts.gov/pages/LandingPage.php?page=judicial-conduct-and-disability",
+    "https://www.ca8.uscourts.gov/",
+    "https://www.ca9.uscourts.gov/news/judicial-conduct-and-disability-complaint-26-90153",
+    "https://www.ca10.uscourts.gov/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.cafc.uscourts.gov/home/the-court/judges/judicial-conduct-and-disability/",
+    "https://www.supremecourt.gov/orders/ordersofthecourt.aspx",
+    "https://www.courtlistener.com/",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.washingtonpost.com/justice/",
+    "https://www.washingtonpost.com/politics/courts-law/",
+    "https://www.cbsnews.com/",
+    "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html",
+    "https://www.law360.com/",
+    "https://www.courthousenews.com/",
+    "https://www.jurist.org/news/2026/08/us-judge-blocks-usps-rule-restricting-mail-voting-ahead-of-midterm-elections/",
+    "https://www.ag.state.mn.us/Office/Communications/2026/08/27_Castro.asp",
+    "https://www.justia.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The New York Times reported that federal prosecutors in Minnesota had been preparing possible civil-rights and false-statement charges against ICE deportation officer Christian Castro over the January shooting of Julio C. Sosa-Celis, but that the plan fell apart before Castro was released from Texas custody. The report also said DHS disclosed that Castro was suspended without pay while the federal investigation continued.",
+      "source_url": "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html",
+      "source_title": "An ICE Shooting, an Extradition Showdown and the Federal Case That Stalled",
+      "publisher": "The New York Times",
+      "published_at": "2026-08-29T16:27:00Z",
+      "status": "quarantined",
+      "subject_response": "The New York Times reported that attempts to reach Castro for comment while he was jailed and after release were unsuccessful. A DOJ official said prosecutors had not reached a conclusion and would not rush the investigative process; the U.S. Attorney's Office for Minnesota declined comment.",
+      "reason": "The current-window report concerns a named ICE employee with an explicit Trump-administration federal law-enforcement role, but no federal civil-rights or false-statement charge was filed. The possible-charge account relies on statements from two attorneys and an anonymous source, no official federal charging or disciplinary record was retrieved, and no direct subject response was obtained. The report is retained as a lead only and is not converted into a criminal-charge or misconduct event. The related Minnesota state charges and prior federal extradition ruling were outside this window or already covered by another agent and were not duplicated."
+    }
+  ],
+  "handoffs": [
+    "A01-Federal-Executive-Watch handoff concerning the Christian Castro report was reviewed. No return handoff was required; the lead remains quarantined pending an official federal action or stronger evidence."
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-29T10:03:06Z through 2026-08-30T10:03:06Z; run_date is 2026-08-30. Government and court pages generally expose publication or filing dates rather than reliable exact timestamps, so the UTC boundary is an operational scan boundary.",
+    "The DOJ all-news and FBI press-release indexes reviewed during the window showed newest listed releases dated August 28; none identified a named federal judge, DOJ, FBI, U.S. Attorney, prosecutor, Marshal, or other covered subject with an explicit qualifying political or affiliated-organizational role and a current-window misconduct, criminal, ethics, or court-status event.",
+    "The national judicial-conduct index listed its newest Committee order as C.C.D. No. 26-01 dated May 22, 2026, and the selected circuit misconduct pages and Supreme Court order index yielded no current-window person-specific judicial ethics finding or discipline event. CourtListener/RECAP public searching likewise yielded no qualifying current-window event.",
+    "Current reporting on the Trump administration's mail-voting litigation, Anthropic litigation, and other policy disputes was reviewed but not emitted because the matters were collective administration-policy litigation rather than person-specific misconduct events; some underlying orders were also dated before the current lookback.",
+    "The Christian Castro report was the only current-window person-specific federal-law-enforcement lead meeting the initial relevance screen. It remains quarantined because possible federal charges were not filed and the report's key account was source-constrained. The earlier Greg Abbott/Castro extradition ruling, Donald J. Trump federal removal ruling, and Milo Yiannopoulos ICE arrest were deduplicated as outside the window or already present in the central ledger.",
+    "Congressional matters remain routed to A03. Search access, indexing, sealed or restricted federal dockets, dynamic circuit pages, and Reuters/New York Times retrieval were variably limited through the available interfaces; this is a scoped negative scan, not proof of absence from every federal record or newsroom."
+  ]
+}

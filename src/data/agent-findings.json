@@ -1,8 +1,35 @@
 {
   "schema_version": 1,
-  "source_digest": "9c6fd5672edd5cae2d1653af7afb54362fad547080e646edaab5026cb4cb8b7c",
-  "event_count": 23,
+  "source_digest": "f46b8e79be33c874577a7183a35394b7c18c09d94368772ca1c63d2521d032d6",
+  "event_count": 24,
   "events": [
+    {
+      "event_id": "a08-mn-elliott-engen-dwi-guilty-plea-sentence-2026-08-28",
+      "agent": "A08-States-Midwest-Watch",
+      "run_date": "2026-08-30",
+      "person": "Elliott Engen",
+      "aliases": [
+        "Elliot Engen"
+      ],
+      "role": "Minnesota State Representative, District 36A (R-Lino Lakes)",
+      "affiliation": "Republican Party; Minnesota GOP state representative",
+      "jurisdiction": "Minnesota; White Bear Lake and Ramsey County court proceedings",
+      "government_level": "state",
+      "branch": "legislative",
+      "event_type": "DWI guilty plea and sentencing",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.cbsnews.com/minnesota/news/rep-elliott-engen-pleads-guilty-dwi/",
+      "source_title": "Minnesota Rep. Elliott Engen pleads guilty to DWI, sentenced to 1 year of probation",
+      "publisher": "CBS Minnesota",
+      "published_at": "2026-08-29T09:44:00-05:00",
+      "source_type": "news",
+      "subject_response": "Engen apologized for his actions after the March arrest. The report also preserved his earlier statement that he was sober-cabbing fellow GOP Rep. Walter Hudson and another passenger; no separate denial of the guilty plea was reported.",
+      "summary": "CBS Minnesota reported that Republican State Rep. Elliott Engen pleaded guilty to one DWI count and was sentenced to one year of probation. The other DWI and speeding counts were dropped under the plea agreement; a KSTP-origin report additionally described a 30-day jail term stayed on compliance with probation.",
+      "reason_for_status": "The current-window disposition is documented in court filings cited by CBS Minnesota and independently reported in a KSTP-origin account, with Engen's prior response preserved. The explicit Republican legislative role satisfies the affiliation gate. This is recorded as an official court action and conviction/sentence, not as an unresolved allegation; the earlier arrest circumstances remain allegations beyond the adjudicated plea.",
+      "source_file": "data/agent-findings/inbox/A08-States-Midwest-Watch/2026-08-30.json"
+    },
     {
       "event_id": "d988a09d0da5ce4ff65293299f1cacb82fa4d1031d482ef706cc02ef86a28f1e",
       "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
