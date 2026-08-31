@@ -1,0 +1,65 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-08-31",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-30&conditions%5Bpublication_date%5D%5Blte%5D=2026-08-31",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports",
+    "https://www.justice.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://apnews.com/",
+    "https://apnews.com/article/g20-treasury-journalists-blocked-89e4fe117db8356562b811af1ada8242",
+    "https://www.reuters.com/",
+    "https://www.washingtonpost.com/politics/2026/08/30/trump-says-he-will-report-nbc-host-to-fcc-rebuke-or-punishment/",
+    "https://www.washingtonpost.com/national/investigations/",
+    "https://www.cbsnews.com/news/3-secret-service-officials-put-on-leave-investigation-potential-misconduct/",
+    "https://abcnews.com/",
+    "https://www.nytimes.com/",
+    "https://kvia.com/politics/cnn-us-politics/2026/08/30/trump-calls-for-nbcs-kristen-welker-to-face-rebuke-or-punishment-from-the-fcc/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Washington Post reported that President Donald Trump said he would report NBC anchor Kristen Welker to the Federal Communications Commission for a rebuke or punishment after she characterized his primary-endorsement record as having mixed results.",
+      "source_url": "https://www.washingtonpost.com/politics/2026/08/30/trump-says-he-will-report-nbc-host-to-fcc-rebuke-or-punishment/",
+      "source_title": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’",
+      "publisher": "The Washington Post",
+      "published_at": "2026-08-30T20:34:00-04:00",
+      "status": "quarantined",
+      "subject_response": "Trump's Truth Social post was the public statement underlying the report; NBC News said it stood by Welker. The FCC did not immediately respond to a request for comment.",
+      "reason": "The conduct and the subject's political and presidential affiliation are directly documented, and the report was echoed by a CNN-affiliate account, but no FCC complaint, investigation, sanction, or other official action was verified in the lookback. The report describes a proposed punitive response to criticism, not an adjudicated misconduct finding; it is retained for follow-up without implying a First Amendment violation or guilt."
+    },
+    {
+      "lead": "The Associated Press reported that the Treasury Department denied credentials to individual New York Times, Wall Street Journal, and Bloomberg reporters for the G20 finance ministers' meeting in Asheville, North Carolina.",
+      "source_url": "https://apnews.com/article/g20-treasury-journalists-blocked-89e4fe117db8356562b811af1ada8242",
+      "source_title": "US Treasury blocks certain journalists from G20 meeting in North Carolina",
+      "publisher": "Associated Press",
+      "published_at": "2026-08-31",
+      "status": "quarantined",
+      "subject_response": "Treasury Secretary Scott Bessent told AP that the credential decision had nothing to do with point of view. The New York Times said the denial was an effort to undermine independent journalism and evade public scrutiny.",
+      "reason": "The report identifies a Trump-administration executive-department action and a subject response, but Treasury gave no official explanation, the current evidence is a single AP report describing the decision as part of a broader access pattern, and no formal retaliation finding, complaint, investigation, or court ruling was verified. Retained as an unresolved lead rather than promoted as misconduct."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-30T00:02:16-07:00 through 2026-08-31T00:02:16-07:00, using the current host time as the daily boundary. Government pages generally expose publication dates rather than exact release times.",
+    "White House news and presidential-actions indexes showed August 28 as their newest listed material; no person-specific misconduct, ethics, discipline, resignation, removal, or investigation event involving a qualifying federal executive official was listed for the lookback.",
+    "DOJ's current news index showed August 28 as its newest listed material. DOJ OIG's investigative-misconduct index continued to show the August 19 FBI Special Agent in Charge finding as the newest named administrative-misconduct summary, outside the window. No new qualifying executive-branch event was identified.",
+    "FBI press-release results reviewed through the current index did not expose a current-window qualifying federal executive misconduct event; listed matters were ordinary criminal cases, investigations, or non-covered defendants.",
+    "OPM's newest listed release was August 28 and concerned recruitment; HHS's newest listed release was August 27; CFTC's newest listed release was August 28 and concerned the previously recorded Gabriel Perez order. No new A01 event was identified on those indexes.",
+    "DOD's releases page redirected to war.gov and exposed recent press products through August 28 without a current-window qualifying misconduct item. Federal Register, Oversight.gov, Secret Service, DHS, State, and Reuters pages were not consistently retrievable or date-filtered through the web interface; those limitations are recorded as gaps, not evidence of absence.",
+    "AP and The Washington Post exposed two current-window press-access or retaliation-related leads, but neither met the validation boundary for an A01 event. The August 27 Secret Service administrative-leave matter and the earlier Christian Castro ICE report were reviewed for continuing developments and were not duplicated. This scoped scan is not proof of exhaustive absence."
+  ]
+}

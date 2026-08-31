@@ -1,0 +1,63 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-08-31",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa",
+    "https://www.justice.gov/usao",
+    "https://www.fbi.gov/news/press-releases",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca1.uscourts.gov/",
+    "https://ww3.ca2.uscourts.gov/misconduct_orders.html",
+    "https://www.ca3.uscourts.gov/judicial-conduct-and-disability-opinions-2026",
+    "https://www.ca4.uscourts.gov/rules-and-procedures/judicial-conduct-disability/Judicial-Complaint-Orders",
+    "https://www.ca5.uscourts.gov/judicial-conduct-matters",
+    "https://www.ca6.uscourts.gov/",
+    "https://www.ca7.uscourts.gov/pages/LandingPage.php?page=judicial-conduct-and-disability",
+    "https://www.ca8.uscourts.gov/",
+    "https://www.ca9.uscourts.gov/",
+    "https://www.ca10.uscourts.gov/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.cafc.uscourts.gov/home/the-court/judges/judicial-conduct-and-disability/",
+    "https://www.supremecourt.gov/orders/ordersofthecourt.aspx",
+    "https://www.courtlistener.com/",
+    "https://clearinghouse.net/case/48356/",
+    "https://apnews.com/",
+    "https://apnews.com/article/1c480a29d67bcda7eade6415ed38c852",
+    "https://www.reuters.com/",
+    "https://www.washingtonpost.com/justice/",
+    "https://www.washingtonpost.com/politics/courts-law/",
+    "https://www.cbsnews.com/",
+    "https://www.nytimes.com/",
+    "https://www.law360.com/",
+    "https://www.courthousenews.com/",
+    "https://www.jurist.org/news/",
+    "https://idahopublicpress.com/trump-fails-to-remove-judge-in-fired-u-s-attorney-case-as-doj-gets-rebuked-over-weak-legal-support/",
+    "https://www.nbcnews.com/",
+    "https://www.thedailybeast.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Idaho Public Press reported on August 30 that President Donald Trump failed to remove the judge handling Roger Rogoff's lawsuit over his firing as a court-appointed U.S. attorney, and that the Justice Department was rebuked for weak legal support.",
+      "source_url": "https://idahopublicpress.com/trump-fails-to-remove-judge-in-fired-u-s-attorney-case-as-doj-gets-rebuked-over-weak-legal-support/",
+      "source_title": "Trump fails to remove judge in fired U.S. attorney case as DOJ gets rebuked over weak legal support",
+      "publisher": "Idaho Public Press",
+      "published_at": "2026-08-30",
+      "status": "quarantined",
+      "subject_response": "The article summarizes the Trump administration and DOJ positions that presidential removal authority covered Rogoff's appointment. Rogoff's lawsuit challenges his removal. No new response tied to an August 30 court action was located.",
+      "reason": "The report is a single current-dated account from a limited local outlet, but the cited public RECAP docket for Rogoff v. Trump identifies the relevant order denying the defendants' recusal motion as entered July 30, 2026, with later docket activity through August 24 consisting of briefing and amicus filings. No August 30 order or new recusal action was verified in the official or RECAP records. The lead is retained for follow-up and is not promoted as a new court filing, misconduct finding, or DOJ discipline event. Trump's Republican affiliation is explicit, but the reported procedural criticism is not an adjudicated misconduct finding against Trump or DOJ personnel."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-30T10:02:56Z through 2026-08-31T10:02:56Z; run_date is 2026-08-31. Government and court pages generally expose publication or filing dates rather than reliable exact timestamps, so this is an operational UTC scan boundary.",
+    "The DOJ press-release index and FBI press-release index reviewed during the window exposed August 28 as their newest listed material. The displayed releases concerned ordinary criminal matters, settlements, policy litigation, or non-covered defendants and did not identify a named covered subject with a current-window misconduct, criminal, ethics, or court-status event.",
+    "The national judicial-conduct page and selected circuit pages yielded no current-window person-specific ethics finding, complaint disposition, discipline, suspension, resignation, or removal involving a subject with explicitly documented qualifying affiliation. The Fifth Circuit page's newest August item was dated August 17, outside the window.",
+    "The Supreme Court orders page showed August 21 as its newest listed order date, with no August 30-31 person-specific qualifying court action. CourtListener was not reliably retrievable through the web interface; the accessible RECAP/Clearinghouse Rogoff docket showed no new August 30-31 order and was used to check the current-dated media lead.",
+    "The AP report on Judge Carl Nichols's rejection of DOJ's request concerning Steve Bannon was published for the August 26 ruling, outside this lookback, and was not duplicated. The August 28 Trump mail-voting litigation, related policy cases, and other collective administration-policy disputes were either outside the action window, non-person-specific, or already reviewed by another monitor and were not emitted as A04 misconduct events.",
+    "Current reporting indexes, sealed or restricted federal dockets, dynamic circuit pages, and some Reuters, New York Times, Law360, and CourtListener retrieval paths were variably limited through the available interfaces. These limitations are recorded as gaps, not evidence of absence from every federal record or newsroom. Congressional matters remain routed to A03 and executive-agency-only matters remain routed to A01/A02."
+  ]
+}
