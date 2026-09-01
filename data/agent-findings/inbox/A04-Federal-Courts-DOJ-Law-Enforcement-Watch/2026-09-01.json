@@ -1,0 +1,101 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-09-01",
+  "sources_checked": [
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/usao-mdfl/pr/dunnellon-man-arrested-threatening-communications-naacp",
+    "https://www.justice.gov/usao-edpa/pr/area-political-consultant-pleads-guilty-tax-crimes",
+    "https://www.justice.gov/opa/pr/maryland-union-leader-convicted-defrauding-union-enrich-herself",
+    "https://www.justice.gov/opa/pr/justice-department-secures-denaturalization-convicted-rapist-india",
+    "https://www.justice.gov/opa/pr/us-attorneys-and-department-justice-join-departments-transportation-and-homeland-security",
+    "https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-threatening-social-media-kill-federal-agents",
+    "https://www.justice.gov/usao-wdmo/pr/aunt-and-us-airman-nephew-arrested-immigration-fraud-scheme",
+    "https://www.justice.gov/usao-mdal/pr/second-superseding-indictment-adds-defendant-and-charges-southern-poverty-law-center",
+    "https://www.fbi.gov/news/press-releases",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.supremecourt.gov/default.aspx",
+    "https://www.supremecourt.gov/opinions/25pdf/26a203_2b8e.pdf",
+    "https://www.cafc.uscourts.gov/opinions-orders/24-2144.OPINION.8-31-2026_2747803.pdf",
+    "https://www.ca4.uscourts.gov/opinions/daily-opinions",
+    "https://www.ca6.uscourts.gov/news",
+    "https://www.ca3.uscourts.gov/",
+    "https://www.ord.uscourts.gov/index.php/rules-orders-and-notices/standing-orders/active-standing-orders",
+    "https://www.idd.uscourts.gov/district/judges/Judicial_Misconduct.cfm",
+    "https://www.insurancejournal.com/news/east/2026/08/31/883412.htm",
+    "https://www.courthousenews.com/trump-v-clinton-order-sanctions-usdc-southern-florida/",
+    "https://www.courthousenews.com/wp-content/uploads/2023/01/Trump-v-clinton-order-sanctions-usdc-southern-florida.pdf",
+    "https://www.floridabar.org/directories/find-mbr/profile/?num=1016188",
+    "https://thefederalist.com/2026/08/31/florida-bar-rejects-leftist-scheme-to-probe-dhs-attorney-for-criticizing-rogue-judges/",
+    "https://www.washingtonpost.com/nation/2026/08/31/judges-increasingly-fear-their-safety-report-finds/",
+    "https://www.courtlistener.com/recap/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Department of Justice reported that a federal jury convicted Kimberly Goodwin, former president of AFGE Local 2419, of participating in a wire-fraud conspiracy and eight money-laundering counts.",
+      "source_url": "https://www.justice.gov/opa/pr/maryland-union-leader-convicted-defrauding-union-enrich-herself",
+      "source_title": "Maryland Union Leader Convicted of Defrauding Union To Enrich Herself",
+      "publisher": "U.S. Department of Justice",
+      "published_at": "2026-08-31",
+      "status": "quarantined",
+      "subject_response": "No subject response was reported in the DOJ release.",
+      "reason": "The federal conviction is official and current, but Goodwin's union leadership role does not document a right-wing, Republican, conservative, Trump-administration, or other qualifying affiliated-organizational role. The A02 handoff was reviewed; the matter remains quarantined under the affiliation gate."
+    },
+    {
+      "lead": "The Department of Justice reported that William F. Dunbar Sr., a Philadelphia political consultant, pleaded guilty to federal tax crimes involving false returns and tax evasion.",
+      "source_url": "https://www.justice.gov/usao-edpa/pr/area-political-consultant-pleads-guilty-tax-crimes",
+      "source_title": "Area Political Consultant Pleads Guilty to Tax Crimes",
+      "publisher": "U.S. Attorney's Office, Eastern District of Pennsylvania, U.S. Department of Justice",
+      "published_at": "2026-08-31",
+      "status": "quarantined",
+      "subject_response": "Dunbar's lawyer said Dunbar accepts full responsibility for his conduct.",
+      "reason": "The official release establishes a current guilty plea, but the available reporting identifies Dunbar as an adviser to Democratic Philadelphia Mayor Cherelle Parker and as having ties to other Democratic politicians; it does not document a qualifying right-wing, Republican, conservative, Trump-administration, or covered affiliated-organizational role. The plea is therefore retained only as an affiliation-ineligible lead."
+    },
+    {
+      "lead": "The U.S. Attorney's Office for the Middle District of Florida reported that Jeremiah James Schwier was arrested and charged by criminal complaint with interstate transmission of a threat to injure after alleged threatening and sexual calls to the NAACP.",
+      "source_url": "https://www.justice.gov/usao-mdfl/pr/dunnellon-man-arrested-threatening-communications-naacp",
+      "source_title": "Dunnellon Man Arrested for Threatening Communications to the NAACP",
+      "publisher": "U.S. Attorney's Office, Middle District of Florida, U.S. Department of Justice",
+      "published_at": "2026-08-31",
+      "status": "quarantined",
+      "subject_response": "No subject response was reported. DOJ states that the criminal complaint is a formal charge and that Schwier is presumed innocent.",
+      "reason": "The official record establishes an arrest and criminal complaint, but it documents no right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role for Schwier. The alleged threats and targets do not establish political affiliation, so the matter is not promoted."
+    },
+    {
+      "lead": "The Southern District of Ohio reported that Justin Mesael Novoa pleaded guilty to threatening to assault or murder federal law-enforcement officers and to making threatening interstate communications; charging materials quoted anti-MAGA language.",
+      "source_url": "https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-threatening-social-media-kill-federal-agents",
+      "source_title": "Columbus man pleads guilty to threatening on social media to kill federal agents",
+      "publisher": "U.S. Attorney's Office, Southern District of Ohio, U.S. Department of Justice",
+      "published_at": "2026-08-31",
+      "status": "quarantined",
+      "subject_response": "No direct subject response was reported; the DOJ release records Novoa's guilty plea and states that sentencing will occur later.",
+      "reason": "The guilty plea is an official current procedural action, but the cited anti-MAGA posts do not establish that Novoa is right-wing, Republican, conservative, Trump-affiliated, or affiliated with another qualifying organization. The record is retained without publication under the explicit-affiliation rule."
+    },
+    {
+      "lead": "A current search result from Courthouse News appeared to describe a new Southern District of Florida sanctions order against Donald Trump and Alina Habba in Trump v. Clinton.",
+      "source_url": "https://www.courthousenews.com/trump-v-clinton-order-sanctions-usdc-southern-florida/",
+      "source_title": "Trump-v-clinton-order-sanctions-usdc-southern-florida",
+      "publisher": "Courthouse News Service",
+      "published_at": "2026-08-31",
+      "status": "quarantined",
+      "subject_response": "No current response was reported.",
+      "reason": "The page's downloadable order is Document 302 entered January 19, 2023, and the attached PDF is the old sanctions order. No new August 31, 2026 order was verified. Trump's Republican affiliation is explicit, but this search hit is stale or misdated and is not emitted as a new court filing."
+    }
+  ],
+  "handoffs": [
+    "A02-Independent-Agencies-Oversight-Watch handoff concerning Kimberly Goodwin was reviewed and resolved as an affiliation-ineligible quarantine; no duplicate event was emitted.",
+    "A01-Federal-Executive-Watch: review the single-source Federalist report that the Florida Bar rejected a complaint concerning DHS General Counsel James Hamilton Percival II. The reported complaint originated August 19, 2026, the source is partisan, and the official Florida Bar profile showed no discipline history; no A04 event was emitted."
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-31T10:01:40.5259507Z through 2026-09-01T10:01:40.5259507Z; run_date is 2026-09-01. Government and court indexes generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The DOJ press-release index exposed several August 31 person-specific criminal matters, but the reviewed defendants lacked explicit qualifying political or affiliated-organizational evidence. The current-window DOJ matters were screened for arrests, charges, indictments, pleas, convictions, sentencing, civil filings, and misconduct indicators.",
+    "The FBI national press-release index showed August 27 as its newest listed material; DOJ OIG's investigative-misconduct index showed August 19 as its newest named summary. No in-window FBI or DOJ OIG person-specific finding involving a qualifying subject was located.",
+    "The U.S. Courts Judicial Conduct and Disability Orders page listed Committee order 26-01 dated May 22, 2026 as its newest national committee order. Circuit pages and selected district-court pages exposed routine calendars, opinions, notices, or older material, not a current qualifying judicial misconduct finding.",
+    "The Supreme Court's August 31, 2026 National Park Service v. National Trust order and current federal appellate materials concerned policy or ordinary litigation, not person-specific misconduct by a qualifying subject. The Trump hush-money ruling reported on August 31 was the same August 28 action already present in the A04 ledger and was deduplicated.",
+    "CourtListener/RECAP was not retrievable through the web interface during this run, and PACER docket search is not broadly machine-readable without account-based access. This is a coverage limitation, not evidence of absence.",
+    "Reputable-news and court-reporting searches included AP, Bloomberg/Insurance Journal syndication, Washington Post, Courthouse News, and other indexed reporting. Search-result dates can reflect recrawls or continuing coverage; underlying action dates were checked before retaining a lead.",
+    "This scoped scan records source limitations and quarantined leads and is not proof that no unindexed, sealed, delayed, or locally posted federal matter exists."
+  ]
+}

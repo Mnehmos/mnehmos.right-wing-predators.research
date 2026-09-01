@@ -1,0 +1,55 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-09-01",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-08-31&conditions%5Bpublication_date%5D%5Blte%5D=2026-09-01",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports/investigations",
+    "https://www.justice.gov/news/press-releases",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.justice.gov/opa/pr/former-us-government-employee-pleads-guilty-attempting-provide-classified-information",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://apnews.com/",
+    "https://apnews.com/article/4853c46840a522911da5a510b01966d2",
+    "https://www.washingtonpost.com/national-security/2026/08/31/army-secretary-submits-resignation-to-trump-after-repeated-clashes-with-hegseth/",
+    "https://www.reuters.com/",
+    "https://www.nytimes.com/",
+    "https://www.cbsnews.com/",
+    "https://abcnews.com/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Army Secretary Dan Driscoll submitted his resignation to President Donald Trump and is expected to leave the post on or about September 3 after reported clashes with Defense Secretary Pete Hegseth.",
+      "source_url": "https://apnews.com/article/4853c46840a522911da5a510b01966d2",
+      "source_title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+      "publisher": "Associated Press",
+      "published_at": "2026-08-31T22:21:00Z",
+      "status": "quarantined",
+      "subject_response": "The White House said Driscoll had been highly effective in advancing President Trump's agenda. The Army referred questions to the White House; no misconduct allegation or separate response from Driscoll was reported.",
+      "reason": "The resignation and Trump-administration appointment are explicitly documented and were independently reported by the Associated Press and The Washington Post. The reports describe policy and management friction, anonymous-source claims about Pentagon dysfunction, and leadership turnover, but do not document an arrest, charge, ethics complaint, investigation, finding, discipline, retaliation adjudication, or other qualifying misconduct action involving Driscoll. Retained for follow-up without converting an ordinary resignation or reported internal disagreement into misconduct."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-08-31T00:03:01-07:00 through 2026-09-01T00:03:01-07:00, using the current host time as the daily boundary. Government indexes generally expose publication dates rather than exact release times.",
+    "White House news showed August 31 releases and fact sheets, but no current-window person-specific misconduct, ethics, discipline, removal, or investigation action. The Federal Register date-filtered page was not retrievable through the web interface; this is a source limitation, not evidence of absence.",
+    "DOJ's press-release index showed August 31 matters involving an Ohio State University civil settlement, a trucking-fraud task force, denaturalization, and unrelated defendants; none involved a qualifying federal executive official. DOJ OIG's newest named administrative-misconduct summary remained the August 19 FBI Special Agent in Charge finding, outside the window.",
+    "FBI national and Washington Field Office indexes exposed August 27 as their newest listed material, including the previously reviewed Nathan Vilas Laatsch guilty plea. Laatsch was a former DIA IT specialist, not a political appointee or qualifying leader; the matter remains outside A01's role gate and was not duplicated.",
+    "Oversight.gov showed no current-window qualifying federal executive misconduct report in the material exposed by its investigations index. Secret Service, DHS, State, Defense, OPM, HHS, Treasury, CFTC, and U.S. Courts pages were checked where retrievable; no new qualifying event was identified.",
+    "Reuters, The New York Times, CBS News, and ABC News home or section pages were not consistently date-filterable through the web interface. AP and The Washington Post reporting on Driscoll's resignation was reviewed, but the matter did not meet the misconduct validation boundary.",
+    "No current-window event was promoted. This scoped scan records the sources and limitations reviewed and is not proof of exhaustive absence."
+  ]
+}
