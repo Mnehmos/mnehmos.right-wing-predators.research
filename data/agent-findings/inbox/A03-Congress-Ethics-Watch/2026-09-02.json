@@ -1,0 +1,128 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-09-02",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://conduct.house.gov/",
+    "https://conduct.house.gov/news/press-advisories",
+    "https://conduct.house.gov/reports",
+    "https://conduct.house.gov/reports/investigations",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/letterstomembers",
+    "https://clerk.house.gov/Static/",
+    "https://clerk.house.gov/Votes/2026292",
+    "https://www.house.gov/representatives",
+    "https://www.house.gov/legislative-activity",
+    "https://rules.house.gov/",
+    "https://www.senate.gov/legislative/LIS/floor_activity/floor_activity.htm",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://judiciary.house.gov/media/press-releases/house-republicans-seek-information-federal-judge-eleanor-rosss-judicial",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://apnews.com/article/7cd5aa1f9d249d2c59b5ae7a149c0e7d",
+    "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/",
+    "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
+    "https://rollcall.com/2026/09/01/chuck-edwards-censured-harassment/",
+    "https://www.washingtonpost.com/politics/2026/09/01/house-vote-rep-chuck-edwards-censure-over-unprofessional-conduct-toward-female-staffers/",
+    "https://www.washingtonexaminer.com/news/house/4708478/house-votes-censure-chuck-edwards-against-his-twenty-page-letter/",
+    "https://transcripts.cnn.com/show/cg/date/2026-09-01/segment/02",
+    "https://www.ajc.com/news/2026/09/house-republicans-press-for-details-on-investigation-of-atlanta-federal-judge/",
+    "https://www.jewishinsider.com/2026/09/randy-fine-dan-bilzerian-republican-jewish-coalition-summit/"
+  ],
+  "events": [
+    {
+      "event_id": "a03-chuck-edwards-house-censure-2026-09-01",
+      "person": "Chuck Edwards",
+      "aliases": [],
+      "role": "U.S. Representative for North Carolina's 11th Congressional District",
+      "affiliation": "Republican",
+      "jurisdiction": "United States House of Representatives",
+      "government_level": "federal",
+      "branch": "legislative",
+      "event_type": "final House censure for conduct toward former staffers",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://clerk.house.gov/Static/",
+      "source_title": "Floor Activity Summary 09/01/2026",
+      "publisher": "Office of the Clerk, U.S. House of Representatives",
+      "published_at": "2026-09-01T18:10:53-04:00",
+      "source_type": "government",
+      "subject_response": "Before the vote, Edwards said he exercised poor judgment and regretted putting the staffers in an uncomfortable position, but maintained that regret was not an admission of sexual harassment and continued to dispute the Ethics Committee's conclusions.",
+      "summary": "The House adopted H. Res. 1498 by a 413-2 vote and then administered the censure to Edwards on the House floor. The action followed the bipartisan House Ethics Committee's prior finding of persistent unprofessional and inappropriate conduct toward two former female staffers and its recommendation of censure; censure did not remove Edwards from office.",
+      "reason_for_status": "The official House Clerk floor record documents the final vote and the censure pronouncement. AP, CBS News, Axios, Roll Call, The Washington Post, CNN, and The Washington Examiner independently reported the same final action and preserved Edwards's response. This is a completed congressional sanction, not a criminal charge or a new allegation; the underlying Ethics Committee finding and recommendation were earlier procedural stages."
+    },
+    {
+      "event_id": "a03-jim-jordan-ross-oversight-letter-2026-09-01",
+      "person": "Jim Jordan",
+      "aliases": [],
+      "role": "Chairman, U.S. House Committee on the Judiciary",
+      "affiliation": "Republican",
+      "jurisdiction": "United States House Committee on the Judiciary and Eleventh Circuit",
+      "government_level": "federal",
+      "branch": "legislative",
+      "event_type": "congressional oversight request concerning federal judicial misconduct proceeding",
+      "status": "official_action",
+      "auto_publish": false,
+      "confidence": "high",
+      "source_url": "https://www.ajc.com/news/2026/09/house-republicans-press-for-details-on-investigation-of-atlanta-federal-judge/",
+      "source_title": "House Republicans press for details on investigation of Atlanta federal judge",
+      "publisher": "The Atlanta Journal-Constitution",
+      "published_at": "2026-09-01",
+      "source_type": "news",
+      "subject_response": "No separate response from Jordan was reported. The committee letter requested answers from Eleventh Circuit Chief Judge William Pryor by September 15.",
+      "summary": "Jordan, Darrell Issa, and Clay Fuller asked the Eleventh Circuit for information about the investigation and private reprimand of U.S. District Judge Eleanor Ross, citing concerns about the severity of the reported judicial misconduct and the adequacy of the discipline.",
+      "reason_for_status": "The AJC reported the current letter and identified the Republican committee members who signed it; the committee's official release was also located but returned 403 to the fetcher. The action is recorded as official congressional oversight, not as a misconduct finding against Jordan or a final judicial disposition. The underlying federal judicial misconduct matter is routed to A04. Because the current evidence is one reputable report about an oversight request and the item is contextual rather than a qualifying misconduct event against Jordan, it is retained for traceability but not auto-published."
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead": "The House adopted resolutions holding Michael Joseph and Hector Roos, associates of former Democratic Representative Sheila Cherfilus-McCormick, in contempt of Congress and referred the matter to the Justice Department for possible criminal prosecution.",
+      "source_url": "https://rollcall.com/2026/09/01/cherfilus-mccormick-associates-in-contempt/",
+      "source_title": "House finds Cherfilus-McCormick associates in contempt",
+      "publisher": "Roll Call",
+      "published_at": "2026-09-01T16:05:00-04:00",
+      "status": "quarantined",
+      "subject_response": "No response from Joseph or Roos was reported.",
+      "related_sources": [
+        "https://ethics.house.gov/press-releases/",
+        "https://ethics.house.gov/category/committee-reports/"
+      ],
+      "reason": "The current House action is reported by Roll Call, but the named subjects are not documented as Republican, right-wing, conservative, Trump-administration, or otherwise qualifying affiliated persons. The matter was already excluded in prior A03 coverage because the subjects were associates of a former Democratic member. The Justice Department referral is for possible prosecution, not a verified criminal charge."
+    },
+    {
+      "lead": "Jewish Insider reported that Republican Representative Randy Fine alleged an unregistered spending campaign aided his opponent and urged the FBI to investigate.",
+      "source_url": "https://jewishinsider.com/2026/09/randy-fine-dan-bilzerian-republican-jewish-coalition-summit/",
+      "source_title": "Randy Fine says illegal spending campaign boosted neo-Nazi opponent",
+      "publisher": "Jewish Insider",
+      "published_at": "2026-09-02",
+      "status": "quarantined",
+      "subject_response": "Fine was the source of the allegation; no response from the accused outside group or individuals was reported, and no FEC, FBI, DOJ, court, or ethics action was verified in the current scan.",
+      "related_sources": [
+        "https://www.fec.gov/press/",
+        "https://www.fec.gov/updates/",
+        "https://www.fbi.gov/news/press-releases/"
+      ],
+      "reason": "This is a single reported political accusation about alleged illegal campaign spending, without a verified complaint, investigation, court filing, or independent corroboration in the lookback window. It is not promoted as a misconduct finding or criminal matter."
+    }
+  ],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: review the underlying federal judicial misconduct proceeding involving Judge Eleanor Ross and the Eleventh Circuit's private reprimand; A03 records only the September 1 House Judiciary Republican oversight request.",
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: review the September 1 House referral to the Justice Department concerning contempt resolutions for Michael Joseph and Hector Roos; A03 found no qualifying affiliation and verified no criminal charge."
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-01T09:01:00.069Z through 2026-09-02T09:01:00.069Z; run_date is 2026-09-02. Government pages generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The House Committee on Ethics archive showed no new member-specific report or press release in the window. The August 3 Edwards finding and censure recommendation were outside the window, while the House Clerk separately documented the September 1 final censure vote and pronouncement.",
+    "The Senate Select Committee on Ethics news and press-release pages exposed no current-window senator-specific investigation, finding, discipline, or final action; its newest listed press release remained dated August 21, 2024. The Senate floor page did not expose a current-window ethics-related action.",
+    "The Office of Congressional Conduct press-advisory and reports pages showed the July 23, 2026 Second Quarter advisory as the latest public report and no current-window referral or investigation result.",
+    "The House Clerk recorded H. Res. 1498 at 6:10:53 p.m. Eastern on September 1 as agreed to 413-2 and recorded Edwards's censure pronouncement at 6:11 p.m.; the House adjourned at 8:23 p.m. The House.gov schedule showed the next meeting on September 2.",
+    "Congress.gov was inaccessible to the fetcher because of a restricted URL or robots limitation, and a direct September 1 Congressional Record daily-digest PDF was not retrievable. The House Clerk, GovInfo collection page, and official House and Senate activity pages were used as substitutes where available.",
+    "The Department of Justice and FBI current indexes showed no new arrest, charge, indictment, conviction, sentencing, or misconduct action involving a qualifying congressional member, leadership figure, or senior staffer. Federal judicial and DOJ developments remain routed to A04.",
+    "AP, CBS News, Axios, Roll Call, The Washington Post, CNN, The Washington Examiner, and The Atlanta Journal-Constitution searches found the Edwards censure and the Jordan-led Ross oversight request, but no additional current-window qualifying congressional ethics or misconduct event.",
+    "This is a scoped negative scan, not proof that no unindexed event exists. Congressional, ethics-office, court, and local-news indexes may be dynamic, delayed, sealed, or unavailable through the fetcher; blocked or inaccessible sources are limitations rather than evidence of absence."
+  ]
+}

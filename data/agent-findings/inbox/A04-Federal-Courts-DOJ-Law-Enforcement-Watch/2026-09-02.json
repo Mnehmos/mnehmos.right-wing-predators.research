@@ -1,0 +1,91 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-09-02",
+  "sources_checked": [
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa/pr/nine-gang-members-charged-rico-conspiracy-and-murder",
+    "https://www.justice.gov/opa/pr/justice-department-sues-kansas-city-kansas-public-schools-stop-secret-gender-transitions",
+    "https://www.justice.gov/opa/pr/us-attorneys-and-department-justice-join-departments-transportation-and-homeland-security",
+    "https://www.justice.gov/usao-sdoh/pr",
+    "https://www.justice.gov/usao-sdoh/pr/cincinnati-man-pleads-guilty-vandalizing-vice-president-vances-cincinnati-home",
+    "https://www.justice.gov/usao-md/pr?cid=6",
+    "https://www.justice.gov/usao-md/pr/maryland-man-faces-charges-threats-against-president-united-states-and-other-domestic",
+    "https://www.justice.gov/usao-wdpa/pr/butler-man-sentenced-four-years-prison-threatening-assault-and-murder-president-trump",
+    "https://www.justice.gov/usao-ndny/pr",
+    "https://www.fbi.gov/news/press-releases",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.supremecourt.gov/default.aspx",
+    "https://www.ca9.uscourts.gov/decisions/opinions/",
+    "https://ww3.ca2.uscourts.gov/decisions/OPN/26-156_complete_opn.pdf",
+    "https://www.ca4.uscourts.gov/opinions/daily-opinions",
+    "https://www.ca6.uscourts.gov/news",
+    "https://www.ca3.uscourts.gov/",
+    "https://ord.uscourts.gov/index.php/ct-calendar/eventsbyday/2026/9/2/229",
+    "https://www.moept.uscourts.gov/docket/",
+    "https://ecf.kywd.uscourts.gov/cgi-bin/PublicCalendar.pl?office=3United",
+    "https://www.wvsd.uscourts.gov/content/usa-vs-terryonto-lovell-mcgrier",
+    "https://www.cbsnews.com/baltimore/news/maryland-donald-swope-federal-charges-threats-president-donald-trump/",
+    "https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/east-walnut-hills/man-who-damaged-vice-president-jd-vances-cincinnati-home-pleads-guilty-to-federal-charges",
+    "https://abc7chicago.com/post/video-shows-moment-fbi-agents-surround-swalwell-at-sfo-amid-federal-investigation/19776020/",
+    "https://www.washingtonpost.com/politics/courts-law/",
+    "https://www.courthousenews.com/category/criminal/page/112/",
+    "https://www.courtlistener.com/recap/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The U.S. Attorney's Office for the District of Maryland reported that Donald Franklin Swope made repeated Facebook threats against President Donald Trump and the U.S. Secret Service and was charged by criminal complaint.",
+      "source_url": "https://www.justice.gov/usao-md/pr/maryland-man-faces-charges-threats-against-president-united-states-and-other-domestic",
+      "source_title": "Maryland Man Faces Charges for Threats Against President of the United States and Other Domestic Terrorism Charges",
+      "publisher": "U.S. Attorney's Office, District of Maryland, U.S. Department of Justice",
+      "published_at": "2026-09-01",
+      "status": "quarantined",
+      "subject_response": "No response from Swope was reported in the DOJ release or CBS Baltimore coverage. DOJ states that the criminal complaint is a formal charge and that Swope is presumed innocent.",
+      "reason": "The official release establishes a current federal criminal complaint, but it documents no right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role for Swope. Threatening a Republican president does not establish the defendant's affiliation, so the lead is quarantined under the explicit-affiliation rule."
+    },
+    {
+      "lead": "William D. DeFoor pleaded guilty in federal court to vandalizing Vice President JD Vance's Cincinnati residence and damaging government security property.",
+      "source_url": "https://www.justice.gov/usao-sdoh/pr/cincinnati-man-pleads-guilty-vandalizing-vice-president-vances-cincinnati-home",
+      "source_title": "Cincinnati man pleads guilty to vandalizing Vice President Vance's Cincinnati home",
+      "publisher": "U.S. Attorney's Office, Southern District of Ohio, U.S. Department of Justice",
+      "published_at": "2026-09-01",
+      "status": "quarantined",
+      "subject_response": "DeFoor's attorney told WCPO that the conduct was not politically motivated and attributed it to DeFoor's mental-health struggles; sentencing remains pending.",
+      "reason": "The official DOJ release establishes a current guilty plea, but neither the official record nor independent WCPO reporting documents a qualifying right-wing, Republican, conservative, Trump-administration, or affiliated-organizational role. The reported defense position also rejects a political motive. The matter is retained only as an affiliation-ineligible lead."
+    },
+    {
+      "lead": "The U.S. Attorney's Office for the Western District of Pennsylvania reported that Shawn Monper was sentenced to four years after pleading guilty to threatening President Trump, other officials, and ICE agents.",
+      "source_url": "https://www.justice.gov/usao-wdpa/pr/butler-man-sentenced-four-years-prison-threatening-assault-and-murder-president-trump",
+      "source_title": "Butler Man Sentenced to Four Years of Prison for Threatening to Assault and Murder President Trump, Other U.S. Officials, and Immigration and Customs Enforcement Agents",
+      "publisher": "U.S. Attorney's Office, Western District of Pennsylvania, U.S. Department of Justice",
+      "published_at": "2026-09-01",
+      "status": "quarantined",
+      "subject_response": "The DOJ release reports Monper's guilty plea and acceptance of responsibility but no separate subject statement. The sentence is an official adjudicated action; no additional conduct beyond the pleaded counts is inferred.",
+      "reason": "The official release establishes a current federal sentence and conviction-related plea, but Monper's cited statements opposed Trump and MAGA and do not establish that he is right-wing, Republican, conservative, Trump-affiliated, or affiliated with another qualifying organization. The lead is therefore quarantined rather than published."
+    },
+    {
+      "lead": "ABC7 reported newly released airport video showing FBI agents approaching former U.S. Representative Eric Swalwell during an ongoing criminal investigation involving sexual-assault allegations; the report stated that he had not been charged.",
+      "source_url": "https://abc7chicago.com/post/video-shows-moment-fbi-agents-surround-swalwell-at-sfo-amid-federal-investigation/19776020/",
+      "source_title": "Video shows moment FBI agents surround Swalwell at SFO amid federal investigation",
+      "publisher": "ABC7/KGO",
+      "published_at": "2026-09-01",
+      "status": "quarantined",
+      "subject_response": "ABC7 reported that Swalwell denied the sexual-assault allegations and that his attorney did not immediately respond to the station's request for comment; the report stated that no criminal charge had been filed.",
+      "reason": "This is a single-source report relying on unnamed sources and released video, with no identified charge, indictment, conviction, or official finding. Swalwell's former congressional role routes the matter to A03, but the available record does not document a qualifying right-wing, Republican, conservative, Trump-administration, or affiliated-organizational role and is not sufficient for A04 publication."
+    }
+  ],
+  "handoffs": [
+    "A03-Congress-Ethics-Watch: review the current ABC7 report concerning former U.S. Representative Eric Swalwell, while preserving that the FBI investigation is reported, no charge was identified, the allegations remain unadjudicated, and the available source is single-source."
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-01T10:04:15.5378840Z through 2026-09-02T10:04:15.5378840Z; run_date is 2026-09-02. Government and court pages generally expose publication or filing dates rather than reliable exact timestamps, so September 1 dated releases were screened as current-window material when no contradictory action date appeared.",
+    "The DOJ national press-release index exposed September 1 criminal, civil, national-security, and interagency materials. Current person-specific matters were screened for arrests, charges, indictments, pleas, convictions, sentencing, civil filings, and misconduct indicators; none met the explicit-affiliation rule for A04 publication.",
+    "The FBI national press-release index showed August 28 as its newest listed release during the scan. No current FBI person-specific finding involving a qualifying subject was located; the current ABC7 Swalwell item was retained only as a quarantined, single-source lead and routed to A03.",
+    "The DOJ Office of Inspector General investigative index did not expose a current qualifying person-specific misconduct finding. The national Judicial Conduct and Disability Orders page and reviewed circuit pages showed no new current qualifying judicial misconduct finding.",
+    "Supreme Court, appellate, and selected district-court pages showed current calendars, ordinary litigation, or policy-related proceedings rather than a new person-specific misconduct action involving a qualifying subject. The Ninth Circuit Chattah decision and Second Circuit Sarcone decision were outside this 24-hour window and were not duplicated.",
+    "CourtListener/RECAP was not retrievable as a complete current docket-search source through the web interface, and PACER docket access is not broadly machine-readable without account-based access. This is a coverage limitation, not evidence of absence.",
+    "Reputable-news and court-reporting searches returned current coverage of the Swope, DeFoor, Monper, and Swalwell leads, but only the official DOJ matters supplied complete procedural detail. The qualifying-affiliation gate prevented publication of the three official criminal matters, and the Swalwell item lacked sufficient official corroboration.",
+    "This scoped scan is not proof that no unindexed, sealed, delayed, locally posted, or timestamp-ambiguous federal matter exists."
+  ]
+}

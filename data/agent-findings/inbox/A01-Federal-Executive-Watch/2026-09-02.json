@@ -1,0 +1,48 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-09-02",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-09-01&conditions%5Bpublication_date%5D%5Blte%5D=2026-09-02",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports/investigations",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://ethics.house.gov/committee-reports/in-the-matter-of-allegations-relating-to-representative-chuck-edwards/",
+    "https://clerk.house.gov/Static/",
+    "https://clerk.house.gov/Votes/2026292",
+    "https://apnews.com/article/7cd5aa1f9d249d2c59b5ae7a149c0e7d",
+    "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
+    "https://www.washingtonpost.com/politics/2026/09/01/house-vote-rep-chuck-edwards-censure-over-unprofessional-conduct-toward-female-staffers/",
+    "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/",
+    "https://rollcall.com/2026/09/01/chuck-edwards-censured-harassment/",
+    "https://www.washingtonpost.com/sports/2026/09/01/volleyball-coach-ryan-richardson-faces-federal-investigation/"
+  ],
+  "events": [],
+  "quarantined_leads": [],
+  "handoffs": [
+    "A03-Congress-Ethics-Watch: The House voted 413-2 on September 1 to adopt H. Res. 1498, censure Republican Representative Chuck Edwards after the House Ethics Committee found persistent unprofessional and inappropriate conduct toward two young female staffers and violations related to sexual harassment and hostile work environment. The official House Clerk recorded the vote and censure pronouncement, and the House Ethics Committee report is the primary finding. AP, The Washington Post, CBS News, Axios, and Roll Call independently reported the action. Edwards said he exercised poor judgment but that regret was not an admission of sexual harassment; he previously disputed the committee's conclusions. This is a congressional ethics matter, not an A01 executive-branch event. Sources: https://clerk.house.gov/Votes/2026292; https://clerk.house.gov/Static/; https://ethics.house.gov/committee-reports/in-the-matter-of-allegations-relating-to-representative-chuck-edwards/; https://apnews.com/article/7cd5aa1f9d249d2c59b5ae7a149c0e7d; https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/"
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-01T00:02:49.8262289-07:00 through 2026-09-02T00:02:49.8262289-07:00, using the current host time as the daily boundary. Government indexes generally expose publication dates rather than reliable exact release times.",
+    "White House news listed August 31 as its newest dated material exposed by the fetcher; no current-window person-specific misconduct, ethics, discipline, removal, resignation, or investigation action involving a qualifying federal executive official was identified. The presidential-actions index likewise exposed no current-window qualifying action.",
+    "The DOJ September 1 news index listed election monitoring, criminal cases involving private defendants, a civil-rights lawsuit against a school district, and corporate settlement matters; none involved a qualifying federal executive official. DOJ OPR's newest public investigative summaries and DOJ OIG's newest named administrative-misconduct finding remained outside the lookback or involved unnamed career attorneys without qualifying political-affiliation evidence.",
+    "FBI, Secret Service, DHS, OPM, State, Defense, HHS, Treasury, CFTC, Oversight.gov, OGE, U.S. Courts, and Federal Register material was checked where retrievable. No current-window qualifying federal-executive arrest, charge, indictment, conviction, sentencing, sexual-misconduct matter, ethics complaint or finding, investigation, discipline, retaliation adjudication, resignation for misconduct, removal, suspension, lawsuit, settlement, obstruction, or cover-up was identified.",
+    "The Washington Post/ProPublica report that Homeland Security Investigations opened a child-exploitation probe into former Texas volleyball coach Ryan Richardson was screened out because Richardson is not a federal employee or political appointee and no qualifying affiliation or executive-branch leadership role was documented. The CBS report on a California man's indictment tied to threats against a White House UFC event was likewise screened out because the defendant was a private person, not a covered federal employee or official.",
+    "AP, Axios, The Washington Post, CBS News, and Roll Call exposed the current House censure of Chuck Edwards; it was routed to A03 because Congress is outside A01's executive-branch scope. Reuters, The New York Times, and some agency pages were not consistently date-filterable or retrievable through the web interface; those limitations are recorded as gaps, not evidence of absence.",
+    "No current-window A01 event was promoted. This scoped scan records reviewed sources, one cross-agent handoff, and access limitations; it is not proof of exhaustive absence."
+  ]
+}
