@@ -1,0 +1,62 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-09-03",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-09-02&conditions%5Bpublication_date%5D%5Blte%5D=2026-09-03",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/reports/investigations",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://oig.justice.gov/investigations/criminal_and_civil_cases",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.fbi.gov/contact-us/field-offices/washingtondc/news/press-releases",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://apnews.com/article/237d3fb496f89603b3f01ee02d8f238b",
+    "https://www.washingtonpost.com/national-security/2026/09/02/pentagon-cuts-access-classified-information-amid-iran-war-concerns/",
+    "https://www.washingtonpost.com/national-security/2026/09/02/trump-encouraged-army-secretary-stay-job/",
+    "https://www.washingtonpost.com/entertainment/art/2026/09/02/trump-administration-threatens-cut-off-agencies-ties-smithsonian/",
+    "https://www.axios.com/2026/09/02/hegseth-defense-pentagon-driscoll-iran-war",
+    "https://www.aol.com/articles/justice-department-defends-pentagon-proposed-162821000.html",
+    "https://clearinghouse.net/case/48412/",
+    "https://storage.courtlistener.com/recap/gov.uscourts.dcd.295983/gov.uscourts.dcd.295983.15.0.pdf",
+    "https://apnews.com/article/59a0b5ecb86b6c6fd2321176ee95c5dc",
+    "https://www.cbsnews.com/news/fired-stars-and-stripes-journalists-sue-hegseth-and-pentagon-spokesperson/",
+    "https://www.stripes.com/theaters/us/2026-08-29/pentagon-pauses-firing-stripes-staffers-22687315.html"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Washington Post reported that the Pentagon removed decades of documents associated with the Secretary of Defense Orders Book from an internal SIPRNet portal after the newspaper reported that senior military leaders had raised concerns about the Iran war and Defense Secretary Pete Hegseth's deployment decisions.",
+      "source_url": "https://www.washingtonpost.com/national-security/2026/09/02/pentagon-cuts-access-classified-information-amid-iran-war-concerns/",
+      "source_title": "Pentagon cuts access to classified information amid Iran war concerns",
+      "publisher": "The Washington Post",
+      "published_at": "2026-09-02T19:43:00Z",
+      "status": "quarantined",
+      "subject_response": "Pentagon spokesman Sean Parnell did not dispute that the documents were removed. He said the department does not publicly discuss internal operational processes and that access, force-posture, and staffing decisions were managed through security channels to ensure mission security and operational integrity. Parnell also said earlier reporting about senior leaders' concerns was inaccurate without specifying which portions.",
+      "reason": "The report identifies Trump-administration Defense Secretary Pete Hegseth and documents a current information-access change, but it relies on three anonymous sources, does not identify a complainant or formal inquiry, and does not establish that the change was retaliation, obstruction, or a cover-up. It is retained for follow-up rather than promoted as an official misconduct action or finding. The September 1 DOJ opposition in the related Stars and Stripes personnel lawsuit was reviewed as a continuing development but was filed before this lookback window and was not duplicated as a current event."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-02T10:04:01.2737598-07:00 through 2026-09-03T10:04:01.2737598-07:00, using the current host time as the daily boundary. Government indexes generally expose publication dates rather than reliable exact release times.",
+    "White House news showed September 2 policy and legislative materials but no current-window person-specific misconduct, ethics, discipline, removal, resignation, or investigation action involving a qualifying federal executive official. The presidential-actions index exposed no current-window qualifying action.",
+    "The DOJ September 2 index listed tax-fraud, immigration-policy, sex-trafficking, and other cases involving private defendants, plus legal-policy material; none involved a qualifying federal executive official. The September 1 DOJ OIG advisory about FBI non-retaliation policy and retaliation offense coding was institutional policy guidance, not a named-person misconduct finding.",
+    "DOJ OPR, DOJ OIG, FBI, Secret Service, DHS, OPM, State, Defense, HHS, Treasury, CFTC, Oversight.gov, OGE, U.S. Courts, and Federal Register material was checked where retrievable. No current-window qualifying federal-executive arrest, charge, indictment, conviction, sentencing, sexual-misconduct matter, ethics complaint or finding, investigation, discipline, retaliation adjudication, resignation for misconduct, removal, suspension, lawsuit, settlement, obstruction, or cover-up was identified.",
+    "The Washington Post report about Pentagon access restrictions was retained as a quarantine because it used anonymous sources and supplied no formal misconduct finding. The related Stars and Stripes lawsuit was reviewed through its D.D.C. docket and September 1 DOJ opposition; the filing predates the current window, and the parties' retaliation allegations remain unresolved. The prior Dan Driscoll resignation lead was reviewed for continuation and not duplicated.",
+    "The Washington Post report that the Trump administration threatened to reduce executive-agency cooperation with the Smithsonian described allegations directed at Smithsonian leadership and an institutional policy dispute, not a named federal executive subject with a qualifying misconduct action. It was not promoted.",
+    "AP, Reuters, The New York Times, CBS News, ABC News, Axios, and other reputable national-source searches were used where accessible. Reuters, The New York Times, and some agency pages were not consistently date-filterable or retrievable through the web interface; those limitations are gaps, not evidence of absence.",
+    "No current-window A01 event was promoted. This scoped scan records reviewed sources, one quarantined lead, and access limitations; it is not proof of exhaustive absence."
+  ]
+}

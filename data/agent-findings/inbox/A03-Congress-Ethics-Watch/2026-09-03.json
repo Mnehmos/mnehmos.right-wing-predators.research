@@ -1,0 +1,143 @@
+{
+  "agent": "A03-Congress-Ethics-Watch",
+  "run_date": "2026-09-03",
+  "sources_checked": [
+    "https://ethics.house.gov/",
+    "https://ethics.house.gov/press-releases/",
+    "https://ethics.house.gov/category/committee-reports/",
+    "https://conduct.house.gov/",
+    "https://conduct.house.gov/news/press-advisories",
+    "https://conduct.house.gov/reports",
+    "https://conduct.house.gov/reports/investigations",
+    "https://www.ethics.senate.gov/public/index.cfm/news",
+    "https://www.ethics.senate.gov/public/index.cfm/pressreleases",
+    "https://www.ethics.senate.gov/public/index.cfm/events",
+    "https://clerk.house.gov/Static/",
+    "https://clerk.house.gov/Home/ViewFloorActions",
+    "https://www.house.gov/representatives",
+    "https://www.house.gov/legislative-activity",
+    "https://rules.house.gov/",
+    "https://www.senate.gov/legislative/LIS/floor_activity/floor_activity.htm",
+    "https://www.govinfo.gov/app/collection/crec/2026",
+    "https://www.congress.gov/congressional-record/browse-by-date",
+    "https://judiciary.house.gov/media/press-releases/chairman-jordan-seeks-information-biden-harris-fbis-round-river-operation",
+    "https://judiciary.house.gov/media/in-the-news/jim-jordan-demands-fbi-round-river-docs-after-memos-reveal-targeting-trump",
+    "https://oversight.house.gov/release/chairman-comer-issues-statement-on-leon-black-not-appearing-for-deposition/",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/usao-wdmo/pr/missouri-state-congressional-candidate-charged-conspiring-distribute-cocaine-frame-0",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://apnews.com/article/jeffrey-epstein-leon-black-oversight-680cc38cdefad4bcb3f10fe9224efda7",
+    "https://www.cbsnews.com/news/leon-black-jeffrey-epstein-lawsuit-house-oversight-committee/",
+    "https://www.washingtonpost.com/politics/2026/09/03/epstein-client-leon-black-sues-oversight-committee-over-investigation/",
+    "https://www.ky3.com/2026/09/03/missouri-house-candidate-charged-with-conspiring-plant-cocaine-opponent/",
+    "https://abc7.com/post/video-shows-moment-fbi-agents-surround-former-rep-eric-swalwell-sfo-amid-federal-investigation/19776020/",
+    "https://www.washingtonpost.com/politics/2026/09/01/house-vote-rep-chuck-edwards-censure-over-unprofessional-conduct-toward-female-staffers/",
+    "https://rollcall.com/2026/09/01/cherfilus-mccormick-associates-in-contempt/"
+  ],
+  "events": [
+    {
+      "event_id": "a03-jim-jordan-round-river-oversight-2026-09-02",
+      "person": "Jim Jordan",
+      "aliases": [],
+      "role": "Chairman, U.S. House Committee on the Judiciary",
+      "affiliation": "Republican",
+      "jurisdiction": "United States House Committee on the Judiciary and Federal Bureau of Investigation",
+      "government_level": "federal",
+      "branch": "legislative",
+      "event_type": "congressional oversight request for FBI investigation records",
+      "status": "official_action",
+      "auto_publish": false,
+      "confidence": "high",
+      "source_url": "https://judiciary.house.gov/media/press-releases/chairman-jordan-seeks-information-biden-harris-fbis-round-river-operation",
+      "source_title": "Chairman Jordan Seeks Information on Biden-Harris FBI's Round River Operation",
+      "publisher": "House Judiciary Committee Republicans",
+      "published_at": "2026-09-02",
+      "source_type": "government",
+      "subject_response": "The committee release records FBI Director Kash Patel's stated position that the FBI identified tens of thousands of responsive pages and was preparing them for disclosure; no separate response from Jordan was reported.",
+      "summary": "Jordan sent the FBI director a letter seeking records and details about the Round River counterintelligence operation, including materials concerning confidential human sources and the treatment of Republican officials and conservative organizations in the operation.",
+      "reason_for_status": "The official House Judiciary committee release documents Jordan's current oversight letter and his explicit Republican role. This is a congressional records request, not a misconduct finding against Jordan or a verified finding against the FBI; the release summarizes disputed allegations and ongoing document production. It is retained as contextual official action and is not auto-published to the misconduct ledger."
+    },
+    {
+      "event_id": "a03-james-comer-leon-black-subpoena-response-2026-09-03",
+      "person": "James Comer",
+      "aliases": [],
+      "role": "Chairman, U.S. House Committee on Oversight and Government Reform",
+      "affiliation": "Republican",
+      "jurisdiction": "United States House Committee on Oversight and Government Reform",
+      "government_level": "federal",
+      "branch": "legislative",
+      "event_type": "congressional oversight response to subpoena litigation",
+      "status": "official_action",
+      "auto_publish": false,
+      "confidence": "high",
+      "source_url": "https://oversight.house.gov/release/chairman-comer-issues-statement-on-leon-black-not-appearing-for-deposition/",
+      "source_title": "Chairman Comer Issues Statement on Leon Black Not Appearing for Deposition",
+      "publisher": "U.S. House Committee on Oversight and Government Reform",
+      "published_at": "2026-09-03",
+      "source_type": "government",
+      "subject_response": "Comer stated that the deposition would proceed with an empty chair and that he would discuss next steps with committee members. Black's attorney called the committee's demand a fishing expedition and said the lawsuit was filed in response to an abuse of congressional power.",
+      "summary": "Comer issued a statement after Leon Black declined to appear for a House Oversight deposition and filed a federal lawsuit challenging subpoenas connected to the committee's investigation of Jeffrey Epstein and related nondisclosure agreements.",
+      "reason_for_status": "The official committee release verifies Comer's statement and the current congressional oversight action. The item concerns a subpoena dispute involving a private witness, not misconduct by Comer or a final finding against Black. It is retained for traceability but is not auto-published; the underlying federal lawsuit is routed to A04 and Black's affiliation is not qualifying."
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead": "Federal prosecutors charged Missouri state representative candidate Thomas Christopher Ross by criminal complaint with conspiring to distribute cocaine to frame his political opponent.",
+      "source_url": "https://www.justice.gov/usao-wdmo/pr/missouri-state-congressional-candidate-charged-conspiring-distribute-cocaine-frame-0",
+      "source_title": "Missouri State Representative Candidate Charged with Conspiring to Distribute Cocaine to Frame Opponent",
+      "publisher": "U.S. Attorney's Office, Western District of Missouri, U.S. Department of Justice",
+      "published_at": "2026-09-03",
+      "status": "quarantined",
+      "subject_response": "No subject response was reported. DOJ states that the complaint's charges are accusations, not evidence of guilt, and that guilt must be determined by a federal jury.",
+      "related_sources": [
+        "https://www.ky3.com/2026/09/03/missouri-house-candidate-charged-with-conspiring-plant-cocaine-opponent/"
+      ],
+      "reason": "Ross is identified as the Republican primary winner for a Missouri state House seat, but this is a federal criminal proceeding involving a state-office candidate rather than a congressional member or staffer. It is routed to A04 for the DOJ/federal criminal matter and to the appropriate state watch for state-office coverage; A03 emits no event. The criminal complaint remains an allegation and Ross is presumed innocent."
+    },
+    {
+      "lead": "AP, CBS News, and The Washington Post reported that billionaire Leon Black filed a federal lawsuit challenging House Oversight subpoenas after declining to appear for a deposition in the committee's Epstein investigation.",
+      "source_url": "https://apnews.com/article/jeffrey-epstein-leon-black-oversight-680cc38cdefad4bcb3f10fe9224efda7",
+      "source_title": "Billionaire Leon Black skips Epstein deposition and sues House panel over subpoenas",
+      "publisher": "The Associated Press",
+      "published_at": "2026-09-03T13:24:22Z",
+      "status": "quarantined",
+      "subject_response": "Black's attorney said the subpoenas exceeded the committee's authority and that the lawsuit was filed in response to an abuse of congressional power. House Oversight Chairman James Comer said Black's testimony was crucial and supported discussing contempt proceedings.",
+      "related_sources": [
+        "https://www.cbsnews.com/news/leon-black-jeffrey-epstein-lawsuit-house-oversight-committee/",
+        "https://www.washingtonpost.com/politics/2026/09/03/epstein-client-leon-black-sues-oversight-committee-over-investigation/"
+      ],
+      "reason": "The civil filing is current and independently reported, but Black is not documented as Republican, right-wing, conservative, Trump-administration, or another qualifying affiliated person. The matter is not a misconduct finding against a congressional subject. It is retained as a non-qualifying lead and routed to A04 for federal-court coverage."
+    },
+    {
+      "lead": "ABC7 reported newly obtained video and warrant details concerning the FBI's investigation of former Democratic Representative Eric Swalwell over sexual-assault allegations.",
+      "source_url": "https://abc7.com/post/video-shows-moment-fbi-agents-surround-former-rep-eric-swalwell-sfo-amid-federal-investigation/19776020/",
+      "source_title": "Video shows moment FBI agents surround former Rep. Eric Swalwell at SFO amid federal investigation",
+      "publisher": "ABC7 Los Angeles/KGO",
+      "published_at": "2026-09-02T09:49:00Z",
+      "status": "quarantined",
+      "subject_response": "ABC7 reported that Swalwell denied the allegations; the report did not identify a criminal charge or official finding.",
+      "related_sources": [
+        "https://apnews.com/article/4615d9309781afd72fc2cd3fb7d7c121",
+        "https://ethics.house.gov/wp-content/uploads/2026/04/Press-Release-Rep.-Swalwell-4.13.26.pdf"
+      ],
+      "reason": "The report was outside the current 2026-09-02T17:03:22.226Z lookback boundary and concerns a former Democratic member who lacks qualifying affiliation. It was already handed from A04 for A03 review and is not duplicated as a current event. The reported investigation and allegations are not a charge or finding."
+    }
+  ],
+  "handoffs": [
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: review the September 3 federal criminal complaint against Missouri Republican state representative candidate Thomas Christopher Ross; A03 emits no event because Ross is a state-office candidate, not a congressional subject.",
+    "A04-Federal-Courts-DOJ-Law-Enforcement-Watch: review Leon Black's September 3 federal lawsuit challenging House Oversight subpoenas; A03 records only Chairman James Comer's congressional response and quarantines Black for lack of qualifying affiliation.",
+    "A09-States-Plains-Southwest-Watch: review Thomas Christopher Ross as a Missouri state representative candidate and Republican primary winner; A03's federal criminal lead is routed to A04."
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-02T17:03:22.226Z through 2026-09-03T17:03:22.226Z; run_date is 2026-09-03. Government pages generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The House Committee on Ethics archive showed no new member-specific report or press release in the window. The September 1 Edwards censure was outside this window and was not duplicated; later coverage was treated as procedural follow-up.",
+    "The Senate Select Committee on Ethics news, press-release, and events pages exposed no current-window senator-specific investigation, finding, discipline, or final action. Its newest listed press release remained dated August 21, 2024.",
+    "The Office of Congressional Conduct press-advisory and reports pages showed the July 23, 2026 Second Quarter advisory as the latest public report and no current-window referral or investigation result.",
+    "The House Clerk and House.gov pages showed routine September 2 floor activity and no new censure, resignation, removal, suspension, or ethics action involving a qualifying congressional subject during the current window.",
+    "Congress.gov was inaccessible to the fetcher because of a restricted URL or robots limitation. GovInfo's Congressional Record collection page was accessible only as a collection index, and no current-window ethics item was retrieved from it.",
+    "The Department of Justice and FBI indexes exposed the current Ross criminal complaint and other private-defendant matters but no new arrest, charge, indictment, conviction, sentencing, or misconduct action involving a qualifying congressional member, leadership figure, or senior staffer. Federal judicial and DOJ matters remain routed to A04.",
+    "The current House Judiciary Round River letter and House Oversight Black subpoena response are official congressional actions, but neither establishes misconduct by the Republican members who issued them; both are retained as non-publishable context.",
+    "AP, CBS News, The Washington Post, KY3, ABC7, Roll Call, and official committee pages were checked for current congressional allegations, court filings, investigations, contempt, censure, retaliation, obstruction, and discipline. Older Edwards, Cherfilus-McCormick, Ross, and Swalwell material was deduplicated or quarantined under the applicable scope and evidence rules.",
+    "This is a scoped negative scan, not proof that no unindexed, sealed, delayed, locally posted, or timestamp-ambiguous event exists. Blocked or inaccessible sources are limitations rather than evidence of absence."
+  ]
+}

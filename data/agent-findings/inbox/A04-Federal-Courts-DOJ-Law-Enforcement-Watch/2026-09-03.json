@@ -1,0 +1,101 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-09-03",
+  "sources_checked": [
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/usao/pressreleases",
+    "https://www.justice.gov/usao-dc/pr/former-homeland-security-employee-pleads-guilty-250000-fraud-scheme",
+    "https://www.justice.gov/usao-ma/pr/massachusetts-woman-pleads-guilty-assaulting-federal-agents-and-threatening-kill-them",
+    "https://www.justice.gov/usao-sdny/pr/former-executives-pre-ipo-investment-platform-charged-connection-450-million-fraud",
+    "https://www.justice.gov/usao-ndil/pr/us-customs-and-border-protection-officer-indicted-federal-civil-rights-charges",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/sites/default/files/reports/26-084.pdf",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.ca11.uscourts.gov/sites/default/files/judicial_complaints/11-26-90197,%20Corrected%20CJ%20Order%20for%20Public%20Website.pdf",
+    "https://www.ca9.uscourts.gov/decisions/opinions/",
+    "https://ww3.ca2.uscourts.gov/misconduct_orders.html",
+    "https://www.ca4.uscourts.gov/opinions/daily-opinions",
+    "https://www.ca6.uscourts.gov/news",
+    "https://www.ca3.uscourts.gov/",
+    "https://www.ca5.uscourts.gov/",
+    "https://www.supremecourt.gov/default.aspx",
+    "https://ord.uscourts.gov/index.php/ct-calendar/eventsbyday/2026/9/3/228",
+    "https://www.courtlistener.com/recap/",
+    "https://news.wttw.com/2026/09/02/judge-won-t-toss-charges-against-border-patrol-agent-accused-sex-assaults-despite",
+    "https://chicago.suntimes.com/crime/2026/09/02/broadview-six-luis-uribe-customs-border-protection",
+    "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+    "https://news.bloomberglaw.com/us-law-week/misconduct-complaint-tossed-against-judge-over-pro-israel-talks",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/",
+    "https://www.washingtonpost.com/politics/courts-law/",
+    "https://www.courthousenews.com/category/criminal/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The DOJ Office of Inspector General reported that an unnamed former Assistant United States Attorney engaged in prostitution in violation of federal regulations and DOJ policy; the allegation was substantiated, the AUSA resigned, criminal prosecution was declined, and the report was referred to EOUSA and PMRU.",
+      "source_url": "https://oig.justice.gov/sites/default/files/reports/26-084.pdf",
+      "source_title": "Findings of Misconduct by a then Assistant United States Attorney (AUSA) for Solicitation of a Prostitute",
+      "publisher": "U.S. Department of Justice Office of the Inspector General",
+      "published_at": "2026-09-02",
+      "status": "quarantined",
+      "subject_response": "The unnamed former AUSA declined a voluntary OIG interview after resigning. The report states that criminal prosecution was declined and that the matter was provided to EOUSA and PMRU for appropriate action.",
+      "reason": "The official OIG report substantiates misconduct under a preponderance-of-the-evidence standard, but it does not identify the person, office, district, or any right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role beyond former AUSA employment. No person-specific event can be emitted without an identified subject and qualifying affiliation."
+    },
+    {
+      "lead": "ProPublica reported that DOJ leaders directed Minnesota prosecutors not to bring planned federal civil-rights charges against ICE agent Christian Castro for allegedly shooting Julio Cesar Sosa-Celis and instead considered false-statement charges; the report said no charge had yet been filed.",
+      "source_url": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+      "source_title": "Trump's DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor's 'Strongest Possible' Objections",
+      "publisher": "ProPublica",
+      "published_at": "2026-09-02T21:14:00Z",
+      "status": "quarantined",
+      "subject_response": "A DOJ official said charging decisions are collaborative and deliberative, that the agency had not reached a conclusion, and that it would review all evidence. The Minnesota AUSA and office spokesperson declined comment; Castro could not be reached.",
+      "reason": "This is a current, attributable investigative report, but it describes a possible future charge rather than a filed federal charge or official finding, relies on people familiar with the matter and one disclosed email, and lacks independent official corroboration. Castro's ICE employment and the operation's Trump-administration context do not alone establish a qualifying political or affiliated-organizational role. The lead remains quarantined and is routed to A01 as a follow-up to the related federal-executive matter."
+    },
+    {
+      "lead": "A federal judge denied Luis Uribe's request to dismiss his indictment after reviewing grand-jury materials connected to the separate Broadview Six prosecutorial-misconduct controversy; the judge found no structural defect, prejudice, or misconduct in Uribe's own case.",
+      "source_url": "https://chicago.suntimes.com/crime/2026/09/02/broadview-six-luis-uribe-customs-border-protection",
+      "source_title": "'Broadview 6' scandal won't derail trial of CBP agent accused of 'gunpoint sexual assaults'",
+      "publisher": "Chicago Sun-Times",
+      "published_at": "2026-09-02",
+      "status": "quarantined",
+      "subject_response": "Uribe, through counsel, argued that the indictment was tainted and sought dismissal or further proceedings. The court rejected the dismissal request; Uribe's underlying federal charges remain allegations and he is scheduled for trial.",
+      "reason": "The current court order is a procedural action, not a finding of misconduct by the judge or the assigned prosecutor. Uribe's CBP law-enforcement employment is not itself a qualifying right-wing, Republican, conservative, Trump-administration, or affiliated-organizational role. The related allegations against AUSA Sheri Mecklenburg concern another case and remain unresolved."
+    },
+    {
+      "lead": "The District of Columbia U.S. Attorney's Office reported that former DHS-CISA employee and federal contractor Richeline Anisso Fung pleaded guilty to making fraudulent claims while simultaneously working multiple federal positions, causing nearly $250,000 in losses.",
+      "source_url": "https://www.justice.gov/usao-dc/pr/former-homeland-security-employee-pleads-guilty-250000-fraud-scheme",
+      "source_title": "Former Homeland Security Employee Pleads Guilty in $250,000 Fraud Scheme",
+      "publisher": "U.S. Attorney's Office, District of Columbia, U.S. Department of Justice",
+      "published_at": "2026-09-02",
+      "status": "quarantined",
+      "subject_response": "Fung pleaded guilty and admitted the loss; the DOJ release states that she must pay full restitution. No separate public statement from Fung was reported.",
+      "reason": "The official release establishes a current federal guilty plea involving a former DHS employee and contractors for several agencies, including DOJ, but it documents no right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role for Fung. References to the Trump administration's fraud task force describe the prosecution's initiative, not Fung's affiliation."
+    },
+    {
+      "lead": "The District of Massachusetts U.S. Attorney's Office reported that Bethany Abigail Terrill pleaded guilty to assaulting federal agents and threatening to kill them during an immigration-enforcement encounter; the release quoted her saying, 'Charlie Kirk died, and we love it.'",
+      "source_url": "https://www.justice.gov/usao-ma/pr/massachusetts-woman-pleads-guilty-assaulting-federal-agents-and-threatening-kill-them",
+      "source_title": "Massachusetts Woman Pleads Guilty to Assaulting Federal Agents and Threatening to Kill Them",
+      "publisher": "U.S. Attorney's Office, District of Massachusetts, U.S. Department of Justice",
+      "published_at": "2026-09-02",
+      "status": "quarantined",
+      "subject_response": "The DOJ release reports Terrill's guilty plea; no separate subject response was reported. Sentencing was scheduled for December 16, 2026.",
+      "reason": "The official release establishes a current guilty plea, but the quoted anti-Charlie-Kirk statement and criticism of ICE do not establish that Terrill is right-wing, Republican, conservative, Trump-affiliated, or affiliated with another qualifying organization. The criminal disposition is retained without inferring political affiliation."
+    }
+  ],
+  "handoffs": [
+    "A01-Federal-Executive-Watch: follow up on the ProPublica report concerning Christian Castro and the reported DOJ direction to consider only false-statement charges; preserve that no federal charge had been filed, the DOJ response disputed finality, and the report is a current single-source account."
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-02T17:03:25.1505357Z through 2026-09-03T17:03:25.1505357Z; run_date is 2026-09-03. Government and court pages generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The DOJ national and U.S. Attorney press-release indexes exposed September 2 and September 3 criminal, civil, policy, and agency materials. Person-specific current matters were screened for arrests, charges, indictments, pleas, convictions, sentencing, civil filings, judicial misconduct, ethics, and law-enforcement abuse; none met the explicit-affiliation gate for A04 publication.",
+    "The DOJ OIG report 26-084 is a current official substantiation of misconduct by an unnamed former AUSA. The missing identity and absence of qualifying affiliation prevent a person-specific event; EOUSA and PMRU follow-up status was not publicly available.",
+    "The FBI national press-release index and DOJ investigative materials did not expose a current named FBI or DOJ misconduct finding involving a qualifying subject. The ProPublica Christian Castro report describes possible future charging and was not independently confirmed by an official filing.",
+    "The current Luis Uribe ruling was reported by the Chicago Sun-Times and WTTW. The court rejected dismissal and found no misconduct in Uribe's own grand-jury proceeding; allegations concerning a prosecutor in the separate Broadview Six matter remain unresolved.",
+    "The Eleventh Circuit Roy Altman judicial-misconduct dismissal was checked because it appeared in current search results, but the official order and Bloomberg Law report place the action on September 1, 2026, outside this lookback window. It was not duplicated.",
+    "Supreme Court, appellate, selected district-court, judicial-conduct, and CourtListener/RECAP searches exposed calendars, ordinary litigation, older orders, or incomplete docket access rather than a new qualifying A04 event. PACER is not broadly machine-readable without account-based access.",
+    "This scoped scan is not proof that no unindexed, sealed, delayed, locally posted, or timestamp-ambiguous federal matter exists."
+  ]
+}

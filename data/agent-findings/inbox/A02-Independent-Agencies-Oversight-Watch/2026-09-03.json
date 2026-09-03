@@ -1,0 +1,118 @@
+{
+  "agent": "A02-Independent-Agencies-Oversight-Watch",
+  "run_date": "2026-09-03",
+  "sources_checked": [
+    "https://www.sec.gov/newsroom",
+    "https://www.sec.gov/newsroom/press-releases",
+    "https://www.sec.gov/enforcement-litigation/opinions-adjudicatory-orders",
+    "https://www.sec.gov/enforcement-litigation/administrative-proceedings/open-litigated-administrative-proceedings",
+    "https://www.sec.gov/about/oig.shtml",
+    "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+    "https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-82.pdf",
+    "https://www.ftc.gov/news-events/news",
+    "https://www.ftc.gov/news-events/news/press-releases",
+    "https://www.fcc.gov/news-events",
+    "https://www.oversight.gov/inspectors-general/federal-communications-commission-oig",
+    "https://www.fec.gov/press/",
+    "https://www.fec.gov/updates/",
+    "https://www.fec.gov/office-inspector-general/",
+    "https://www.eeoc.gov/newsroom",
+    "https://www.eeoc.gov/newsroom/ford-motor-company-pay-23-million-resolve-eeoc-race-and-national-origin-harassment-charge",
+    "https://www.nlrb.gov/news-publications/news/news-releases",
+    "https://www.nlrb.gov/news-publications/news",
+    "https://www.nlrb.gov/cases-decisions/decisions/weekly-summaries-decisions?page=0",
+    "https://osc.gov/news/?year=2026",
+    "https://www.mspb.gov/updatelinks.htm",
+    "https://www.mspb.gov/decisions/decisions.htm",
+    "https://www.oge.gov/",
+    "https://www.gao.gov/",
+    "https://www.gao.gov/ig",
+    "https://www.oversight.gov/",
+    "https://www.oversight.gov/reports/investigations",
+    "https://www.oversight.gov/reports/investigations?page=0",
+    "https://www.oversight.gov/reports/recommendations",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/sites/default/files/reports/26-084.pdf",
+    "https://www.oversight.gov/inspectors-general/department-justice-oig",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/usao-ndca/pr/founder-and-ceo-bay-area-real-estate-investment-fund-charged-multi-year-fraud-scheme",
+    "https://oig.dol.gov/oigpressreleases.htm",
+    "https://www.oig.dol.gov/oifindings.htm",
+    "https://oig.dol.gov/recommendationdashboard.htm",
+    "https://oig.treasury.gov/",
+    "https://www.dodig.mil/Reports/Lead-Inspector-General-Reports/",
+    "https://vaoig.gov/",
+    "https://fdicoig.gov/news/news",
+    "https://amtrakoig.gov/news/press-releases-articles",
+    "https://www.oversight.gov/reports/grand-prairie-attorney-arrested-ponzi-scheme-and-obstructing-sec-investigation",
+    "https://www.justice.gov/usao-ndtx/pr/grand-prairie-attorney-arrested-ponzi-scheme-and-obstructing-sec-investigation",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.govexec.com/oversight/",
+    "https://www.govexec.com/workforce/",
+    "https://www.propublica.org/",
+    "https://www.cbsnews.com/news/",
+    "https://www.washingtonpost.com/",
+    "https://judiciary.house.gov/media/press-releases/house-republicans-seek-information-federal-judge-eleanor-rosss-judicial",
+    "https://www.cbsnews.com/news/gregory-bovino-border-patrol-retirement-internal-investigation/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "Mark D. Hanf, former CEO of Pacific Private Money Group LLC, and Hoai-Nam Chu Phan, also known as Nam Phan and described as a former COO of a PPMG subsidiary, were the subjects of a September 1 SEC civil complaint alleging an $80 million-plus Ponzi-like offering fraud affecting approximately 190 mostly retail investors. The SEC alleges that Hanf misappropriated more than $7 million. The SEC says both defendants consented, subject to court approval, to permanent injunctions, with monetary relief to be determined later.",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+      "source_title": "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "published_at": "2026-09-01",
+      "status": "quarantined",
+      "subject_response": "The SEC release states that Hanf and Phan consented to injunctions subject to court approval without admitting or denying the allegations; no separate subject statement was located. The parallel DOJ information is accusatory and does not establish guilt.",
+      "related_sources": [
+        "https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-82.pdf",
+        "https://www.justice.gov/usao-ndca/pr/founder-and-ceo-bay-area-real-estate-investment-fund-charged-multi-year-fraud-scheme"
+      ],
+      "reason": "Official SEC enforcement material qualifies as a documented civil action, but neither Hanf nor Phan has an explicit right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role in the reviewed sources. The civil matter is quarantined in A02 and the parallel federal criminal proceeding is handed to A04. The SEC allegations and consent posture are preserved without treating them as criminal convictions or established guilt."
+    },
+    {
+      "lead": "An unnamed then Assistant United States Attorney was the subject of DOJ OIG investigative summary 26-084, posted September 2, concerning alleged solicitation of a prostitute. DOJ OIG reported that it substantiated prostitution under the preponderance-of-the-evidence standard and found a violation of federal public-service regulations and DOJ policy. The AUSA resigned from EOUSA after being contacted for an interview, later declined a voluntary interview, and criminal prosecution was declined.",
+      "source_url": "https://oig.justice.gov/sites/default/files/reports/26-084.pdf",
+      "source_title": "Findings of Misconduct by a then Assistant United States Attorney (AUSA) for Solicitation of a Prostitute",
+      "publisher": "U.S. Department of Justice Office of the Inspector General",
+      "published_at": "2026-09-02",
+      "status": "quarantined",
+      "subject_response": "The former AUSA declined a voluntary OIG interview after resignation; no separate public response or identifying name was provided. DOJ OIG said criminal prosecution was declined.",
+      "related_sources": [
+        "https://www.oversight.gov/reports/investigations?page=0",
+        "https://oig.justice.gov/reports/type/investigation"
+      ],
+      "reason": "The official OIG finding is person-specific in role but withholds the subject's name and provides no qualifying political or organizational affiliation. It is therefore quarantined rather than promoted to an event. Criminal prosecution was declined, so no A04 criminal-proceeding handoff is made."
+    }
+  ],
+  "handoffs": [
+    {
+      "to_agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+      "lead": "Mark D. Hanf, 66, of Tiburon, and Hoai-Nam Chu Phan, 58, of Novato, were charged in a federal information filed August 31 with conspiracy to commit wire fraud; Hanf was also charged with money laundering. DOJ alleges a multi-year fraud scheme involving more than $100 million from more than 175 investors, false statements, transfers between funds, payments to earlier investors from newer investor funds, and personal expenses. Both made initial appearances in San Francisco on September 1 and waived indictment; change-of-plea hearings were set for September 23 for Phan and September 30 for Hanf.",
+      "source_url": "https://www.justice.gov/usao-ndca/pr/founder-and-ceo-bay-area-real-estate-investment-fund-charged-multi-year-fraud-scheme",
+      "source_title": "Founder And CEO Of Bay Area Real Estate Investment Fund Charged In Multi-Year Fraud Scheme",
+      "publisher": "U.S. Department of Justice, U.S. Attorney's Office for the Northern District of California",
+      "published_at": "2026-09-01",
+      "related_sources": [
+        "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+        "https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-82.pdf"
+      ],
+      "reason": "This is a federal criminal proceeding and is routed to A04. DOJ expressly states that an information is only an accusation and that both defendants are presumed innocent. No qualifying political affiliation was documented, so A02 emits no event; the SEC civil aspect remains quarantined in A02."
+    }
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-02T10:03:27-07:00 through 2026-09-03T10:03:27-07:00; run_date is 2026-09-03. The scan used the current host clock and agency publication dates, which do not always expose reliable release times.",
+    "The September 1 SEC release and September 1 DOJ Northern District of California release were located during the current-window review. Hanf and Phan have no documented qualifying affiliation; the SEC civil matter is quarantined and the DOJ criminal proceeding is handed to A04 with allegations, consent posture, hearing dates, and presumption of innocence preserved.",
+    "DOJ OIG investigative summary 26-084, posted September 2, reports a substantiated prostitution finding against an unnamed then AUSA, resignation, declined voluntary interview, and declined criminal prosecution. The missing name and absent qualifying affiliation prevent event publication.",
+    "DOJ OIG management advisory 26-083 concerning inconsistencies between the FBI non-retaliation policy and retaliation offense code was reviewed as institutional oversight material; it names no qualifying subject and is not an A02 event.",
+    "The FTC index exposed current corporate consumer-protection matters, and the EEOC exposed the September 1 Ford $2.3 million race and national-origin harassment settlement. Neither identified a covered agency official, senior counsel, or qualifying affiliated person.",
+    "The FCC general news interface was variably searchable through the available fetcher; the FCC OIG material exposed no current-window named misconduct finding involving a qualifying subject.",
+    "The FEC public press, updates, and OIG pages exposed no current-window person-specific ethics or misconduct matter meeting the affiliation gate. The NLRB's newest accessible news-release item was an August 27 chief-counsel appointment, not misconduct, and no current-window MSPB matter met the gate.",
+    "OSC's accessible 2026 index exposed August disciplinary complaints against unnamed federal employees for alleged Hatch Act violations; the releases did not identify the subjects or document qualifying affiliation. OGE's current material was programmatic ethics administration, not a named qualifying matter.",
+    "GAO and reviewed inspector-general indexes for DOL, Treasury, Department of War, VA, FDIC, Amtrak, SEC, FCC, and DOJ exposed audits, management advisories, or institutional material without an additional current-window named qualifying event.",
+    "Current searches of AP, Reuters, Government Executive, ProPublica, CBS News, The Washington Post, and agency/court indexes found no additional A02 event. Prior A02, current central findings, and current A01/A03/A10 inbox artifacts were checked for duplication; the Eleanor Ross congressional matter and earlier Gilchrist/Bovino leads were not re-emitted. This negative scan is not proof that no unindexed event exists."
+  ]
+}

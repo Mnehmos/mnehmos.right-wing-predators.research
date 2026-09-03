@@ -1,8 +1,36 @@
 {
   "schema_version": 1,
-  "source_digest": "0203062c58036929f25a79abf4ea0c2f567ecc9d802eb63f83764bdb3f0136ee",
-  "event_count": 31,
+  "source_digest": "30b9e18c5291d3b9e6c8e993c23ec4a003fa3108c33eae53bb12a8fbb69adf4c",
+  "event_count": 32,
   "events": [
+    {
+      "event_id": "a08-in-poling-official-investigation-2026-09-02",
+      "agent": "A08-States-Midwest-Watch",
+      "run_date": "2026-09-03",
+      "person": "Charles (Chuck) Poling Jr.",
+      "aliases": [
+        "Chuck Poling",
+        "Chuck Poling Jr."
+      ],
+      "role": "Grant County Commissioner, District 2",
+      "affiliation": "Republican Party; Republican candidate for Grant County Commissioner, District 2",
+      "jurisdiction": "Grant County, Indiana",
+      "government_level": "county",
+      "branch": "legislative",
+      "event_type": "official misconduct investigation and law-enforcement referral",
+      "status": "official_action",
+      "auto_publish": true,
+      "confidence": "medium",
+      "source_url": "https://www.in.gov/counties/grant/files/Internal-Investigation-of-Chuck-Poling-Report-9-2-26.pdf",
+      "source_title": "Internal Investigation Report Concerning Commissioner Chuck Poling",
+      "publisher": "Grant County, Indiana",
+      "published_at": "2026-09-02",
+      "source_type": "official",
+      "subject_response": "The report states that Poling was contacted about preliminary findings on August 23 and allegedly cursed, yelled, and interrupted the county attorney. WRTV reported that Poling voted against releasing the report and recommendations at the September 2 special meeting and declined comment afterward; no separate written response was located.",
+      "summary": "Grant County released a 30-page internal investigation report alleging that Republican Commissioner Chuck Poling intimidated and threatened employees and elected officials, misused county resources, engaged in potential surveillance, conflicts, election-related misconduct, retaliation, and preferential influence. Commissioners voted to remove his individual control over county administration and refer the report to Indiana State Police, the State Board of Accounts, and the FBI.",
+      "reason_for_status": "The official county investigation report, county roster, and official Indiana Republican candidate filing establish the subject, role, affiliation, and procedural action; independent WRTV and 21Alive reports describe the same release and referral. The event is auto-publishable under the official-record contract with medium confidence. The allegations remain unresolved, no criminal charge or conviction is implied, and Poling is presumed innocent.",
+      "source_file": "data/agent-findings/inbox/A08-States-Midwest-Watch/2026-09-03.json"
+    },
     {
       "event_id": "a03-chuck-edwards-house-censure-2026-09-01",
       "agent": "A03-Congress-Ethics-Watch",
