@@ -1,0 +1,83 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-09-04",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-09-03&conditions%5Bpublication_date%5D%5Blte%5D=2026-09-04",
+    "https://www.oge.gov/",
+    "https://oge.gov/Web/oge.nsf/ethicsofficials_oge-oversight",
+    "https://www.oversight.gov/",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/usao-mn/pr",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://oig.justice.gov/foia-reading-room",
+    "https://oig.justice.gov/investigations/criminal_and_civil_cases",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://apnews.com/article/5a429fee81fe85c09ca59ea9366c019d",
+    "https://www.marketscreener.com/news/ice-agent-charged-with-lying-over-minnesota-shooting-source-says-ce785bdadb8af223",
+    "https://www.washingtonpost.com/national-security/2026/09/03/ice-agent-charged-with-making-false-statements-minneapolis-shooting/",
+    "https://www.cbsnews.com/news/ice-minnesota-federal-prosecutor-fired-investigating-castro-sosa-celis/",
+    "https://abcnews.com/amp/US/ice-agent-faces-federal-charges-allegedly-lying-about-minneapolis/story?id=136179269",
+    "https://www.startribune.com/christian-castro-ice-agent-federal-indictment/601885856",
+    "https://apnews.com/article/ice-whistleblower-background-checks-vetting-hiring-spree-e480c4cd35d603537b0274419ae47b55",
+    "https://www.washingtonpost.com/national/2026/09/03/ice-whistleblower-background-checks-vetting-hiring-spree/30916fc0-a7e6-11f1-9e38-f705d048bd5a_story.html",
+    "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+    "https://minnesotareformer.com/2026/09/03/trumps-doj-blocked-serious-ice-shooting-charge-over-federal-prosecutors-strongest-possible-objections/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Associated Press and The Washington Post reported on a newly released whistleblower complaint from an unnamed, now-retired ICE Office of Professional Responsibility unit chief who warned that ICE hired officers before basic vetting was complete during the Trump administration's mass-deportation campaign. The complaint alleged systemic vetting failures and asked DHS OIG to investigate.",
+      "source_url": "https://apnews.com/article/ice-whistleblower-background-checks-vetting-hiring-spree-e480c4cd35d603537b0274419ae47b55",
+      "source_title": "ICE whistleblower warned of 'unprecedented lowering of standards' during hiring spree",
+      "publisher": "Associated Press",
+      "published_at": "2026-09-03T22:20:34Z",
+      "status": "quarantined",
+      "subject_response": "ICE said the whistleblower was no longer with the agency and that its Office of Professional Responsibility applies personnel-vetting regulations and evaluates available information for every applicant. The whistleblower's identity was redacted, and no individual response was available.",
+      "reason": "The current-window reporting documents a named agency-level complaint but does not identify the whistleblower or any individual alleged to have committed misconduct. The report's statement that the whistleblower was a longtime Republican who voted for Trump is not enough to identify a trackable person, and the underlying complaint was dated August 2025. The matter is retained for follow-up and is not promoted as a person-specific event."
+    }
+  ],
+  "handoffs": [
+    {
+      "target_agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+      "person": "Matthew Evans",
+      "aliases": [
+        "Matt Evans"
+      ],
+      "role": "Assistant U.S. Attorney, District of Minnesota",
+      "affiliation": "Career federal prosecutor; no qualifying personal Republican, conservative, right-wing, Trump-administration, or affiliated-organizational role documented",
+      "jurisdiction": "United States District Court, District of Minnesota",
+      "event_type": "reported firing and DOJ investigation concerning alleged leak or obstruction related to the Christian Castro prosecution",
+      "status": "reported_allegation",
+      "source_url": "https://www.cbsnews.com/news/ice-minnesota-federal-prosecutor-fired-investigating-castro-sosa-celis/",
+      "source_title": "Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say",
+      "publisher": "CBS News",
+      "published_at": "2026-09-04T00:36:00Z",
+      "subject_response": "CBS News said it contacted Evans for comment. An automatic Justice Department email response said he was on leave; no direct response was reported.",
+      "reason": "This is a federal prosecutor personnel and criminal-investigation report outside A01's qualifying political-affiliation gate and is based on multiple anonymous sources without an official DOJ confirmation. Route to A04 for federal-court and DOJ ownership while preserving that firing, leaking, obstruction, and investigation claims remain unresolved. The related current federal charge against ICE officer Christian Castro was already routed to A04 by A08 and is not duplicated here."
+    }
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-03T00:03:57.3299019-07:00 through 2026-09-04T00:03:57.3299019-07:00, using the current host time as the daily boundary. Government indexes generally expose publication dates rather than reliable exact release times.",
+    "White House news and presidential-actions indexes showed no current-window person-specific misconduct, ethics, discipline, removal, resignation, or investigation action involving a qualifying federal executive official.",
+    "DOJ national, District of Minnesota, OPR, OIG investigative, OIG recent-news, and FBI materials exposed no current-window qualifying federal-executive misconduct finding or official personnel action. The DOJ OIG FOIA Reading Room's September 2 misconduct posting was outside the current window and concerned an unnamed subject.",
+    "The current AP, Reuters, Washington Post, CBS, ABC, and Star Tribune reporting confirmed that ICE officer Christian Castro was federally charged or indicted for alleged false statements related to the Minneapolis shooting. ICE employment and service in a Trump-administration operation do not establish a qualifying personal political or affiliated-organizational role; A08 already routed the federal criminal matter to A04, so A01 emitted no duplicate event or handoff.",
+    "The current CBS, ABC, AP, and Washington Post reporting that Assistant U.S. Attorney Matthew Evans was fired or investigated for alleged leaking or obstruction was source-constrained, lacked an official DOJ confirmation, and did not document a qualifying political affiliation. It was handed to A04 rather than promoted.",
+    "The Federal Register, OGE, Oversight.gov, Secret Service, DHS, OPM, State, Defense, HHS, Treasury, CFTC, and U.S. Courts indexes were checked where retrievable; no current-window qualifying federal-executive arrest, charge, indictment, conviction, sentencing, sexual-misconduct matter, ethics complaint or finding, investigation, discipline, retaliation adjudication, resignation for misconduct, removal, suspension, lawsuit, settlement, obstruction, or cover-up was identified.",
+    "The ICE vetting whistleblower report was retained as a quarantine because the complainant was unnamed and the complaint concerns alleged 2025 hiring-process failures rather than a current identified person's misconduct. ICE's response and DHS OIG investigative context were preserved.",
+    "Some agency pages, Federal Register filters, court systems, Reuters pages, and subscription news pages were not consistently retrievable or date-filterable through the web interface. These limitations are coverage gaps, not evidence of absence; this scoped scan is not proof of exhaustive absence."
+  ]
+}

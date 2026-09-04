@@ -1,0 +1,88 @@
+{
+  "agent": "A05-States-Northeast-Watch",
+  "run_date": "2026-09-04",
+  "sources_checked": [
+    "https://www.maine.gov/dps/msp/media-center/news-releases/2026-archive",
+    "https://www.maine.gov/ethics/",
+    "https://www.courts.maine.gov/news/",
+    "https://www.pressherald.com/news/mainecrime/",
+    "https://www.centralmaine.com/mainecrime/",
+    "https://www.nh.gov/hsafety/divisions/nhsp/news/index.htm",
+    "https://www.doj.nh.gov/news",
+    "https://gc.nh.gov/ethics/",
+    "https://gc.nh.gov/ethics/Complaints/Complaint%202026-3%20-%20SPECIAL%20REPORT%20TO%20THE%20SPEAKER%20-%2007.02.2026.pdf",
+    "https://www.laconiadailysun.com/news/elections/advocacy-group-lodges-ethics-complaint-against-lang-3-others-after-israel-trip/article_09bc7c74-4a14-4665-bd5c-bf74902bd19e.html",
+    "https://vsp.vermont.gov/press-releases",
+    "https://www.vtcourts.gov/",
+    "https://ago.vermont.gov/",
+    "https://malegislature.gov/",
+    "https://www.mass.gov/orgs/state-ethics-commission",
+    "https://mapostcommission.gov/",
+    "https://www.mass.gov/orgs/office-of-the-attorney-general/news?page=0",
+    "https://www.wbur.org/news/2026/08/26/massachusetts-gop-lawsuit",
+    "https://ethics.ri.gov/complaints-and-enforcement",
+    "https://ethics.ri.gov/complaints/decisions/index.php",
+    "https://www.ri.gov/press/?agency_id=40",
+    "https://www.courts.ri.gov/",
+    "https://rhodeislandcurrent.com/2026/09/01/ethics-commission-dismisses-complaint-against-lawson-opens-probe-of-gop-whip/",
+    "https://portal.ct.gov/DCJ",
+    "https://portal.ct.gov/Ethics/Enforcement-Actions/Enforcement-Actions",
+    "https://portal.ct.gov/AG/Press-Releases",
+    "https://valley.newhavenindependent.org/2026/09/04/seymour-ethics-board-meets-again-over-complaint/",
+    "https://ag.ny.gov/office-special-investigation/investigative-reports",
+    "https://ethics.ny.gov/report-misconduct",
+    "https://www.nycourts.gov/reporter/",
+    "https://ag.ny.gov/press-releases",
+    "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-arrest-rochester-nursing-home-employee",
+    "https://publicapps.troopers.ny.gov/Media_Reports/",
+    "https://publicapps.troopers.ny.gov/media/TroopG/MediaThu1.pdf",
+    "https://www.timesunion.com/news/article/gloversville-politician-arrested-accused-assault-22416360.php",
+    "https://www.fultoncountyny.gov/elected-officials",
+    "https://www.njoag.gov/news/",
+    "https://www.nj.gov/ethics/procedures/investigative/",
+    "https://www.bcpo.net/2026/09/?cat=16",
+    "https://newjerseyglobe.com/local/jason-carty-arrested-on-domestic-violence-charges-judge-terminates-gina-laplaca-pti/",
+    "https://www.shorenewsnetwork.com/rockaway-township-police-officer-charged-with-obstruction-drug-distribution-conspiracy/",
+    "https://jerseybee.org/2026/09/03/appeals-court-rejects-rep-mcivers-attempt-to-dismiss-criminal-charges/",
+    "https://www.boston25news.com/news/local/suffolk-county-sheriff-acquitted-federal-extortion-charges/S6QCUPC3BZCY3AIQREEF2UG2UY/?outputType=amp"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Albany Times Union reported that Ryan W. Hernigle, a Republican Fulton County Board of Supervisors representative for Gloversville Ward 2 and a Gloversville Police Department corporal, was arrested on Thursday and charged with misdemeanor third-degree assault and official misconduct plus felony falsifying business records. The report says the alleged conduct arose from an off-duty July 31 encounter with Adam P. Steinkamp; Steinkamp alleged that Hernigle injured him while officers detained him. Hernigle remains on paid administrative leave from the police department.",
+      "source_url": "https://www.timesunion.com/news/article/gloversville-politician-arrested-accused-assault-22416360.php",
+      "source_title": "State Police arrest Gloversville politician accused of July assault",
+      "publisher": "Albany Times Union",
+      "published_at": "2026-09-03T16:39:00-04:00",
+      "status": "quarantined",
+      "subject_response": "Hernigle told the Times Union, \"There are multiple angles, but I have no comment at this time, OK? I would like the justice system to take its path and work with as little interference as possible.\" The Gloversville Police Benevolent Association said it cooperated and would continue cooperating with the State Police investigation while ensuring Hernigle's contractual and legal rights. His fiancee, Gloversville Councilmember Jessica McNamara, offered a different account in a social-media comment, saying he asked Steinkamp to pick up litter and that Steinkamp later threw a bottle and a brick.",
+      "reason": "The report is current, names the State Police investigation and agency spokespersons, includes Hernigle's direct response, and the official Fulton County roster confirms his covered local-government role and Republican affiliation. It remains quarantined because only one independent reputable report was located in the current window; no directly accessible State Police charging record or second independent reputable report was found. The charges and allegations are preserved without treating them as convictions or established misconduct, and Hernigle remains presumed innocent."
+    }
+  ],
+  "handoffs": [
+    {
+      "to_agent": "A03-Congress-Ethics-Watch",
+      "lead": "A September 3 report from The Jersey Bee/New Jersey Monitor states that a federal appeals court rejected U.S. Representative LaMonica McIver's attempt to dismiss federal charges arising from the May 2025 Delaney Hall incident in Newark. McIver pleaded not guilty; the charges remain allegations. McIver is a Democrat and the matter is federal/congressional, so it is outside A05 ownership.",
+      "source_url": "https://jerseybee.org/2026/09/03/appeals-court-rejects-rep-mcivers-attempt-to-dismiss-criminal-charges/",
+      "reason": "Federal congressional court development routed to A03; no A05 event created."
+    },
+    {
+      "to_agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+      "lead": "Boston 25 News reported on September 3 that Suffolk County Sheriff Steven Tompkins was acquitted by a jury of federal extortion charges. The report states that he had been indicted on two counts and that prosecutors alleged he extorted $50,000 from a cannabis-retailer owner. Tompkins is a Massachusetts Democrat; the acquittal and federal criminal matter are outside A05 ownership.",
+      "source_url": "https://www.boston25news.com/news/local/suffolk-county-sheriff-acquitted-federal-extortion-charges/S6QCUPC3BZCY3AIQREEF2UG2UY/?outputType=amp",
+      "reason": "Federal criminal-court disposition routed to A04; preserve acquittal and the distinction between indictment allegations and the not-guilty verdict."
+    }
+  ],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-03T04:00:00-07:00 through 2026-09-04T04:00:00-07:00; many government and court indexes expose dates or posting dates rather than reliable exact publication timestamps, so the boundary is operational.",
+    "Maine State Police, Maine ethics, Maine court, and local-news materials do not provide a uniformly searchable current misconduct index through the available interface; no in-window qualifying event was verified.",
+    "New Hampshire State Police, Department of Justice, judicial-ethics, and legislative materials were not uniformly searchable for the precise 24-hour boundary. The earlier Tim Lang ethics complaint was outside the current window and remained quarantined rather than promoted.",
+    "Vermont State Police, judiciary, attorney-general, and legislative pages were accessible through non-uniform current indexes; no in-window named covered person with qualifying affiliation was verified.",
+    "Massachusetts ethics, POST, legislative, attorney-general, and local-news retrieval was not uniform. The current Suffolk County sheriff federal acquittal was routed to A04 because it is federal and the subject is a Democrat.",
+    "Rhode Island Ethics Commission, Judiciary, State Police, and local-source materials were checked; the Gordon Rogers investigation was outside this window and was not duplicated.",
+    "Connecticut Division of Criminal Justice, Office of State Ethics, attorney-general, and local-source retrieval was not uniformly date-filterable. The Seymour ethics complaint report did not identify the subject or document a qualifying affiliation or public action.",
+    "New York Attorney General, judicial, ethics, and State Police materials were checked. The Hernigle report was quarantined pending the required second independent report or directly accessible official charging record; ordinary defendants and non-affiliated subjects were excluded.",
+    "New Jersey attorney-general, prosecutor, ethics, court, and regional-source materials were checked. The current Reddin police-officer charge lacked qualifying political affiliation, the Carty matter identified Democratic subjects, and the McIver federal appeal was routed to A03.",
+    "Dynamic, blocked, sealed, paywalled, and non-uniform source indexes limit exhaustiveness. Blocked or inaccessible sources are coverage limitations, not evidence of absence; federal matters remain routed to A01-A04 and nationwide matters outside this region remain outside A05."
+  ]
+}
