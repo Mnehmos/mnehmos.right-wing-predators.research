@@ -1,0 +1,76 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-09-07",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-09-06&conditions%5Bpublication_date%5D%5Blte%5D=2026-09-07",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/usao-ndtx/pr/federal-authorities-charge-ex-uscis-official-and-associate-sweeping-corruption-scheme",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.uscis.gov/newsroom",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://currently.att.yahoo.com/att/senior-uscis-official-arrested-green-075850455.html",
+    "https://www.cbsnews.com/news/jason-crow-pete-hegseth-leak-investigation-congress-briefing/",
+    "https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c",
+    "https://www.usmarshals.gov/news"
+  ],
+  "events": [
+    {
+      "event_id": "a01-lukman-owolabi-ganiyu-uscis-corruption-charge-2026-09-07",
+      "person": "Lukman Owolabi Ganiyu",
+      "aliases": [],
+      "role": "Former Senior Immigration Services Officer, U.S. Citizenship and Immigration Services, Dallas",
+      "affiliation": "Trump-administration-era senior USCIS official; federal executive-branch employee in the Department of Homeland Security",
+      "jurisdiction": "United States District Court for the Northern District of Texas",
+      "government_level": "federal",
+      "branch": "executive",
+      "event_type": "federal corruption charge alleging illegal gratuities for manipulating and expediting immigration applications",
+      "status": "criminal_charge",
+      "auto_publish": true,
+      "confidence": "high",
+      "source_url": "https://www.justice.gov/usao-ndtx/pr/federal-authorities-charge-ex-uscis-official-and-associate-sweeping-corruption-scheme",
+      "source_title": "Federal authorities charge ex USCIS official and associate in sweeping corruption scheme involving unlawful approval and expedited processing of immigration applications",
+      "publisher": "U.S. Attorney's Office, Northern District of Texas, U.S. Department of Justice",
+      "published_at": "2026-09-04T00:00:00Z",
+      "source_type": "government",
+      "subject_response": "A September 7 Newsweek report said Ganiyu issued a denial in response to the arrest and reported that Newsweek contacted him and his attorneys. The DOJ release states that a criminal complaint is an allegation and that Ganiyu is presumed innocent; no adjudicated finding was reported.",
+      "summary": "Federal prosecutors charged former senior USCIS officer Ganiyu and Adeniyi Akeem Somoye with conspiracy to receive illegal gratuities by a public official. The complaint alleges that Ganiyu used his USCIS position from December 2019 through March 2026 to approve or expedite immigration applications in exchange for money. Ganiyu resigned on March 21, 2026, and was arrested September 2. The allegations remain unproven.",
+      "reason_for_status": "The official DOJ release identifies Ganiyu's senior federal executive role, the criminal complaint, the arrest, the alleged conduct, and the presumption of innocence. The current-window September 7 Newsweek follow-up supplies a subject denial and continuing coverage. The event is classified as a criminal_charge, not a conviction or finding. The official record permits auto_publish, and no duplicate was found in src/data/agent-findings.json or existing A01 inbox files."
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead": "CBS News reported that Defense Secretary Pete Hegseth was directing a leak investigation after sensitive munitions information reached the media, that senior military leaders underwent polygraph testing, and that Representative Jason Crow characterized the probe as an effort to create fear and clamp down on information.",
+      "source_url": "https://www.cbsnews.com/news/jason-crow-pete-hegseth-leak-investigation-congress-briefing/",
+      "source_title": "Rep. Jason Crow says Congress hasn't been briefed on Hegseth leak investigation, calls it part of an 'effort to create fear'",
+      "publisher": "CBS News",
+      "published_at": "2026-09-07T15:20:00Z",
+      "status": "quarantined",
+      "subject_response": "CBS reported that the Pentagon leak investigation was underway and that officials said not all senior military leaders were tested; no direct Hegseth response or adjudicated misconduct finding was reported in the current article.",
+      "reason": "The current reporting relies on a congressional characterization and unnamed officials, does not establish that Hegseth committed misconduct, and does not document an official finding, charge, discipline, retaliation adjudication, or cover-up determination. Retain for follow-up rather than promote."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-06T18:43:56-07:00 through 2026-09-07T18:43:56-07:00, using the current host time as the daily boundary.",
+    "The September 7 USCIS follow-up was current-window reporting about a September 2 arrest and September 4 DOJ release; no newer federal charging, finding, or personnel action involving Ganiyu was identified.",
+    "White House, Federal Register, OGE, Oversight.gov, DOJ national and OPR indexes, DOJ OIG, FBI, Secret Service, DHS, USCIS, OPM, State, Defense, HHS, Treasury, CFTC, and federal-court conduct indexes exposed no additional current-window qualifying federal-executive misconduct event.",
+    "The Hegseth leak-probe report was not promoted because it was unresolved, relied partly on anonymous sourcing, and included a political characterization rather than a verified misconduct finding or official action.",
+    "Labor Day reduced normal federal publication volume, and some agency, court, Reuters, subscription-news, and social-media pages were unavailable or not reliably date-filterable through the web interface. These are coverage gaps, not evidence of absence."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-09-07",
+  "sources_checked": [
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa/pr",
+    "https://www.justice.gov/usao/pressreleases?items_per_page=50",
+    "https://www.justice.gov/criminal/press-releases",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.usmarshals.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca1.uscourts.gov/2026",
+    "https://www.ca5.uscourts.gov/judicial-conduct-matters",
+    "https://www.ce9.uscourts.gov/misconduct/orders/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.cafc.uscourts.gov/home/the-court/judges/judicial-conduct-and-disability/",
+    "https://www.supremecourt.gov/",
+    "https://www.supremecourt.gov/DocketPDF/26/26A297/423227/20260906111028101_26A297_USPS_Letter.pdf",
+    "https://www.supremecourt.gov/DocketPDF/26/26A305/423226/20260906094536416_COS%20USPS%20v.%20California%20PI.pdf",
+    "https://www.courtlistener.com/recap/",
+    "https://www.dcd.uscourts.gov/",
+    "https://www.ord.uscourts.gov/index.php/ct-calendar/monthcalendar/2026/9/228%2C229%2C227%2C604",
+    "https://apnews.com/article/3d40f81fd3ba0b5e28d6b962ca6b343d",
+    "https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c",
+    "https://www.investing.com/news/economy-news/federal-appeals-court-upholds-ban-on-trumps-bid-to-use-citizenship-data-for-voter-checks-4890220",
+    "https://theamericanhabit.com/public-defenders-target-trump-federal-prosecutor-bill-essayli-in-socal/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Associated Press reported on September 7 that Malone Lam and other defendants face federal charges tied to an alleged $240 million cryptocurrency theft and laundering scheme, with Lam described as an alleged ringleader.",
+      "source_url": "https://apnews.com/article/3d40f81fd3ba0b5e28d6b962ca6b343d",
+      "source_title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
+      "publisher": "Associated Press",
+      "published_at": "2026-09-07T11:53:34Z",
+      "status": "quarantined",
+      "subject_response": "No subject response was reported in the checked article.",
+      "reason": "This is a current federal law-enforcement/criminal matter, but the checked reporting and the underlying 2024 DOJ case identify Lam as a private defendant and do not document a right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role. The current article is also retrospective reporting about an existing prosecution rather than a newly verified current-window charging action. It is retained for follow-up and is not promoted as a database event."
+    },
+    {
+      "lead": "A September 6 single-source article alleged that public defenders are challenging the authority of former Republican California Assemblymember Bill Essayli, a Trump administration federal prosecutor, in Southern California criminal cases.",
+      "source_url": "https://theamericanhabit.com/public-defenders-target-trump-federal-prosecutor-bill-essayli-in-socal/",
+      "source_title": "Public defenders target Trump federal prosecutor Bill Essayli in SoCal",
+      "publisher": "The American Habit",
+      "published_at": "2026-09-06",
+      "status": "quarantined",
+      "subject_response": "No direct response from Essayli or the Department of Justice was located in the checked report.",
+      "reason": "The subject has an explicitly documented qualifying political and administration role, but the report is a single, non-authoritative source and the alleged court challenges were not corroborated by a retrieved docket, judicial order, DOJ release, or two independent reputable reports in the current window. The procedural posture and any underlying claims remain unverified, so the lead is quarantined."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-06T18:44:26.9191909-07:00 through 2026-09-07T18:44:26.9191909-07:00 (2026-09-07T01:44:26.919Z through 2026-09-08T01:44:26.919Z); run_date is 2026-09-07 in America/Phoenix. Government, court, and news indexes generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The DOJ national and criminal press-release indexes and the FBI press-release index showed no new current-window person-specific matter meeting the explicit affiliation gate; the newest indexed releases were dated September 4. Ordinary criminal defendants were screened out when no qualifying affiliation was documented.",
+    "The Supreme Court filings dated September 6 concerned the Trump administration's mail-voting litigation. They were reviewed as policy litigation, not as a misconduct, ethics, criminal, or person-specific law-enforcement event, and no A04 event was emitted.",
+    "The current AP cryptocurrency report was screened as an existing prosecution and quarantined because no qualifying affiliation was documented. The current single-source Bill Essayli report was also quarantined pending authoritative docket or agency corroboration.",
+    "Federal judicial-conduct pages checked during the run showed latest publicly indexed orders before the lookback window, including September 1 in the Eleventh Circuit and August 27 in the First Circuit. No current-window person-specific ethics finding or disciplinary order was verified.",
+    "CourtListener/RECAP, selected district-court pages, DOJ OIG, DOJ OPR, U.S. Marshals, and Supreme Court indexes are incomplete or inconsistently machine-readable; sealed filings, blocked pages, delayed agency postings, and incomplete docket indexing are limitations, not evidence of absence. This is a scoped negative scan rather than proof of exhaustive absence."
+  ]
+}
