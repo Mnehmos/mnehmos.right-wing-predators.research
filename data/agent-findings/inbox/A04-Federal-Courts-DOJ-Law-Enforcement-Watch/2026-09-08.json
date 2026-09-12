@@ -1,0 +1,60 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-09-08",
+  "sources_checked": [
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opa/pr",
+    "https://www.justice.gov/usao/pressreleases?items_per_page=50",
+    "https://www.justice.gov/usao",
+    "https://www.justice.gov/criminal/press-releases",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://oig.justice.gov/reports",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://www.fbi.gov/news/press-releases",
+    "https://www.usmarshals.gov/news-release/press-release",
+    "https://dev.usmarshals.gov/news-release/press-release",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca1.uscourts.gov/2026",
+    "https://ww3.ca2.uscourts.gov/misconduct_orders.html",
+    "https://www.cafc.uscourts.gov/home/the-court/judges/judicial-conduct-and-disability/",
+    "https://www.supremecourt.gov/",
+    "https://www.courtlistener.com/recap/",
+    "https://www.dcd.uscourts.gov/",
+    "https://www.ord.uscourts.gov/index.php/ct-calendar/eventsbyday/2026/9/8/228%2C229%2C227%2C604",
+    "https://www.ilnd.uscourts.gov/dailycalendar.php",
+    "https://www.hid.uscourts.gov/calendars/judges/9",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.washingtonpost.com/",
+    "https://www.cbsnews.com/news/",
+    "https://www.law360.com/newsletters/archive/legalethics",
+    "https://fcpaprofessor.com/",
+    "https://law.justia.com/cases/federal/",
+    "https://www.federalhiringdata.com/articles/fbi-retaliation-policy-discipline-code-gaps-2026"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "A September 7 FCPA Professor report said Judge Nicholas Garaufis again denied without prejudice the DOJ's request to dismiss FCPA and obstruction charges against five remaining defendants in United States v. Adani.",
+      "source_url": "https://fcpaprofessor.com/judge-garaufis-again-denies-fcpa-and-a-related-charge/",
+      "source_title": "Judge Garaufis Again Denies DOJ Request To Dismiss FCPA (And A Related Charge)",
+      "publisher": "FCPA Professor",
+      "published_at": "2026-09-07",
+      "status": "quarantined",
+      "subject_response": "No subject response was reported in the checked article or corroborating search results.",
+      "reason": "The report concerns a federal court filing and DOJ Rule 48(a) motion, but the operative order was issued September 3, outside this 24-hour lookback. The named defendants are private businesspeople and do not have an explicitly documented right-wing, Republican, conservative, Trump-administration, or qualifying affiliated-organizational role. It is retained for continuity and not promoted as an A04 database event."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-07T03:02:24.9210430-07:00 through 2026-09-08T03:02:24.9210430-07:00 (2026-09-07T10:02:24.9210430Z through 2026-09-08T10:02:24.9210430Z); run_date is 2026-09-08 in America/Phoenix. Government, court, and news indexes generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The DOJ national, criminal, and USAO press-release indexes showed September 5 as the newest general USAO item and no current-window person-specific matter meeting the explicit affiliation gate. The September 5 Northern District of Texas Operation New Day release described an operation and unnamed cases, not a publishable person-specific event.",
+    "The FBI press-release index showed September 4 as its newest listed release, including the already reviewed Christian Castro indictment; the indictment was issued September 2 and the release was outside this lookback. No new current-window FBI subject action meeting the affiliation gate was verified.",
+    "The U.S. Marshals Service news index exposed September 4-5 items, but the listed fugitive arrests and operational releases did not document a qualifying political or affiliated-organizational role for a subject. No current-window A04 event was identified.",
+    "DOJ OIG and OPR indexes showed no newly posted, named, current-window finding meeting the gate. The September 1 DOJ OIG FBI-retaliation policy memorandum and the April 21 OPR summaries are institutional or outside-window materials; they do not establish a current named-person event for this scan.",
+    "Federal judicial-conduct pages for the U.S. Courts, First Circuit, Second Circuit, and Federal Circuit showed no current-window person-specific final misconduct order. The accessible First Circuit page's latest listed order was August 27; the Federal Circuit page's latest listed order was from 2021.",
+    "Supreme Court, selected district-court calendars, CourtListener/RECAP, and current court-reporting searches were checked for arrests, charges, indictments, convictions, sentencing, civil filings, judicial misconduct, ethics complaints, retaliation, obstruction, and cover-ups. Current policy litigation and the Adani matter were screened out under the window and affiliation rules.",
+    "Labor Day reduced normal federal publication volume, and some DOJ, FBI, Marshals, court, Reuters, subscription-news, and docket pages were stale, blocked, sealed, or inconsistently machine-readable. Blocked or stale sources are coverage gaps, not evidence of absence; this is a scoped negative scan rather than proof of exhaustive absence."
+  ]
+}

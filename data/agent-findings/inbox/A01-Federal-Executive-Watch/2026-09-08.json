@@ -1,0 +1,58 @@
+{
+  "agent": "A01-Federal-Executive-Watch",
+  "run_date": "2026-09-08",
+  "sources_checked": [
+    "https://www.whitehouse.gov/news/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+    "https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-09-07&conditions%5Bpublication_date%5D%5Blte%5D=2026-09-08",
+    "https://www.oge.gov/",
+    "https://www.oversight.gov/",
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://oig.justice.gov/sites/default/files/2026-09/9-1-2026.pdf",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.secretservice.gov/newsroom",
+    "https://www.dhs.gov/news",
+    "https://www.uscis.gov/newsroom",
+    "https://www.opm.gov/news/news-releases/",
+    "https://www.state.gov/briefings/",
+    "https://www.defense.gov/News/Releases/",
+    "https://www.hhs.gov/press-room/index.html",
+    "https://home.treasury.gov/news/press-releases",
+    "https://www.cftc.gov/PressRoom/PressReleases",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.oig.dol.gov/oifindings.htm",
+    "https://oig.dol.gov/public/oifindings/50-26-004-01-001.pdf",
+    "https://apnews.com/",
+    "https://www.reuters.com/",
+    "https://www.washingtonpost.com/",
+    "https://www.cbsnews.com/news/",
+    "https://www.federalhiringdata.com/articles/fbi-retaliation-policy-discipline-code-gaps-2026"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "FederalHiringData reported on September 7 that a DOJ OIG memorandum identified inconsistencies between the FBI's non-retaliation policy and retaliation offense code, including differences in covered worker groups, protected reporting, and prohibited conduct.",
+      "source_url": "https://www.federalhiringdata.com/articles/fbi-retaliation-policy-discipline-code-gaps-2026",
+      "source_title": "FBI Policy Protects Five Worker Groups From Retaliation. But Its Main Discipline Rule Mentions Only Employees",
+      "publisher": "FederalHiringData",
+      "published_at": "2026-09-07T18:16:00Z",
+      "status": "quarantined",
+      "subject_response": "The article reported that the FBI said statutes, agreements, internal interpretations, and other offense codes may cover some people and conduct not expressly listed in Offense Code 5.16; the FBI did not object to clarification and intended changes.",
+      "reason": "The current-window article concerns an institutional policy ambiguity and summarizes a September 1 DOJ OIG memorandum; it does not name a subject person, establish a current individual misconduct finding, or document a qualifying political or affiliated-organizational role for an individual. The underlying official memorandum was published outside this run's 24-hour window, so the lead is retained for follow-up rather than promoted."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-07T00:01:47-07:00 through 2026-09-08T00:01:47-07:00; run_date is 2026-09-08 in America/Phoenix. Agency, court, and news indexes generally expose publication dates rather than reliable exact release times.",
+    "White House, Federal Register, OGE, Oversight.gov, DOJ national and OPR indexes, DOJ OIG, FBI, Secret Service, DHS, USCIS, OPM, State, Defense, HHS, Treasury, CFTC, Labor OIG, and federal-court conduct indexes exposed no additional current-window person-specific federal-executive misconduct event meeting the explicit affiliation gate.",
+    "The DOJ OIG September 1 memorandum on FBI retaliation-policy inconsistencies was reviewed through the official report and current reporting; it is institutional and not a named-person event. The current-window FederalHiringData article was therefore quarantined.",
+    "The DOL OIG report concerning former Labor Secretary Lori Chavez-DeRemer was officially posted September 3 and reported by national outlets September 4, outside this run's lookback window. It was reviewed for continuity but not counted as a September 7-8 event; the subject's prior response and the report's allegations remain preserved in the source record.",
+    "Current federal criminal and court matters found in parallel coverage, including the cryptocurrency prosecution and the Bill Essayli report, were already owned or quarantined by A04 and were not duplicated in A01. Ordinary defendants and policy litigation were excluded without a documented qualifying affiliation.",
+    "Labor Day reduced normal federal publication volume, and some agency, court, Reuters, subscription-news, and social-media pages were unavailable or not reliably date-filterable through the web interface. Blocked or stale sources are coverage gaps, not evidence of absence; this is a scoped negative scan rather than proof of exhaustive absence."
+  ]
+}

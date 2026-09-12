@@ -1,0 +1,73 @@
+{
+  "agent": "A04-Federal-Courts-DOJ-Law-Enforcement-Watch",
+  "run_date": "2026-09-12",
+  "sources_checked": [
+    "https://www.justice.gov/news",
+    "https://www.justice.gov/news/press-releases",
+    "https://www.justice.gov/usao",
+    "https://www.justice.gov/usao/pressreleases?items_per_page=50",
+    "https://www.justice.gov/usao-wdtx/pr/western-district-texas-us-attorneys-office-reaches-500-new-immigration-cases-through",
+    "https://www.justice.gov/usao-edpa/pr/new-jersey-woman-who-defrauded-pandemic-relief-program-more-half-million-dollars",
+    "https://www.justice.gov/usao-edwa/pr/aaron-farinacci-federally-indicted-arson",
+    "https://www.justice.gov/usao-sdny/pr",
+    "https://www.justice.gov/usao-sdny/pr/registered-sex-offender-charged-sexual-exploitations-children-and-receipt-and",
+    "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
+    "https://www.fbi.gov/news/press-releases/",
+    "https://www.usmarshals.gov/news",
+    "https://oig.justice.gov/reports/type/investigation",
+    "https://oig.justice.gov/news/recent",
+    "https://www.justice.gov/opr/investigative-summaries",
+    "https://www.justice.gov/opr/professional-misconduct",
+    "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/judicial-conduct-and-disability-orders",
+    "https://www.ca1.uscourts.gov/2026",
+    "https://www.ca5.uscourts.gov/judicial-conduct-matters",
+    "https://www.ce9.uscourts.gov/misconduct/orders/",
+    "https://www.ca11.uscourts.gov/judicial_conduct_disability",
+    "https://www.cafc.uscourts.gov/home/the-court/judges/judicial-conduct-and-disability/",
+    "https://www.supremecourt.gov/",
+    "https://www.courtlistener.com/recap/",
+    "https://www.dcd.uscourts.gov/",
+    "https://www.ord.uscourts.gov/index.php/ct-calendar/eventsbyweek/2026/9/7/228?pop=1&print=1&tmpl=component",
+    "https://apnews.com/article/54db940f84a0e89c61ba53a2eed43a25",
+    "https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c",
+    "https://www.reuters.com/world/us/",
+    "https://www.washingtonpost.com/politics/courts-law/",
+    "https://www.cbsnews.com/news/",
+    "https://www.courthousenews.com/category/criminal/",
+    "https://www.law360.com/legalethics"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Associated Press reported that the Justice Department pursued felony-assault charges against 102 protesters in four cities during the Trump administration's federal law-enforcement crackdown, but most cases ended in acquittal, mistrial, or dismissal; the report described questions about rushed investigations and aggressive charging tactics.",
+      "source_url": "https://apnews.com/article/54db940f84a0e89c61ba53a2eed43a25",
+      "source_title": "DOJ went after protesters for felony assault, but juries, judges were unconvinced, AP analysis finds",
+      "publisher": "Associated Press",
+      "published_at": "2026-09-12T12:00:21Z",
+      "status": "quarantined",
+      "subject_response": "The Justice Department said prosecutors must appropriately inform courts about mitigating factors and in some cases downgrade or drop charges.",
+      "reason": "The report is current and identifies the Trump-administration context, but it is a broad single-source analysis without a named individual subject, person-specific finding, or independently verified current disciplinary action. The allegations about charging practices remain organizational and are not emitted as a person event."
+    },
+    {
+      "lead": "The Western District of Texas U.S. Attorney's Office reported that federal prosecutors filed 500 immigration and immigration-related criminal cases from August 28 through September 10 as part of Operation Take Back America, a DOJ initiative described in Trump-administration terms.",
+      "source_url": "https://www.justice.gov/usao-wdtx/pr/western-district-texas-us-attorneys-office-reaches-500-new-immigration-cases-through",
+      "source_title": "Western District of Texas U.S. Attorney's Office Reaches 500 New Immigration Cases Through First 2 Weeks of September",
+      "publisher": "U.S. Attorney's Office, Western District of Texas, U.S. Department of Justice",
+      "published_at": "2026-09-11",
+      "status": "quarantined",
+      "subject_response": "The release was issued by U.S. Attorney Justin R. Simmons and states that indictments and criminal complaints are allegations; no individual defendant response was provided.",
+      "reason": "This is an official current organizational report, but it does not identify a qualifying individual accused of misconduct. The Trump-administration and Operation Take Back America references describe DOJ policy and prosecution context, not a person's political affiliation or misconduct finding."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-11T17:18:32.6893098Z through 2026-09-12T17:18:32.6893098Z; run_date is 2026-09-12 in America/Phoenix. Government, court, and news pages generally expose publication or filing dates rather than reliable exact timestamps.",
+    "The DOJ national, Office of Public Affairs, and U.S. Attorney indexes exposed September 11 criminal, civil, immigration, and policy materials. Current named defendants and officials were screened for the required explicit Republican, conservative, right-wing, Trump-administration, or qualifying organizational affiliation; no person-specific A04 event met the publication threshold.",
+    "The FBI press-release index showed September 9 as its newest indexed law-enforcement material during the check. Current matters involving ordinary criminal defendants, including sex-offense, fraud, firearms, and violent-crime cases, lacked qualifying affiliation and were excluded without inference.",
+    "The AP analysis concerning 102 protester prosecutions is current and relevant to DOJ charging conduct, but it is a systemic account without a named subject or independent official misconduct finding. The DOJ response was preserved in the quarantined lead.",
+    "Judicial-conduct pages for the First, Fifth, Ninth, Eleventh, and Federal Circuits and the national judiciary index showed latest publicly indexed orders before the lookback window or no current person-specific order. No current ethics finding or disciplinary order involving a qualifying judge was verified.",
+    "Supreme Court, selected district-court calendars, CourtListener/RECAP, DOJ OIG, DOJ OPR, and U.S. Marshals sources were checked for current filings, investigations, misconduct findings, and enforcement actions. Labor Day and weekend court schedules limited publicly posted activity.",
+    "PACER and sealed or restricted filings are not broadly machine-readable; delayed agency postings, blocked pages, local docket updates, and incomplete RECAP indexing remain limitations, not evidence of absence.",
+    "This is a scoped negative scan and does not prove that no unindexed, sealed, delayed, or timestamp-ambiguous federal matter exists."
+  ]
+}

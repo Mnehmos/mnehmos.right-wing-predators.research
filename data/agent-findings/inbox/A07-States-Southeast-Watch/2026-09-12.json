@@ -1,0 +1,71 @@
+{
+  "agent": "A07-States-Southeast-Watch",
+  "run_date": "2026-09-12",
+  "sources_checked": [
+    "https://www.dac.nc.gov/news/press-releases/2026/09/11/suicide-suspected-death-granville-correctional-institution",
+    "https://www.ncdps.gov/news/press-release",
+    "https://www.wral.com/news/local/wake-da-investigates-whether-officers-broke-the-law-during-raleigh-bar-incident-sept-10-2026/",
+    "https://www.sccourts.org/media/1gubgqjh/cjc2026.pdf",
+    "https://www.sled.sc.gov/about/updates/sled-charges-former-north-charleston-police-officer-misconduct-office-and-failure-report-child-abuse",
+    "https://sccja.sc.gov/misconduct/",
+    "https://law.georgia.gov/press-releases",
+    "https://gbi.georgia.gov/press-releases",
+    "https://sos.ga.gov/licensing-division-georgia-secretary-states-office",
+    "https://www.fdle.state.fl.us/news/2026/clone-september/fdle-arrests-dade-city-man-for-possession-of-child-sexual-abuse-materials",
+    "https://www.fdle.state.fl.us/",
+    "https://www.flgov.com/eog/news",
+    "https://www.myfloridalegal.com/news-releases",
+    "https://floridaethics.gov/",
+    "https://ethics.state.fl.us/Research/Orders.aspx",
+    "https://www.tampabay.com/news/florida-politics/2026/09/10/broward-statewide-prosecution-uthmeier-subpoenas-investigation-sheriff-airport/",
+    "https://floridapolitics.com/archives/819458-florida-center-for-government-accountability-is-still-fighting-over-hope-florida-records/",
+    "https://apnews.com/article/desantis-foundation-hope-florida-grand-jury-48cb3910a1492836368c1c170f99f167",
+    "https://www.alabamaag.gov/news/",
+    "https://www.alea.gov/",
+    "https://ethics.alabama.gov/news_detail.aspx?ID=12193",
+    "https://governor.alabama.gov/newsroom/2026/09/governor-ivey-marks-25th-anniversary-of-september-11-calls-on-alabamians-to-never-forget/",
+    "https://www.ago.state.ms.us/news/",
+    "https://www.dps.ms.gov/news",
+    "https://www.ethics.ms.gov/",
+    "https://www.ag.state.la.us/Article/594",
+    "https://www.ethics.la.gov/",
+    "https://lsp.org/community-outreach/news/",
+    "https://doc.la.gov/public-programs-resources/public-information/press-releases/",
+    "https://arkansasag.gov/news-alerts/news-releases/",
+    "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/",
+    "https://www.arkansasethics.com/",
+    "https://apnews.com/",
+    "https://www.reuters.com/world/us/"
+  ],
+  "events": [],
+  "quarantined_leads": [
+    {
+      "lead": "The Florida Center for Government Accountability reportedly filed a Leon County Circuit Court motion asking why orders in the Hope Florida grand-jury matter remain sealed.",
+      "source_url": "https://floridapolitics.com/archives/819458-florida-center-for-government-accountability-is-still-fighting-over-hope-florida-records/",
+      "source_title": "Florida Center for Government Accountability is still fighting over Hope Florida records",
+      "publisher": "Florida Politics",
+      "published_at": "2026-09-11",
+      "status": "quarantined",
+      "subject_response": "No response from Ron DeSantis or James Uthmeier to this specific access motion was reported. In related reporting, DeSantis said no laws were broken and Uthmeier called renewed scrutiny politically motivated; the grand jury report itself did not charge anyone criminally.",
+      "reason": "The report concerns a procedural access challenge, not a new charge, finding, discipline, or official action directed at a named subject. Ron DeSantis and James Uthmeier have explicit Republican roles, but the exact filing time was not exposed and the current report does not establish new misconduct by either person. Retain for follow-up without publication; the underlying Hope Florida grand-jury report is already represented in the ledger and is not duplicated."
+    },
+    {
+      "lead": "Wake County prosecutors and the Wake County Sheriff's Office are investigating whether plainclothes officers from the Wake County Alcoholic Beverage Control law-enforcement unit and Sheriff's Office used unlawful force while detaining two patrons at a Raleigh bar.",
+      "source_url": "https://www.wral.com/news/local/wake-da-investigates-whether-officers-broke-the-law-during-raleigh-bar-incident-sept-10-2026/",
+      "source_title": "Wake DA investigates whether officers broke the law during Raleigh bar incident",
+      "publisher": "WRAL",
+      "published_at": "2026-09-11T01:05:56-04:00",
+      "status": "quarantined",
+      "subject_response": "Wake County ABC Law Enforcement Chief Scott Broadwell said the force was absolutely justified, while bar employees disputed parts of the officers' account. Wake DA Lorrin Freeman said investigators would not prejudge the matter; no criminal determination had been made.",
+      "reason": "WRAL documents an active criminal review and separate internal investigation, but the individual officers are not identified and no Republican, conservative, right-wing, or qualifying affiliated-organizational role is documented. The force and possible assault remain unresolved allegations. Retain as a lead rather than emit an A07 event under the explicit-affiliation gate."
+    }
+  ],
+  "handoffs": [],
+  "coverage_gaps": [
+    "Lookback window: 2026-09-11T10:18:36-07:00 through 2026-09-12T10:18:36-07:00. Sources that exposed only a calendar date without a reliable publication or filing time were treated cautiously at the boundary.",
+    "No current-window event met both the misconduct/event criteria and the explicit Republican, conservative, right-wing, or qualifying affiliated-organizational role requirement. Routine releases, private-person arrests, corrections incidents without a qualifying subject, and agency pages without a relevant disciplinary action were not emitted.",
+    "North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Arkansas attorney-general, law-enforcement, corrections, ethics, court, licensing, agency, governor, and reputable-news indexes were checked. Dynamic, date-limited, paywalled, blocked, or incomplete indexes are coverage limitations, not evidence of absence.",
+    "The Florida Hope Florida grand-jury findings and related named Republican officials were checked against the central ledger; the August event was not duplicated. The September 11 records-access filing was quarantined because it does not itself establish a new subject-directed finding or charge.",
+    "Central merge/publication was not run."
+  ]
+}
